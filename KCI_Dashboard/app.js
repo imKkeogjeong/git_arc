@@ -410,13 +410,17 @@ function renderTopicStreamgraph(data, palette) {
         .y1(d => y(d[1]))
         .curve(d3.curveBasis);
 
-    svg.append("g")
+    const paths = svg.append("g")
         .selectAll("path")
         .data(layers)
         .join("path")
+        .attr("class", (d, i) => `stream-path stream-${i}`)
         .attr("d", area)
         .attr("fill", (d, i) => palette[i % palette.length])
-        .append("title")
+        .attr("opacity", 0.8)
+        .style("transition", "opacity 0.2s ease");
+
+    paths.append("title")
         .text((d, i) => topics[i]);
 
     // Add Year labels
@@ -424,6 +428,37 @@ function renderTopicStreamgraph(data, palette) {
         .attr("transform", `translate(0,${height - 30})`)
         .call(d3.axisBottom(x).ticks(years.length).tickFormat(d3.format("d")))
         .attr("color", "#71717a");
+
+    // Add Legend (Index)
+    const legend = svg.append("g")
+        .attr("transform", `translate(40, 20)`);
+
+    topics.forEach((topic, i) => {
+        const lg = legend.append("g")
+            .attr("class", "legend-item")
+            .attr("transform", `translate(${i * (width/topics.length - 10)}, 0)`)
+            .style("cursor", "pointer")
+            .on("mouseover", () => {
+                d3.selectAll(".stream-path").attr("opacity", 0.2);
+                d3.select(`.stream-${i}`).attr("opacity", 1);
+            })
+            .on("mouseout", () => {
+                d3.selectAll(".stream-path").attr("opacity", 0.8);
+            });
+        
+        lg.append("rect")
+            .attr("width", 12)
+            .attr("height", 12)
+            .attr("rx", 2)
+            .attr("fill", palette[i % palette.length]);
+
+        lg.append("text")
+            .attr("x", 18)
+            .attr("y", 10)
+            .attr("fill", "#fafafa")
+            .style("font-size", "11px")
+            .text(topic);
+    });
 }
 
 // 7. Citation Mapping (Author-Journal Network)
