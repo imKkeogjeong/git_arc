@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KCI 철학 논문 메타데이터 분석 대시보드</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+    <header>
+        <h1>KCI Philosophy Thesis Dashboard</h1>
+        <p class="subtitle">철학 학위 논문 서론 작성을 위한 거시적 학문 지형도. 무질서한 시각적 노이즈를 배제한 프리미엄 데이터 인사이트.</p>
+    </header>
+
+    <div class="dashboard-grid">
+        <!-- Module 1: Timeline of Discourse -->
+        <div class="card">
+            <div class="card-header">
+                <div class="card-title">연도별 담론의 흐름 (Timeline of Discourse)</div>
+                <div class="card-desc">발행년 기준 논문 발행 건수 추이</div>
+            </div>
+            <div class="card-body">
+                <canvas id="timelineChart"></canvas>
+            </div>
+        </div>
+
+        <!-- Module 2: Disciplinary Landscape -->
+        <div class="card">
+            <div class="card-header">
+                <div class="card-title">학문적 지형도 (Disciplinary Landscape)</div>
+                <div class="card-desc">5대 계열별 논문 분포 비율</div>
+            </div>
+            <div class="card-body">
+                <canvas id="landscapeChart"></canvas>
+            </div>
+        </div>
+
+        <!-- Module 3: Keyword Network -->
+        <div class="card">
+            <div class="card-header">
+                <div class="card-title">핵심 개념망 (Keyword Network)</div>
+                <div class="card-desc">키워드 빈도별 하강 곡선 (영문 제외)</div>
+            </div>
+            <div class="card-body">
+                <canvas id="keywordChart"></canvas>
+            </div>
+        </div>
+
+        <!-- Module 4: Impact Milestones -->
+        <div class="card">
+            <div class="card-header">
+                <div class="card-title">주요 논의의 기준점 (Impact Milestones)</div>
+                <div class="card-desc">피인용횟수 Top 10 시그니처 논문 (시간편향 보정용 발행년 포함)</div>
+            </div>
+            <div class="card-body">
+                <div class="table-container">
+                    <table id="impactTable">
+                        <thead>
+                            <tr>
+                                <th>발행년</th>
+                                <th>논문명</th>
+                                <th>저자</th>
+                                <th>학술지</th>
+                                <th class="citations-col">인용수</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Populated by JS -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <!-- Module 5: Co-occurrence Network -->
+        <div class="card network-card">
+            <div class="card-header">
+                <div class="card-title">키워드 동시출현 네트워크 (Co-occurrence Network)</div>
+                <div class="card-desc">개념 간 상관관계 시각화 (Force Atlas 2 Style)</div>
+            </div>
+            <div class="card-body" id="networkContainer">
+                <!-- D3.js Graph -->
+            </div>
+        </div>
+
+        <!-- Module 6: Topic Streamgraph -->
+        <div class="card wide-card">
+            <div class="card-header">
+                <div class="card-title">시기별 주제 흐름 (Topic Modeling Streamgraph)</div>
+                <div class="card-desc">LDA 기반 주요 담론의 시계열적 변화</div>
+            </div>
+            <div class="card-body" id="streamContainer">
+                <!-- D3.js Streamgraph -->
+            </div>
+        </div>
+
+        <!-- Module 7: Research Network Mapping -->
+        <div class="card">
+            <div class="card-header">
+                <div class="card-title">연구자 및 학문 공동체 맵핑 (Citation Mapping)</div>
+                <div class="card-desc">저자-학술지-담론 간의 네트워크 지형</div>
+            </div>
+            <div class="card-body" id="citationContainer">
+                <!-- D3.js Graph -->
+            </div>
+        </div>
+    </div>
+
+    <!-- External Libraries -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+
+    <!-- Data source injected statically as JS to avoid CORS file:// issues -->
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
