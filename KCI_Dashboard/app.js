@@ -30,6 +30,11 @@ document.addEventListener('DOMContentLoaded', () => {
         renderKeywords(data, color1, color4);
         renderImpactTable(data);
         
+        // Advanced Modules
+        renderCoOccurrenceNetwork(data, palette);
+        renderTopicStreamgraph(data, palette);
+        renderCitationMap(data, palette);
+        
     } catch (err) {
         console.error("Dashboard Initialization Error:", err);
     }
@@ -229,5 +234,240 @@ function renderImpactTable(data) {
             <td class="td-citations">${d.citations}</td>
         `;
         tbody.appendChild(tr);
+    });
+}
+
+// 5. Co-occurrence Network (D3 Force Directed Graph)
+function renderCoOccurrenceNetwork(data, palette) {
+    const container = d3.select("#networkContainer");
+    const width = container.node().getBoundingClientRect().width;
+    const height = 400;
+
+    const links = [];
+    const nodes = {};
+
+    // Generate co-occurrence links
+    data.forEach(d => {
+        if (d.keywords && d.keywords.length > 1) {
+            const kws = d.keywords.filter(k => k.trim() && !k.trim().startsWith("<"));
+            for (let i = 0; i < kws.length; i++) {
+                for (let j = i + 1; j < kws.length; j++) {
+                    const source = kws[i];
+                    const target = kws[j];
+                    const link = links.find(l => (l.source === source && l.target === target) || (l.source === target && l.target === source));
+                    if (link) {
+                        link.value++;
+                    } else {
+                        links.push({ source, target, value: 1 });
+                    }
+                }
+            }
+        }
+    });
+
+    // Filter top links to avoid clutter
+    const topLinks = links.sort((a,b) => b.value - a.value).slice(0, 80);
+    topLinks.forEach(l => {
+        nodes[l.source] = { id: l.source };
+        nodes[l.target] = { id: l.target };
+    });
+
+    const nodeArray = Object.values(nodes);
+
+    const svg = container.append("svg").attr("viewBox", [0, 0, width, height]);
+
+    const simulation = d3.forceSimulation(nodeArray)
+        .force("link", d3.forceLink(topLinks).id(d => d.id).distance(50))
+        .force("charge", d3.forceManyBody().strength(-100))
+        .force("center", d3.forceCenter(width / 2, height / 2));
+
+    const link = svg.append("g")
+        .selectAll("line")
+        .data(topLinks)
+        .join("line")
+        .attr("class", "link")
+        .attr("stroke-width", d => Math.sqrt(d.value) + 1);
+
+    const node = svg.append("g")
+        .selectAll("circle")
+        .data(nodeArray)
+        .join("circle")
+        .attr("class", "node")
+        .attr("r", 6)
+        .attr("fill", (d, i) => palette[i % palette.length])
+        .call(drag(simulation));
+
+    node.append("title").text(d => d.id);
+
+    const label = svg.append("g")
+        .selectAll("text")
+        .data(nodeArray)
+        .join("text")
+        .attr("class", "label")
+        .attr("dx", 8)
+        .attr("dy", ".35em")
+        .text(d => d.id);
+
+    simulation.on("tick", () => {
+        link.attr("x1", d => d.source.x)
+            .attr("y1", d => d.source.y)
+            .attr("x2", d => d.target.x)
+            .attr("y2", d => d.target.y);
+
+        node.attr("cx", d => d.x)
+            .attr("cy", d => d.y);
+
+        label.attr("x", d => d.x)
+             .attr("y", d => d.y);
+    });
+
+    function drag(simulation) {
+        function started(event) {
+            if (!event.active) simulation.alphaTarget(0.3).restart();
+            event.subject.fx = event.subject.x;
+            event.subject.fy = event.subject.y;
+        }
+        function dragged(event) {
+            event.subject.fx = event.x;
+            event.subject.fy = event.y;
+        }
+        function ended(event) {
+            if (!event.active) simulation.alphaTarget(0);
+            event.subject.fx = null;
+            event.subject.fy = null;
+        }
+        return d3.drag().on("start", started).on("drag", dragged).on("end", ended);
+    }
+}
+
+// 6. Topic Streamgraph (Simulated LDA Trends)
+function renderTopicStreamgraph(data, palette) {
+    const container = d3.select("#streamContainer");
+    const width = container.node().getBoundingClientRect().width;
+    const height = 350;
+
+    // Define topics based on keyword clusters
+    const topics = ["개체화/생성", "기술철학/기계", "예술/미디어", "윤리/사회", "존재론/형이상학"];
+    
+    // Aggregate by year and simulated topic affinity
+    const years = [...new Set(data.map(d => d.year))].sort();
+    const streamData = years.map(year => {
+        const entry = { year: year };
+        topics.forEach(t => entry[t] = 0);
+        
+        data.filter(d => d.year === year).forEach(d => {
+            const kws = (d.keywords || []).join(" ");
+            if (kws.includes("개체") || kws.includes("생성")) entry["개체화/생성"]++;
+            else if (kws.includes("기술") || kws.includes("기계")) entry["기술철학/기계"]++;
+            else if (kws.includes("예술") || kws.includes("미술")) entry["예술/미디어"]++;
+            else if (kws.includes("윤리") || kws.includes("사회")) entry["윤리/사회"]++;
+            else entry["존재론/형이상학"]++;
+        });
+        return entry;
+    });
+
+    const stack = d3.stack().keys(topics).offset(d3.stackOffsetWiggle);
+    const layers = stack(streamData);
+
+    const svg = container.append("svg").attr("viewBox", [0, 0, width, height]);
+
+    const x = d3.scaleLinear()
+        .domain(d3.extent(years))
+        .range([40, width - 40]);
+
+    const y = d3.scaleLinear()
+        .domain([d3.min(layers, l => d3.min(l, d => d[0])), d3.max(layers, l => d3.max(l, d => d[1]))])
+        .range([height - 40, 40]);
+
+    const area = d3.area()
+        .x(d => x(d.data.year))
+        .y0(d => y(d[0]))
+        .y1(d => y(d[1]))
+        .curve(d3.curveBasis);
+
+    svg.append("g")
+        .selectAll("path")
+        .data(layers)
+        .join("path")
+        .attr("d", area)
+        .attr("fill", (d, i) => palette[i % palette.length])
+        .append("title")
+        .text((d, i) => topics[i]);
+
+    // Add Year labels
+    svg.append("g")
+        .attr("transform", `translate(0,${height - 30})`)
+        .call(d3.axisBottom(x).ticks(years.length).tickFormat(d3.format("d")))
+        .attr("color", "#71717a");
+}
+
+// 7. Citation Mapping (Author-Journal Network)
+function renderCitationMap(data, palette) {
+    const container = d3.select("#citationContainer");
+    const width = container.node().getBoundingClientRect().width;
+    const height = 400;
+
+    const links = [];
+    const nodes = {};
+
+    data.forEach(d => {
+        if (d.author && d.journal) {
+            const author = d.author.split('(')[0];
+            const journal = d.journal;
+            
+            nodes[author] = { id: author, type: 'author' };
+            nodes[journal] = { id: journal, type: 'journal' };
+            
+            links.push({ source: author, target: journal });
+        }
+    });
+
+    const nodeArray = Object.values(nodes);
+    const svg = container.append("svg").attr("viewBox", [0, 0, width, height]);
+
+    const simulation = d3.forceSimulation(nodeArray)
+        .force("link", d3.forceLink(links).id(d => d.id).distance(80))
+        .force("charge", d3.forceManyBody().strength(-50))
+        .force("center", d3.forceCenter(width / 2, height / 2));
+
+    const link = svg.append("g")
+        .selectAll("line")
+        .data(links)
+        .join("line")
+        .attr("class", "link");
+
+    const node = svg.append("g")
+        .selectAll("circle")
+        .data(nodeArray)
+        .join("circle")
+        .attr("class", "node")
+        .attr("r", d => d.type === 'journal' ? 8 : 4)
+        .attr("fill", d => d.type === 'journal' ? palette[1] : palette[3])
+        .call(d3.drag()
+            .on("start", (event) => {
+                if (!event.active) simulation.alphaTarget(0.3).restart();
+                event.subject.fx = event.subject.x;
+                event.subject.fy = event.subject.y;
+            })
+            .on("drag", (event) => {
+                event.subject.fx = event.x;
+                event.subject.fy = event.y;
+            })
+            .on("end", (event) => {
+                if (!event.active) simulation.alphaTarget(0);
+                event.subject.fx = null;
+                event.subject.fy = null;
+            }));
+
+    node.append("title").text(d => d.id);
+
+    simulation.on("tick", () => {
+        link.attr("x1", d => d.source.x)
+            .attr("y1", d => d.source.y)
+            .attr("x2", d => d.target.x)
+            .attr("y2", d => d.target.y);
+
+        node.attr("cx", d => d.x)
+            .attr("cy", d => d.y);
     });
 }

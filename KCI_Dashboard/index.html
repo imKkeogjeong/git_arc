@@ -74,7 +74,43 @@
                 </div>
             </div>
         </div>
+
+        <!-- Module 5: Co-occurrence Network -->
+        <div class="card network-card">
+            <div class="card-header">
+                <div class="card-title">키워드 동시출현 네트워크 (Co-occurrence Network)</div>
+                <div class="card-desc">개념 간 상관관계 시각화 (Force Atlas 2 Style)</div>
+            </div>
+            <div class="card-body" id="networkContainer">
+                <!-- D3.js Graph -->
+            </div>
+        </div>
+
+        <!-- Module 6: Topic Streamgraph -->
+        <div class="card wide-card">
+            <div class="card-header">
+                <div class="card-title">시기별 주제 흐름 (Topic Modeling Streamgraph)</div>
+                <div class="card-desc">LDA 기반 주요 담론의 시계열적 변화</div>
+            </div>
+            <div class="card-body" id="streamContainer">
+                <!-- D3.js Streamgraph -->
+            </div>
+        </div>
+
+        <!-- Module 7: Research Network Mapping -->
+        <div class="card">
+            <div class="card-header">
+                <div class="card-title">연구자 및 학문 공동체 맵핑 (Citation Mapping)</div>
+                <div class="card-desc">저자-학술지-담론 간의 네트워크 지형</div>
+            </div>
+            <div class="card-body" id="citationContainer">
+                <!-- D3.js Graph -->
+            </div>
+        </div>
     </div>
+
+    <!-- External Libraries -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
 
     <!-- Data source injected statically as JS to avoid CORS file:// issues -->
     <script src="data.js"></script>

@@ -63,6 +63,10 @@ h1 {
   flex: 1;
 }
 
+.wide-card {
+  grid-column: span 2;
+}
+
 .card {
   background-color: var(--bg-card);
   border: 1px solid var(--border);
@@ -155,3 +159,14 @@ tbody tr:hover td { background-color: rgba(255, 255, 255, 0.02); }
 .td-author { color: var(--text-secondary); }
 .td-citations { font-family: 'Outfit', sans-serif; font-weight: 600; color: var(--text-primary); text-align: right; }
 th.citations-col { text-align: right; }
+
+/* Network & Graph Styles */
+.node { cursor: pointer; stroke: var(--bg-card); stroke-width: 1.5px; }
+.link { stroke: var(--border); stroke-opacity: 0.6; }
+.label { font-size: 10px; fill: var(--text-secondary); pointer-events: none; font-family: 'Inter', sans-serif; }
+
+#networkContainer svg, #streamContainer svg, #citationContainer svg {
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+}
