@@ -268,21 +268,40 @@ function renderCoOccurrenceNetwork(data, palette) {
     // Filter top links to avoid clutter
     const topLinks = links.sort((a,b) => b.value - a.value).slice(0, 80);
     topLinks.forEach(l => {
-        nodes[l.source] = { id: l.source };
-        nodes[l.target] = { id: l.target };
+        if (!nodes[l.source]) nodes[l.source] = { id: l.source, degree: 0, group: l.source };
+        if (!nodes[l.target]) nodes[l.target] = { id: l.target, degree: 0, group: l.target };
+        nodes[l.source].degree += l.value;
+        nodes[l.target].degree += l.value;
     });
 
     const nodeArray = Object.values(nodes);
 
+    // Basic Community Detection (Label Propagation)
+    for (let i = 0; i < 5; i++) { // 5 iterations for convergence
+        nodeArray.forEach(n => {
+            const neighbors = topLinks.filter(l => l.source.id === n.id || l.target.id === n.id);
+            const neighborGroups = neighbors.map(l => l.source.id === n.id ? nodes[l.target.id].group : nodes[l.source.id].group);
+            if (neighborGroups.length > 0) {
+                // Pick most frequent group among neighbors
+                const counts = {};
+                neighborGroups.forEach(g => counts[g] = (counts[g] || 0) + 1);
+                n.group = Object.keys(counts).reduce((a, b) => counts[a] > counts[b] ? a : b);
+            }
+        });
+    }
+
     const svg = container.append("svg").attr("viewBox", [0, 0, width, height]);
+
+    // Color scale for Communities (Modularity)
+    const communityColorScale = d3.scaleOrdinal(d3.schemeTableau10);
 
     // Color scale for "Hot/Cold" links
     const linkColorScale = d3.scaleSequential(d3.interpolateInferno) 
         .domain([0, d3.max(topLinks, d => d.value)]);
 
     const simulation = d3.forceSimulation(nodeArray)
-        .force("link", d3.forceLink(topLinks).id(d => d.id).distance(70))
-        .force("charge", d3.forceManyBody().strength(-150))
+        .force("link", d3.forceLink(topLinks).id(d => d.id).distance(80))
+        .force("charge", d3.forceManyBody().strength(-200))
         .force("center", d3.forceCenter(width / 2, height / 2));
 
     const link = svg.append("g")
@@ -291,26 +310,26 @@ function renderCoOccurrenceNetwork(data, palette) {
         .join("line")
         .attr("class", "link")
         .attr("stroke", d => linkColorScale(d.value))
-        .attr("stroke-opacity", 0.8)
-        .attr("stroke-width", d => Math.sqrt(d.value) * 1.5 + 1);
+        .attr("stroke-opacity", 0.4) // Reduced opacity for clarity
+        .attr("stroke-width", d => Math.sqrt(d.value) * 1.5 + 0.5);
 
     const node = svg.append("g")
         .selectAll("circle")
         .data(nodeArray)
         .join("circle")
         .attr("class", "node")
-        .attr("r", 6)
-        .attr("fill", (d, i) => palette[i % palette.length])
+        .attr("r", d => Math.sqrt(d.degree) * 2 + 4) // Degree-based sizing
+        .attr("fill", d => communityColorScale(d.group))
         .call(drag(simulation));
 
     node.append("title").text(d => d.id);
 
     const label = svg.append("g")
         .selectAll("text")
-        .data(nodeArray)
+        .data(nodeArray.filter(d => d.degree > 2)) // Only show labels for core nodes
         .join("text")
         .attr("class", "label")
-        .attr("dx", 8)
+        .attr("dx", 10)
         .attr("dy", ".35em")
         .text(d => d.id);
 
