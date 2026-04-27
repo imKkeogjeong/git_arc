@@ -423,6 +423,45 @@ function renderTopicStreamgraph(data, palette) {
     paths.append("title")
         .text((d, i) => topics[i]);
 
+    // Add Direct Labels on the Streams (at the peak of each layer)
+    svg.append("g")
+        .selectAll("text")
+        .data(layers)
+        .join("text")
+        .attr("class", "stream-label")
+        .attr("x", d => {
+            // Find the index where the layer is thickest
+            let maxVal = -1;
+            let maxIdx = 0;
+            d.forEach((point, i) => {
+                const thickness = point[1] - point[0];
+                if (thickness > maxVal) {
+                    maxVal = thickness;
+                    maxIdx = i;
+                }
+            });
+            return x(d[maxIdx].data.year);
+        })
+        .attr("y", d => {
+            let maxVal = -1;
+            let maxIdx = 0;
+            d.forEach((point, i) => {
+                const thickness = point[1] - point[0];
+                if (thickness > maxVal) {
+                    maxVal = thickness;
+                    maxIdx = i;
+                }
+            });
+            return y((d[maxIdx][0] + d[maxIdx][1]) / 2);
+        })
+        .attr("fill", "#fff")
+        .style("font-size", "11px")
+        .style("font-weight", "600")
+        .style("text-shadow", "0 0 4px rgba(0,0,0,0.8)")
+        .style("pointer-events", "none")
+        .attr("text-anchor", "middle")
+        .text((d, i) => topics[i]);
+
     // Add Year labels
     svg.append("g")
         .attr("transform", `translate(0,${height - 30})`)

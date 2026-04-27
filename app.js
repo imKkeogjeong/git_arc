@@ -268,17 +268,40 @@ function renderCoOccurrenceNetwork(data, palette) {
     // Filter top links to avoid clutter
     const topLinks = links.sort((a,b) => b.value - a.value).slice(0, 80);
     topLinks.forEach(l => {
-        nodes[l.source] = { id: l.source };
-        nodes[l.target] = { id: l.target };
+        if (!nodes[l.source]) nodes[l.source] = { id: l.source, degree: 0, group: l.source };
+        if (!nodes[l.target]) nodes[l.target] = { id: l.target, degree: 0, group: l.target };
+        nodes[l.source].degree += l.value;
+        nodes[l.target].degree += l.value;
     });
 
     const nodeArray = Object.values(nodes);
 
+    // Basic Community Detection (Label Propagation)
+    for (let i = 0; i < 5; i++) { // 5 iterations for convergence
+        nodeArray.forEach(n => {
+            const neighbors = topLinks.filter(l => l.source.id === n.id || l.target.id === n.id);
+            const neighborGroups = neighbors.map(l => l.source.id === n.id ? nodes[l.target.id].group : nodes[l.source.id].group);
+            if (neighborGroups.length > 0) {
+                // Pick most frequent group among neighbors
+                const counts = {};
+                neighborGroups.forEach(g => counts[g] = (counts[g] || 0) + 1);
+                n.group = Object.keys(counts).reduce((a, b) => counts[a] > counts[b] ? a : b);
+            }
+        });
+    }
+
     const svg = container.append("svg").attr("viewBox", [0, 0, width, height]);
 
+    // Color scale for Communities (Modularity)
+    const communityColorScale = d3.scaleOrdinal(d3.schemeTableau10);
+
+    // Color scale for "Hot/Cold" links
+    const linkColorScale = d3.scaleSequential(d3.interpolateInferno) 
+        .domain([0, d3.max(topLinks, d => d.value)]);
+
     const simulation = d3.forceSimulation(nodeArray)
-        .force("link", d3.forceLink(topLinks).id(d => d.id).distance(50))
-        .force("charge", d3.forceManyBody().strength(-100))
+        .force("link", d3.forceLink(topLinks).id(d => d.id).distance(80))
+        .force("charge", d3.forceManyBody().strength(-200))
         .force("center", d3.forceCenter(width / 2, height / 2));
 
     const link = svg.append("g")
@@ -286,25 +309,27 @@ function renderCoOccurrenceNetwork(data, palette) {
         .data(topLinks)
         .join("line")
         .attr("class", "link")
-        .attr("stroke-width", d => Math.sqrt(d.value) + 1);
+        .attr("stroke", d => linkColorScale(d.value))
+        .attr("stroke-opacity", 0.4) // Reduced opacity for clarity
+        .attr("stroke-width", d => Math.sqrt(d.value) * 1.5 + 0.5);
 
     const node = svg.append("g")
         .selectAll("circle")
         .data(nodeArray)
         .join("circle")
         .attr("class", "node")
-        .attr("r", 6)
-        .attr("fill", (d, i) => palette[i % palette.length])
+        .attr("r", d => Math.sqrt(d.degree) * 2 + 4) // Degree-based sizing
+        .attr("fill", d => communityColorScale(d.group))
         .call(drag(simulation));
 
     node.append("title").text(d => d.id);
 
     const label = svg.append("g")
         .selectAll("text")
-        .data(nodeArray)
+        .data(nodeArray.filter(d => d.degree > 2)) // Only show labels for core nodes
         .join("text")
         .attr("class", "label")
-        .attr("dx", 8)
+        .attr("dx", 10)
         .attr("dy", ".35em")
         .text(d => d.id);
 
@@ -385,13 +410,56 @@ function renderTopicStreamgraph(data, palette) {
         .y1(d => y(d[1]))
         .curve(d3.curveBasis);
 
-    svg.append("g")
+    const paths = svg.append("g")
         .selectAll("path")
         .data(layers)
         .join("path")
+        .attr("class", (d, i) => `stream-path stream-${i}`)
         .attr("d", area)
         .attr("fill", (d, i) => palette[i % palette.length])
-        .append("title")
+        .attr("opacity", 0.8)
+        .style("transition", "opacity 0.2s ease");
+
+    paths.append("title")
+        .text((d, i) => topics[i]);
+
+    // Add Direct Labels on the Streams (at the peak of each layer)
+    svg.append("g")
+        .selectAll("text")
+        .data(layers)
+        .join("text")
+        .attr("class", "stream-label")
+        .attr("x", d => {
+            // Find the index where the layer is thickest
+            let maxVal = -1;
+            let maxIdx = 0;
+            d.forEach((point, i) => {
+                const thickness = point[1] - point[0];
+                if (thickness > maxVal) {
+                    maxVal = thickness;
+                    maxIdx = i;
+                }
+            });
+            return x(d[maxIdx].data.year);
+        })
+        .attr("y", d => {
+            let maxVal = -1;
+            let maxIdx = 0;
+            d.forEach((point, i) => {
+                const thickness = point[1] - point[0];
+                if (thickness > maxVal) {
+                    maxVal = thickness;
+                    maxIdx = i;
+                }
+            });
+            return y((d[maxIdx][0] + d[maxIdx][1]) / 2);
+        })
+        .attr("fill", "#fff")
+        .style("font-size", "11px")
+        .style("font-weight", "600")
+        .style("text-shadow", "0 0 4px rgba(0,0,0,0.8)")
+        .style("pointer-events", "none")
+        .attr("text-anchor", "middle")
         .text((d, i) => topics[i]);
 
     // Add Year labels
@@ -399,6 +467,37 @@ function renderTopicStreamgraph(data, palette) {
         .attr("transform", `translate(0,${height - 30})`)
         .call(d3.axisBottom(x).ticks(years.length).tickFormat(d3.format("d")))
         .attr("color", "#71717a");
+
+    // Add Legend (Index)
+    const legend = svg.append("g")
+        .attr("transform", `translate(40, 20)`);
+
+    topics.forEach((topic, i) => {
+        const lg = legend.append("g")
+            .attr("class", "legend-item")
+            .attr("transform", `translate(${i * (width/topics.length - 10)}, 0)`)
+            .style("cursor", "pointer")
+            .on("mouseover", () => {
+                d3.selectAll(".stream-path").attr("opacity", 0.2);
+                d3.select(`.stream-${i}`).attr("opacity", 1);
+            })
+            .on("mouseout", () => {
+                d3.selectAll(".stream-path").attr("opacity", 0.8);
+            });
+        
+        lg.append("rect")
+            .attr("width", 12)
+            .attr("height", 12)
+            .attr("rx", 2)
+            .attr("fill", palette[i % palette.length]);
+
+        lg.append("text")
+            .attr("x", 18)
+            .attr("y", 10)
+            .attr("fill", "#fafafa")
+            .style("font-size", "11px")
+            .text(topic);
+    });
 }
 
 // 7. Citation Mapping (Author-Journal Network)
