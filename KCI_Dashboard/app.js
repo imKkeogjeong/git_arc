@@ -276,9 +276,13 @@ function renderCoOccurrenceNetwork(data, palette) {
 
     const svg = container.append("svg").attr("viewBox", [0, 0, width, height]);
 
+    // Color scale for "Hot/Cold" links
+    const linkColorScale = d3.scaleSequential(d3.interpolateInferno) 
+        .domain([0, d3.max(topLinks, d => d.value)]);
+
     const simulation = d3.forceSimulation(nodeArray)
-        .force("link", d3.forceLink(topLinks).id(d => d.id).distance(50))
-        .force("charge", d3.forceManyBody().strength(-100))
+        .force("link", d3.forceLink(topLinks).id(d => d.id).distance(70))
+        .force("charge", d3.forceManyBody().strength(-150))
         .force("center", d3.forceCenter(width / 2, height / 2));
 
     const link = svg.append("g")
@@ -286,7 +290,9 @@ function renderCoOccurrenceNetwork(data, palette) {
         .data(topLinks)
         .join("line")
         .attr("class", "link")
-        .attr("stroke-width", d => Math.sqrt(d.value) + 1);
+        .attr("stroke", d => linkColorScale(d.value))
+        .attr("stroke-opacity", 0.8)
+        .attr("stroke-width", d => Math.sqrt(d.value) * 1.5 + 1);
 
     const node = svg.append("g")
         .selectAll("circle")
