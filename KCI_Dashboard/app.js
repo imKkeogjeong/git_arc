@@ -223,18 +223,17 @@ function renderImpactTable(data) {
     const top10 = sorted.slice(0, 10);
     const tbody = document.querySelector('#impactTable tbody');
 
-    top10.forEach(d => {
-        const tr = document.createElement('tr');
-        
-        tr.innerHTML = `
+    const htmlString = top10.map(d => `
+        <tr>
             <td class="td-year">${d.year ? d.year : '-'}</td>
             <td class="td-title" title="${d.title ? d.title.replace(/"/g, '&quot;') : ''}">${d.title}</td>
             <td class="td-author">${d.author || '-'}</td>
             <td>${d.journal || '-'}</td>
             <td class="td-citations">${d.citations}</td>
-        `;
-        tbody.appendChild(tr);
-    });
+        </tr>
+    `).join('');
+    
+    tbody.innerHTML = htmlString;
 }
 
 // 5. Co-occurrence Network (D3 Force Directed Graph)
@@ -243,45 +242,57 @@ function renderCoOccurrenceNetwork(data, palette) {
     const width = container.node().getBoundingClientRect().width;
     const height = 400;
 
-    const links = [];
+    const linksMap = new Map();
     const nodes = {};
 
-    // Generate co-occurrence links
+    // Generate co-occurrence links (O(N) with Map)
     data.forEach(d => {
         if (d.keywords && d.keywords.length > 1) {
             const kws = d.keywords.filter(k => k.trim() && !k.trim().startsWith("<"));
             for (let i = 0; i < kws.length; i++) {
                 for (let j = i + 1; j < kws.length; j++) {
-                    const source = kws[i];
-                    const target = kws[j];
-                    const link = links.find(l => (l.source === source && l.target === target) || (l.source === target && l.target === source));
-                    if (link) {
-                        link.value++;
+                    // Sort to ensure undirected key is consistent
+                    const [source, target] = kws[i] < kws[j] ? [kws[i], kws[j]] : [kws[j], kws[i]];
+                    const key = `${source}::${target}`;
+                    if (linksMap.has(key)) {
+                        linksMap.get(key).value++;
                     } else {
-                        links.push({ source, target, value: 1 });
+                        linksMap.set(key, { source, target, value: 1 });
                     }
                 }
             }
         }
     });
 
+    const links = Array.from(linksMap.values());
+
     // Filter top links to avoid clutter
     const topLinks = links.sort((a,b) => b.value - a.value).slice(0, 80);
+    
+    // Adjacency list for fast neighbor lookups
+    const adjList = {};
+
     topLinks.forEach(l => {
         if (!nodes[l.source]) nodes[l.source] = { id: l.source, degree: 0, group: l.source };
         if (!nodes[l.target]) nodes[l.target] = { id: l.target, degree: 0, group: l.target };
         nodes[l.source].degree += l.value;
         nodes[l.target].degree += l.value;
+        
+        // Build adjacency list
+        if (!adjList[l.source]) adjList[l.source] = [];
+        if (!adjList[l.target]) adjList[l.target] = [];
+        adjList[l.source].push(l.target);
+        adjList[l.target].push(l.source);
     });
 
     const nodeArray = Object.values(nodes);
 
-    // Basic Community Detection (Label Propagation)
+    // Optimized Basic Community Detection (Label Propagation)
     for (let i = 0; i < 5; i++) { // 5 iterations for convergence
         nodeArray.forEach(n => {
-            const neighbors = topLinks.filter(l => l.source.id === n.id || l.target.id === n.id);
-            const neighborGroups = neighbors.map(l => l.source.id === n.id ? nodes[l.target.id].group : nodes[l.source.id].group);
-            if (neighborGroups.length > 0) {
+            const neighborIds = adjList[n.id] || [];
+            if (neighborIds.length > 0) {
+                const neighborGroups = neighborIds.map(neighborId => nodes[neighborId].group);
                 // Pick most frequent group among neighbors
                 const counts = {};
                 neighborGroups.forEach(g => counts[g] = (counts[g] || 0) + 1);
@@ -374,22 +385,30 @@ function renderTopicStreamgraph(data, palette) {
     // Define topics based on keyword clusters
     const topics = ["개체화/생성", "기술철학/기계", "예술/미디어", "윤리/사회", "존재론/형이상학"];
     
-    // Aggregate by year and simulated topic affinity
-    const years = [...new Set(data.map(d => d.year))].sort();
-    const streamData = years.map(year => {
-        const entry = { year: year };
-        topics.forEach(t => entry[t] = 0);
+    // Aggregate by year and simulated topic affinity in O(N)
+    const yearsSet = new Set();
+    const yearDataMap = {};
+
+    data.forEach(d => {
+        if (!d.year) return;
+        yearsSet.add(d.year);
         
-        data.filter(d => d.year === year).forEach(d => {
-            const kws = (d.keywords || []).join(" ");
-            if (kws.includes("개체") || kws.includes("생성")) entry["개체화/생성"]++;
-            else if (kws.includes("기술") || kws.includes("기계")) entry["기술철학/기계"]++;
-            else if (kws.includes("예술") || kws.includes("미술")) entry["예술/미디어"]++;
-            else if (kws.includes("윤리") || kws.includes("사회")) entry["윤리/사회"]++;
-            else entry["존재론/형이상학"]++;
-        });
-        return entry;
+        if (!yearDataMap[d.year]) {
+            yearDataMap[d.year] = { year: d.year };
+            topics.forEach(t => yearDataMap[d.year][t] = 0);
+        }
+        
+        const entry = yearDataMap[d.year];
+        const kws = (d.keywords || []).join(" ");
+        if (kws.includes("개체") || kws.includes("생성")) entry["개체화/생성"]++;
+        else if (kws.includes("기술") || kws.includes("기계")) entry["기술철학/기계"]++;
+        else if (kws.includes("예술") || kws.includes("미술")) entry["예술/미디어"]++;
+        else if (kws.includes("윤리") || kws.includes("사회")) entry["윤리/사회"]++;
+        else entry["존재론/형이상학"]++;
     });
+
+    const years = [...yearsSet].sort();
+    const streamData = years.map(y => yearDataMap[y]);
 
     const stack = d3.stack().keys(topics).offset(d3.stackOffsetWiggle);
     const layers = stack(streamData);
@@ -506,59 +525,97 @@ function renderCitationMap(data, palette) {
     const width = container.node().getBoundingClientRect().width;
     const height = 400;
 
-    const links = [];
+    const linksMap = new Map();
     const nodes = {};
 
+    // 1. Data Aggregation & Degree Calculation (Optimized O(N))
     data.forEach(d => {
         if (d.author && d.journal) {
-            const author = d.author.split('(')[0];
-            const journal = d.journal;
+            const author = d.author.split('(')[0].trim();
+            const journal = d.journal.trim();
             
-            nodes[author] = { id: author, type: 'author' };
-            nodes[journal] = { id: journal, type: 'journal' };
+            if (!nodes[author]) nodes[author] = { id: author, type: 'author', degree: 0 };
+            if (!nodes[journal]) nodes[journal] = { id: journal, type: 'journal', degree: 0 };
             
-            links.push({ source: author, target: journal });
+            // Link aggregation for multiple papers by same author in same journal
+            const key = `${author}::${journal}`;
+            if (linksMap.has(key)) {
+                linksMap.get(key).value++;
+            } else {
+                linksMap.set(key, { source: author, target: journal, value: 1 });
+            }
         }
     });
 
-    const nodeArray = Object.values(nodes);
-    const svg = container.append("svg").attr("viewBox", [0, 0, width, height]);
+    const links = Array.from(linksMap.values());
 
+    links.forEach(l => {
+        nodes[l.source].degree += l.value;
+        nodes[l.target].degree += l.value;
+    });
+
+    const nodeArray = Object.values(nodes);
+    
+    // Clear previous content if any
+    container.html("");
+    
+    const svg = container.append("svg").attr("viewBox", [0, 0, width, height]);
+    const g = svg.append("g");
+
+    // 2. Zoom and Pan Functionality
+    const zoom = d3.zoom()
+        .scaleExtent([0.2, 4])
+        .on("zoom", (event) => {
+            g.attr("transform", event.transform);
+        });
+    svg.call(zoom);
+
+    // 3. Force Simulation with optimized parameters
     const simulation = d3.forceSimulation(nodeArray)
         .force("link", d3.forceLink(links).id(d => d.id).distance(80))
-        .force("charge", d3.forceManyBody().strength(-50))
-        .force("center", d3.forceCenter(width / 2, height / 2));
+        .force("charge", d3.forceManyBody().strength(-120))
+        .force("center", d3.forceCenter(width / 2, height / 2))
+        .force("collide", d3.forceCollide().radius(d => (d.type === 'journal' ? Math.sqrt(d.degree)*5+5 : Math.sqrt(d.degree)*3+3) + 2));
 
-    const link = svg.append("g")
+    // 4. Render Links (opacity based on value)
+    const link = g.append("g")
         .selectAll("line")
         .data(links)
         .join("line")
-        .attr("class", "link");
+        .attr("class", "link")
+        .attr("stroke-width", d => Math.max(1, Math.sqrt(d.value)))
+        .attr("stroke-opacity", 0.3)
+        .attr("stroke", "#52525b");
 
-    const node = svg.append("g")
+    // 5. Render Nodes (Size based on degree)
+    const node = g.append("g")
         .selectAll("circle")
         .data(nodeArray)
         .join("circle")
         .attr("class", "node")
-        .attr("r", d => d.type === 'journal' ? 8 : 4)
-        .attr("fill", d => d.type === 'journal' ? palette[1] : palette[3])
-        .call(d3.drag()
-            .on("start", (event) => {
-                if (!event.active) simulation.alphaTarget(0.3).restart();
-                event.subject.fx = event.subject.x;
-                event.subject.fy = event.subject.y;
-            })
-            .on("drag", (event) => {
-                event.subject.fx = event.x;
-                event.subject.fy = event.y;
-            })
-            .on("end", (event) => {
-                if (!event.active) simulation.alphaTarget(0);
-                event.subject.fx = null;
-                event.subject.fy = null;
-            }));
+        // Journals are larger than authors for the same degree
+        .attr("r", d => d.type === 'journal' ? Math.max(8, Math.sqrt(d.degree) * 4) : Math.max(4, Math.sqrt(d.degree) * 2.5))
+        .attr("fill", d => d.type === 'journal' ? palette[1] : palette[4])
+        .attr("stroke", "var(--bg-card)")
+        .attr("stroke-width", 1.5)
+        .call(drag(simulation));
 
-    node.append("title").text(d => d.id);
+    node.append("title").text(d => `${d.id} (${d.type === 'journal' ? '학술지' : '저자'}, 연결: ${d.degree})`);
+
+    // 6. Render Labels (Only for journals or highly connected authors to prevent clutter)
+    const label = g.append("g")
+        .selectAll("text")
+        .data(nodeArray.filter(d => d.type === 'journal' || d.degree > 2))
+        .join("text")
+        .attr("class", "label")
+        .attr("dx", d => (d.type === 'journal' ? Math.max(8, Math.sqrt(d.degree) * 4) : Math.max(4, Math.sqrt(d.degree) * 2.5)) + 6)
+        .attr("dy", ".35em")
+        .text(d => d.id)
+        .style("fill", d => d.type === 'journal' ? "#f4f4f5" : "#a1a1aa")
+        .style("font-weight", d => d.type === 'journal' ? "600" : "400")
+        .style("font-size", d => d.type === 'journal' ? "12px" : "10px")
+        .style("pointer-events", "none")
+        .style("text-shadow", "0 1px 3px rgba(0,0,0,0.8)");
 
     simulation.on("tick", () => {
         link.attr("x1", d => d.source.x)
@@ -568,5 +625,27 @@ function renderCitationMap(data, palette) {
 
         node.attr("cx", d => d.x)
             .attr("cy", d => d.y);
+            
+        label.attr("x", d => d.x)
+             .attr("y", d => d.y);
     });
+
+    // Drag behavior helper
+    function drag(simulation) {
+        function started(event) {
+            if (!event.active) simulation.alphaTarget(0.3).restart();
+            event.subject.fx = event.subject.x;
+            event.subject.fy = event.subject.y;
+        }
+        function dragged(event) {
+            event.subject.fx = event.x;
+            event.subject.fy = event.y;
+        }
+        function ended(event) {
+            if (!event.active) simulation.alphaTarget(0);
+            event.subject.fx = null;
+            event.subject.fy = null;
+        }
+        return d3.drag().on("start", started).on("drag", dragged).on("end", ended);
+    }
 }
