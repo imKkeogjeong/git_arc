@@ -53,6 +53,12 @@ function renderTimeline(data, mainColor) {
     const counts = years.map(y => countsByYear[y]);
 
     const ctx = document.getElementById('timelineChart').getContext('2d');
+    
+    // Create vibrant gradient
+    const gradient = ctx.createLinearGradient(0, 0, 0, 300);
+    gradient.addColorStop(0, '#c084fc'); // Purple
+    gradient.addColorStop(1, '#3b82f6'); // Blue
+
     new Chart(ctx, {
         type: 'bar',
         data: {
@@ -60,10 +66,11 @@ function renderTimeline(data, mainColor) {
             datasets: [{
                 label: '발행 논문 수',
                 data: counts,
-                backgroundColor: mainColor,
-                borderRadius: 4,
+                backgroundColor: gradient,
+                borderRadius: 6,
                 barThickness: 'flex',
-                maxBarThickness: 40
+                maxBarThickness: 40,
+                hoverBackgroundColor: '#e879f9'
             }]
         },
         options: {
@@ -105,8 +112,9 @@ function renderLandscape(data, palette) {
             datasets: [{
                 data: counts,
                 backgroundColor: palette.slice(0, themes.length),
-                borderWidth: 0,
-                hoverOffset: 4
+                borderColor: '#0f0f14',
+                borderWidth: 4,
+                hoverOffset: 8
             }]
         },
         options: {
@@ -166,10 +174,12 @@ function renderKeywords(data, colorLight, colorDark) {
             datasets: [{
                 label: 'Keywords',
                 data: bubbleData,
-                backgroundColor: colorLight,
-                borderColor: colorDark,
-                borderWidth: 1.5,
-                hoverBackgroundColor: colorDark,
+                backgroundColor: 'rgba(56, 189, 248, 0.6)',
+                borderColor: '#38bdf8',
+                borderWidth: 2,
+                hoverBackgroundColor: '#c084fc',
+                hoverBorderColor: '#fff',
+                hoverBorderWidth: 3
             }]
         },
         options: {
