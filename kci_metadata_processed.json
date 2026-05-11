@@ -1,4 +1,4 @@
-window.KCI_DATA = [
+[
   {
     "id": "ART002844508",
     "title": "Exploring Simondon’s Philosophy of Invention",
@@ -3838,4 +3838,4 @@ window.KCI_DATA = [
     "url": null,
     "doi": "https://doi.org/10.32611/jgcc.2019.5.39.66"
   }
-];
+]

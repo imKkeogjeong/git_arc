@@ -44,8 +44,8 @@ document.addEventListener('DOMContentLoaded', () => {
 function renderTimeline(data, mainColor) {
     const countsByYear = {};
     data.forEach(d => {
-        if (d.year) {
-            countsByYear[d.year] = (countsByYear[d.year] || 0) + 1;
+        if (d.pub_year) {
+            countsByYear[d.pub_year] = (countsByYear[d.pub_year] || 0) + 1;
         }
     });
 
@@ -89,8 +89,18 @@ function renderTimeline(data, mainColor) {
 // 2. Disciplinary Landscape (Doughnut Chart)
 function renderLandscape(data, palette) {
     const countsByTheme = {};
+    const binTheme = (subject) => {
+        if (!subject) return '신학·기타';
+        if (['철학', '서양철학', '기타철학일반'].includes(subject)) return '철학 계열';
+        if (['기타인문학', '한국어와문학', '영어와문학', '독일어와문학', '중국어와문학', '문학', '기타예술일반'].includes(subject)) return '인문학 계열';
+        if (['학제간연구', '교육학', '사회학', '신문방송학', '여성학', '정치외교학', '기타사회과학일반', '정치사회/문화'].includes(subject)) return '학제간·사회과학';
+        if (['디자인', '디자인일반', '실내환경디자인', '뉴미디어', '영상문학', '영화', '미술', '미술이론', '미술사', '사진', '기타예술체육', '기타체육', '감성문화/사회'].includes(subject)) return '예술·미디어';
+        if (['기독교신학'].includes(subject)) return '신학·기타';
+        return '신학·기타';
+    };
+
     data.forEach(d => {
-        const theme = d.theme || '기타';
+        const theme = binTheme(d.subject);
         countsByTheme[theme] = (countsByTheme[theme] || 0) + 1;
     });
 
@@ -133,8 +143,8 @@ function renderLandscape(data, palette) {
 function renderKeywords(data, colorLight, colorDark) {
     const kwCounts = {};
     data.forEach(d => {
-        if (d.keywords && Array.isArray(d.keywords)) {
-            d.keywords.forEach(k => {
+        if (d.keywords_ko && Array.isArray(d.keywords_ko)) {
+            d.keywords_ko.forEach(k => {
                 const keyword = k.trim();
                 // Skip weird keywords like "<아" which originated from KCI formatting
                 if(keyword && !keyword.startsWith("<")) {
@@ -215,7 +225,7 @@ function renderKeywords(data, colorLight, colorDark) {
 function renderImpactTable(data) {
     const sorted = [...data].sort((a, b) => {
         if (b.citations === a.citations) {
-            return (b.year || 0) - (a.year || 0);
+            return (b.pub_year || 0) - (a.pub_year || 0);
         }
         return b.citations - a.citations;
     });
@@ -223,15 +233,18 @@ function renderImpactTable(data) {
     const top10 = sorted.slice(0, 10);
     const tbody = document.querySelector('#impactTable tbody');
 
-    const htmlString = top10.map(d => `
+    const htmlString = top10.map(d => {
+        const authorStr = d.authors && d.authors.length > 0 ? d.authors.map(a => a.name).join(', ') : '-';
+        return `
         <tr>
-            <td class="td-year">${d.year ? d.year : '-'}</td>
+            <td class="td-year">${d.pub_year ? d.pub_year : '-'}</td>
             <td class="td-title" title="${d.title ? d.title.replace(/"/g, '&quot;') : ''}">${d.title}</td>
-            <td class="td-author">${d.author || '-'}</td>
+            <td class="td-author">${authorStr}</td>
             <td>${d.journal || '-'}</td>
             <td class="td-citations">${d.citations}</td>
         </tr>
-    `).join('');
+    `;
+    }).join('');
     
     tbody.innerHTML = htmlString;
 }
@@ -247,8 +260,8 @@ function renderCoOccurrenceNetwork(data, palette) {
 
     // Generate co-occurrence links (O(N) with Map)
     data.forEach(d => {
-        if (d.keywords && d.keywords.length > 1) {
-            const kws = d.keywords.filter(k => k.trim() && !k.trim().startsWith("<"));
+        if (d.keywords_ko && d.keywords_ko.length > 1) {
+            const kws = d.keywords_ko.filter(k => k.trim() && !k.trim().startsWith("<"));
             for (let i = 0; i < kws.length; i++) {
                 for (let j = i + 1; j < kws.length; j++) {
                     // Sort to ensure undirected key is consistent
@@ -390,16 +403,16 @@ function renderTopicStreamgraph(data, palette) {
     const yearDataMap = {};
 
     data.forEach(d => {
-        if (!d.year) return;
-        yearsSet.add(d.year);
+        if (!d.pub_year) return;
+        yearsSet.add(d.pub_year);
         
-        if (!yearDataMap[d.year]) {
-            yearDataMap[d.year] = { year: d.year };
-            topics.forEach(t => yearDataMap[d.year][t] = 0);
+        if (!yearDataMap[d.pub_year]) {
+            yearDataMap[d.pub_year] = { year: d.pub_year };
+            topics.forEach(t => yearDataMap[d.pub_year][t] = 0);
         }
         
-        const entry = yearDataMap[d.year];
-        const kws = (d.keywords || []).join(" ");
+        const entry = yearDataMap[d.pub_year];
+        const kws = (d.keywords_ko || []).join(" ");
         if (kws.includes("개체") || kws.includes("생성")) entry["개체화/생성"]++;
         else if (kws.includes("기술") || kws.includes("기계")) entry["기술철학/기계"]++;
         else if (kws.includes("예술") || kws.includes("미술")) entry["예술/미디어"]++;
@@ -530,8 +543,8 @@ function renderCitationMap(data, palette) {
 
     // 1. Data Aggregation & Degree Calculation (Optimized O(N))
     data.forEach(d => {
-        if (d.author && d.journal) {
-            const author = d.author.split('(')[0].trim();
+        if (d.authors && d.authors.length > 0 && d.journal) {
+            const author = d.authors[0].name.trim(); // use first author
             const journal = d.journal.trim();
             
             if (!nodes[author]) nodes[author] = { id: author, type: 'author', degree: 0 };
