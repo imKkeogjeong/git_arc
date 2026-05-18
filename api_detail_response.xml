@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>10132607</key>
+    <apiCode>articleDetail</apiCode>
+    <id>ART003150822</id>
+  </inputData>
+  <outputData>
+    <result>
+      <total>1</total>
+    </result>
+    <record>
+      <journalInfo journal-id="000312">
+        <issn>1225-083X</issn>
+        <journal-name>중국어문학</journal-name>
+        <publisher-name>영남중국어문학회</publisher-name>
+        <kci-registration>등재</kci-registration>
+        <foreign-registration />
+        <pub-year>2024</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume />
+        <issue>97</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003150822">
+        <article-categories>인문학 &gt; 중국어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <article-language>한국어</article-language>
+        <title-group>
+          <article-title lang="original"><![CDATA[환상과 부재, 소외의 도시 ― 쉬저천(徐則臣)의 <아, 베이징(啊, 北京)>을 중심으로 ―]]></article-title>
+          <article-title lang="foreign"><![CDATA[A city of fantasy, absence, and alienation – Focus on Xu Ze Chen’s work “Ah, Beijing”]]></article-title>
+          <article-title lang="english"><![CDATA[A city of fantasy, absence, and alienation – Focus on Xu Ze Chen’s work “Ah, Beijing”]]></article-title>
+        </title-group>
+        <author-group>
+          <author author-division="1" author-part="단독">
+            <name><![CDATA[신민준]]></name>
+            <name-eng><![CDATA[SHIN MINJOON]]></name-eng>
+            <institution>고려대학교 중일어문학과;고려대학교 4단계 BK21 중일교육연구단</institution>
+          </author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[Since the 2000s, several writers and works dealing with the identity confusion experienced by the contemporary Chinese have appeared. Xu Ze Chen(徐則臣) is a writer representing these writers, and his work Ah, Beijing (啊, 北京) can also be said to be a work that shows the above-described theme consciousness of Xu Zichen.
+Xu Zhichen compares imaginary Beijing with real Beijing, Beijing and a local village , revealing the sense of alienation and absence of people living in China today. In particular, “Ah, Beijing” effectively portrays the sense of theme that he is trying to say through the specific geographical characteristics surrounding Beijing University and its symbols.
+Based on the above, this paper tries to examine how the various spaces appearing in the work represent the reality of the characters in the work and what it means through Gilbert Simondon's theory of individuation and Literary Geography perspective. This can be an attempt to examine the theme consciousness of Xu Zichen and his work “Ah, Beijing”, and seek the direction in which the contemporary Chinese identity confusion be viewed.]]></abstract>
+          <abstract lang="english"><![CDATA[Since the 2000s, several writers and works dealing with the identity confusion experienced by the contemporary Chinese have appeared. Xu Ze Chen(徐則臣) is a writer representing these writers, and his work Ah, Beijing (啊, 北京) can also be said to be a work that shows the above-described theme consciousness of Xu Zichen.
+Xu Zhichen compares imaginary Beijing with real Beijing, Beijing and a local village , revealing the sense of alienation and absence of people living in China today. In particular, “Ah, Beijing” effectively portrays the sense of theme that he is trying to say through the specific geographical characteristics surrounding Beijing University and its symbols.
+Based on the above, this paper tries to examine how the various spaces appearing in the work represent the reality of the characters in the work and what it means through Gilbert Simondon's theory of individuation and Literary Geography perspective. This can be an attempt to examine the theme consciousness of Xu Zichen and his work “Ah, Beijing”, and seek the direction in which the contemporary Chinese identity confusion be viewed.]]></abstract>
+        </abstract-group>
+        <keyword-group>
+          <keyword><![CDATA[쉬저천(Xu Ze Chen)]]></keyword>
+          <keyword><![CDATA[<아]]></keyword>
+          <keyword><![CDATA[베이징>(‘Ah]]></keyword>
+          <keyword><![CDATA[Beijing’)]]></keyword>
+          <keyword><![CDATA[문학지리학(Literary Geography)]]></keyword>
+          <keyword><![CDATA[질베르 시몽동(Gilbert Simondon)]]></keyword>
+          <keyword><![CDATA[개체화(Individuation)]]></keyword>
+          <keyword><![CDATA[정체성(Identity)]]></keyword>
+        </keyword-group>
+        <fpage>139</fpage>
+        <lpage>172</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.15792/clsyn..97.202412.139]]></doi>
+        <citation-count kci="1" wos="0">1</citation-count>
+        <fwci create-dt="2025-08-04">0.0</fwci>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003150822]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+      <referenceInfo>
+        <reference refebibl-id="REF070809607" type-code="03" type-name="단행본">
+          <title>짐멜의 모더니티 읽기</title>
+          <author>게오르그 짐멜</author>
+          <pubilisher>새물결출판사</pubilisher>
+          <pubi-year>2005</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF070809608" type-code="05" type-name="학위논문">
+          <title>조선후기 한강유역의 문학지리 연구 : 양근·여주·광주 지역을 중심으로</title>
+          <author>권경록</author>
+          <degree>박사</degree>
+          <university>동국대학교 대학원</university>
+          <department>국어국문학</department>
+          <pubi-year>2009</pubi-year>
+        </reference>
+        <reference refebibl-id="REF070809609" type-code="05" type-name="학위논문">
+          <title>현대 도시 산책자(Flâneur)로서의 장소성 연구 : 연구자 작품을 중심으로</title>
+          <author>김홍식</author>
+          <degree>박사</degree>
+          <university>이화여자대학교 대학원</university>
+          <department>Painting</department>
+          <pubi-year>2011</pubi-year>
+        </reference>
+        <reference refebibl-id="REF070809610" type-code="03" type-name="단행본">
+          <title>아, 베이징</title>
+          <author>쉬저천</author>
+          <pubilisher>글항아리</pubilisher>
+          <pubi-year>2019</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF070809611" type-code="03" type-name="단행본">
+          <title>앙리 르페브르 이해하기</title>
+          <author>스튜어트 엘든</author>
+          <pubilisher>경성대학교출판부</pubilisher>
+          <pubi-year>2018</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF070809612" type-code="03" type-name="단행본">
+          <title>공간의 생산</title>
+          <author>앙리 르페브르</author>
+          <pubilisher>에코리브르</pubilisher>
+          <pubi-year>2011</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF070809613" type-code="05" type-name="학위논문">
+          <title>문학지리학에 있어서신문화지리 관점의 경관 독해: 「달콤한 나의 도시」를 사례로</title>
+          <author>오동훈</author>
+          <degree>석사</degree>
+          <university>서울대학교</university>
+          <department />
+          <pubi-year>2017</pubi-year>
+        </reference>
+        <reference refebibl-id="REF070809614" arti-id="ART001215749" type-code="01" type-name="학술지(정기간행물)">
+          <title>하이데거의 존재사유에서 고향상실과 귀향의 의미</title>
+          <author>윤병렬</author>
+          <journal-name>현대유럽철학연구</journal-name>
+          <pubi-year>2007</pubi-year>
+          <volume />
+          <isseue>16</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF070809615" arti-id="ART002597816" type-code="01" type-name="학술지(정기간행물)">
+          <title>"베이피아오(北漂)"의 부유(浮遊)와 도시 공간의 의미</title>
+          <author>이보고</author>
+          <journal-name>중국어문학논집</journal-name>
+          <pubi-year>2020</pubi-year>
+          <volume />
+          <isseue>122</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF070809616" type-code="03" type-name="단행본">
+          <title>공간과 장소</title>
+          <author>이푸투안</author>
+          <pubilisher>사이</pubilisher>
+          <pubi-year>2020</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF070809617" arti-id="ART001028796" type-code="01" type-name="학술지(정기간행물)">
+          <title>표상 공간으로서의 베이징(北京)</title>
+          <author>조관희</author>
+          <journal-name>중국어문학논집</journal-name>
+          <pubi-year>2006</pubi-year>
+          <volume />
+          <isseue>40</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF070809618" type-code="03" type-name="단행본">
+          <title>형태와 정보 개념에 비추어 본 개체화</title>
+          <author>질베르 시몽동</author>
+          <pubilisher>그린비</pubilisher>
+          <pubi-year>2017</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF070809619" type-code="05" type-name="학위논문">
+          <title>개인주의-집단주의 문화차원의 공간분석방법론 구축 및 적용</title>
+          <author>최영준</author>
+          <degree>박사</degree>
+          <university>서울대학교</university>
+          <department />
+          <pubi-year>2015</pubi-year>
+        </reference>
+        <reference refebibl-id="REF070809620" type-code="03" type-name="단행본">
+          <title>시몽동, 개체화 이론의 이해</title>
+          <author>황수영</author>
+          <pubilisher>그린비</pubilisher>
+          <pubi-year>2017</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF070809621" type-code="01" type-name="학술지(정기간행물)">
+          <title>70後一代如何表述鄉土 ——關於徐則臣的“故鄉”系列小說</title>
+          <author>翟文鋮</author>
+          <journal-name>南方文壇</journal-name>
+          <pubi-year>2012</pubi-year>
+          <volume />
+          <isseue>5</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF070809622" type-code="01" type-name="학술지(정기간행물)">
+          <title>中國鄉土小說生存的特殊背景與价值的失范</title>
+          <author>丁帆</author>
+          <journal-name>文藝研究</journal-name>
+          <pubi-year>2005</pubi-year>
+          <volume />
+          <isseue>8</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF070809623" type-code="05" type-name="학위논문">
+          <title>論徐則臣小說中的鄉土想象</title>
+          <author>郜子慧</author>
+          <degree>碩士</degree>
+          <university>吉林大學</university>
+          <department />
+          <pubi-year>2020</pubi-year>
+        </reference>
+        <reference refebibl-id="REF070809624" type-code="01" type-name="학술지(정기간행물)">
+          <title>棄鄉與逃城——徐則臣“京漂”小說的基本母題</title>
+          <author>李丹</author>
+          <journal-name>文藝爭鳴</journal-name>
+          <pubi-year>2011</pubi-year>
+          <volume />
+          <isseue>11</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF070809625" type-code="05" type-name="학위논문">
+          <title>徐則臣小說創作中的北京書寫</title>
+          <author>劉昕</author>
+          <degree>碩士</degree>
+          <university>東北師範大學</university>
+          <department />
+          <pubi-year>2018</pubi-year>
+        </reference>
+        <reference refebibl-id="REF070809626" type-code="05" type-name="학위논문">
+          <title>徐則臣小說的空間敍事硏究</title>
+          <author>劉雪娥</author>
+          <degree>碩士</degree>
+          <university>西北師範大學</university>
+          <department />
+          <pubi-year>2016</pubi-year>
+        </reference>
+        <reference refebibl-id="REF070809627" type-code="01" type-name="학술지(정기간행물)">
+          <title>徐步向前——徐則臣小說簡論</title>
+          <author>邵燕君</author>
+          <journal-name>當代文壇</journal-name>
+          <pubi-year>2007</pubi-year>
+          <volume />
+          <isseue>6</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF070809628" type-code="01" type-name="학술지(정기간행물)">
+          <title>區別, 然後確立———答 &lt;文學報&gt;傅小平兄十七問</title>
+          <author>徐則臣</author>
+          <journal-name>黃河文學</journal-name>
+          <pubi-year>2007</pubi-year>
+          <volume />
+          <isseue>6</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF070809629" type-code="03" type-name="단행본">
+          <title>從一個蛋開始</title>
+          <author>徐則臣</author>
+          <pubilisher>浙江文藝出版社</pubilisher>
+          <pubi-year>2019</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF070809630" type-code="03" type-name="단행본">
+          <title>跑步穿過中關村</title>
+          <author>徐則臣</author>
+          <pubilisher>北京十月出版社</pubilisher>
+          <pubi-year>2021</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF070809631" type-code="03" type-name="단행본">
+          <title>無法返回的生活</title>
+          <author>徐則臣</author>
+          <pubilisher>長江文藝出版社</pubilisher>
+          <pubi-year>2021</pubi-year>
+          <page>-</page>
+        </reference>
+        <reference refebibl-id="REF070809632" type-code="01" type-name="학술지(정기간행물)">
+          <title>在故鄉與他鄉之間的精神往返——徐則臣小說創作論</title>
+          <author>張立新</author>
+          <journal-name>當代文壇</journal-name>
+          <pubi-year>2007</pubi-year>
+          <volume />
+          <isseue>3</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF070809633" type-code="01" type-name="학술지(정기간행물)">
+          <title>70後作家: 如何成爲“中堅代”</title>
+          <author>張麗軍 外</author>
+          <journal-name>小說評論</journal-name>
+          <pubi-year>2015</pubi-year>
+          <volume />
+          <isseue>1</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+        <reference refebibl-id="REF070809634" type-code="01" type-name="학술지(정기간행물)">
+          <title>地理空間･敘事倫理･生命感覺——徐則臣的小說北京</title>
+          <author>張琦</author>
+          <journal-name>南方文壇</journal-name>
+          <pubi-year>2009</pubi-year>
+          <volume />
+          <isseue>2</isseue>
+          <serno />
+          <page>-</page>
+          <pubilisher />
+          <doi />
+        </reference>
+      </referenceInfo>
+    </record>
+  </outputData>
+</MetaData>

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaData>
+  <inputData>
+    <key>10132607</key>
+    <apiCode>articleSearch</apiCode>
+    <keyword>개체화</keyword>
+    <page>1</page>
+    <displayCount>10</displayCount>
+  </inputData>
+  <outputData>
+    <result>
+      <total>795</total>
+    </result>
+    <record>
+      <journalInfo>
+        <journal-name>중국어문학</journal-name>
+        <publisher-name>영남중국어문학회</publisher-name>
+        <pub-year>2024</pub-year>
+        <pub-mon>12</pub-mon>
+        <volume />
+        <issue>97</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003150822">
+        <article-categories>중국어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[환상과 부재, 소외의 도시 ― 쉬저천(徐則臣)의 <아, 베이징(啊, 北京)>을 중심으로 ―]]></article-title>
+          <article-title lang="foreign"><![CDATA[A city of fantasy, absence, and alienation – Focus on Xu Ze Chen’s work “Ah, Beijing”]]></article-title>
+          <article-title lang="english"><![CDATA[A city of fantasy, absence, and alienation – Focus on Xu Ze Chen’s work “Ah, Beijing”]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="SHIN MINJOON">신민준(고려대학교 중일어문학과;고려대학교 4단계 BK21 중일교육연구단)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[Since the 2000s, several writers and works dealing with the identity confusion experienced by the contemporary Chinese have appeared. Xu Ze Chen(徐則臣) is a writer representing these writers, and his work Ah, Beijing (啊, 北京) can also be said to be a work that shows the above-described theme consciousness of Xu Zichen.
+Xu Zhichen compares imaginary Beijing with real Beijing, Beijing and a local village , revealing the sense of alienation and absence of people living in China today. In particular, “Ah, Beijing” effectively portrays the sense of theme that he is trying to say through the specific geographical characteristics surrounding Beijing University and its symbols.
+Based on the above, this paper tries to examine how the various spaces appearing in the work represent the reality of the characters in the work and what it means through Gilbert Simondon's theory of individuation and Literary Geography perspective. This can be an attempt to examine the theme consciousness of Xu Zichen and his work “Ah, Beijing”, and seek the direction in which the contemporary Chinese identity confusion be viewed.]]></abstract>
+          <abstract lang="english"><![CDATA[Since the 2000s, several writers and works dealing with the identity confusion experienced by the contemporary Chinese have appeared. Xu Ze Chen(徐則臣) is a writer representing these writers, and his work Ah, Beijing (啊, 北京) can also be said to be a work that shows the above-described theme consciousness of Xu Zichen.
+Xu Zhichen compares imaginary Beijing with real Beijing, Beijing and a local village , revealing the sense of alienation and absence of people living in China today. In particular, “Ah, Beijing” effectively portrays the sense of theme that he is trying to say through the specific geographical characteristics surrounding Beijing University and its symbols.
+Based on the above, this paper tries to examine how the various spaces appearing in the work represent the reality of the characters in the work and what it means through Gilbert Simondon's theory of individuation and Literary Geography perspective. This can be an attempt to examine the theme consciousness of Xu Zichen and his work “Ah, Beijing”, and seek the direction in which the contemporary Chinese identity confusion be viewed.]]></abstract>
+        </abstract-group>
+        <fpage>139</fpage>
+        <lpage>172</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.15792/clsyn..97.202412.139]]></doi>
+        <uci />
+        <citation-count kci="1" wos="0">1</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003150822]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>트랜스-</journal-name>
+        <publisher-name>트랜스미디어연구소</publisher-name>
+        <pub-year>2026</pub-year>
+        <pub-mon>02</pub-mon>
+        <volume>20</volume>
+        <issue />
+      </journalInfo>
+      <articleInfo article-id="ART003313825">
+        <article-categories>뉴미디어</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[AI 이미지 생성 콘텐츠를 통해 본 인간-기술의 개체화 의미 고찰: 실감형 전시콘텐츠 <A.I. 김홍도 : 붓선 ver.1.0> 중심으로]]></article-title>
+          <article-title lang="english"><![CDATA[A Study on the Ontological Meaning of Human-Technology Individuation through AI- Generated Image Content: Focusing on the Immersive Exhibition Content <A.I. Kim Hong-do: Butseon ver.1.0>]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="OH SE HYUN">오세현(성균관대학교 트랜스미디어연구소)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 연구는 질베르 시몽동의 기술철학을 바탕으로 실감형 전시 콘텐츠 <A.I. 김홍도: 붓선 ver.1.0>의 구현 과정을 분석하고, AI 이미지 생성을 인간과 기술의 존재론적인 협력과 결합의  과정으로 고찰한다. 이를 위해 데이터 전처리 및 학습 과정을 개체화의 잠재적 환경 조성으로, GAN과 인스턴스 세그먼테이션을 활용한 이미지 생성을 정보의 변환적 생성(transductive generation)으로, 전시 공간 설계와 상호 작용까지 전체 과정의 개체화를 인간-기계-이미지의 공동 개체화(co-individuation)로 규명한다. 본 고는 AI 예술 창작이 단순한 기술적 자동화가 아니라, 인간의 미적 의도와 기술의 내부 논리가 상호 매개되어 새로운 감각적 실재를 형성하는 협력적 사건임을 논증한다.]]></abstract>
+          <abstract lang="english"><![CDATA[This study analyzes the process of realizing the immersive exhibition content A.I. Kim Hongdo: Butseon ver.1.0 through the lens of Gilbert Simondon’s philosophy of technology, and examines AI image generation as an ontological process of cooperation and coupling between humans and technology. To this end, the stages of data preprocessing and model training are conceptualized as the construction of a potential milieu for individuation; image generation employing GANs and instance segmentation is interpreted as a process of transductive generation of information; and the individuation of the entire process, including exhibition space design and interaction, as the co-individuation of human, machine, and image. This paper argues that AI-based artistic creation is not a form of mere technical automation, but rather a collaborative event in which human aesthetic intention and the internal logic of technology are mutually mediated, giving rise to a new form of sensible reality.]]></abstract>
+        </abstract-group>
+        <fpage>117</fpage>
+        <lpage>164</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003313825]]></url>
+        <verified>N</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>생명연구</journal-name>
+        <publisher-name>생명문화연구소</publisher-name>
+        <pub-year>2026</pub-year>
+        <pub-mon>02</pub-mon>
+        <volume>79</volume>
+        <issue />
+      </journalInfo>
+      <articleInfo article-id="ART003312742">
+        <article-categories>서양철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[사전돌봄계획에 대한 생명윤리적 논쟁과 시몽동의 개체화 이론]]></article-title>
+          <article-title lang="english"><![CDATA[Bioethical Debates on Advance Care Planning and Simondon’s Theory of Individuation]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Chang Tae Soon">장태순(한림대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 논문은 사전돌봄계획(Advance Care Planning, ACP)을 둘러싼 현대 생명윤리 논쟁에 질베르 시몽동의 개체화 이론을 통해 개입하려는 연구이다. 사전돌봄계획은 일반적으로 개인이 의사결정 능력을 상실하기 전에 미래 의료에 대한 자신의 가치 지향과 선택을 미리 문서화하는 제도로 이해되어 왔다. 이러한 이해는 선행자율성에 기초하여 과거의 결정이 미래의 임상 상황에서도 정당한 구속력을 가진다는 전제를 포함한다. 그러나 치매, 말기 질환, 중증 장애와 같은 조건에서 개인의 경험과 가치가 근본적으로 변화할 수 있으며, 가족과 의료진, 제도적 환경이 실제 결정에 깊이 개입한다는 점이 반복적으로 지적되어 왔다. 본 논문은 이러한 대립을 시몽동의 개체화 이론을 통해 재구성한다. 시몽동에 따르면 인간은 고정된 주체가 아니라 전개체적 잠재성을 지닌 채 관계, 환경, 기술과의 상호작용 속에서 끊임없이 형성되는 존재이다. 이 관점에서 사전돌봄계획은 단순한 ‘선택의 저장’이 아니라, 환자, 가족, 의료진, 의료기술, 법과 제도가 함께 엮여 죽음을 둘러싼 의미와 책임을 재조직하는 집단적 개체화의 과정으로 이해될 수 있다.]]></abstract>
+          <abstract lang="english"><![CDATA[This article intervenes in contemporary bioethical debates on Advance Care Planning (ACP) through the lens of Gilbert Simondon’s theory of individuation. ACP is commonly understood as a mechanism by which individuals record their future medical preferences and values before losing decision-making capacity. Such an understanding typically rests on the assumption of precedent autonomy, according to which decisions made in the past retain normative authority in future clinical situations. However, it has been repeatedly argued that in conditions such as dementia, terminal illness, or severe disability, a person’s experiences and values may undergo profound transformation, and that family members, healthcare professionals, and institutional contexts play a substantial role in actual decision-making processes.
+This paper reconstructs this opposition by drawing on Simondon’s theory of individuation. According to Simondon, the human being is not a fixed subject but a being endowed with preindividual potential, continuously formed through interactions with relations, environments, and technologies. From this perspective, ACP is not merely a “storage of choices,” but can be understood as a process of collective individuation in which patients, families, healthcare professionals, medical technologies, legal frameworks, and institutions together reorganize the meanings and responsibilities surrounding death.]]></abstract>
+        </abstract-group>
+        <fpage>23</fpage>
+        <lpage>44</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003312742]]></url>
+        <verified>N</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>동서철학연구</journal-name>
+        <publisher-name>한국동서철학회</publisher-name>
+        <pub-year>2022</pub-year>
+        <pub-mon>09</pub-mon>
+        <volume />
+        <issue>105</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002882166">
+        <article-categories>철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[스피노자의 인과론과 개체화 문제]]></article-title>
+          <article-title lang="foreign"><![CDATA[Spinoza's Causality and the Problem of Individuation]]></article-title>
+          <article-title lang="english"><![CDATA[Spinoza's Causality and the Problem of Individuation]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Hyouk Ju Lee">이혁주(성균관대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[스피노자의 개체론에서 모든 개체는 상이한 본성을 지닌 개체들 사이의 운동과 정지의 관계, 곧 그것들 간 연합이다. 이 연합에 의해 개체들은 그것들이 합성하는 개체의 부분들로 간주되며, 개체들은 이 연합의 차이에 의해 개별화된다. 따라서 개체의 개체성은 부분들 사이의 연합이다. 하지만 상이한 본성을 지닌 개체들의 연합이 어떻게 안정적일 수 있는지는 근본적으로 문제적이다. 우리는 이 문제가 그의 인과론을 통해 해명될 수 있다고 본다. 먼저 개체의 실존과 작업은 상호 함축적이므로 개체성은 개체들 간 힘의 차이에서 비롯된 결과로 이해될 수 있다. 따라서 개체성은 내부 원인과 외부 원인 둘 다를 통해 이해되어야 한다. 그런데 개체는 항상 이미 같은 수준의 개체들은 물론 다른 수준의 개체들과의 상호 운동 관계 속에 있다. 따라서 개체성은 이러한 관계의 안정성에 의해 파악되어야 한다. 결론적으로 스피노자 철학에서 개체의 개체성, 곧 부분들이 연합의 안정성은 다른 원인들과의 상호 운동 관계에 의해 해명된다.]]></abstract>
+          <abstract lang="english"><![CDATA[In Spinoza's individualism, every individual is a relation of motion and rest between individuals with different natures, that is, a union between them. By this union, the individuals are regarded as parts of the individual they compose, and individuals are individualized by the difference of this union. Thus, the individuality of the individual is the union between its parts. However, how the union of individuals with different natures can be stable is fundamentally problematic. We believe that this problem can be explained through his causal theory. First, since the existence and work of an individual are mutually implicit, individuality can be understood as a result of the difference in the power of each individual. Individuality must therefore be understood through both internal and external causes. However, an individual is always already in a mutually kinetic relationship with individuals of the same level as well as individuals of a different level. Therefore, individuality must be grasped by the stability of this relationship. In conclusion, in Spinoza's philosophy, the individuality of the individual, that is, the stability of the union of parts is elucidated by the reciprocal kinetic relationship with other causes.]]></abstract>
+        </abstract-group>
+        <fpage>263</fpage>
+        <lpage>296</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.15841/kspew..105.202209.263]]></doi>
+        <uci />
+        <citation-count kci="2" wos="0">2</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002882166]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>영어영문학</journal-name>
+        <publisher-name>미래영어영문학회</publisher-name>
+        <pub-year>2026</pub-year>
+        <pub-mon>02</pub-mon>
+        <volume>31</volume>
+        <issue>1</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003312876">
+        <article-categories>영어와문학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[디지털 연극『인카운터』의 시·공간과 매체 존재론]]></article-title>
+          <article-title lang="english"><![CDATA[Time, Space, and Media Ontology in Digital Theatre: Simon Mcburney’s The Encounter]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Hyunsun Woo">우현선(경북대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[This article examines The Encounter as an example of digital theatre in which sound media operate as a constitutive condition of performance rather than as a supplementary tool. Through binaural sound, spectators experience an auditory immersion that reorganizes perception and enables the formation of an affective community beyond visual representation. To articulate the ontological status of sound media, the article draws on key developments in media theory, including Marshall McLuhan’s understanding of media as conditions of perception, Friedrich Kittler’s materialist account of technical recording and processing, and Bernard Stiegler’s theory of memory technology. These perspectives are complemented by Mark Hansen’s emphasis on embodied sensation and Gilbert Simondon’s theory of individuation which all frame the performance as a relational process involving humans, machines, memory, and environment. These relational dynamics resonate with the overarching themes of The Encounter. Spectators perceive temporal flow as co-evolving with their environment, positioning the Amazon not within a linear conception of time but as a relational sphere structured by cyclical and non-linear temporality. Consequently, the Amazon functions not as a representational background but as a spatial condition in which relations among humans, nature, time, and consciousness are reconfigured.]]></abstract>
+          <abstract lang="english"><![CDATA[This article examines The Encounter as an example of digital theatre in which sound media operate as a constitutive condition of performance rather than as a supplementary tool. Through binaural sound, spectators experience an auditory immersion that reorganizes perception and enables the formation of an affective community beyond visual representation. To articulate the ontological status of sound media, the article draws on key developments in media theory, including Marshall McLuhan’s understanding of media as conditions of perception, Friedrich Kittler’s materialist account of technical recording and processing, and Bernard Stiegler’s theory of memory technology. These perspectives are complemented by Mark Hansen’s emphasis on embodied sensation and Gilbert Simondon’s theory of individuation which all frame the performance as a relational process involving humans, machines, memory, and environment. These relational dynamics resonate with the overarching themes of The Encounter. Spectators perceive temporal flow as co-evolving with their environment, positioning the Amazon not within a linear conception of time but as a relational sphere structured by cyclical and non-linear temporality. Consequently, the Amazon functions not as a representational background but as a spatial condition in which relations among humans, nature, time, and consciousness are reconfigured.]]></abstract>
+        </abstract-group>
+        <fpage>63</fpage>
+        <lpage>81</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003312876]]></url>
+        <verified>N</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>한국스포츠학회</journal-name>
+        <publisher-name>한국스포츠학회</publisher-name>
+        <pub-year>2025</pub-year>
+        <pub-mon>06</pub-mon>
+        <volume>23</volume>
+        <issue>2</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003212562">
+        <article-categories>기타체육</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[e스포츠에서의 죽음과 부활: 시몽동의 개체화 이론을 통한 디지털 존재론과 윤리적 함의]]></article-title>
+          <article-title lang="foreign"><![CDATA[Death and Resurrection in Esports: A Digital Ontology Study through Simondon’s Theory of Individuation]]></article-title>
+          <article-title lang="english"><![CDATA[Death and Resurrection in Esports: A Digital Ontology Study through Simondon’s Theory of Individuation]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Park, Seong-Eun">박성은(경성대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 연구는 e스포츠 장르에서의 죽음 현상을 질베르 시몽동의 개체화 이론을 통해 연구하였다. 전통적인 생물학적 죽음과 다르게 e스포츠에서의 죽음은 일시적이고 가역적인 상태로, 게임의 전략적 흐름과 공동체적 관계 형성에 핵심적인 역할을 한다. 이러한 분석을 위해 MOBA와 FPS 장르를 중심으로 시몽동의 준안정적 평형, 개체발생, 개체화/개별화/개인화, 연속/불연속, 정보의 체제, 군체와 개체의 상호작용 개념을 적용하였다. 연구결과, e스포츠에서 죽음은 플레이어가 다양한 상(phase)을 경험하는 새로운 형태의 개체화 과정임을 확인할 수 있었다. 특히 주목할 점은 죽음이 정보 생성의 계기가 되고, 팀을 ‘준-군체’로 변화시키며, 플레이어의 윤리적 감수성 형성에 영향을 미친다는 것이다. 또한 부활 메커니즘은 죽음의 불연속성을 전략적 연속성으로 변형시키며, ‘누구를 살릴 것인가’의 선택은 윤리적 딜레마를 야기한다. 프로 e스포츠 선수들은 반복적인 죽음과 부활을 통해 ‘인격성’의 영역으로 진입하는 반면, 일반 플레이어들은 보다 자유롭고 다양한 방식으로 개체화 과정을 경험한다. 한편 트롤링과 사이버폭력과 같은 왜곡 현상들은 개체화 과정의 실패로 이해할 수 있으며, 시몽동의 내재성/외재성의 집단 역학 개념으로 분석할 때 팀이라는 준-군체의 내적 관계를 파괴하는 왜곡된 개체화의 형태임을 보여준다. 본 연구는 디지털 환경에서의 존재론적 조건을 철학적으로 탐구함으로써 게임 연구와 철학의 접점을 확장하고, 시몽동 철학의 현대적 적용 가능성을 제시한다는 의의를 갖는다.]]></abstract>
+          <abstract lang="english"><![CDATA[This study analyzes the phenomenon of death in esports through Gilbert Simondon’s theory of individuation. Unlike traditional biological death, death in esports is temporary and reversible, playing a crucial role in strategic gameplay and community formation. Applying Simondon’s concepts of metastable equilibrium, individuation, continuity/discontinuity, information systems, and individual-colony interaction to MOBA and FPS genres, this research reveals that death in esports constitutes a new form of individuation process where players experience various phases. Key findings include: death serves as a catalyst for information generation and transforms teams into ‘quasi-colonies’; revival mechanisms transform death’s discontinuity into strategic continuity; professional gamers develop ‘personality’ through repeated death-revival cycles while casual players experience more diverse individuation processes; distorted phenomena like trolling and cyberbullying represent failures of individuation that destroy team relationships. This study expands the intersection between game studies and philosophy by exploring digital ontological conditions and demonstrating contemporary applications of Simondonian philosophy.]]></abstract>
+        </abstract-group>
+        <fpage>31</fpage>
+        <lpage>52</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.46669/kss.2025.23.2.003]]></doi>
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003212562]]></url>
+        <verified>N</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>인문사회과학연구</journal-name>
+        <publisher-name>국제인문사회연구학회</publisher-name>
+        <pub-year>2025</pub-year>
+        <pub-mon>06</pub-mon>
+        <volume>7</volume>
+        <issue>3</issue>
+      </journalInfo>
+      <articleInfo article-id="ART003213687">
+        <article-categories>기타사회과학일반</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[현대중국어의 준부정관사 ‘一+양사’의 기능 연구]]></article-title>
+          <article-title lang="foreign"><![CDATA[A Study on the Functions of Modern Chinese Indefinite Marker ‘Yi+CL’]]></article-title>
+          <article-title lang="english"><![CDATA[A Study on the Functions of Modern Chinese Indefinite Marker ‘Yi+CL’]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Jikyung Hwang">황지경(부산대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[연구 목적: 본 연구는 현대 중국어에서 부정관사에 상응하는 ‘(一)+양사’가 단순한 통사적 수의성으로는 설명되지 않는다는 문제의식에서 출발하여, 그 의미·화용적 실현 양상을 다른 언어와의 대조를 통해 분석하고자 한다.
+연구 방법: 중국어와 유사하게 부정관사가 수의적으로 실현되는 언어들과 비교하여 ‘(一)+양사’의 범언어적 조건을 검토하였다. 또한 『채식주의자』 원문에 대한 중국어, 영어, 스페인어 번역서를 대조하여 중국어의 부정관사 실현 양상을 상대적 시각에서 고찰하였다.
+연구 내용: 첫째, 중국어의 ‘(一)+양사’는 (1) 수식구를 포함한 명사구 (2) 담화 내 현저성이 높은 정보 (3) 주관적 평가에서 주로 실현되며, 이는 부정관사가 수의적인 언어들과 공통된 조건이다. 둘째, ‘(一)+양사’는 중국어 고유의 개체화 전략이 반영된 부정관사로서 불가산명사 및 복수명사에 대한 화자의 개체적 인식표현 및 묘사성을 극대화하는 화용적 목적을 위해 전략적으로 사용된다.
+결론 및 제언: 본 연구는 중국어 ‘(一)+양사’가 개체성·현저성·주관성을 표지하는 핵심 전략으로 기능함을 확인하였다. 이 구조는 범언어적 보편성과 중국어의 특수성을 동시에 지니며 화용적 목적이 강한 능동적 표현 전략이다.]]></abstract>
+          <abstract lang="english"><![CDATA[This study examines the Modern Chinese structure “(yī)+classifier,” which corresponds to an indefinite article, focusing on how its realization depends on semantic and pragmatic factors rather than syntactic obligatoriness. Through comparison with languages where indefinite articles are used optionally, the study explores the conditions that trigger its use. Cross-linguistic data and translated texts of ‘The Vegetarian’ (from Korean into Chinese, English, and Spanish) are analyzed to investigate how indefinite meanings are expressed across languages. The results show that “(yī)+classifier” commonly appears with modified noun phrases, discourse-new or prominent information, and evaluative contexts. These patterns are shared with other languages that permit optional use of indefinite articles. The structure also reflects a distinctive Chinese individuation strategy, frequently applied to uncountable nouns and plural nouns for pragmatic emphasis. Thus, “(yī)+classifier” functions as more than a marker of indefiniteness; it serves as a key device for expressing salience and speaker perspective, with both universal and Chinese language-specific features.]]></abstract>
+        </abstract-group>
+        <fpage>1055</fpage>
+        <lpage>1072</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.62783/SHSS.7.3.66]]></doi>
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003213687]]></url>
+        <verified>N</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>철학논총</journal-name>
+        <publisher-name>새한철학회</publisher-name>
+        <pub-year>2023</pub-year>
+        <pub-mon>07</pub-mon>
+        <volume>113</volume>
+        <issue>3</issue>
+      </journalInfo>
+      <articleInfo article-id="ART002985798">
+        <article-categories>철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[쇼펜하우어의 동물윤리(Tierethik)에 대한 고찰]]></article-title>
+          <article-title lang="foreign"><![CDATA[A Study on Schopenhauer’s Animal-Ethics]]></article-title>
+          <article-title lang="english"><![CDATA[A Study on Schopenhauer’s Animal-Ethics]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Seu-Kyou LEE">이서규(제주대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[쇼펜하우어의 의지형이상학에 따르면 모든 존재는 의지가 객관화된 것이다. 쇼펜하우어의 의지형이상학을 특징짓는 의지의 객관화라는 개념은 인간뿐만 아니라 동물 그리고 무기체들이 의지의 현상이며, 따라서 서로 동근원적인 기원을 갖고 있다는 것을 말해준다.
+쇼펜하우어는 이러한 전제 아래에서 인간과 동물 사이의 배타적인 차이를 상정하는 종교와 근대철학의 인간이해를 해체한다. 쇼펜하우어에 따르면 특히 유대교-기독교적인 전통은 동물의 존재를 인간의 위한 수단으로 변질시키며, 근대의 데카르트철학은 동물의 존재를 단순한 연장(res extensa)을 지닌 사물로 규정할 뿐이다. 동물의 존재에 대한 이러한 배타적이고 부정적인 해석은 모든 존재를 의지가 객관화된 것으로 파악하는 쇼펜하우어의입장에서는 받아들이기 어려운 것이다. 따라서 쇼펜하우어의 의지형이상학은 인간과 동물사이에 놓여있는 동근원성을 강조하면서 동물의 존재에 대한 새로운 관계설정의 필요성을부각시킨다. 특히 쇼펜하우어는 인간을 동물보다 우월한 존재로 규정하는데 결정적이었던이성의 역할을 의지의 작용으로 귀속시키면서 인간과 동물 모두를 의지의 지배를 받는 유한한 존재로 파악한다. 쇼펜하우어는 신체성, 살려는 의지, 이기주의가 인간뿐만 아니라 동물에서도 확인된다는 점을 강조하는데, 인간과 동물 사이에 놓여 있는 이러한 존재특성을기반으로 동물윤리를 정초하기 위한 기본적인 입장들이 제시된다. 쇼펜하우어의 동물윤리는 동물에 대한 이제까지의 배타적인 평가가 정당한지를 다시 검토하도록 요청한다. 특히쇼펜하우어는 모든 윤리적 행위의 출발점이 고통의 승인이라는 점을 강조하면서 윤리학의최고원리인 “누구도 해치지 마라”(Neminem laede)가 동물에까지 적용되어야 한다고 주장하는데, 이와 함께 쇼펜하우어는 당대의 유럽과 미국에서 동물의 도덕적 권리를 언급한 것을 환기시키면서 동물윤리에 대한 적극적인 논의의 필요성을 역설하고 있다. 이 논문에서는 쇼펜하우어가 동물윤리를 주장하는 이유와 이러한 동물윤리의 필요성을 정당화해주는형이상학적 주장들이 무엇인지 그리고 이러한 동물윤리를 실현하는 과정에서 드러나는 문제점들을 고찰하도록 한다.]]></abstract>
+          <abstract lang="english"><![CDATA[According to Schopenhauer's metaphysics of will, all beings are objectified will. The concept of objectification of will, which characterizes Schopenhauer's metaphysics of will, tells us that not only humans but also animals and inorganic bodies are phenomena of will, and therefore have the same origin as each other. Under this premise, Schopenhauer dismantles the human understanding of religion and modern philosophy, which presupposes an exclusive difference between humans and animals. According to Schopenhauer, the Judeo-Christian tradition in particular transforms the existence of animals into a means for human beings, and the modern Cartesian philosophy only defines the existence of animals as objects with simple extensions. Such an exclusive and negative interpretation of the existence of animals is difficult to accept from Schopenhauer's point of view, who grasps all beings as objects of will. Therefore, Schopenhauer's metaphysics of will not only dismantles the traditional philosophical understanding of man based on the absolute superiority of man over animals, emphasizing the equivalence between man and animals, but also establishes a new relationship to the existence of animals. In particular, Schopenhauer attributed the role of reason, which was decisive in defining humans as beings superior to animals, to the action of will, and identified both humans and animals as finite beings governed by will. Schopenhauer emphasizes that physicality, will to live, and egotism are confirmed not only in humans but also in animals. Schopenhauer's animal ethics calls for a reexamination of whether human behavior toward animals so far is justified. In particular, Schopenhauer mentions that the starting point of all ethical behavior is suffering and insists that the highest principle of ethics, “Do no harm to anyone”, should be applied to animals as well.]]></abstract>
+        </abstract-group>
+        <fpage>193</fpage>
+        <lpage>215</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="1" wos="0">1</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002985798]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>근대 철학</journal-name>
+        <publisher-name>서양근대철학회</publisher-name>
+        <pub-year>2025</pub-year>
+        <pub-mon>04</pub-mon>
+        <volume>25</volume>
+        <issue />
+      </journalInfo>
+      <articleInfo article-id="ART003199442">
+        <article-categories>철학</article-categories>
+        <article-regularity>Y</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[기술과 종교의 종합, 가치와 규범의 소통: 시몽동의 메타윤리학]]></article-title>
+          <article-title lang="foreign"><![CDATA[Synthesis of Technique and Religion, Communication of Values and Norms: Gilbert Simondon’s Metaethics]]></article-title>
+          <article-title lang="english"><![CDATA[Synthesis of Technique and Religion, Communication of Values and Norms: Gilbert Simondon’s Metaethics]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Tae Soon Chang">장태순(한림대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[본 연구는 시몽동의 메타윤리학을 정립하기 위한 것이다. 시몽동은 두 주저에 서 윤리학에 대해 서술했지만, 그것은 구체적인 규범 체계가 아니라 윤리학 자체에 대한 사유이다. 『기술적 대상들의 존재 양식에 관하여』에서 시몽동은 인간과 세계의 관계에 대한 다양한 사유 양식을 설명하는데, 여기서 윤리는 과학과 함께 기술적 사유와 종교적 사유가 양분되어 재결합한 결과물로 나타난다. 그 결과 윤리는 실천적 사유로서 이론적 사유인 과학과 대립하지만, 종교의 주체적 측면과 기술의 대상적 측면을 모두 가지고 있다. 윤리는 주체와 객체의 대립으로 인한 긴장을 해소하고 둘을 양립가능하게 만드는 해(solution) 로서 나타난 일종의 개체이다. 『형태와 정보 개념에 비추어 본 개체화』에서시몽동은 윤리학 내에 공존하는 양립불가능성을 규범과 가치라는 개념쌍으로 설명한다. 가치는 규범을 탄생시키며 규범 체계를 둘러싸고 있는 전개체성이다. 윤리학의 본질은 규범이나 가치가 아니라 규범과 가치의 소통에 있다.]]></abstract>
+          <abstract lang="english"><![CDATA[This study aims to establish the metaethics of Simondon. Although Simondon discusses ethics in two of his major works, these are not specific normative systems but reflections on ethics itself. In On the Mode of Existence of Technical Objects, Simondon describes various modes of thinking about the relationship between humans and the world. Here, ethics emerges as a result of the division and reassembly of technical thought and religious thought, alongside science. As a result, ethics, as practical thought, opposes theoretical thought like science, but it also contains both the subjective aspect of religion and the objective aspect of technology. Ethics appears as a kind of entity that resolves the tension between the subject and object, making them compatible with each other. In Individuation in Light of Notions of Form and Information, Simondon explains the incommensurability coexisting within ethics through the pair of concepts: norm and value. Value gives rise to norms and represents the pre-individuality surrounding the normative system. The essence of ethics lies not in norms or values themselves, but in the communication between norms and values.]]></abstract>
+        </abstract-group>
+        <fpage>201</fpage>
+        <lpage>223</lpage>
+        <doi><![CDATA[http://dx.doi.org/10.52677/mph.2025.04.25.7]]></doi>
+        <uci />
+        <citation-count kci="1" wos="0">1</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003199442]]></url>
+        <verified>N</verified>
+      </articleInfo>
+    </record>
+    <record>
+      <journalInfo>
+        <journal-name>2024 International Design Exhibition &amp; Conference Invited to Srinakharinwirot University, Thailand</journal-name>
+        <publisher-name>한국디자인리서치학회</publisher-name>
+        <pub-year>2024</pub-year>
+        <pub-mon>07</pub-mon>
+        <volume />
+        <issue />
+      </journalInfo>
+      <articleInfo article-id="ART003128283">
+        <article-categories>디자인</article-categories>
+        <article-regularity>N</article-regularity>
+        <title-group>
+          <article-title lang="original"><![CDATA[한국 SF영화에 나타난 인공지능 기술 재현양상 고찰]]></article-title>
+          <article-title lang="english"><![CDATA[Representation of Artificial Intelligence Technology in South Korean SF Films]]></article-title>
+        </title-group>
+        <author-group>
+          <author english="Kang, Baek Seon">강백선(전남대학교 문화전문대학원 미디어콘텐츠·컬처테크전공)</author>
+          <author english="Byun HyunJin">변현진(전남대학교)</author>
+        </author-group>
+        <abstract-group>
+          <abstract lang="original"><![CDATA[This paper explores the rapid development of artificial intelligence (AI) technology after the Fourth Industrial Revolution and its impact on media discourse. Interest in AI has increased significantly with the emergence of AlphaGo in 2016 and CHAT-GPT4 in 2023. This study applies Gilbert Simondon's individuation theory to analyze the reproduction and technical description of AI characters in the Korean science fiction films 'Robot, Sori' and 'Jeong-i.' The findings confirm that AI technology, through the fusion of humans and technology, facilitates the creation of new forms of existence called posthumans. Moreover, social and cultural background plays a more significant role in forming the originality of each work than technological progress within each movie.]]></abstract>
+          <abstract lang="english"><![CDATA[This paper explores the rapid development of artificial intelligence (AI) technology after the Fourth Industrial Revolution and its impact on media discourse. Interest in AI has increased significantly with the emergence of AlphaGo in 2016 and CHAT-GPT4 in 2023. This study applies Gilbert Simondon's individuation theory to analyze the reproduction and technical description of AI characters in the Korean science fiction films 'Robot, Sori' and 'Jeong-i.' The findings confirm that AI technology, through the fusion of humans and technology, facilitates the creation of new forms of existence called posthumans. Moreover, social and cultural background plays a more significant role in forming the originality of each work than technological progress within each movie.]]></abstract>
+        </abstract-group>
+        <fpage>83</fpage>
+        <lpage>86</lpage>
+        <doi />
+        <uci />
+        <citation-count kci="0" wos="0">0</citation-count>
+        <url><![CDATA[https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003128283]]></url>
+        <verified>Y</verified>
+      </articleInfo>
+    </record>
+  </outputData>
+</MetaData>
