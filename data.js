@@ -1,15 +1,8634 @@
 window.KCI_DATA = [
   {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "Since the 2000s, several writers and works dealing with the identity confusion experienced by the contemporary Chinese have appeared. Xu Ze Chen(徐則臣) is a writer representing these writers, and his work Ah, Beijing (啊, 北京) can also be said to be a work that shows the above-described theme consciousness of Xu Zichen.\nXu Zhichen compares imaginary Beijing with real Beijing, Beijing and a local village , revealing the sense of alienation and absence of people living in China today. In particular, “Ah, Beijing” effectively portrays the sense of theme that he is trying to say through the specific geographical characteristics surrounding Beijing University and its symbols.\nBased on the above, this paper tries to examine how the various spaces appearing in the work represent the reality of the characters in the work and what it means through Gilbert Simondon's theory of individuation and Literary Geography perspective. This can be an attempt to examine the theme consciousness of Xu Zichen and his work “Ah, Beijing”, and seek the direction in which the contemporary Chinese identity confusion be viewed.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 질베르 시몽동의 기술철학을 바탕으로 실감형 전시 콘텐츠 <A.I. 김홍도: 붓선 ver.1.0>의 구현 과정을 분석하고, AI 이미지 생성을 인간과 기술의 존재론적인 협력과 결합의  과정으로 고찰한다. 이를 위해 데이터 전처리 및 학습 과정을 개체화의 잠재적 환경 조성으로, GAN과 인스턴스 세그먼테이션을 활용한 이미지 생성을 정보의 변환적 생성(transductive generation)으로, 전시 공간 설계와 상호 작용까지 전체 과정의 개체화를 인간-기계-이미지의 공동 개체화(co-individuation)로 규명한다. 본 고는 AI 예술 창작이 단순한 기술적 자동화가 아니라, 인간의 미적 의도와 기술의 내부 논리가 상호 매개되어 새로운 감각적 실재를 형성하는 협력적 사건임을 논증한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 사전돌봄계획(Advance Care Planning, ACP)을 둘러싼 현대 생명윤리 논쟁에 질베르 시몽동의 개체화 이론을 통해 개입하려는 연구이다. 사전돌봄계획은 일반적으로 개인이 의사결정 능력을 상실하기 전에 미래 의료에 대한 자신의 가치 지향과 선택을 미리 문서화하는 제도로 이해되어 왔다. 이러한 이해는 선행자율성에 기초하여 과거의 결정이 미래의 임상 상황에서도 정당한 구속력을 가진다는 전제를 포함한다. 그러나 치매, 말기 질환, 중증 장애와 같은 조건에서 개인의 경험과 가치가 근본적으로 변화할 수 있으며, 가족과 의료진, 제도적 환경이 실제 결정에 깊이 개입한다는 점이 반복적으로 지적되어 왔다. 본 논문은 이러한 대립을 시몽동의 개체화 이론을 통해 재구성한다. 시몽동에 따르면 인간은 고정된 주체가 아니라 전개체적 잠재성을 지닌 채 관계, 환경, 기술과의 상호작용 속에서 끊임없이 형성되는 존재이다. 이 관점에서 사전돌봄계획은 단순한 ‘선택의 저장’이 아니라, 환자, 가족, 의료진, 의료기술, 법과 제도가 함께 엮여 죽음을 둘러싼 의미와 책임을 재조직하는 집단적 개체화의 과정으로 이해될 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "스피노자의 개체론에서 모든 개체는 상이한 본성을 지닌 개체들 사이의 운동과 정지의 관계, 곧 그것들 간 연합이다. 이 연합에 의해 개체들은 그것들이 합성하는 개체의 부분들로 간주되며, 개체들은 이 연합의 차이에 의해 개별화된다. 따라서 개체의 개체성은 부분들 사이의 연합이다. 하지만 상이한 본성을 지닌 개체들의 연합이 어떻게 안정적일 수 있는지는 근본적으로 문제적이다. 우리는 이 문제가 그의 인과론을 통해 해명될 수 있다고 본다. 먼저 개체의 실존과 작업은 상호 함축적이므로 개체성은 개체들 간 힘의 차이에서 비롯된 결과로 이해될 수 있다. 따라서 개체성은 내부 원인과 외부 원인 둘 다를 통해 이해되어야 한다. 그런데 개체는 항상 이미 같은 수준의 개체들은 물론 다른 수준의 개체들과의 상호 운동 관계 속에 있다. 따라서 개체성은 이러한 관계의 안정성에 의해 파악되어야 한다. 결론적으로 스피노자 철학에서 개체의 개체성, 곧 부분들이 연합의 안정성은 다른 원인들과의 상호 운동 관계에 의해 해명된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This article examines The Encounter as an example of digital theatre in which sound media operate as a constitutive condition of performance rather than as a supplementary tool. Through binaural sound, spectators experience an auditory immersion that reorganizes perception and enables the formation of an affective community beyond visual representation. To articulate the ontological status of sound media, the article draws on key developments in media theory, including Marshall McLuhan’s understanding of media as conditions of perception, Friedrich Kittler’s materialist account of technical recording and processing, and Bernard Stiegler’s theory of memory technology. These perspectives are complemented by Mark Hansen’s emphasis on embodied sensation and Gilbert Simondon’s theory of individuation which all frame the performance as a relational process involving humans, machines, memory, and environment. These relational dynamics resonate with the overarching themes of The Encounter. Spectators perceive temporal flow as co-evolving with their environment, positioning the Amazon not within a linear conception of time but as a relational sphere structured by cyclical and non-linear temporality. Consequently, the Amazon functions not as a representational background but as a spatial condition in which relations among humans, nature, time, and consciousness are reconfigured.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 e스포츠 장르에서의 죽음 현상을 질베르 시몽동의 개체화 이론을 통해 연구하였다. 전통적인 생물학적 죽음과 다르게 e스포츠에서의 죽음은 일시적이고 가역적인 상태로, 게임의 전략적 흐름과 공동체적 관계 형성에 핵심적인 역할을 한다. 이러한 분석을 위해 MOBA와 FPS 장르를 중심으로 시몽동의 준안정적 평형, 개체발생, 개체화/개별화/개인화, 연속/불연속, 정보의 체제, 군체와 개체의 상호작용 개념을 적용하였다. 연구결과, e스포츠에서 죽음은 플레이어가 다양한 상(phase)을 경험하는 새로운 형태의 개체화 과정임을 확인할 수 있었다. 특히 주목할 점은 죽음이 정보 생성의 계기가 되고, 팀을 ‘준-군체’로 변화시키며, 플레이어의 윤리적 감수성 형성에 영향을 미친다는 것이다. 또한 부활 메커니즘은 죽음의 불연속성을 전략적 연속성으로 변형시키며, ‘누구를 살릴 것인가’의 선택은 윤리적 딜레마를 야기한다. 프로 e스포츠 선수들은 반복적인 죽음과 부활을 통해 ‘인격성’의 영역으로 진입하는 반면, 일반 플레이어들은 보다 자유롭고 다양한 방식으로 개체화 과정을 경험한다. 한편 트롤링과 사이버폭력과 같은 왜곡 현상들은 개체화 과정의 실패로 이해할 수 있으며, 시몽동의 내재성/외재성의 집단 역학 개념으로 분석할 때 팀이라는 준-군체의 내적 관계를 파괴하는 왜곡된 개체화의 형태임을 보여준다. 본 연구는 디지털 환경에서의 존재론적 조건을 철학적으로 탐구함으로써 게임 연구와 철학의 접점을 확장하고, 시몽동 철학의 현대적 적용 가능성을 제시한다는 의의를 갖는다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "연구 목적: 본 연구는 현대 중국어에서 부정관사에 상응하는 ‘(一)+양사’가 단순한 통사적 수의성으로는 설명되지 않는다는 문제의식에서 출발하여, 그 의미·화용적 실현 양상을 다른 언어와의 대조를 통해 분석하고자 한다.\n연구 방법: 중국어와 유사하게 부정관사가 수의적으로 실현되는 언어들과 비교하여 ‘(一)+양사’의 범언어적 조건을 검토하였다. 또한 『채식주의자』 원문에 대한 중국어, 영어, 스페인어 번역서를 대조하여 중국어의 부정관사 실현 양상을 상대적 시각에서 고찰하였다.\n연구 내용: 첫째, 중국어의 ‘(一)+양사’는 (1) 수식구를 포함한 명사구 (2) 담화 내 현저성이 높은 정보 (3) 주관적 평가에서 주로 실현되며, 이는 부정관사가 수의적인 언어들과 공통된 조건이다. 둘째, ‘(一)+양사’는 중국어 고유의 개체화 전략이 반영된 부정관사로서 불가산명사 및 복수명사에 대한 화자의 개체적 인식표현 및 묘사성을 극대화하는 화용적 목적을 위해 전략적으로 사용된다.\n결론 및 제언: 본 연구는 중국어 ‘(一)+양사’가 개체성·현저성·주관성을 표지하는 핵심 전략으로 기능함을 확인하였다. 이 구조는 범언어적 보편성과 중국어의 특수성을 동시에 지니며 화용적 목적이 강한 능동적 표현 전략이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "쇼펜하우어의 의지형이상학에 따르면 모든 존재는 의지가 객관화된 것이다. 쇼펜하우어의 의지형이상학을 특징짓는 의지의 객관화라는 개념은 인간뿐만 아니라 동물 그리고 무기체들이 의지의 현상이며, 따라서 서로 동근원적인 기원을 갖고 있다는 것을 말해준다.\n쇼펜하우어는 이러한 전제 아래에서 인간과 동물 사이의 배타적인 차이를 상정하는 종교와 근대철학의 인간이해를 해체한다. 쇼펜하우어에 따르면 특히 유대교-기독교적인 전통은 동물의 존재를 인간의 위한 수단으로 변질시키며, 근대의 데카르트철학은 동물의 존재를 단순한 연장(res extensa)을 지닌 사물로 규정할 뿐이다. 동물의 존재에 대한 이러한 배타적이고 부정적인 해석은 모든 존재를 의지가 객관화된 것으로 파악하는 쇼펜하우어의입장에서는 받아들이기 어려운 것이다. 따라서 쇼펜하우어의 의지형이상학은 인간과 동물사이에 놓여있는 동근원성을 강조하면서 동물의 존재에 대한 새로운 관계설정의 필요성을부각시킨다. 특히 쇼펜하우어는 인간을 동물보다 우월한 존재로 규정하는데 결정적이었던이성의 역할을 의지의 작용으로 귀속시키면서 인간과 동물 모두를 의지의 지배를 받는 유한한 존재로 파악한다. 쇼펜하우어는 신체성, 살려는 의지, 이기주의가 인간뿐만 아니라 동물에서도 확인된다는 점을 강조하는데, 인간과 동물 사이에 놓여 있는 이러한 존재특성을기반으로 동물윤리를 정초하기 위한 기본적인 입장들이 제시된다. 쇼펜하우어의 동물윤리는 동물에 대한 이제까지의 배타적인 평가가 정당한지를 다시 검토하도록 요청한다. 특히쇼펜하우어는 모든 윤리적 행위의 출발점이 고통의 승인이라는 점을 강조하면서 윤리학의최고원리인 “누구도 해치지 마라”(Neminem laede)가 동물에까지 적용되어야 한다고 주장하는데, 이와 함께 쇼펜하우어는 당대의 유럽과 미국에서 동물의 도덕적 권리를 언급한 것을 환기시키면서 동물윤리에 대한 적극적인 논의의 필요성을 역설하고 있다. 이 논문에서는 쇼펜하우어가 동물윤리를 주장하는 이유와 이러한 동물윤리의 필요성을 정당화해주는형이상학적 주장들이 무엇인지 그리고 이러한 동물윤리를 실현하는 과정에서 드러나는 문제점들을 고찰하도록 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 시몽동의 메타윤리학을 정립하기 위한 것이다. 시몽동은 두 주저에 서 윤리학에 대해 서술했지만, 그것은 구체적인 규범 체계가 아니라 윤리학 자체에 대한 사유이다. 『기술적 대상들의 존재 양식에 관하여』에서 시몽동은 인간과 세계의 관계에 대한 다양한 사유 양식을 설명하는데, 여기서 윤리는 과학과 함께 기술적 사유와 종교적 사유가 양분되어 재결합한 결과물로 나타난다. 그 결과 윤리는 실천적 사유로서 이론적 사유인 과학과 대립하지만, 종교의 주체적 측면과 기술의 대상적 측면을 모두 가지고 있다. 윤리는 주체와 객체의 대립으로 인한 긴장을 해소하고 둘을 양립가능하게 만드는 해(solution) 로서 나타난 일종의 개체이다. 『형태와 정보 개념에 비추어 본 개체화』에서시몽동은 윤리학 내에 공존하는 양립불가능성을 규범과 가치라는 개념쌍으로 설명한다. 가치는 규범을 탄생시키며 규범 체계를 둘러싸고 있는 전개체성이다. 윤리학의 본질은 규범이나 가치가 아니라 규범과 가치의 소통에 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This paper explores the rapid development of artificial intelligence (AI) technology after the Fourth Industrial Revolution and its impact on media discourse. Interest in AI has increased significantly with the emergence of AlphaGo in 2016 and CHAT-GPT4 in 2023. This study applies Gilbert Simondon's individuation theory to analyze the reproduction and technical description of AI characters in the Korean science fiction films 'Robot, Sori' and 'Jeong-i.' The findings confirm that AI technology, through the fusion of humans and technology, facilitates the creation of new forms of existence called posthumans. Moreover, social and cultural background plays a more significant role in forming the originality of each work than technological progress within each movie.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 2000년 전후 특정 지역을 화두로 활성화된 성남 프로젝트, 동두천 프로젝트가 오늘날까지 전개된 과정을 고찰한다. 프로젝트가 지금껏 변형 확산된 이유에는 제도적 추진, 일부 사람들의 주장, 지역 시민의 요청 등 외재적 요인들만으로는 설명되지 않는 프로젝트 자체의 자율적 측면이 있다. 프로젝트는 지역에서 지역으로, 지역의 역사로 지속 회귀하면서 드러나는, 중첩과 연장과 같은 방식으로 확산되어 오고 있다. 드러나는 요소들은 육체성, 육체의 유비로서의 도시와 지역의 감각과 활기, 창안 과정으로서의 소통, 땅에 묻혀 있는 죽음과 그 비가시적 역사와 땅 그 자체이다. 본 연구에서 그러한 프로젝트의 자율성을 프로젝트의 자기 활기적 변용 과정이라고 칭한다. 이러한 프로젝트의 자기 활기적 변용으로서의 자율은 개입과 참여를 위주로 하는 미학정치적 측면을 포괄하면서 다른 국면으로서의 미학적 성찰의 과정이기도 하다. 그러한 미학을 본 연구에서는 정동의 차원으로 확장해서 검토한다. 이에 대해 보다 상세히 논하기 위해 본 연구에서는 브라이언 마수미의 가상계(잠재적인 것) 개념과 정동의 자율 개념을 고찰한다. 이어 정동의 자율이 구체적으로 어떤 역할을 하며 변용 과정 자체인지에 대해서 질베르 시몽동의 개체화 이론을 고찰한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 질베르 시몽동(Gilbert Simondon)의 기술 철학을 이론적 기반으로 삼아, 20세기 초 현대 사진 미학의 두 주요 흐름인 미래주의 사진과 신즉물주의 사진을 비교·분석하고자 한다. 기존의 사진사 연구는 이 두 사조를 주로 형식적 특성의 차이로 설명해 왔으나, 이러한 접근은 사진 매체가 지닌 기술적·존재론적 성격을 충분히 드러내지 못한다. 이에 본 연구는 사진을 하나의 ‘기술적 개체(Technical Object)’ 로 규정하고, 두 사조가 사진이라는 기술적 매체를 통해 인간과 세계의 관계를 어떻게 다르게 구성했는지를 고찰한다. 시몽동에 따르면 기술은 인간의 목적을 수행하는 도구가 아니라, 인간의 지각과 환경, 에너지의 흐름과 상호작용하며 지속적으로 개체화되는 과정적 실재이다. 이러한 관점에서 사진 매체 역시빛, 카메라의 기계적 구조, 감광 매체 또는 디지털 센서, 그리고 사진가의 지각이 결합되어 형성되는 기술적 개체로 이해될 수 있다. 사진 이미지는 인간의 의도가 일방적으로 투사된 결과물이 아니라, 인간·기계·환경이 함께 작동하며 발생하는 하나의 사건이다. 미래주의 사진은 셔터 속도의 변화, 연속 촬영, 다중 노출 등을 통해 운동과 속도, 에너지의 흐름을 시각화하고자 했으며, 이는 시몽동의 ‘트랜스덕션(Transduction)’ 개념과 연결된다. 반면 신즉물주의 사진은 사물과 기계의 구조를 정밀하게 묘사함으로써 기술적 대상이 구조적으로 안정화된 ‘구체화(Concretization)’의 상태에 도달했음을 보여준다. 본 논문은 이러한 비교를 통해 두 사조가 사진이라는 기술적 매체를 통해 서로 다른 기술적 개체화의 양상을구현했음을 밝히고, 시몽동의 기술 미학이 현대 사진 미학을 재해석하는 유효한 이론적 틀임을 제시한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 VR 기반으로 제작된 가상현실 전시 콘텐츠인 <70mK>를 중심으로 가상공간에서의 데이터 큐레이션과 설계, 관객 경험의 상호작용과 관련된 실무적 차원의 논의와 미학적 의미를 분석한다. 대규모 인터뷰를 기반으로 한 VR 전시 콘텐츠의 구조화와 생성을 질베르 시몽동의 개체화 이론을 중심으로 분석하였다. 가상공간의 특성과 그 안에서 일어나는 창조적 생성의 과정을 분석하는 중요한 개념으로 시몽동의 전개체적인 영역, 퍼텐셜에너지, 변환의 개념을 중심으로 기술하였다. 이를 통해 대규모 데이터를 활용한 VR 실감형 콘텐츠의 구조화와 기술적 개체화에 대해 고찰하는 이론적 내용과 제작 실무적 차원의 사례 분석의 내용을 다루고 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본고는 현상학적 문학연구방법론을 대상으로 그것이 내포하고 있는 문제의식에 집중함으로써 현상학이 오늘날 한국문학 연구장 내 보다 보편적 설득력을 얻는 방법론으로 자리매김할 방안을 모색해 보고자 한다. 이를 위해 본고는 우선 철학 연구방법론으로서 현상학 및 이를 예술장 내 수용, 실천해온 프랑스의 현상학적 예술비평 방법론을 살펴봄으로써 현상학적 (문학)연구방법론의 주요 논의 및 쟁점들을 정리한다. 요컨대 개인, 개체보다 관계 및 개체화가 더 우선한다는 현상학의 지혜를 감당할 수 있을 태도는 능동적인 부정(사르트르)과 상대적으로 수동적인 긍정(메를로-퐁티)의 태도로 나뉘는바, 문학연구방법론은 대립되는 위 두 태도를 유의미하게 종합할 설득력 있는 방법들을 모색, 제시한다. 위와 같은 현상학적 문학연구방법론의 모색은 오늘날 한국문학연구 및 비평 장에 보다 보편적인 역할을 수행할 수 있을 것으로, 근대문학의 종언 이후 새로운 부정성 마련에 골몰 중인 한국문학연구 및 비평 장은 현상학적 문학연구방법론과 더불어 유의미한 새로운 방향성을 획득할 수 있을 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 안동지역의 무형유산인 놋다리밟기의 전승 과정을 질베르 시몽동의 개체화 이론을 통해 분석하였다. 놋다리밟기는 지역공동체의 문화적 정체성을 강화하고, 세대 간 유대감을 형성하는 전통 놀이로, 현대 사회의 변화 속에서도 지속가능성을 유지하고 있다. 본 연구는 문헌 연구와 심층 인터뷰를 바탕으로 놋다리밟기가 어떻게 현대적 요구에 적응하며 발전하고 있는지를 살펴보았다. 연구 결과, 놋다리밟기는 전통적 가치를 유지하면서도 현대적 요소를 수용해 지역 사회에서 활발하게 전승되고 있음을 알 수 있었다. 특히, 전승 과정에서 세대 간 교류와 협력의 중요성이 강조되었으며, 이는 놀이가 지속 가능한 무형유산으로 자리하는 데 기여하고 있다. 본 연구는 무형유산의 전승 과정에서 발생하는 갈등을 해결하고, 지역 사회와의 협력을 통해 전통을 현대적 맥락에서 재해석할 수 있는 새로운 통찰을 제공한다. 이를 통해 무형유산의 보존과 활용, 그리고 지역공동체의 문화적 발전에 기여할 것으로 기대한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 질베르 시몽동의 개체화 이론을 여성주의적으로 읽어 본 것이다. 그의 이론은 개체가 아니라 개체화 과정으로 존재를 설명하며, 형상질료설이 아니라 발생론으로 존재와 관계를 보기에 삶의 다른 가능성을 희구하는 여성주의와 조응한다. 시몽동에 의하면, 준안정적 체계에, 잠재성으로 풍부한 전개체적인 것으로부터 특이한 정보가 구조를 통해 들어감으로써 변환 작용이 행해져 어떤 형태를 띠게 되는 것이 개체화이다. 그러한 개체화는 어떤 한 개체가 됨으로써 끝나는 것이 아니라 영속적으로 가능한데, 이는 개체화 과정으로 소진되지 않는 전개체적 잠재성 때문이다. 더욱이 전개체적인 것은 개체 안에 남아 있는 그 잠재성을 통해 개체들을 넘어서서 그것들 각각을 관통하며 통합하는 힘, 즉 개체초월적인 것으로 연결된다. 시몽동이 말하는 이러한 전개체적인 것과 개체초월적인 것은 어떤 개체나 사회의 종래의 모습이 전부가 아니라 다른 존재와 더불어 달라질 수 있음을 얘기한다는 점에서 여성주의의 이론적 지지로 작용한다. 이 글에서는 그러한 존재의 초과성에 주목하는 한편, 성 역시 개인의 정체성이 아니라 세상에로 넘쳐흐르는 에너지임을 주장한다. 아울러, 새로운 삶의 가능성들을 위해서는 다른 포착과 깊은 정동, 다른 구조와 환경의 배치, 마주침의 증폭을 위한 열린 시공간의 존재윤리가 필요함을 이야기했다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문은 인공지능 알고리즘이 비화폐적 계산체계로서 자본주의적 가치의 구성에 개입한다는 점에 주목한다. 유튜브의 검색·추천 알고리즘은 중요한 사례다. 인지자본주의 이론이 알고리즘을 생산의 외부에서 수탈을 수행하는 기생적 자본으로 묘사하는 반면, 비판적 정치경제학은 알고리즘에 의한 노동 내부의 통제 강화와 착취 심화를 강조한다. 두 접근은 가치의 본질이 노동 내부에서 유래한다고 전제하는 실체론을 공유하며 디지털 노동과 산업노동을 이항대립 구도 속에 놓는다. 이 논문은 이러한 실체론을 비판하며, 알튀세르의 구조인과성과 시몽동의 개체화 개념을 통해 가치를 사용가치로 과포화된 사회의 구조적 효과로 규정한다. 이로써 어떤 노동이 가치를 생산하는지 묻는 대신, 자본주의가 어떤 활동을 가치로 계산하는지 물을 수 있다. 유튜브의 검색·추천 알고리즘은 인간 활동을 동질화하고 위계화하는 비화폐적 승인 구조로서, 자본주의적 가치형태와 구조적으로 공명하는 사회적 연산장치다. 이 논문은 알고리즘적 계산과 화폐적 계산의 단락이라는 개념을 제시함으로써, 가치법칙이 단일한 메커니즘이 아니라 국지적 계산체계들의 접합구조로서 존재함을 보인다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "(연구배경 및 목적) 코로나19가 장기화되면서 온라인 활동은 점차 늘어나고 그중에서도 가상 현실에서 하나의 사회를 구축하는 메타버스 공간이 주목을 받고 있다. 본 연구는 시대적 배경을 통한 디지털 스페이스를 시몽동의 기술철학 관점에서 출발하여 메타버스 공간 분야로 살펴보고자 한다. 기업들과 공공기관, 국가기관 그리고 우리 일상의 사용자 중심에서 메타버스 공간의 활용성을 분석하고 그 의미를 제시하고자 하는 것에 연구의 목적이 있다. (연구방법) 연구의 방법은 다음과 같다. 첫째, 기술 철학을 배경으로 한 질베르 시몽동(Gilbert Simondon)의 개체화론에 대한 선행 연구 및 문헌 자료를 통해 이론적 개념 및 특성을 분석한다. 둘째, 메타버스의 유형과 특성을 통해 그에 따른 개체화론과의 관계 요소를 도출한다. 셋째, 이를 바탕으로 메타버스 공간의 특성을 개체론적 관점으로 분석하여 연관성을 알아보고 분석의 틀로 구축한다. 넷째, 도출된 요소를 통해 최근 이슈화되어 상용화되고 있는 메타버스 사례를 분석한다. 마지막으로 이를 통해 개체화론 관점에서의 메타버스 공간 구축의 활용 가능성과 그 의미에 대한 해석을 도출하고자 한다. (결과) 본 연구에서는 메타버스가 가지고 있는 증강현실, 라이프 로깅, 거울세계, 가상세계의 네 가지 유형과 시몽동의 개체화론에서 도출된 주요 이론적 고찰인 정보의 형태화, 발생적 진화화, 상호 개체성의 주요 요소 도출을 통해 분석의 방향을 수립한 결과는 다음과 같다. 첫째, 메타버스 공간 구축 측면에서 증강현실을 기반한 환경을 가상세계의 현실을 만드는 것이 가장 기본적인 요소이다. 둘째, 개체화 요소 측면에서 메타버스 공간과 인간이 상호 개체성을 갖는 것은 이를 활용하는 차원에서 중요하다. 셋째, 메타버스 플랫폼이 활성화되고 제대로 구현되어 소비자들이 이용하기 위해서는 빠른 인터넷을 통해 초고화질 세상을 실시간으로 전송하는 통신 분야의 지속적인 발전이 있어야 하며 데이터 확보를 통한 시스템이 정책적으로 필요하다. (결론) 인간와 기술의 관계에서 인간은 기계의 대체자가 아닌 기술을 관리할 수 있는 동등한 위치에서 시너지를 내는 앙상블로 작용한다. 향후 메타버스 공간 구축에 관한 방향은 기술적 공간에서 사용자가 만들어낼 수 있는 것들 중심으로 제작 및 수정이 진행되어야 하고, 웹상에서의 저작권에 관련된 디자인 라이센스에 대한 정책적 보완이 병행하여야 할 것이다. 또한 이를 더욱 상용화시키기 위해서는 메타버스 내의 이용자 스스로 기술에 친숙하고 기술을 관리할 수 있는 기술 교육이 필요함을 강조하며, 대안적 세계의 메타버스를 통해 새로운 가치를 창출할 수 있는 확장된 공간의 의미로 발전되길 기대한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This study aims to discuss descriptive strategies for the types of quantification constructions in Korean language education. To this end, this study first examines the types and characteristics of quantification constructions, then reviews how these constructions are presented in Korean language textbooks, and finally proposes descriptive strategies for the types of quantification constructions. In Korean, six types of quantification constructions exist, depending on the syntactic realization patterns of nouns, quantifiers, and classifiers. These types can express different meanings due to syntactic variations, and certain constructions are preferred in specific contexts.\nHowever, the Korean language textbooks analyzed in this study do not provide sufficient grammatical descriptions of the types and characteristics of quantification constructions. We believe that it is necessary to incorporate grammatical descriptions of the types and usages of quantification constructions into Korean language education to enhance learners' communicative competence.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This study aims to provide a contrastive description of the syntactic patterns and characteristics of quantification constructions in Korean and Vietnamese. The syntactic types of quantification constructions in both languages can be classified according to the components of quantification constructions and their syntactic structures. In Korean, there are six types of quantification constructions. The N–Q–CL(Noun-Quantifier-Classifier) type is an appositive construction of N and Q–CL. The Q–CL–N type is a modifying construction in which the Q–CL phrase modifies the N. These two types exhibit various syntactic and semantic differences due to their structural distinctions. The N–Q type is also an appositive construction, while the Q–N type is a modifying construction; however, both lack classifiers, which restricts their usage compared to N–Q–CL and Q–CL–N types. The Q–CL type results from the omission of the noun in the N–Q–CL type. The N–CL type cannot express specific quantitative information and is therefore used only in very limited contexts.\nIn Vietnamese, there are four types of quantification constructions. The Q–CL–N type, in which the Q-CL are in apposition with the N, is the most typical quantification construction. The Q–CL type results from the omission of the noun in the Q–CL–N construction, while the Q–N type arises from the omission of the classifier. The N–Q–CL type is used only in specific counting contexts and is extremely limited in use. Unlike in Korean, classifiers in Vietnamese also function as markers of specificity and as anaphors.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 불멸이라는 개념이 시대에 따라 어떻게 변해왔는지 살펴보고, 최근 주목받는 디지털 불멸의 존재를 이론적으로 규명하는 데 그 목적이 있다. 인간은 문자적 불멸을 미디어를 통해 구체화하였고, 그것은 상징적 불멸, 인스턴트 불멸, 디지털 불멸로 구분된다. 그런데 디지털 불멸은 인간과의 상호작용에서 마치 스스로 생각하고 행동하는 존재처럼 보여진다. 이러한 기술적 속성은 인간 삶의 연속성에 대한 기대와 혼란을 동시에 불러일으키고 있다. 이에 본 연구는 디지털 불멸이 인간처럼 인식되는 심리적 메커니즘을 CASA 이론을 통해 고찰하고, 인간과 미디어의 관계를 새롭게 조명하고자 맥루언의 명제를 ‘인간을 향한 미디어의 확장’으로 재구성하였다. 그리고 시몽동의 개체화 이론을 적용하여 디지털 불멸을 인간과 공진화하는 관계적 존재로 해석하였다. 결론적으로, 디지털 불멸이 인간을 위한 도구가 아닌 인간과 상호작용하는 관계적이고 역동적인 기술적 개체임을 강조하였다. 본 연구는 가상과 현실의 경계가 희미해지는 오늘날, 인간과 미디어의 관계에 대한 존재론적 담론에 기여하고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 초연결시대의 병리적 현상에 대응하기 위한 철학적 자원으로서 스피노자의 개체화 이론을 재해석하고, 이를 통해 포스트휴먼적 치유 실천의 근저에 놓인 이론적 전제를 탐구한다. 인터넷과 소셜미디어, 인공지능 기술의 발전은 전 지구적 초연결성의 시대를 열었지만, 역설적으로 개인의 고립과 소외, 불안, 디지털 중독 등 정신병리적 현상을 심화시키고 있다. 기존의 대응 전략으로는 디지털 기술로부터의 의도적 단절(로그오프 전략), 기술을 통한 인간 능력의 급진적 향상(트랜스휴머니즘), 그리고 인간을 더 큰 관계성 속에서 재정의하려는 포스트휴머니즘적 접근이 있다. 본 연구는 세 번째 접근에 동조하면서, 근대철학의 시작점인 17세기 스피노자의 존재론을 통해 포스트휴먼적 치유실천의 기반을 탐색한다. 스피노자의 『에티카』 2부 정리 11 따름정리와 『서간집』의 편지 32에 대한 면밀한 독해를 통해, 모든 사물이 내부화와 외부화라는 두 가지 개체화 양태로 존재함을 밝히고, 이로부터 상상(외부화)과 이성(내부화)이라는 두 가지 존재 양식을 재해석한다. 우리는 초연결시대의 디지털 기술을 통해 주로 외부화의 방식으로 타자와 관계함으로써 수동적 정서와 부적합한 인식을 강화하고 있다. 치유실천의 핵심 과제는 따라서 우리의 근원적 관계성을 재발견하고, 이를바탕으로 우리 스스로를 재정의하는 내부화된 관계를 모색하는 것이다. 이러한 스피노자적 접근은 고정된 주체가 아닌 관계적 개체화의 과정으로 인간을 이해함으로써, 초연결시대의 치유 실천에 중요한 철학적 기반을 제공한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This paper examines how Gilles Deleuze’s philosophy of cinema is shaped by Gilbert Simondon’s theory of individuation. Contrary to the common view that Deleuze primarily draws on Bergson’s notion of duration when discussing cinema as the indirect representation and direct presentation of time, I argue that Simondon’s account of “modulative individuation,” which addresses the problematic disparation between human beings and their milieu, plays a more decisive role. Simondon’s influence becomes especially prominent in Cinema 2, where Deleuze not only highlights the limits of Bergsonian duration but also advances Simondon’s theory as a compelling alternative. Although traces of Simondon appear throughout Cinema 1 and Cinema 2, this paper focuses on several chapters of Cinema 2 where his impact is most pronounced. First, I examine how Deleuze draws on Simondon’s distinction between moulding and modulation to theorize cinematic images and signs. Second, by re-reading Deleuze’s discussions of the crystal-image and the modern noosign, I show how Deleuze creatively incorporates Simondon’s theories of physical and vital individuation. Through this analysis, I argue that Deleuze’s film-philosophy ultimately presents film as a site for new modes of human individuation capable of resolving the modern condition of humanity’s fracture from the world.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 당대의 첨예한 디지털 문화를 ‘증발 시대 (물리적 문화의 종말)’로 규정하고 물질문화의 증발을 작인으로 탄생하는 새로운 예술 형식을 탐구한다. 본 연구의 배경이 되는 ‘증발 시대(the era of vaporization)’란 디지털 미디어의 선구적 전략가인 로버터 터섹(Robert Tercek)이 제안한 용어로서인간의 삶을 구성하는 다양한 물질적 조건들이 디지털의 비물리적 조건들에 의해 대체되고 사라져 버린 시대를 일컫는다. 데미안 허스트(Damian Hirst)의 NFT 아트 프로젝트인 <통화(The Currency)> 는 이러한 증발 예술의 한 전형을 이루는데, 이는 <통화>가 예술적 가치의 원천인 물리적 특정성과 감각적 경험을 악명 높은 작품의 소각식을 통해 기화시키고 있기 때문이다. 데이빗 조슬릿(David Joselit)은<예술 이후(After Art)>(2013)에서 디지털 시대에 이르러 예술의 물신적 가치는 붕괴되었으며, 예술의 유효성은 이제 예술작품의 물리적 현존에 의해서가 아니라, 이미지의 “복제하고, 재매개하며, 파급시키는힘”에 의해, 혹은 이미지 정보의 크기와 속도에 비례하는 “통화적(currency) 가치”에 의해 결정된다고주장한 바 있다. 본 논문은 이러한 디지털 예술의 증발적 경향을 비판적으로 고찰하고, 디지털 시대에위협받는 예술의 존재론적 위상을 질베르 시몽동과 허욱의 기술/디지털 철학을 바탕으로 조망해 본다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "황제내경』 이후 중국 전통의학 이론은 철학적 해석을 계승하는 데 집중되었다. 결과는 반복적이었고, 의림에는 착오가 확산되었다. 왕청임은 질병을 일으키는 근본 원인인 장부가 무엇인지 끊임없이 질문한다. 해부학적 관찰 결과, 장부는 실체로 인식되는 부분이자 객체였다. 음양오행의 유기체적 전체 질서가 구성한 몸에 대한 재탐색 또한 필요해졌다. 『의림개착』은 장부의 물성 자체를 주목의 대상이자 분석의 출발점으로 삼는다. ‘장부기서’는 오장육부의 속성, 체질을 파악해 나가는 기록이자 서술이었다. 비위에 대한 논의로부터는 오장과 육부의 대응 관계, 즉 인체를 음양오행의 관점에서 바라보는 시각 자체에 대한 성찰이 시작되었다. 간에 대한 전통의학 이론의 검토는 혈의 의미를 토대로 한 경락의 개념 조정으로 이어졌다. 심장에 부여된 철학적 의미, 폐와 신의 구조에 대한 오인들은 육부에 대한 논의를 종합적으로 재검토하게 했다. 이 과정에서 전통의학의 경전, 주요 의가들, 격물치지의 학문적 태도에 대한 반성 또한 이뤄지고 있음을 확인할 수 있었다. 고착화된 인식의 틀을 넘어설 왕청임의 방법은 관련 담론들의 역사화 그리고 개체화였다. 『의림개착』의 혁신성은 비판적 사고에 근거한 계보학적 인식에서 발견할 수 있는 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문은 홍석중의 주체소설, 『폭풍이 큰 돛을 펼친다』(2005)를 탐색함으로써 이 소설이 염세주의적인 세계 형상을 초월하는 북한이라는 세계를 재현하는 점을 고찰하고자 한다. 이 소설이 염세주의적인 세계 형상을 재현하고 있다면 이는 북한문학의 원형적인 본령인 사회주의적 세계 형상을 벗어날 수밖에 없을 것이다. 하지만 사회주의 리얼리즘보다는 주체사실주의를 중시하는 김일성･김정일주의의 문화적인 풍토에서 이 소설이 이러한 특별한 ‘이채’를 띠더라도 용인될 수 있다. 김일성･김정일주의가 자본주의와 제국주의라는 ‘폭풍’보다도 한층 광폭하게 삶을 파편화하는 염세주의적인 ‘폭풍’ 속에서도 인민의 삶을 구원할만한 힘을 가진다는 명분을 치장하기 위해서다.\n이 논문은 다음의 세 가지를 특별히 탐색한다고 볼 수 있다. 첫째, 염세주의적인 세계관의 관점에서 철저히 ‘개체화’되지만, 즉 삶과 죽음의 경계를 넘나들게 되지만, 이 경계를 허물고 이 경계에서 유희하는 니체주의적인 초인으로 형상화된 주체소설의 주인공을 탐색한다. 둘째, 주인공들이 ‘개체화’를 긍정하는 니체주의적인 실존을 깨달아가는 과정을 정세하게 분석한다. 즉, 이 경계를 부정하고 회피하는 쇼펜하우어주의적인 연민을 초극하게 되는 과정을, 이로써 염세주의적인 세계관을 고양하게 되는 과정을 탐색한다. 셋째, 김일성･김정일의 공감능력 덕에 아무도 ‘개체화’되지 않는 북한이라는 세계를 향한 희구를, 즉 이 소설이 정당화하는 ‘특별한’ 혁명적 수령관의 의미를 탐색한다. 이로써 사회주의 리얼리즘 서사로서가 아니라 염세주의적 실존주의의 서사로서 김일성･김정일주의를 새로이 채색하는 ‘이채’를 띠는, 홍석중이 치장하는 ‘특별한’ 주체시대를 들여다볼 수 있을 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글에서는 『선세언적』과 『자손보전』에 실린 17-19세기 여성 한글 간찰을 검토함으로써, 조선후기에 이르러 한글 간찰이 점차 규식화되며, 이는 한글 간찰을 주고받던 이들이 세계를 엄격하게 유형화된 체계로 이해하는 것과 밀접한 관계를 갖고 있음을 보이고자 했다. 한글 간찰이 규식화되었다는 것은 발신자의 지위 혹은 신분 그리고 수신자와의 관계가 간찰의 내용과 형식을 결정한다는 것을 뜻한다. 즉, 한글 간찰에서 발신자는 무엇을 전달할 것인가가 아니라, 자신과 수신자 그리고 현재의 상황이 어떠한가를 주의 깊게 관찰하여 그에 맞는 규식을 선택하는 역할을 해야 한다. 개인, 주체의 의식, 감상 등이 아니라 정형화된 행위, 반응의 패턴이 존재하며, 같은 맥락에서 한 개인의 삶은 체계적인 질서 속에 정해진 자신의 자리를 찾고, 지키는 것으로 이해할 수 있다.\n그러나 한글 간찰의 규식화는 엄밀하게 양식화된 조선의 유교 질서를 재현하는 동시에, 누구나 그러한 규식을 사용하여 한글 간찰을 편리하게 작성할 수 있게 된 결과를 가져왔다. 한글 간찰은 점차 규식화되었으나, 한글 간찰 사용자는 점차 보편화되었다는 것이다. 이 글에서는 이와 같은 모순적인 상황이 바로 조선후기 여성 한글 간찰의 의의를 말해준다고 보았다. 조선후기 여성 한글 간찰의 규식은 곧 그녀들이 자신의 삶을 유교적 질서로 틀 지워진 체계의 구성요소로 의미화했음을 말하는 한편, 간찰의 보편적 사용을 가능하게 함으로써 성별 간, 신분 간의 엄격한 경계를 흐리는 결과를 가져왔다는 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The main concern of this paper is to look into what the match between the structure and meaning in ‘deul'-marked noun phrases in Korean is. While we basically follow the position that makes generalization about the meaning of ‘deul' phrases as ‘sum’, contrasting it with ‘group’ meaning of bare noun phrases, according to Link(1983), this paper also argues that the stages of generation is more important in interpreting the meaning of ‘deul'-marked phrases correctly. In this process ‘deul' functions as an individuator of a group. To show this, we discuss examples from three different types of noun phrases, namely collective noun phrases, material noun phrases, and noun phrases in generic sentences.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This paper argues that Jude the Obscure makes a timely criticism of the Victorian notion of “Buildung,” by undermining the autonomous liberal subject and its cultural belief of detachment. By situating the human subject in erroneous relation with the physicality of body and more erroneous relation with the partiality of consciousness, Hardy exposes the dominant social, cultural and ideological forces working at the center of subjectivity. The text reveals that being a subject is being subjected, especially subjecting the singular desire of individuals to the “proper” desire of the society. Nevertheless, the text hints at the potentiality for alternative subjectivity within the very singular desires of individuals, which the social and cultural mechanism attempts to domesticate. Jude’s refusal to be inserted in the subject-construction process and his life of constant “becoming” bears witness to the birth of new subjectivity.\nJude’s life, however, is tragic because, despite of his resistance to what seems similar to the poststructural construction of human identity, he cannot find a way out of this logocentric vision of the subject. Alternative subjectivity is only hinted at in the constant “becoming” of Jude, which resonates with “individuation without a subject” Deleuze admires so much in Hardy’s novels. This equivocation results from Hardy’s awareness that a move beyond the dualistic conceptual constraints and the perversely monological mental habit is anything but easy. Nevertheless, Hardy’s last novel gives readers a chance to experience the Deleuzian subject in a way to open the potential to reactivate the differences domesticated by the fixed structures of society and representation.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "本文主要考察‘個個’、‘一個個’、‘一個一個’的句法特點和语意特點，得出如下结论：三個形式都表示已個體化的事物之重復存在，然而三個形式的著重點有所不同。‘個個’强调的是已谈及的对象之全部範圍，而不是每個对象的個體性：‘一個個’既强调個體性，又强调所谈及的对象数量之多：‘一個一個’與其强调其数量之多，不如强调所指示的每個对象的個體性。语意的不同反映形式的不同：形式愈大，重復存在的個體的时空定位愈明确突出。‘個個’属於周遍NP，和类指NP一样带有[-個體]的属性，整個句子属非事件句，然而类指NP从属性和特徵角度规定NP的性质，周遍NP则从数量的角度规定NP的性质",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This thesis is to ascertain that plural marker ‘deul’ has ‘plurality’ as a basic semantic characteristic and ‘repetitiveness’ as an applied semantic characteristic. Essentially the bare noun without the plural marker doesn't have the semantic characteristic of plurality. The basic semantic characteristic ‘plurality’ can be subdivided the semantic functions of collectivization and individualization. The applied semantic characteristic ‘repetitiveness’ is related to the semantic function of individualization. Plurality presupposes simultaneous events but repetitiveness presupposes time different events. Frequently the plural marker ‘deul’ attached to grammatical element can be used for the expression of repetitiveness. The plural marker ‘deul’ attached to noun has little relation to time different events.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 대학생의 개체화유형과 대인관계문제의 관련성을 탐색해보고 이를 통해 대학생들의 건강한 발달을 모색해보는데 목적이 있다. 이를 위해 본 연구에서는 서울시내 소재 대학에 재학 중인 대학생 228명을 대상으로 이들의 개체화유형과 대인관계문제의 경향을 분석하였으며, 결과는 다음과 같다. 첫째, 대학생의 개체화경향에서는 개체화를 성취한 대학생이 많았으며, 여학생에 비해 남학생이 개체화 성취 경향이 높았다. 둘째, 대학생의 대인관계문제 경향에서는 여학생이 남학생보다 의존성으로 인한 대인관계문제가 많은 것으로 나타났다. 셋째, 개체화유형에서 부모와 정서적인 유대가 적고 자신에 대한 신뢰가 낮은 특성을 지닌 애매형의 대학생들이 대인관계문제가 많은 것으로 나타났다. 이때 남학생은 애매형이 가독립형보다 대인관계문제가 높게 나타났고 여학생은 애매형이 개체화형보다 대인관계문제가 높게 나타났다. 넷째, 개체화의 하위영역에서 남학생은 자아신뢰감이 높을수록 여학생은 자아신뢰감과 더불어 부모와의 연결이 높을수록 대인관계문제가 적은 것으로 나타났다. 다섯째, 개체화의 하위영역 중 자아신뢰감이 남녀 대학생 모두에게서 대인관계문제에 가장 큰 설명력을 지니는 것으로 나타났다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 소론에서는 현대 사회에서 아동의 자립의식을 육성하기 위한 가정과 학교교육에서 강조해야 할 점을 제시하고 자아의 확립을 주요과제로 등장하는 현대 사회의 특징을 논의하면서 부모분리, 자식분리를 어렵게 하고 있는 가정교육에서의 문제점을 지적하고 자아교육의 중요성을 부각시키고 있다. 그것이 가능한 어머니가 되기 위해서는 남편과의 사이에 정서적인 연결고리가 확고하게 정착된 관계가 성립되어 있지 않으면 곤란하다. 거기에는 자신들의 부부간 문제에 직면하지 않으면 안 될 고뇌가 있다. 부모분리, 자식분리는 어린이 없어진 부부만의 가족으로 재생하는 과정이기 때문이다. 이와 함께 학교에서의 교육에서도 아동의 자립의식을 양육할 수 있도록 노력해야 할 것을 강조하고 있다. 개인의 자립심도 또래들과의 정상적인 과정을 통해서 성장 또는 발전될 수 있다는 점에서 또래집단을 통한 놀이를 포함한 관계형성이 중요성을 논의하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 스피노자의 개체화 이론이 어떻게 스피노자 철학의 전체 체계와 모순 없이 조화될 수 있는지를 들뢰즈의 스피노자론을 통해서 해명하는 것을 그 목적으로 한다. 왜냐하면 스피노자의 개체화 이론은 표면적으로 모순들을 가지고 있는 것처럼 보이기 때문이다. 그것은 양태의 본질의 실존과 양태의 실존 사이의 구분에 관한 문제이다. 국내의 몇몇 스피노자 연구자들은 양태의 본질의 실존과 양태의 실존 사이의 구별은 스피노자를 오해한 것이라고 비판한다. 그들이 보기에 양태의 본질의 실존과 양태의 실존을 구분하는 것은 스피노자의 철학을 플라톤주의화하는 것이기 때문이다. 즉 양태의 본질의 실존을 양태의 실존 외부에 두는 것은 플라톤이 그러했던 것처럼 세계를 두 세계로 나누는 것을 의미하기 때문이다. 그러나 양태의 본질의 실존과 양태의 실존의 구분은 스피노자가 명시적이지는 않지만 많은 곳에서 드러내고 있는 구분이다. 그리고 이 구분과 함께 내재성은 유지될 수 있다. 왜냐하면 양태의 본질과 실존의 구분은 실재적 구분이 아니기 때문이다. 실존 양태는 더 이상 실체 또는 속성 안에 담겨만 있지는 않다. 이 담겨만 있지 않다는 스피노자의 표현이 중요하다. 즉 그 구분은 실체적이 아니라 양태적 구분이라는 것이다. 이를 통해 스피노자의 철학은 내재성이 모순 없이 유지될 수 있다. 들뢰즈는 이것을 강도량과 외연량의 구분을 통해서 설명해낸다. 스피노자의 개체화 이론의 두 계열 즉 합성과 본질은 강도량과 외연량의 구분을 통해서 화해하게 된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "오랫동안 창작방식으로 사용된 패러디는 포스터모더니즘 사조의 확산으로 그 창의적 효과가 도드라졌다. 린다 허천이 ‘차이를 내포한 반복’이라 정의한 패러디는 원텍스트가 변용되는 과정에서 새로운 의미망을 형성한다. 본 논고는 발생론적 관점에서 개체를 바라본 시몽동의 관점으로 패러디의 발생 과정에 초점을 맞추고자 한다. 그가 주로 언급한 기술과 기술적 대상들처럼 문화적 요소 또한 내부에 다른 개체로의 변환을 야기하는 퍼텐셜 에너지를 가지고 있으며, 다른 요소들에서 기인한 정보로 인해 새로운 의미를 형성하는 개체화가 일어난다. 즉 패러디는 퍼텐셜을 가진 콘텐츠들이 새로이 개체화되는 현상이라 파악할 수 있는 것이다.\n패러디는 디지털 기술의 발전으로 시각·영상 분야에서 매우 활발하게 활용되고 있으며, 특히 기술과 산업 그리고 예술의 접점에 있는 영화는 패러디 미학의 첨병이라 할 수 있다. 1970년대 이후 영화에서 본격적으로 활용된 패러디는 무수한 영화들을 망으로 연결 지으며 영화 간 네트워크에 풍부한 의미를 생성해내었다. 수많은 영화의 결절점인 <레디 플레이어 원(Ready Player One)>(2018)은 영화뿐만 아니라 게임 등 대중문화 전반에 걸친 패러디를 시도하였으며, 특히 <샤이닝(The Shining)>(1980)은 작중 가장 높은 비중으로 활용되었다.\n<레디 플레이어 원> 속 <샤이닝>은 가치중립적 패러디를 시도하는데, 이는 타자기, 기념사진, 미로 그리고 연회장과 같은 도상 혹은 세트를 중심으로 전개된다. 이 과정에서 어드벤처 장르에 필수적인 요소들이 원텍스트의 정보를 받아들이면서 내부의 퍼텐셜 에너지가 패러디를 이루어낸다. 반면 필름 질감의 렌더링과 스테디캠 같은 영화적 요소들은 원작의 영화사적 위치를 기념함과 동시에 의미를 변주시키는 오마주 패러디로 나타났다. 이는 앞의 패러디와 같이 개체화 과정을 이룸과 동시에 노스탤지어 또한 불러일으키며 초맥락화를 이끌어낸다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "한국어의 ‘의’는 명사와 명사를 연결하는 기능을 가지는 조사이지만 명사의 연결에 반드시 ‘의’를 필요로 하는 것은 아니다. ‘의’의 개입이 필수적인 경우도 있는 한편, 많은 경우 ‘의’의 개입은 수의적이며 ‘의’가 개입될 수 없는 경우도 존재한다. 이러한 ‘의’의 특성은 명사의 연결에 있어서 조사 ‘の’의 개입이 일반적인 일본어를 모어로 하는 한국어 학습자들에게 특히 어려움을 유발하곤 한다.\n본고에서는 주로 일본인 한국어 학습자에게 한국어 조사 ‘의’의 사용에 대하여 지도할 기준을 제시하는 것을 목적으로 선행 연구들을 참고하여 ‘의’의 의미 기능에 대하여 고찰하고 이러한 기능이 ‘의’의 실현에 어떠한 영향을 미치는지 살펴보았다.\n먼저 ‘의’가 필수적인 구성은 의미 관계 연결 기능과 관련성을 가진다. 두 명사 간의 의미 관계를 연결시키는 ‘의’의 기능은 명사 간의 의미 관계 파악이 어려운 경우에 유효하게 작용하며, 이러한 경우 ‘의’의 개입은 필수적이다. 다음으로 ‘의’가 개입될 수 없는 경우는 존재 개체화 기능과 관련이 있다. 두 명사가 나타내는 존재를 각각 개체화시키는 ‘의’의 기능은 두 명사가 전체로서 하나의 개체를 의미할 때에는 불필요하며, 이 경우 ‘의’는 개입될 수 없다.\n이상과 같은 고찰의 결과를 활용하여 일본인 한국어 학습자들을 지도할 간결한 사용 기준을 제시하고자 하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "오늘날 시몽동(G.Simondon) 주목받는 이유는 바로 인간중심주의와 기술만능주의 양극단을 벗어난 인간과 기술의 관계에 대한 새로운 시각을 제시하고, 인간과 기계의 대립이 아니라 상호협력 하는 기술을 희망했기 때문이다. 일반적으로 개체화 는 준 안정적 시스템에 내재하는 불일치와 양립 불가능성 그리고 긴장과 갈등의 문제를 개체 발생으로 해결하는 변환 작동 에 해당된다. 개체화는 개별적인 것이 아니라 각각의 개체가 속한 환경과의 관계를 형성하는 “연합환경”이 요구되며 발생 한 개체들을 통해 새로운 개체를 다른 차원으로 증폭시켜나가는 변화작용임을 의미한다. 따라서 개체화의 의미는 사물 생 성에 대한 근원적 사고에 해당되며, 디자인 또한 기술적 대상으로서의 개체이기 때문에 이에 근거하여 그 실체를 이해할 필요가 있는 것이다.\n본 연구에서는 시몽동의 사유의 개념인 “개체화” 즉, 사물의 변환과 생성에 작용하는 요인들에 대한 내용을 중심으로 디자 인 개발의 본질에 대하여 개진하였다. 2장에서는 개체화의 정의와 그 관계 항들과 3단원에서는 개체화의 대상으로서의 디 자인과의 관계에 대하여 고찰하였다. 이를 통해 “지금 여기에”라는 현실성 보다 디자인의 존재론적 의미에 대한 이해와 디 자인의 생성과 개발의 본질에 대한 설명이 가능할 것으로 기대한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "本文对现代汉语副词“都”的“语义功能”从认知的角度做出了解释, 先指出“个体性”和“个体化”的认知概念, 然后用“个体性”这概念来重新解释副词“都”的语义功能｡ “个体性”指把多数实体作为实体之间具有明确地边界的独立实体, “个体化”指把所存在的多数实体看作一个个体｡ 本文认为现代汉语副词“都”具有“个体性”的语义功能｡ 即, “都”具有对名词性成分通过个体侧面来赋予或确立了“个体性”的语义功能, 如果在语义上该名词性成分具有多数的意义, 那个名词性成能够接受“都”的语义功能｡",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 재현과 동일성 그리고 매개와 상징 등을 이차적인 힘으로 전락시키고, 주체라는 형식을 가상으로 보는 들뢰즈의 차이 존재론이 구체적으로 그리고 실존적으로 우리에게 어떤 의미가 있는지를 묻기 위하여 그에게 개체의 존재가 무엇인지를 해명하는 데 그 목적이 있다. 우리는 들뢰즈의 개체화 문제를 고전적인 문제의 틀 안에서 재조명함으로써 들뢰즈에게서의 개체를 이해할 뿐만 아니라, 개체화의 원리라는 철학사의 난제가 들뢰즈의 개념들에 의하여 어떻게 갱신되고 극복되는지를 볼 수 있을 것이다. 개체화의 문제가 본격적이고 독립적인 철학적 주제로 진지하게 대두된 것은 중세 스콜라 철학자들에 의해서였다. 그 가운데서도 둔스 스코투스의 업적은 현대에도 많은 영감을 줄 정도로 섬세하고 예리하였으며, 개체화의 문제가 함축한 여러 가지 문제들을 이미 체계적으로 다루고 있다는 의미가 있다. 그는 개체화의 원리로 <이것임>을 내세우고, 이를 종차와의 유비를 통하여 간접적으로나마 해명하고자 하였다. 들뢰즈는 이 지점으로부터 시몽동의 현대생물학과 더불어 개체화의 문제를 현대적으로 발전시키고 극복해나간다. 그는 질료와 형상이라는 개념의 틀을 벗어나 양태, 강도와 정도 등의 개념을 통하여 <이것임>이 결국 사건적으로 이해되어야 함을 밝힌다. 이로부터 우리는 들뢰즈에게 있어서 개체의 문제라는 것은 결국 내가 겪는 구체적인 사건들 하나하나이며, 이것이 모든 사유와 실천을 시작하도록 하는 가장 중요한 지점이라는 것을 이해하게 된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "들뢰즈와 과타리는 『천 개의 고원』의 「도덕의 지질학」에서 물리-화학적 수준, 유기적 수준, 문화-기술적 수준에 대해 발생론적이고 내재론적 설명을제시하고 있다. 고대 아리스토텔레스나 독일 관념론이 초월적 형상이나 이념에호소했다면, 들뢰즈-과타리는 지구라는 새로운 자기-원인이 세 가지 지층을 어떻게 차례로 생산하는지 보여준다. 각 지층은 내용과 표현의 상호 관계를 통해규정되는데, 상위의 지층으로 갈수록 내용과 표현 사이의 독립성이 커져서, 언어와 기술의 수준에서는 완전히 독립성을 획득하게 된다. 이와 관련하여, 들뢰즈는 시몽동의 개체화 이론이 내재론적 사유에 필요한 자연철학적 범주들과 발생론적 설명을 제공한다는 점에 주목했다. 그의 결정화 모델은 물질의 이질적인 특성과 준안정적인 에너지로부터 형태가 발생하는 장면을 생생하게 그려보여준다. 그리고 이렇게 원초적으로 발생한 형태가 다양한 유형의 환경 사이의상호 관계 속에서 복잡성과 독립성을 획득해 가는 원리를 설명한다. 들뢰즈와과타리는 시몽동의 이론을 자신들의 고유한 체계 안에 배치하면서 대지와 영토의 운동이 서로 다른 수준의 개체들을 생산하면서 동시에 그것들이 근본적으로연동되어 있다는 점을 보여준다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "쇼펜하우어에 따르면 죽음은 모든 존재가 경험하는 근원적인 현상이다. 특히 그는 죽음이라는 현상이 인간에게 숙명적으로 다가온다는 것을 강조하면서 이러한 죽음에 대한 형이상학적 고찰의 필요성을 언급한다. 인간은 다른 어떤 존재보다도 죽음에 대해 두려움을 갖고 살아갈 수밖에 없으며 살아있는 동안에 이러한 유한성을 끊임없이 자각하는 존재이다. 그러나 쇼펜하우어는 역설적으로 이러한 죽음이 우리에게 세계와 삶의 본질과 가치에 대한 성찰을 가능하게 한다고 생각한다. 그는 죽음에 대한 형이상학적 성찰을 통해서 죽음이 우리에게 가져다주는 불안감을 극복할 수 있고 나아가서 세계 속에서의 모든 존재가 생성하고 소멸하는 근원적인 이유를 알 수 있다고 주장한다. 즉 죽음의 본질에 대한 형이상학적 성찰을 통해서 우리를 사로잡고 있는 죽음에 대한 불안으로부터 벗어날 수 있는 통로를 발견할 수 있다는 것이다. 쇼펜하우어에 따르면 죽음에 대한 두려움은 우리가 세계와 우리의 존재에 대한 형이상학적 성찰이 결여되었기 때문에 생겨난 것이다.\n글쓴이는 이 논문에서 쇼펜하우어의 의지형이상학을 토대로 죽음이라는 현상이 지닌 형이상학적인 의미와 문제점들에 대해서 살펴보도록 할 것이다. 이 논문에서는 특히 쇼펜하우어가 『의지와 표상으로서의 세계』 1판 54절, 『의지와 표상으로서의 세계』 2판 41절 ‘죽음과 우리의 본질 자체의 불멸성에 대한 죽음의 관계에 대하여’ 그리고 『Parerga und Paralipomena』 2권중에 ‘우리의 참된 본질의 불멸성에 대하여’, ‘현존재의 비존재에 대한 보충’, ‘자살에 관하여’에서 제시한 죽음에 대한 몇 가지 논의들을 살펴볼 것이다. 여기에서는 첫 번째로 우리가 갖고 있는 죽음에 대한 불안에 대해서 논의하도록 할 것이다. 두 번째로는 쇼펜하우어가 시간의식을 어떻게 이해하는가를 살펴보고 이것이 죽음과 갖고 있는 연관성에 대해서 다루어 볼 것이다. 세 번째로는 개체의 죽음이 지닌 특성들을 살펴보고 여기에서 쇼펜하우어가 개체의 불멸성이 어떤 이유에서 부정하는지를 살펴볼 것이다. 그리고 마지막으로는 쇼펜하우어의 죽음에 대한 고찰이 왜 자살에 대해서 부정적으로 평가하는지를 살펴볼 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "쇼펜하우어는 『의지와 표상으로서의 세계』에서 의지의 형이상학을 전개한다. 그는 세계를 한편으로는 표상(Vorstellung)으로서 그리고 다른 한편으로는 의지(Wille)로서 파악하지만, 이것은 세계를 이원론적으로 파악하는 것을 의미하지 않는다. 쇼펜하우어에 따르면 본래 세계는 전적으로 의지이다. 그러나 우리는 충분근거율(Satz vom zureichenden Grunde), 개체화원리(principium individuationis)를 통해서 세계를 표상으로서 경험한다. 쇼펜하우어에 따르면 이러한 표상세계는 모든 추상적 인식과 개념 그리고 학문의 대상이 되는 세계이다. 그런데 쇼펜하우어는 이 표상세계가 의지가 객관화된 세계라는 점을 강조한다. 쇼펜하우어에 따르면 철학의 역할은 세계를 표상으로서가 아니라 의지로서 파악하는 것이다. 즉 철학은 세계의 본질이 의지라는 점을 밝혀내는 것이다. 쇼펜하우어는 의지의 객관화(Objektivation des Willens)라는 말을 사용하여 표상세계가 의지의 현상이라는 점을 강조하는데, 여기에서 그는 의지와 표상세계를 연결시키는 이념(Idee)의 역할을 강조한다. 플라톤의 이데아개념에서 빌려온 이념이라는 용어는 의지의 직접적인 객관성을 의미하며, 의지와 표상세계를 이어주는 매개역할을 한다. 이런 점에서 이념은 한편으로 의지가 표상세계로 드러나게 하는 역할을 한다. 이러한 역할은 의지와 표상의 존재관계를 설명해주는 중요한 역할을 한다. 그러나 이처럼 의지가 드러난 표상세계의 개체들은 의지의 맹목적인 충동에 사로잡히게 되고 개체들의 존재는 고통스러운 것이 된다. 그렇기 때문에 쇼펜하우어는 다른 한편으로 개체에 대한 이러한 의지의 지배를 극복하는 수단으로서 이념의 역할을 강조한다. 이때의 이념은 개체에 대한 의지의 지배를 강화하는 것이 아니라 의지의 종속으로부터 벗어나게 하는 역할을 한다. 여기에서 쇼펜하우어가 이념을 통해서 의지와 표상 사이를 매개시키면서 세계에 대한 자신의 입장을 전개시킨다는 점은 부인할 수 없다. 그러나 이처럼 이중적으로 부여되는 이념의 역할이 과연 정당한지에 대해서는 논란의 여지가 있다. 이 논문에서는 쇼펜하우어가 이념에게 부여하는 존재론적 역할과 형이상학적 역할이 지닌 특징들과 문제점들을 고찰하도록 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 들뢰즈가 주장했던 <개체화 요인들의 대리자로서의 타인> 개념에 대한 분명한이해를 목적으로 기획되었다. 일찍이 들뢰즈는 사르트르의 타인-구조에 대해 구조주의의선구자로서의 면모를 갖추었다고 상찬한 바 있지만, 그것을 ‘시선’을 통해 정의함으로써결국 타자를 또 다시 주체와 대상의 범주로 떨어지게 만들었다며 아쉬워했다. 부정과 모순을 기반으로 하고 있는 주체철학의 구도에서 축조된 사르트르의 타인이론은 결국 <투쟁관계>에 머물 수밖에 없기 때문이다. 게다가 능동적인 <주체>의 재인능력은 <재현적 사유> 만을 가능하도록 이끎으로써 우리의 사유를 치명적으로 제한하는 문제점을 안고 있다.\n따라서 들뢰즈는 서양철학에서의 선-철학적 전제로 인해 재현적 사유만이 가능한 인격적인 주체 개념을 비인격적 개체인 <개별자>로 대신하였을 뿐만 아니라, 재인으로부터<비재현적 사유>를 구하기 위해 <변화할 수 있도록 하는 조건>, 즉 <개체화 요인>에 관심을 쏟았고 그러는 가운데 <개체화 요인들의 대리자>로 <타인>을 지목함으로써 <대립>의구도를 벗어나게 된다. 그 과정을 톺아보면 사르트르의 타인-시선 구조는 들뢰즈에게 전해져 지각장의 한 구조로서의 타인과 절대적 구조인 <아프리오리한 타인>으로 좀 더 면밀히 구분되는데, 이 절대적인 구조는 그것을 채우는 항들에 앞서 존재하는 것이 아니라 중단 없이 연속적으로 변이하며 전개되어 간다. 이처럼 타인-구조와 개체화는 긴밀히 연관되어 있기에, 만약 우리가 진정 새로워지고 싶다면 우선 재현의 개체화만을 일으키는 기존의 타인-구조를 와해시킴으로써 창조적 사유자인 <개별자>로 거듭나기 위한 조건을 만들어야만 한다. 이는 우리의 사유가 어떻게 재현의 방식을 벗어나 자유로워질 수 있는가 하는 방법의 문제이기도 하며 뒤집어 말해, 우리 사유의 독특성과 다양성에 대한 설명이기도하다. 들뢰즈의 이론을 통해 타인은 투쟁의 대상이나 유사함과 감미로움의 대상을 넘어, <개체화의 가능 조건>이라는 고유한 의미의 타인으로 새롭게 태어난다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The purpose of the study was to examine individuation in highschool students (middle adolescence) and to examine the relations between high school students' self-efficacy, social problem solving, and individuation. The subjects were 410(276 male, 134 female) second grade high school students at M city in Jeonnam province. They completed Korean Late Adolescent Questionnaire(KLAIQ), Self-Efficacy Inventory, and Social Problem Solving Inventory- Revised(SPSI-R). Statistical analyses of data were frequency, mean, standard deviation, Chi-squared test, ANOVA, Duncan's multiple range test. Cronbach's alpha was computed for the reliability of the scales. SPSSWIN 20.0 was used for data analysis.\nThe results were as follows: First, based on connectedness and parental control as separateness, individuated adolescents were 135(32.9%), ambiguous adolescents were 122(29.8%), dependent were 99(24.1%), and pseudoautonomous adolescents were 54(13.2%). Unexpectedly, individuation in middle adolescence were not quite different from in late adolescence. Just like college students, individuated high school students were more than any other individuation categories. Based on connectedness and self-reliance as separateness, individuated adolescents were 135(32.9%), ambiguous adolescents were 114(27.8%), dependent were 88(21.5%), and pseudoautonomous adolescents were 62(15.1%). Likewise, individuation in middle adolescence were not quite different from in late adolescence. Second, based on connectedness and parental control as separateness, individuated students showed the highest self-efficacy followed by dependent, and pseudoautonomous students and ambiguous students showed the lowest self-efficacy. Based on connectedness and self-reliance as separateness, individuated students showed the highest self-efficacy followed by dependent students and pseudoautonomous and ambiguous students showed the lowest self-efficacy. Third, based on connectedness and parental control as separateness, individuated students showed the highest social problem solving ability followed by dependent, pseudoautonomous, and ambiguous students. Based on connectedness and self-reliance as separateness, individuated students showed the highest social problem solving ability followed by dependent and pseudoautonomous students, and ambiguous students showed the lowest social problem solving ability.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 연구는 조사 ‘마다’의 말뭉치 용례 분석을 통하여 ‘마다’가 가지고 있는 의미․통사적 특성과 분포적 속성을 밝히고자 하였다. 조사 ‘마다’는 결합되는 선행 명사구가 지시하는 대상을 개체화하여 개체화된 대상에 문장의 서술어가 의미하는 사태를 배분하는 기능을 가진다. 이로써 ‘마다’가 쓰인 문장은 복수화된 사건으로 해석된다. 조사 ‘마다’는 ‘-들’이나 ‘각각’ 등의 수량 표현들과 ‘개체화’라는 공통점을 가지면서 ‘사건의 복수화’의 기능을 가졌다는 측면에서 변별된다. 조사 ‘마다’의 통사적인 특성과 분포적 제약은 ‘마다’의 의미적 속성에서 비롯된 것으로 설명할 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 개체 생성에 관한 물질의 역량과 관련하여 베르그손의 물질 개념이 지닌 의의와 한계를 밝히고자 한다. 베르그손은 지속의 형이상학 안에서 당대의 과학(전자기학과 고전 열역학)을 수용하여 (1) 원자론적 기계론적 물질 개념으로부터 벗어나, 가역적인 공간 운동으로 환원시킬 수 없는, 비가역적인 시간성을 지닌 불가분한 흐름으로 물질을 정의하고 (2) 우주의 지속 안에서, ‘수축하는 생명’과 연속적이면서도 반대 방향으로 흐르는 ‘물질의 이완하는 경향성’을 해명하면서 (3) 기계론적 환원주의로는 설명할 수 없는 살아있는 자연의 창조적인 생성을 설명한다. 생명이 물질의 흐름을 수축하여 생성을 이어가는 우주의 잠재성이라면, 물질은 생명의 긴장이 풀어져가는 우주의 현실적 표면이다. 우주는 물질의 이완하는 흐름과 이를 수축하는 생명의 운동 때문에 끊임없는 생성의 장이 된다. 그러나 물질의 자기 조직화 역량을 새롭게 발견하고 있는 현대 과학(복잡계 이론과 비선형열역학)의 관점에서 볼 때, 개체 생성의 수축력을 비－물질적인 생명성에서 찾는 베르그손의 관점은 한계를 지닌다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 한국적 맥락에서 민족과 민족주의를 재사유하기 위해 기획되었다. 2018년 평창올림픽 남북 단일팀 구성을 둘러싸고 벌어졌던 사회적 논란은 민족과 민족주의에 대한 새로운 사유의 필요를 요청한다. 젊은 층을 중심으로 민족주의 정서가 약화되고 있는 와중에도 한국은 여전히 민족주의의 저류가 강하고, 근대 단일 민족국가 건설이라는 미완의 과제를 안고 있다. 남북의 이질성에 더해 민족 내부의 분화가 폭넓게 진행되는 현실, 인구 구성의 다양화가 진행되고 있고, 민족주의에 더는 열광하지 않는 민족의 구성원이 늘어나는 현실을 표상할 수 있는 민족에 대한 상상은 어떻게 가능할 것인가라는 질문이 이 글을 관통하는 연구 질문이다. 이 연구에서는 아이리스 영이 여성에 대한 본질주의적 규정을 벗어나기 위해 사르트르로부터 가져온 이음체 개념을 통해 민족을 새롭게 규정해 보고자 하였다. 영의 이음체 개념은 시몽동의 개체화 이론을 통해 수정되었다. 민족을 이음체로 사유하면본질주의적 개념 규정에서 벗어나 민족은 보다 너른 포용성을 가질 수 있으며, 민족 내부에보편성과 개별성이 공존하게 할 수 있다. 나아가 그것은 통합이념으로서 민족과 민족주의에 대한 새로운 상상을 가능하게 할 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "봉건시대에 도시는 해방의 상징이었으나, 현대의 도시는 빈곤과 착취의 공간으로 인식되고 있다. 도시 인구가 비도시 인구를 초과한 오늘날, 해방과 착취라는 이중성을 가지고 있는 도시는 우리 삶의 터전이라고 할 수 있다. 데이비스, 하비, 코소, 네그리, 하트, 비르노 등은 도시의 이러한 이중성 위에서 도시를 둘러싼 진단과 전망을 내놓고 있는데, 이들이 직간접적으로 근거로 삼거나 대립각을 세우는 철학자가 들뢰즈이다. 들뢰즈의 존재론으로부터 추출할 수 있는 개념들과 존재들은 다음과 같은 질문을 유도한다. 도시는 유목적 노동자들, 빈민들, 혈거민들을 유발하는데, 이들은 들뢰즈적 의미의 유목민인가? 유목민은 저항적 주체인가, 도시의 패배자인가? 들뢰즈적 의미의 긍정의 철학은 빈곤과 착취를 그대로 긍정하는 것이 아닌가? 우리는 이러한 문제를 둘러싸고 이들이 벌이는 논쟁을 들뢰즈를 참조하면서 따라가 보고, 도시화 시대에 가능한 새로운 윤리-정치의 영역이 무엇인지 규명해보고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 디지털로 대표적으로 표상되는 현 시기의 기술적 대상과 환경에 대하여 프랑스의 기술철학자 질베르 시몽동(Gilbert Simondon)의 사유와 함께 살펴보고자 하는 시도이다. 이 과정에서 그의 기존 작업들이 기술문화연구와 정치경제학에 가져다 줄 수 있는 새로운 철학적 중요성과 함의를 살펴보고자 한다. 일찍이 시몽동은 주저인 ‘기술적 대상들의 존재양식에 대하여(Du Mode d’Existence des Objets Techniques)’를 통해 ‘기술적 대상(technical objects)'의 이해를 위한 중요한 철학적 토대를 알려주었고 인간과 기계, 문화와 테크놀로지 사이의 관계에 대한 재사유의 길을 열어주었다. 이 글에선 시몽동 철학의 핵심 개념 가운데 하나인 ‘개체화(individuation)’를 통해 ‘적응(adaptation)’이라는 개념이 현재의 디지털 ‘연합 환경(associated milieu)’에서 어떻게 새롭게 결합되고 관계 맺어지는지를 우리 주위에서 일상적인 것으로 자리하게 된 디지털 대상(object) 특히 디지털 데이터를 중심으로 살펴본다. 또한 이와 같은 시몽동 사유의 현재적 접합을 통해 지금 우리에게 매우 시급한 기술문화연구를 위한 비판적이며 정치경제학적인 아젠다를 도출하고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "21세기 디자인환경은 80년대부터 정체 상태에서 빠져들었다. 관습적인 방식에 의한 디자인개발이 진행되는 현실이며, 70 년대 이후 디자인은 기능과 미학의 대립으로부터 시작된 “인문학적 저항”에 직면하고 있다. 디자인을 생존을 위한 사회·경 제·심리등 환경연합적 차원이 아닌, 인간소외 현상을 유발하고 단순히 기능 중심의 사용자와 디자인을 구분하려는 경향이 존재하고 있는 것이다. 이러한 현상은 이미 오래전부터 일반화되어 왔지만, 오늘날에는 20세기 중반 시몽동(G. Simondon) 과 핀버그(A. Feenberg)와 같은 기술철학자들에 의해 과학과 기술에 대한 이해가 달라지고 있는 상황이다. 오늘날 시몽동 의 기술철학은 트렌스휴머니즘, 인공지능과 연합지성 분야에서 화두가 되고 있다. 사물과 인간의 관계를 고민하였던 그의 철학은 디자인 영역에서도 사물에 대한 새로운 인식, 디자인개발 프로세스, 시장분석과 사용자 연구에서도 활용될 수 있을 것을 예상된다. 이에 본 연구 제 2단원에서는 시몽동의 기술철학과 사유의 개념인 개체화, 이완 법칙, 새로운 휴머니즘 그 리고 기술문화에 대하여 고찰하였다. 이를 중심으로 제 3단원에서는 현 디자인 분야에서 요구되는 디자인 규범, 마케팅, 기 능과 미학 그리고 디자인 현실화를 위한 사유의 전환적 필요성을 고찰하였다. 이를 통해 지금의 디자인 개발과정이 관습적 방법론으로부터 탈피하여, 보다 확장된 시각을 통한 개념적 접근이 가능할 것으로 기대해 본다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "현대철학에서 다시 중요한 주제로 대두되는 개체화 원리 문제는 사실 중세철학자들에게서 많이 다루어졌지만 라이프니츠를 제외한 근대철학자들에게서는 크게 부각되지 않았다. 필자는 이러한 개체화 원리 문제의 논의 전개 과정에서 스코투스와 데카르트가 어떠한 역할을 했는지를 이 두 철학자에게서 공통적으로 보이는 개념들을 통해 밝히고자 한다. 스코투스는 물질적 실체들의 개체화를 순수형상으로 간주되는 천사들의 개체화와 같은 방식으로 이해하면서 순수 철학적 측면에서 개체화 원리를 다룬다. 이는 존재를 물질과 형상의 결합체로 파악하는 아리스토텔레스주의를 거부하는 것이며, 또한 이것은 개체화 원리 문제를 개체화 원인의 문제로 변환시킨 것이다. 스코투스에게서 한 존재자의 ‘이것임’은 그 개체의 종이 단일하다는 전제에 의해 가능하다. 이에 반해 데카르트는 개체화 원리 혹은 원인을 문제 삼지 않는다. 데카르트는 보편질료와 보편형상을 물질적 실체의 개체화와 형상적 실체의 개체화의 가능 조건으로 제시하며 한 존재의 개체성과 보편성을 밝힌다. 필자는 데카르트의 이원론, 물질과 형상, 신체와 영혼의 강조가 한 존재의 단일성 문제보다는 그 동일성의 문제를 다루는 새로운 영역을 제기하는 것으로 해석하려 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 연구의 목적은 대학생의 개체화 과정에서 자아정체감에 영향을 미치고 있는 관련변인들이 어떤 관계인가를 알아보고, 그 변인들이 어느 정도로 개체화와 자아정체감 형성에 영향을 주는지를 알아보는 것이다. 남녀대학생 503명(여: 273명, 남: 220명, 1학년: 286명, 3학년: 217명)을 대상으로 가정생활적응도 검사, 학교생활적응도 검사, 개체화 검사 및 자아정체감 검사를 실시하고, 반응결과를 상관분석과 중다회귀분석을 통해 각 변인들의 관계와 개체화와 자아정체감에 대한 영향을 조사하였다. 연구의 결과를 선행연구의 결과에 비추어 논의한 결과, 다음과 같은 결론을 도출하였다. 1)대학생의 가정생활에서의 적응의 정도는 그들의 개체화 과정에 부정적 영향을 미칠 수도 있다. 2)가정생활의 적응도가 높을수록 정체감 형성에 도움을 준다. 3)학교생활 적응도가 높을수록 개체화 과정이 순조롭게 진행되고, 자아정체감 형성이 잘 된다. 4)개체화의 과정이 잘 이루어지는 것이 자아정체감 형성에 도움을 주는 사실은 남여간, 연령구분없이 적용된다. 5)개체화 과정이 순조로울수록 자아정체감의 형성이 잘 이루어진다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "시몽동의 개체화이론은 개체의 발생을 탐구하는 생성의 철학이다. 그러나 이것은 생성의 과정에 멈추지 않고 존재가 어떻게 구조화되는가를 보여주는 점에서 존재와 생성의 융합이다. 존재는 관계맺음의 과정에 의해 구조화되는데 이를 우리는 관계의 존재론이라 부른다. 개체는 요소들이 관계맺을 수 있는 가능성의 장, 즉 한 에너지체계로부터 생성된다. 체계는 에너지 조건으로부터 시작하여 전개체적 실재를 분배하고 분리하면서 물리적 개체, 생명적 개체를 생성한다. 생명체에 연합된 전개체적 실재는 ‘개체초월적 실재’이며 이것은 정념적 힘으로서 나타난다. 생명적 개체가 자신 안에서 스스로 문제를 해결할 수 없을 때 정신적 개체화가 출현한다. 그러나 정신적 개체화는 스스로 완결되지 못하여 집단적 개체화를 요구한다. 이와 같은 관계의 존재론이 미술교육에 시사하는 바는 기존의 존재의 철학에서 다루어진 정적인 관점을 벗어나 역동적 생성과 관계맺음의 차원으로 거슬러 올라갈 경우 세계를 지각하는 새로운 지평이 열릴지도 모른다는 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The purpose of the study was to examine individuation in international college students in Korea and to examine the relations between their college adaptation, acculturative stress, and individuation. The subjects were 344(193 male, 151 female) international college students in Jeonnam province. They completed Korean Late Adolescent Questionnaire(KLAIQ), The Student Adaptation to College Questionnaire, Acculturative Stress Scale for International Student. Statistical analyses of data were frequency, mean, standard deviation, Chi-squared test, ANOVA, Duncan's multiple range test. Cronbach's alpha was computed for the reliability of the scales. SPSSWIN 20.0 was used for data analysis.\nThe results were as follows: First, based on parental control as separateness, individuated international college students in Korea were 38.7%, pseudoautonomous 23.5%, dependent 19.5% and ambiguous were 18.3% respectively. On the other hand, based on self-reliance as separateness, individuated adolescents were 35.5%, ambiguous 29.4%, dependent 22.7%, and pseudoautonomous adolescents were 12.5% respectively. Second, based on parental control as separateness, individuated and dependent international students in Korea showed higher scores than pseudoautonomous and ambiguous students in four college adaptation subscales. Also, based on self-reliance as separateness, individuated and pseudoautonomous students showed higher scores than dependent and ambiguous students in four college adaptation subscales. Third, based on parental control as separateness, ambiguous students showed the lowest acculturative stress scores. Based on self-reliance as separateness, individuated and pseudoautonomous students showed higher acculturative stress scores than dependent and ambiguous students.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "전통철학을 해체하는 니체의 철학은 쇼펜하우어의 철학으로부터 많은 영향을 받았다. 반이성주의적인 태도와 삶의 가치에 대한 니체의 적극적인 관심이 쇼펜하우어로부터 시작되었다는 점을 부정하기는 어렵다. 그러나 이러한 영향에도 불구하고 니체와 쇼펜하우어의 철학이 궁극적으로 추구하는 가치는 서로 구분된다. 니체는 부조리하고 고통스러운 삶은 전적으로 긍정하고 여기에서 새로운 삶의 가치를 창조해내려고 노력한다. 그에게 삶에 대한 영원한 긍정은 모든 가치의 가치전도와 힘에의 의지를 통해서 주어진다. 그러나 이와 달리 쇼펜하우어는 맹목적인 삶에의 의지가 지배하는 삶 자체가 고통스러운 것이며 이러한 삶을 부정하는 길을 발견하는 것이야 말로 자신의 철학에게 부여된 과제라고 간주한다. 이 논문에서는 니체와 쇼펜하우어철학 사이에 놓여 있는 차이를 가능하게 해주는 개체화의 원리가 이들의 철학에서 어떤 역할을 하는지에 대해서 논의하도록 한다. 니체는 『비극의 탄생』에서 프로메테우스와 오이디푸스와 같은 비극적 인간이 개체화원리에 의해서 고통을 겪는 과정을 통해서 새로운 삶의 가치를 창조하는 과정을 그려나간다. 이 과정에서 아폴론적인 것과 디오니소스적인 것은 상호놀이를 통해서 고통 속에서 새로운 세계를 창조하게 한다. 반면에 쇼펜하우어는 『의지와 표상으로서의 세계』에서 개체화의 원리 때문에 숙명적으로 인간에게 고통이 주어진다는 점을 강조하면서 이러한 고통의 극복을 중요한 과제로 설정한다. 이 논문에서는 『비극의 탄생』과 『의지와 표상으로서의 세계』를 중심으로 니체와 쇼펜하우어의 철학에서 전개되는 개체화원리의 역할과 특징 그리고 문제점을 고찰하고 이러한 개체화원리가 야기하는 삶의 고통을 니체와 쇼펜하우어가 어떻게 해석하는지를 논의하도록 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "불교적 공사상(空思想)에 대한 릴케의 수용은 에리히 헬러 Erich Heller와 귄터 피갈 G&uuml;nter Figal 등의 연구에 의해 Schopenhauer - Nietzsche - Rilke 간의 그 거의 수직적 영향관계가 밝혀져 있고 또한 릴케 자신이 불타를 주제로 한 시들을 여러 편 쓴 것으로 보아 후기 릴케에 있어 ‘존재와 무’의 문제는 각별한 의미를 지닌다. \n본고에서는 선불교의 제 육조(六祖)인 혜능(慧能) 대사의 게(偈 gatha)로부터 존재와 무에 대한 착상을 단초로 하여 릴케의 중ㆍ후반기에서 시 <오르페우스. 에우리디케. 헤르메스>, 그 후기에서 <두이노의 비가>, <오르페우스에 부치는 송가>, 또 여타의 후기시들을 통해 존재와 무가 어떻게 시적 변용을 통하여 서로 삼투적으로 작용하고 있는가를 고찰하고 있다.\n특히 무상성(無常性)에 대한 릴케의 시적 착상은 ‘공 空’과 ‘공간 空間‘의 시적 표현을 시적 상징물로 변용케 하는 데에서 구체화되고 있고 그 시적 기법으로서 아폴로적 요소와 디오니소스적 요소들의 배합을 통하여 형상적ㆍ음향적 효과를 구사하고 있음이 제시되고 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 연구는『차이와 반복』에서 드러난 ‘강도’의 개념을 중심으로 들뢰즈 감성론의의미를 분석하고 교육학적 시사점을 도출하려는 시도이다. 이 글에서는 들뢰즈 감성론의 핵심 개념인 강도의 ‘즉자적 비동등’과 ‘안-주름 운동’의 특징 분석을 통해 들뢰즈의 감성론의 의미를 탐색하였다. 들뢰즈의 감성론은 ① 강도는 외연이나 성질로 드러나기 ‘이전’에 차이화를 거듭하는 감각이자 유나 종 등 고정된 척도로 동일화될 수없는 차이 생성적인 감수성이며, ② 강도의 차이화가 이루어지는 곳은 ‘신체’로서, 들뢰즈에게 신체란 눈에 보이지 않지만 생성과 소멸을 반복하고 있는 강도적 흐름 그자체임을 밝혔다. 이러한 특징을 지닌 들뢰즈 감성론의 교육학적 시사점은 다음과 같다. 첫째, 신체는 고정되어 있다기보다는 강도적 흐름에 의해 변이하고 있기 때문에신체에서는 끊임없이 새로운 감각과 사유가 발생한다. 둘째, 강도의 흐름으로서의 신체는 주체의 신체와 주체가 마주치는 대상의 신체 ‘사이’에서 형성된다. 이에 따라 교육은 마주침의 대상을 통해 신체에 차이적인 강도들을 끊임없이 생성하고 변이 능력과 감각 능력을 증대시키는 것을 목적으로 삼는 활동으로 정의될 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "들뢰즈는 현대 서양철학자 중에서 새로운 형이상학(존재론)을 구축하려 시도한 보기 드문 철학자 중 한 사람이다. 들뢰즈 존재론 즉 ‘초월론적 경험론’에 대한 연구는, 들뢰즈 자신이 ‘철학을 만드는’ 시도를 한 첫 저서이자 이후의 자신의 모든 작업이 이 책과 연결되어 있다고 강조한, 『차이와 반복』을 그 중심에 놓아야 할 것이다. 본 논문은 들뢰즈의 존재론을 『차이와 반복』에 있어서 ‘개체화’ 이론을 중심으로 분석한 것이다. 개체화 이론은 『차이와 반복』의 중요한 존재론적 주제들과 교차하고 있는 핵심적인 개념이며, 그렇기 때문에 『차이와 반복』의 전체적인 구조 및 들뢰즈 철학체계의 개념배치를 밝히기 위해서는 피할 수 없는 논의 지점이다. 따라서 본 논문은 개체화의 ‘전체적인 기초개념’으로서 제시된 ‘개체-미/분화(indi-différent/ciation)와 개체-극(劇)-미/분화’(indi-drama-différent/ciation)에 초점을 맞추고, 『차이와 반복』의 여러 곳에 분산되어 기술(記述)되어 있어서 용이하게 그 전체상을 간파하기 어렵게 개체화와 복잡하게 연관되어 있는 극화(드라마화), 차이화=미분화, 분화=현실화의 관계들을 가능한 한 명확하게 규명하려는 것을 목적으로 한다. 하지만 이를 위해서는 들뢰즈의 논의를 단지 해석하고 그 내용을 정리하는 것만으로는 불충분하며, 우리의 분석을 이끌 하나의 보조적인 논점을 내세움으로써 문제의 소재를 분명히 하면서 검토를 진전시켜갈 필요가 있다. 그것은 『차이와 반복』의 들뢰즈 존재론이 도대체 어떤 철학적 문제에 대응하기 위해 제시된 것인가 하는 것인데, 본 논문에서는 그것이 ‘칸트의 초월론철학’과의 대비 혹은 대결에서 나온 것이라는 기본전제하에, 들뢰즈 존재론을 형성하고 있는 주요 개념들의 내용을 체계적으로 분석하려고 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "아리스토텔레스의 질료형상설 이래 개별자의 본성은 한 종 내의 개별화의 원리에 의해 자리매김되었다. 헤겔은 이러한 전통에 따라 개념론에서 개념을 보편과 특수의 통일로서의 절대적인 개별성으로 정초한다. 이러한 개별성은 이념으로서의 생명으로, 유기체로서의 생명으로서 구현된다. 헤겔의 유기체의 본성은 개별자의 논리에 의거하여 구명되며, 이러한 유기체는 살아있는 개체이기도 하지만, 보편적인 삶의 유적 과정에서 지속되는 특성을 갖는다. 이러한 헤겔의 근대 개별자의 논리는 현대 특히 들뢰즈에 의해서 비판된다. 들뢰즈는 헤겔의 유기체로서의 생명 개념 대신에 유기체의 구성에 의해 점령되지 않는 기관없는 신체를 제시한다. 들뢰즈는 기관없는 신체를 통해 작위적인 유기체의 구성에 의한 신체를 해방시켜 신체의 자유로운 흐름과 본 모습을 복원하고자 한다. 또한 들뢰즈는 감각의 논리를 통해 이성적 논리에 의해 위계화되지 않는 신체의 모습을 그린다. 이러한 기관없는 신체에서 들뢰즈는 개별화의 논리가 아닌, 스피노자 식의 양태적 개체성을 시몽동의 개체화의 원리에 도움을 받아 나타내고자 한다. 이러한 들뢰즈의 개체성은 근대적 주체의 죽음의 선언 이후 새롭게 나타날 수 있는 횡단적인 개체성으로 부를 수 있을 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "쇼펜하우어는 전통적인 자연관을 해체하면서 자신의 의지형이상학에 근거한 독특한 자연이해를 우리에게 제시한다. 당대의 자연과학에 많은 관심을 가졌던 쇼펜하우어는 자연과학적 자유의 결과물을 자신의 철학전개에 충실하게 접목시키는 것은 부인할 수 없는 사실이다. 그러나 쇼펜하우어는 이러한 자연과학의 방법론, 특히 환원주의적인 입장을 부정한다. 이러한 입장에서 쇼펜하우어는 『의지와 표상으로서의 세계』 2권에서 ‘자연의 형이상학’을 전개한다. 그에 따르면 이러한 자연이해의 출발점은 다른 것이 아니라 신체에 대한 올바른 이해이다. 신체는 전통철학, 특히 근대철학에서처럼 정신과 대립하는 물질적인 존재가 아니라 오히려 모든 존재를 가능하게 하는 의지가 현상하는 것이다. 우리가 경험하는 다양한 신체현상을 통해서 주어지는 쇼펜하우어의 신체이해는 한편으로는 정신과 물질의 이분법을 부정하며 의지가 객관화된 자연세계를 이해하는 통로가 된다. 그에 따르면 자연은 바로 우리가 신체를 통해서 알 수 있는 의지의 현상, 즉 의지가 객관화된 것이다. 자연 속의 개체들은 비록 다양한 방식으로 존재하지만, 이것은 모두 개체화의 원리에 의해서 의지가 다양한 방식으로 현상한 것이라는 주장이다. 의지는 한편으로 개체화의 원리에 의해서 다양한 방식으로 개체들에게 나타나면서 자연의 다양성을 드러내지만, 다른 한편으로는 그러한 개체들이 모두 의지의 객관화라는 점에서 동일한 존재론적 기반을 갖고 있다는 점을 알려준다. 쇼펜하우어는 여기에서 그가 자연이해의 출발점으로 삼는 신체와 의지의 연관성을 강조하고, 의지의 객관화를 통해서 자연 속에서 다양한 개체들이 어떻게 존재하는지를 논의하고 있다. 또한 개체화의 원리에 의해서 야기되는 개체들 사이의 갈등의 문제가 어떤 문제점을 야기하는지를 논의하고 있는데, 이러한 쇼펜하우어의 논의는 우리에게 전통적인 자연이해와는 다른 자연해석을 제시해준다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "As the saying goes “Technology is now a culture”, every creative imagination of humans today is realizing ‘Cultural Imagination’ by taking new information and forming new relationship through technology as a medium.\nArchitecture has also carried out mediating roles in interrelationships that embrace social and cultural needs between users and spaces as new spatial information and accept them in new forms. I would like to look at this as the “Théorie de l'individation”, the idea of Becoming-Technical philosopher Gilbert Simondon. This is created by an individual with a new formation as the solution to internal problems. And it is similar to the construction process of modern architecture, which takes human social and cultural needs as new spatial information and becomes in new forms. Therefore, the purpose of this research is to analyze the characteristics of Formation seen in modern architecture through ‘Individuation’ and to study that, based on this background, modern architecture is not simply used as a tool for humans, but rather a related structure through mutual communication and coexistence. In particular, the architectural works of Rem Koolhaas(OMA), MVRDV, Ben van Berkel(UN studio) and SANAA which were studied a lot in terms of the becoming process in modern architecture, were analyzed with emphasis. Based on the process of individuation and the process of formation in architecture, we analyze the process of creating individual forms that appear in architectural cases. Furthermore, we derive the formation characteristic in modern architecture by analyzing modern architecture cases based on the individuation framework.\nIn conclusion, through the potential to reveal the possibilities and limitations of various formal systems of new concepts according to individuation in modern architecture, users, society and culture will be able to interact with each other through architecture.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문은 쇼펜하우어의 염세주의와 의지의 형이상학의 관계를 살펴볼 것이다. 쇼펜하우어는 그의 주저인 의지와 표상으로서의 세계에서 세계를 표상의 세계와 의지의 세계로 방법론적으로 구분하면서 세계의 본질과 그 속에서 인간의 삶의 의미를 설명하고 있다. 그에 따르면 충분근거율에 의해서 지배되는 표상의 세계는 지성과 학문을 통해서 파악할 수 있는 세계이지만 근원적인 세계는 아니다. 우리의 삶이 왜 고통스러운지 그리고 그러한 고통으로부터 벗어나는 길을 탐구하기위해서는 이러한 표상의 세계가 실제로는 의지의 세계라는 점을 통찰해야만 한다. 그에 따르면 의지는 존재하는 모든 것을 지배하며 세계를 표상으로 이해하는 충분근거율을 통해서는 파악할 수 없는 것이다. 이러한 의지는 맹목적인 삶의 의지로서 우리에게 나타난다. 이러한 맹목적인 삶의 의지는 우리를 끊임없이 고통의 세계로 이끄는 것이다. 쇼펜하우어는 우리의 세계를 이처럼 의지에 의해서 이끌려가는 것으로 파악하면서 그의 독특한 철학인 염세주의적 세계관과 의지의 형이상학을 전개한다.쇼펜하우어가 염세주의를 강조하는 것은 세계자체를 단지 부정적으로 본다든지 또는 삶이 단지 살만한 가치가 없다든지 하는 비관적인 입장을 드러내는 것은 아니다. 그가 염세주의라는 용어를 통해서 우리에게 제시해주는 것은 세계와 삶에 대한 소극적인 부정과 회피가 아니라 의지에 의해서 이끌려갈 수밖에 없는 인간의 숙명적인 삶을 폭로하는 것이며 이를 통해서 쇼펜하우어는 맹목적인 삶의 의지에서 벗어날 수 있는 길을 제시한다. 이러한 염세주의는 쇼펜하우어의 형이상학적 체계를 핵심적으로 규정해주는 것이며 그것은 라이프니츠-칸트적인 계몽주의적 낙관주의에 대한 비판이며 헤겔의 이성철학에 대한 적극적인 도전이라고 할 수 있을 것이다. 이러한 염세주의적 세계관은 궁극적으로 쇼펜하우어의 철학이 삶의 의지를 부정하게 하고 금욕적인 삶의 길로 우리를 이끌게 된다.이 논문은 쇼펜하우어의 염세주의가 그의 형이상학적 체계를 가장 잘 드러내주는 것이며 변신론과 근대의 발전이념에 대한 비판을 잘 드러내준다는 전제아래에서 이러한 염세주의가 그의 의지의 형이상학과 어떻게 연결되는지 그리고 염세주의가 삶에의 의지를 부정하는 것을 통해서 어떻게 극복될 수 있는지에 대해서 살펴보도록 할 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "가상공동체의 확산과 더불어, 참여자들의 거친 욕설, 폭언, 인신공격 등 플레이밍(Flaming) 문제가 사회적으로 중요한 이슈로 대두되고 있다. 이러한 측면에서, 가상공동체의 플레이밍 발생원인과 억제 요인을 고찰하는 것은 정보시스템 분야의 중요한 연구과제로 고려되고 있다. 본 연구의 목적은 가상공동체 참여자들의 반사회적 행위로 간주되는 플레이밍에 영향을 미치는 요인에 대해 이론적으로 고찰하고 실증 분석하는 것이다. 이를 위하여, 먼저 사회심리학적 관점과 조직관리 관점을 결합하여 플레이밍 억제요인 및 증가요인을 도출하였다. 그리고 가상 공동체 참여자의 플레이밍 행위를 예측하는 이론적 모형을 개발하였다. 제안된 모형을 검증하기 위하여 300명으로부터 수집된 서베이 자료를 통해 분석한 결과, 익명성 통제와 같은 제도적 규제는 플레이밍에 유의미한 영향을 미치지 않는 것으로 나타났다. 반면, 기술적 통제(일관적 레이블링, 활동내역 추적)와 관리적 통제는 플레이밍을 억제하는데 유의미한 효과가 있는 것으로 밝혀졌다. 또한 사회정체성은 집단동조화를 증가시켜 플레이밍을 증가시키는 것으로 나타났으며, 개인의 충동/분노 성향도 플레이밍과 유관함이 밝혀졌다. 주지할 점은 플레이밍에 영향을 미치는 요인들의 효과는 가상공동체의 유형 (기능적 혹은 유희적 가상공동체)에 따라서 달라진다는 것이다. 본 연구의 결과는 가상공동체의 플레이밍을 단순히 익명성 문제로만 파악해서는 안되며, 기술적, 관리적 측면과 개인 특질이 동시에 고려되어야만 함을 시사하고 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "쇼펜하우어는 삶에의 의지가 적극적으로 드러나는 현상이 성욕 또는 생식행위라고 주장한다. 삶에의 의지가 모든 존재를 지배하듯이 이러한 성욕은 모든 개체들의 존재방식과 행동들을 지배하는데, 이러한 존재들의 모든 욕구가 바로 성욕에서 비롯된다는 것이다. 이러한 성욕의 본질은 종의 보존을 궁극적인 목표로 삼는데, 이것은 성욕이 삶에의 의지의 적극적인 현상이기 때문에 가져오는 당연한 결과이다. 그러나 중요한 것은 이러한 성욕은 결코 개체 자체를 위한 것이 아니라는 점이다. 삶에의 의지의 본질적인 현상으로서의 성욕과 이에 따른 생식행위는 오히려 한 개체를 희생시켜서라도 자신의 존재를 보존하려고 하기 때문이다. 쇼펜하우어의 성의 형이상학은 여기에서 자연 속에서 일어나는 모든 생식행위가 끊임없이 자신의 존재를 드러내려는 의지가 특정한 개체 속에서 자신을 드러내려는 기만적인 행위라는 점을 우리에게 폭로한다. 이러한 쇼펜하우어의 주장에 따르면 결혼도 결코 사랑을 통한 두 사람의 존재를 위한 제도가 아니다. 결혼은 삶에의 의지의 탁월한 현상인 생식행위를 정당화해주고 이를 통해서 종의 보존을 적극적으로 실현하려는 것에 불과하기 때문이다. 즉 결혼은 결코 당사자들의 행복이나 의미 있는 존재를 위한 것이 아니라 자녀의 출산을 통해서 삶에의 의지를 보존하려고하는 행위에 불과하다는 것이다. 오히려 결혼은 삶에의 의지를 강화시키려는 목적을 지니고 있을 뿐이다. 쇼펜하우어는 이러한 입장에서 결혼을 통해서 여성의 역할이 제한적일 수밖에 없다고 주장한다. 왜냐하면 결혼의 목적이 궁극적으로 자녀의 출산을 통한 삶에의 의지의 보존이라는 점에서 여성은 자녀를 출산하고 양육하는 역할만을 부여받기 때문이다. 물론 이런 점에서 쇼펜하우어는 여성의 역할이 자연에 충실하다는 것을 인정하지만, 이것은 결코 여성의 역할을 긍정적으로 제시하는 것이 아니다. 이러한 쇼펜하우어의 주장에 따르면 결혼 제도를 통해서 여성의 사회적 역할이 소극적으로 그리고 억압적으로 주어질 수밖에 없다. 그러나 우리는 쇼펜하우어의 성에 대한 이 같은 담론이 삶에의 의지의 직접적인 현상으로서 성욕과 생식행위를 해석한다는 점 그리고 결혼이라는 제도를 단지 종의 보존을 위한 수단으로 파악한다는 점에서 많은 비판의 여지를 갖고 있다는 점을 인정해야 할 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This paper came up with the fact that various different opinions exist on the form of ‘VGeN’, reviewed each of those opinions, and reconsidered the function of ‘Ge’. The core of the ‘VGeN’ format is ‘Ge’ for that reason, the past view of the function of the ‘Ge’ itself was first scrutinized. In the beginning, ‘Ge’ was simply viewed as a unit of counting or as a classifier, and some were described as a function of individuation. This report puts focus on the function of individuation and considers this in relation to the ‘VGeN’. Although it is also shown in the various examples presented in this report, ‘VGeN’ is no longer a function for simple numerical representation, nor does it serve as a classifier to classify certain nouns. A noun that has not received any quantity of modifier in a sentence simply represents the total classification of an object, but can be recognized as an objective object embodied through the process of individualization. However, even the object of the objectification is no longer biased by the noun at the back or by the verb at the front. Looking at the different combinations of ‘VGeN’ presented in the text, ‘Ge’ could no longer be combined solely with one side. Along with this aspect, the fact that the object in Chinese can be omitted if it receives the formula of the quantity and the number is ‘one’ is also a potential feature that opens up the possibility of achieving the current ‘VGeN’ format. As these factors are used at high frequencies, the interior of the ‘VGeN’ is re-analyzed as shown in A: [ V[GeN] ] → B: [ VGeN ], and thus a new function has been introduced. Observations of past syntactic analyses were considered to be limited, so we considered the useful aspects of situations in which ‘VGeN’ is used in the example sentence, along with the above basic thought processes. We looked at various aspects of the speaker's position in the environment, his purpose, his intention to ignite, and his recognition as a listener. Through these comprehensive observations and thoughts, this report reflected the psychology and attitude of the speaker to embody the actions, and emphasize them in the ‘VGeN’",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 대규모 인터뷰 작업을 통해 한민족이 가진 집단적 의식의 지형도를 담아내고자 하는 미디어전시작업 <70mK>의 의미를 고찰하기 위해 기술되었다. <70mK>는 개별 존재자들의 인터뷰 영상들을 마치 모자이크와 같은 배치와 형태로 편집, 구성된 영상전시물을 만들고 전시회를 개최하고 있다. 분할된 프레임 속의 개체들은 저마다의 생각과 개성을 드러내는 차이의 연속성을 보여준다. 이것은 개체들의 내재성이 동시다발적이고 총체적인 이미지로 구현된 공시적이고 의식적인 집단적 타자의 형상이다. 인터뷰 영상들은 실제 존재자로서의 자신의 형태를 드러내고 자신이 가진 특유의 내재성을 구술적인 정보로서 발산한다. <70mK>는 특정 집단이라는 동일선의 연장에서 이런 생명적 개체들의 형태와 정보를 미학적으로 구조화하여 새로운 개체화를 이루어낸다. 프레임 속의 존재자들, 각 개체들은 서로가 대화를 나누거나 소통하는 것이 아니라 카메라를 향한 전면 응시, 즉 작품을 관람하는 사람들을 향해 그들이 가진 전개체적 실재로서의 관계성과 개성을 전달한다. 그것은 각 개체들이 보여주는 이질성과 차이의 반복적 배치와 구성인 동시에 그 이면에 집단적 동일성을 내포한 연쇄 작용이다. <70mK>는 개성을 드러내는 인터뷰이들의 직접적인 이미지와 소리를 구조화하여 전시영상작품이라는 새로운 정보전달 방식의 형태를 이루어낸다. 이러한 점은 정신적이고 집단적인 개체화의 의미와 관개체적인 관계성의 의미와 과정을 은유하게 하고 지각하게 한다. 이것은 개체화라는 생성의 과정과 관계의 의미를 현대 기술과 함께 사유한 질베르 시몽동의 개체화론으로 설명하기 적합한 사례이다. <70mK>가 구축한 전시공간은 특정 집단의 개체들 사이를 관통하여 연결되는 정신적이고 집단적인 의미와 그 관계성을 미학적인 방법론으로 함의하고 있다. 시몽동은 개체화라는 과정에 대한 사유와 생성의 의미를 고찰하며 현대의 기술이 가진 가능성과 잠재력을 긍정한 철학자이다. <70mK>는 현대의 기술 매커니즘과 네트워크적 행위들이 매개되어 구조화되고 생성된 윤리적 실재성으로서의 새로운 개체이다. 그것은 기술이 협업 된 개체화 과정에 인터뷰가 어떻게 ‘변환’ 작용으로 기능하는지에 대한 미학적이고 실천적인 방법론을 보여주는 사례이다. <70mK>가 보여주는 직접적인 이미지와 소리는 생명적 개체의 정보들이 운반, 증폭, 축적되며 발산하는 정보의 체계이자 정신적이고 집단적인 풍경으로서의 새로운 개체이다. 그것은 복수의 개체화를 통해 새롭게 생성된 전시예술작품에 내포된 개체초월적인 의미작용과 과정에 대한 하나의 표상이기도 하다. 개체화된 준안정적 상태로서의 미디어전시예술은 작품을 관람하는 이들이 동일한 전개체적 실재를 인지하고 정념적 감정을 느끼는 새로운 관계 맺기를 이끌어낸다. <70mK>의 전시공간은 의미작용의 표상을 넘어 관개체적 집단의 실질적인 가능성을 예비하는 무대가 된다",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "시몽동의 개체화론과 변환의 방법론은 물질과 생성에 관한 현대 자연 철학의 가능성 및 철학과 과학의 관계에 대한 새로운 전망을 제시한다. 시몽동의 반실체론적 관점에 따르면, 존재는 퍼텐셜 에너지로 충전된 준안정적 시스템으로서, 잇따르는 평형상태들을 가로지르는 양자적 도약을 통해서 점진적으로 자기 복잡화한다. 개체화는 전(前)개체적 상태에서 개체화된 상태로 변이하며 존재의 상(相)들을 생성하는 작용이다. 개체화 일반의 패러다임 모델인 물리적 개체화는 형상 중심의 질료형상도식이 갖는 불충분성을 제시하고 물질의 자발적인 형상화 역량과 물질에 내재하는 역동적인 관계적 작용의 실재성을 입증한다. 개체(구조나 형태)의 발생은 자연에 내재하는 퍼텐셜들의 차이와 크기의 등급들 사이의 불일치를, 내적 공명, 정보 소통, 변환적 관계를 통해서 해결하는 일종의 해(解)로서 일어난다. 시몽동은 현대 물리학의 개념들을 변환적으로 차용하여 고대 자연철학의 ‘피지스’를 부활시키면서 새로운 비환원적 유물론의 가능성을 보여주었다. 특히 귀납도 연역도 변증법도 아닌 시몽동 고유의 ‘변환’은 근원적인 존재론적 과정이자 독특한 사유 방법으로서 철학을 비롯한 여러 학문들 간의 상호－관계와 지식의 연결망을 구축하는데 새로운 관점을 제공한다는 점에서 주목할 만하다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 스피노자 신체론을 전유하는 현대의 이론적 조류를 소개한다. 하나는 다마지오처럼 인지과학에서 스피노자를 직간접적으로 표방하는 ‘체화된 마음 이론’이고, 다른 하나는 현대프랑스 스피노자 연구의 주요 테마 중 하나인 개체화 이론이다. 이 글에서 나는 체화된 마음 이론이 ‘정신은 신체의 관념’이라는 스피노자 테제의 의미를 구체적으로 밝혀 줄 수 있음을 보여 주고, 다른 한편 프랑스스피노자 연구의 개체화 이론이 신경생리학이나 인지과학이 존재론 및 정치철학과 접목될 필요를 시사함을 보여 준다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 연구는 베르그손의 창조적 진화로부터 새로운 개체화 이론을 구 성해내는 것을 목표로 한다. 우선 우리는 창조적 진화 내에서 개체화의 문제 가 생명체에서 발견되는 정교한 형태 구조의 해명과 관련 있음을 지적할 것이 다. 그런데 베르그손은 이 형태 구조의 발생을 설명하기 위해 물질과 생명에 대 한 과도하게 형이상학적인 개념화에 의존하는 한계를 보여준다. 하지만 창조 적 진화에는 이와는 다른 방식으로 생명체의 형태 발생을 설명하는 도식이 존 재한다. 그것은 1장에 등장하는 쇳가루 더미를 가로지르는 보이지 않는 손의 이미지인데 우리는 이 이미지로부터 물질의 자기 부정으로서의 생명이라는 독 특한 관념을 이끌어낼 것이다. 이 새로운 관념에 경험적 타당성을 부여하기 위 해서 우리는 베르그손을 떠나 세포 자살 이론과 대칭 깨짐 이론이라는 현대의 몇몇 과학 이론들을 검토할 것이다. 이러한 검토를 통해 우리는 베르그손의 개 체화 이론이 최소 생명주의라는 하나의 명확한 철학적 기획으로 현재화될 수 있음을 보여주고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "시몽동의 철학은 개체화(individuation)의 문제를 중심으로 이루어진다. 개체화의 문제는 서양 철학 전체의 문제라고 할 수도 있지만 생성의 관점에서 이 문제를 다룬 경우는 별로 없었다. 시몽동은 이미 만들어진 개체가 아니라 ‘전개체적 상태’로부터 출발할 것을 주장하는데 이는 베르그손의 생성의 철학 전통에 서 있으며 나중에 들뢰즈의 차이의 존재론에도 중요한 영감으로 작용한다. 시몽동의 사유는 모든 종류의 안정된 본질이나 실체를 전제하는 철학적 전통, 특히 근대과학 및 근대철학의 전제들을 심층적으로 전복하는 사유이다. 그는 열역학이론과 상대성이론, 양자역학, 드 브로이의 파동역학 그리고 비평형열역학이라는 최근의 과학적 성과들을 포괄적이고 체계적으로 반영하면서 철학적으로 매우 현대적이고 독창적인 개념틀을 구성하고 있다. 시몽동은 물리계에서 결정형성의 과정을 개체화의 모형으로 하여 생성을 연구하는데 그 연속선상에서 생명계의 개체화과정을 유적 실재보다 더욱 핵심적인 것으로 제시한다. 우리는 시몽동의 개체화 이론을 통해 프랑스 생성철학의 문제와 현대과학의 문제들이 조우하는 지점을 살펴본다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "논문에서는 현대 한국사회의 연고 집단의 문제점을 유가의 치료학적인 관점에서 접근하였다. 한국의 연고 집단은 한국사회가 개체화 과정에서 발생한 무력함, 고독함, 허무함 등의 심리적인 불안을 해소해 주는 긍정적인 측면도 있지만 집단 간의 폐쇄성과 배타성 등의 집단이기주의 등의 사회병리현상의 요인이 되기도 한다. 그래서 한국사회의 병리현상을 치유하기 위해서는 폐쇄적 연고 집단에서 개방적 연고 집단으로 전환시키는데 있다. 그래서 본 논문에서는 연고 집단을 儒敎사상의 관점에서 진단하고 치료할 수 있는가를 중심으로 논의하였다. 유가는 연고 집단을 ‘朋黨’적 사회라고 비판하면서, 연고 집단의 폐쇄성은 사사로운 욕심에 기인하는 것으로 보면서, 개인의 도덕적 수양을 통해서 개방적인 네트워크로 전환할 수 있다고 본다. 그래서 한국사회의 병리현상을 치유하기 위해서는 연고 집단을 부정하기 보다는 연고 집단의 폐쇄성을 극복한 개방적 네트워크로 전환할 필요가 있음을 논의하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This paper discusses the emergence of the isomorphism between the causative and passive suffixes in Manchu-Tungusic languages, and argues that the transitivity of a sentence plays a pivotal role. It defines the transitivity of a sentence as the degree of individuation of the arguments, and proposes the grammaticalization path from causative to passive. In addition, it rejects the previously suggested route through the reflexive-causative, and suggests the direct grammaticalization path from the permissive-causative to the factitive-causative and the passive. It is due to the fact that the Manchu-Tungusic causative morpheme stems from the lexical verb which means ‘give’. In turn, The less agentive agent of the causative construction triggers the passive reading.\nVarious pieces of evidence from cross-linguistic perspectives are provided in order tosupport the argument.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "한국의 독립출판인들에 대한 사례연구를 통해 이 연구는 오늘날 ‘기억기술’로서 독립출판이 갖는 문화정치적 의미를 살피고자 한다. 웹에서 무료로 제공되는 공간들을 이용하지 않고 이들은 종이책을 통해 사적 기록과 공동체의 기억을 직접 출판한다는 점에서 연구의 가치가 있다. 이에 이 연구는 베르나르 스티글러의 ‘기억기술’ 개념을 사용, 이들의 독립출판을 일종의 기억을 외재화하는 기술로서 이해하는 한편 그 문화적 실천의 구체적인 양상을 분석하고자 했다. 독립출판인들 7인을 인터뷰한 결과, 이들에게 독립출판은 이들에게 단순히 자기충족적 활동이 아닌 개인과 공동체의 보존을 위한 기억기술로써 인식되고 있었다. 디지털 기술과 관련해서는 이들이 출판 과정에서 필요한 기술들을 습득하는 과정에서 기술의 양면 가치를 비판적으로 사유하는 모습이 관찰됐다. 이러한 연구결과는 기억기술로서 출판이 갖는 의미를 재탐색하게 하며 디지털 기술과 자기-글쓰기를 함께 논의하는 후속 연구에도 시사점을 남긴다..uk)",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "In this paper, I examine the concept of community on the ontological level. The central theses of ontological theory on community, such as “inoperative community” (Nancy), “the coming community” (Agamben), and “the community of those who have nothing in common” (Lingis), can be summarized as follows: “It is where the community is not that the community is.” While these arguments emphasize ontological communality at the expense of communities in real life, I accentuate the dimension of the actual in the theorization of community. I argue that we can properly think of the virtual or ontological dimension of community only through trying to conjure up communities at the actual level. At the root of this conceptualization of community is the Spinozist thesis that the individual is formed through the process of individualization and that the individual is an assemblage of many “dividuals.” While we define commun-ity (the concept of community) as the process of individualization that unites multiple heterogeneous components, we define singularity as the process of bringing heterogeneous singular points together. In Deleuzean terms, the former becomes the “content” of community, whereas the latter take on its “expression.” The central thesis of this article is to examine the problem of the interiority and outsideness of community through these two concepts, i.e., “commun-ity” and “singularity.”",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문은 SNS혁명이 가져온 커뮤니케이션 환경 변화와 관련하여, 동일성의 관점에 기초한 전통적 커뮤니케이션 이론이 일정한 한계에 직면했음을 지적하면서, 그 대안으로 들뢰즈의 존재론에 기초한 차이의 커뮤니케이션을 제시하고자 한다. 2011년 초 중동혁명이나, 같은 해 말의 ‘월가를 점령하라’ 시위가 82개국 1,500개 도시에서 동시적으로 발발한 현상을 이해하기 위해서는 전통적인 동일성의 커뮤니케이션을 차이의 관점으로 수정하고 보완해야만 가능할 것이다. 들뢰즈의 생성-커뮤니케이션은 SNS가 매개하는 오늘날의 커뮤니케이션을 전달이나 공유가 아니라, 전염과 횡단, 생성이라는 개념들을 통해 설명하는 것이다.\n본 논의의 목표는 들뢰즈의 존재론을 삼항관계와 이중운동의 관점에서 재해석함으로써, 그의 철학 자체가 하나의 커뮤니케이션 이론임을 입증하는 데 있다. 그것은 차이와 반복, 현실성과 잠재성, 개체화 등 들뢰즈 철학의 핵심적 개념들을 커뮤니케이션학의 관점에서 재해석하는 동시에, 커뮤니케이터로서의 차이소, 모나드, 분할개체, 다중개념들을 검토함으로써 수행될 것이다. 이를 통해 이 논문은 동일성에 기초한 모델형 커뮤니케이션에 대립하는 생성-커뮤니케이션, 차이의 커뮤니케이션, 비소통의 소통을 제시하고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논의는 캐리커처가 특정 시대를 지시하는 풍자적 인물화(그림)를 벗어나, 시인들의 언어에 의해서도 그 형상성을 갖출 수 있다는 점에 주목하여 시학적 가능성으로서 ‘캐리커처’ 미학을 기반으로 김언희, 장정일, 서정주, 김기택 등의 시에 대한 분석을 시도하였다. 이를 위해 주로 ‘추의 미학’을 면밀하게 이론화한 카를 로젠크란츠의 이론을 중심으로 무엇을 캐리커처로 확정할 것인가라는 문제에 초점을 맞추었다. 이러한 연구 작업은 본질적으로 시 해석의 지평을 확대하고자 하는 데 그 목적이 있다. 시 해석의 지평 확대를 위해 캐리커처에 주목한 까닭은 그것이 풍자나 알레고리, 패러디보다 더욱 강화된 추를 건드린다는 데 있다.\n캐리커처의 본질은 캐리커처 미학을 결정화하는 가장 중요한 요소라 할 수 있는데 그것의 핵심은 대상을 ‘과장’적으로 표현하는 것이라 할 수 있다. 카를 로젠크란츠는 과장의 양적 한계를 제한할 것을 강조하고 있는데 이는 캐리커처가 성립되기 위해서는 원이미지를 떠올릴 수 있는 형상적 계기가 변형된 이미지에 남아있어야 함을 뜻하는 것이다. 아울러 그는 과장적 표현이 단순한 확대‧강화 혹은 단순한 축소‧약화 등과 구분된다는 사실을 통해서 추의 변위를 생산해내는 캐리커처의 과장이 대상의 총체성과 부분 사이에서 발생하는 ‘불균형’, ‘비틀림’이어야 함을 그 성립요건으로 밝히고 있다.\n한편 카를 로젠크란츠는 캐리커처의 근본적 생산 방식을 ‘개체화’와 ‘찬탈’, ‘하향화’라는 세 가지 방식으로 요약하고 있다. ‘개체화’란 원이미지와 비튼 이미지 사이에 발생하는 캐리커처가 구체적인 형상을 통해 전달되어야 한다는 것을 의미한다. 즉 개념이나 추상적 의미를 반영한 것이 캐리커처가 아님을 뜻하는 것이다. 한편 캐리커처의 생산 방식으로서 ‘찬탈’과 ‘하향화’는 부족한 능력을 과장적으로 부풀리고 이미 있는 능력을 과장적으로 격하시키는 것을 의미한다.\n이와 같은 캐리커처는 ‘공격의 언어’라는 기능을 가지고 있다. “근대의 캐리커처는 실제 인물이나 인식 가능한 사회적 범주에 대한 논쟁적 도구로서 탄생”했다는 움베르토 에코의 말처럼 그것은 한 인물의 ‘사회화’와 관련한다. 그것은 기형화된 ‘추(醜)의 형상을 통해 우리 삶의 이면에 감추어진 현실의 추를 자유롭고도 유머러스하게 들추어낸다. 여기에는 궁극적으로 인간의 위대함과 고뇌를 우회적으로 보상받고자 하는 긍정의 꿈이 담겨 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "우리 사회에서 근대와 탈근대 시대의 가치는 서로 대립하고 충돌하는가? 근대와 탈근대의 주요 가치는 무엇이고, 각 시대에서 우리가 배울 점과 한계로 가질 점은 무엇인가? 흔히 근대를 대표하는 헤겔 철학은 탈근대(포스트구조주의)의 들뢰즈가 일방적으로 비판한 것으로 알려져 있다. 그러나 이 글은 헤겔과 들뢰즈 간에 묶일 수 있는 공통적인 가치가 있다는 것을 전제하며서, 동시에 헤겔 철학이 안고 있는 문제점을 들뢰즈가 어떻게 비판하고 있는지를 살피고자 한다.\n일반적으로 헤겔 철학은 동일성의 철학, 재현의 철학으로 규정되고, 들뢰즈의 철학은 전복의 철학, 차이의 철학으로 평가되어 왔다. 그렇지만 두 철학자는 공통적으로 변화와 생성, 운동에 철저히 주목한 철학자이다. 그러나 헤겔 철학은 생성의 존재론으로 볼 수 있으나, 들뢰즈 철학은 발생의 존재론으로 보는 것이 더 적합하다. 헤겔은 존재, 무, 생성의 범주 그리고 부정성, 대립, 모순의 범주에서 보듯이, 이 세계의 본질은 생성, 변화하는 것이라고 보았다. 그러나 헤겔은 이러한 생생한 변화의 모습들을 ‘능동적 종합’으로, 개체를 보편과 통일로서의 개별자로, 생명을 유기체의 단위로 고정시킴으로써, 동일성의 지평으로 회귀하는 생성의 존재론에 머물고 말았다.\n들뢰즈는 헤겔과 달리, 동일성의 지반에 귀속되지 않는 차이 그 자체의 범주를 부각시킴으로써, 플라톤에서 헤겔에 이르기까지의 동일성의 존재론을 전복시키고 차이의 존재론을 주장하였다. 이러한 들뢰즈의 차이의 존재론에서 생성은, 동일성에서 기원하지 않는 질료적 차원에서 강도적으로 차이나는 ‘발생’의 차원이 강조된다. 이러한 발생은 헤겔의 절대적 주체의 능동적 종합과 달리, 무의식적 차원에서의 ‘수동적 종합’의 성격을 갖는다. 또한 들뢰즈의 개체는 전인칭적이거나 전개체적 차원에서 발생하는 성격을 갖기 때문에 헤겔의 유기체적인 단위의 개별자와는 구별된다. 따라서 헤겔과 들뢰즈는 둘 다 생성의 문제에 초점을 맞춘 점에서는 공통적인 문제의식을 갖고 있었지만, 들뢰즈의 발생의 존재론의 탈근대적 시각에서 볼 때 헤겔의 근대적인 생성의 존재론은 미완성에 그치고 말았다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "本文以“一MM”爲研究對象, 在以往研究的基礎上分別對它作主語, 主語或賓語的定語以及狀語時所表現出來的語義進行了考察｡ 很多研究者認爲“一MM”是“一M一M”的省略形式, 或是量詞重疊形式“MM”的變體｡ 但通過調查我們發現“一MM”和“MM”不僅在句法分布上存在差異, 而且即使出現在相同的句法位置時, 也表現出與“MM”不同的語義特征｡ 也就是說“一MM”中的“一”既非如“一M一M”中“一”的數量意義, 也不是可任意省略的存在｡ 由於數詞“一”與其他數詞不同處於從無到有的分界嶺, 而且是可以作爲計數的最小單位, 因此它具有其他數詞所不具備的特指性, 和個體性的語義特征｡ 正是因爲這樣的語義特征致“MM”形式在添加上“一”之後, 在使用時會出現各種句法限制或語義制約｡",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This paper aims at establishing a meaningful relation between Jung’s psychological inquiry into the unconscious and William Shakespeare’s Macbeth. Jung defined the common developmental structure of human psyche as the individuation process, which this paper is to analyze through the psychic transitions in Macbeth.\nFor this end, it can be considered Macbeth as the embodiment of the masculine ego; the place and time of the meeting of the witches as an exact replica of his own inner shadow side; the natural elements such as lighting, thunder, and rains as a reflection of the confusion of the disordered libido. And three witches are the personification of his own personal shadow complexes. Passing through the witches' heath, Macbeth regresses further into the collective unconsciousness projecting to Inverness castle to reunite with his anima figure Lady Macbeth. Even though the psychic role of an anima in individuation process is a way to lead the masculine consciousness towards individuation, Macbeth' anima figure fails to perform in that role. She is a projection of Macbeth's negative and twisted feminine ego dominated by a powerful paternal image to drive him to assassinate the king Duncan.\nTo assassinate Duncan represents the feminine side's inner defeat resulting in his failure to individuation because the king is the prototype of the Self, a combination of femininity and masculinity as a symbol of the source and goal of the individuation process. After the murder of Duncan has been committed, Macbeth is to be a son swallowed up by the terrible devouring mother, without being able to establish a psychic equilibrium between the opposing forces of his conscious ego and his anima-dominated unconscious.\nMacbeth visits Hecate’s cavern which is a maternal metaphor for a collective unconscious. He confronts apparitions sprang from the boiling cauldron, a fertility symbol. Hecate's rite is a kind of the ritual of psychic alchemy for Macbeth to regain his lost feminine ego to feel introverted sensation. Since joining in the alchemical ritual performed by mother archetype Hecate, Macbeth is able to realize himself as a “poor player/ That struts and frets his hour upon the stage,” However he is destined to stand somewhat midway between god and man even though he just shares one quality with seeker of self. The process of individuation can be achieved in Macbeth within a context of coming back cosmic order to the state of Scotland with the righteous heir Malcolm be as a king.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "With a theoretical assumption that Shakespeare and Jung attempt to search for the universality of the human nature, this paper aims to apply Jung's theory of archetypes to Shakespeare's Midsummer Night's Dream. The anima/ animus, which we can call here Adam/Eve inside ourselves is the most significant archetypes as a part of the process of individuation in this paper.\nThe main action in Midsummer Night's Dream takes place within a context of the conflict between a father and a daughter. Psychologically the father represents the patriarchal principle and two pairs of young lovers are the embodiments of the undeveloped and uncontrolled ego(es). The father's angry curse drives his daughter into the regressive darkness of the forest.\nThe oak tree represents the prototype of the self, a symbol of the source and goal of the individuation process. As the self archetype it constitutes the gateway into the unconscious. The oak tree leads them to the darkness of the forest which is a form of introversion, a regression of the libido, into a mother's womb. As an instrument of the unconsciousness, Puck makes the young lovers accept and integrate their own Adam/Eve, anima/animus through their own emotional chaos caused by using the love-in-idleness in the forest.\nWhen they leave the wood at sunrise, the two pairs of lovers achieve a level of completeness which symbolically joins the two halves of their unconsciousness, their anima/animus, into one. The process of individuation is completed in the course of the festive conclusion, the wedding feast.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "일찍이 퍼포먼스와 설치는 작품의 실체적 속성을 비결정성으로 바꿔놓았고, 디지털 기술에 입각한 뉴미디어아트에서 이미지는 스스로 발생, 확장하며 작품의 비결정성과 우연성을 가속화시켰다. 이와 같은 디지털 이미지의 비결정성은 인간의 개입에 의한 기존 이미지 환경과의 지속적인 상호작용을 통해 새로운 환경의 창조, 차이의 증식을 초래하는 과정적 이미지로서의 발생론적 특징을 지닌다. 본 논문은 인간과 환경과의 보다 적극적인 상호작용을 가능하게 해준 기술적 대상의 존재론적 특징을 뒤프렌의 현상학적 관점과 시몽동의 발생론적 입장에서 살펴본다. 두 사상가에게서 메를로-퐁티의 영향은 물론 사상적 교류를 발견할 수 있기 때문에 메를로-퐁티의 현상학적 존재론을 매개로 고찰한다.\n뒤프렌의 현상학적 관점은 미적 지각과 인간의 개입 행위를 통해 추상적, 익명적, 잠재적인 상태로 존재하는 기술적 대상이 현실적인 존재로 체험되는 가운데 점차 구체적인 것으로 존재한다는 것을 밝혀준다. 즉 기술적 대상에 선험적으로 존재하며 세계와의 새로운 통일성을 회복시켜 줄 수 있는 대자연에서 기술적 대상의 발원적인 토대를 찾은 뒤프렌에게서, 기술은 인간을 자연 혹은 세계에 친화적으로 매개한다는 기술에 대한 긍정적인 관점을 발견할 수 있다. 시몽동은 기술적 대상의 존재를 외부에서 주어진 원리가 아니라 기술적 대상 내부에서 준안정적 상태로 분리구조를 낳는 변환의 체계로 간주한다. 기술적 대상은 생물학에 나타난 생성 중에 있는 미분화 된 배아가 점차 결정체의 구조를 획득해 나가는 존재론적 변환을 통해 추상적인 것에서 요소, 개체, 총체로 구체화되어 가면서 개체화된다. 개체화를 가능하게 해주는 잠재적인 비결정성은 환경과 상호작용할 수 있는 인간의 개입 가능성을 열어 놓아 기술적 대상은 생성하는 기술적 개체가 된다. 인간의 행위를 통한 기술적 대상과 자연, 세계와의 통일성은 예견된 합목적성이 아닌 자발성에 입각한 친화성에 의한 것이다.\n메를로-퐁티가 인간의 행동이 주변 환경과의 변증법적인 상호작용에 의해 현재의 상황에서 끊임없는 ‘넘어섬’을 강조한 것은 뒤프렌의 비개체적인 것을 지닌 기본성격에서 그리고 시몽동의 단순한 사회적, 심리적 관계로 환원되지 않는 초개체적인 것에서 그 교감을 찾을 수 있다. 전개체적인 것으로서 미분화된 메를로-퐁티의 ‘살’, 뒤프렌의 ‘대자연’. 시몽동의 ‘전개체적인 것’은 개개의 인간이 사회적 존재의 총체로 존재할 수 있게 해주는 토대이자 구조화되지 않은 기반으로서 특이함을 드러내 주는 것이다. 그러나 이와 같은 개체 속에 존재하는 전개체적인 것의 비결정성과 우연성은 사회적 존재의 기초이면서도 기술적 대상, 인간, 환경 사이의 상호작용의 가능성을 밝혀주는 근거를 마련해 준다.\n아울러 메를로-퐁티의 야생적 존재로서 ‘불투명한 살’, 뒤프렌의 ‘대자연의 질료적 아프리오리’, 시몽동의 기술적 존재에 나타난 ‘준안정적인 긴장 상태의 요소’는 실체가 아니라 잠재적인 힘을 지닌 미분화된 전개체적인 것이라는 점과 인간의 행위에 의해 자연, 세계와의 통일성을 회복시켜 줄 수 있다는 점에서 세 사상가의 철학적이고 미학적인 교응점을 발견할 수 있다. 그러나 메를로-퐁티의 살과 뒤프렌의 대자연에는 지각 장이 불투명한 역사의 모습으로 존재하지만 시몽동은 ‘살’에 내포된 지각 장과의 연관성을 비판하고 기술적 대상의 개체 발생을 순수하게 개체의 내재적 지평에서 기술한 점에서 두 현상학자와의 차이가 밝혀진다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "복잡해진 미디어 환경 속에서 광고 제작자들은 범람하는 광고에 지쳐있는 소비자들의관심을 끌기 위해 새로운 광고기법이 끊임없이 개발하고 있다. 광고의 모든 요소는 다양한 전략의 수단으로 사용되고 있으며 사운드(sound) 또한 예외는 아니다. 특히 광고배경음악의 기능이 점점 더 확대됨에 따라 그 문화적 함의를 살펴볼 필요성이 대두되었다. 이러한 맥락에서 본 연구는 아도르노의 대중음악론을 광고 배경음악에 적용하여 문화적 함의를 살펴보고자 하였다. 이론이 적용되는 광고물을 대상으로 사례 분석을 실시하였다. 아울러 광고 사운드에 대한 종합적인 기초 연구가 흔치 않음을 감안하여 광고사운드의 유형인 음성언어, 효과음 및 음악에 대한 기본적인 고찰도 병행하였다. 그 결과, 배경음악은 표준화, 가(假)개체화, 플러깅, 원자적 청취, 파편화 등의 함의를 지닌 채현대의 대중문화 속에 뿌리를 내리고 있었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "현재의 디지털, 글로벌(전 지구적) 환경에서 ‘문화’와 ‘문화 산업’이라는 용어는 비교적 포괄적이자 적극적, 자의적 관점에서 사용되고 있다. 더욱이, 문화 현상에 대한 규정에서 드러나는 확장된 인식의 모습을 감안하자면, 문화적 대상의 ‘사회적 생명성의 형태’(The social form of life, Appadurai, 1986; Lash & Lury, 2007)라는 새로운 개념적 이해를 필요로 한다. 이 과정에서, 문화 생산 및 소비에서의 연속적 흐름들(trajectories)이 어떻게 형성되는지, 그리고 주․객체의 시공간적 그리고 존재론적 변화의 특성들은 어떠한지 살펴볼 필요가 있다. 결국, 지금의 전 지구적 문화 산업은 특히 디지털 미디어 환경을 중심으로, 들뢰즈, 가타리적(1994) 관점에서의 ‘생성적 되기’(becoming)의 과정과 전형적으로 결합하며 그 위상적 특이성을 지속적으로 드러내고 있다. 더불어, 오늘날 전 지구적 문화 산업은 주․객체들의 준안정적 ‘개체화’(individuation, Simondon, 1992; Stiegler, 1998, 2008, 2011), 그리고 그 흐름 속에서 드러나는, 다소 낯설면서도 익숙한 새로운 자본주의 교환 질서, 즉 ‘미디어 교환 시스템’(media exchange, Park, 2014)을 폭넓게 부각시킨다. 이 글에선 우선 형상적(figural)이며 정조(情調)적인(atmospheric) 특징을 나타내는 소위 전 지구적 문화화, 그리고 문화적 대상에 대한 새로운 형태의 소유, 교환 개념과, 그 과정에서 드러나는 주체들의 ’초개체화’(trans-individuation, Stiegler, 2011)와 ‘빈곤화’에 대하여 비판적으로 조명한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "In this paper, as a previous step of software development, through an analysis step in the basic design process of the FPSO crane, ERD, which could help develop common understanding between its developer and the user, was introduced. From the flowchart of the design process, the overall work flow in its development was understood. Then, after the design process of the crane was divided into many entities, the attributes of each entity were defined and the relationships between the entities were established, followed by ERD creation through the use of IDEF1X notation. The results of the analysis can be readily understood even by users who lack of software knowledge, and then their change requirements can be immediately reflected in the developed system that requires modification.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 장자의 철학에서 강조되고 있는 性의 의미를 개체의 자기보존적인 생명활동과 연계하여 살펴보는 것을 목적으로 한다. 이것을 통해서 필자는 개체의고유한 性이 발현되는 의미를 온전한 삶에 대한 인간의 욕망과 연계하여 살펴본다. 이것을 위해서 필자는 장자의 철학에서 부각되고 있는 性에 대한 담론체계의발전과정을 선진시대 초기 철학가들의 사상을 통해서 살펴본다. 이러한 과정은 춘추전국시대의 특수한 시대상황과 맥을 같이한다. 다시 말해서 통일제국의 형성을위한 새로운 사회질서의 확립은 인간과 사회의 조화를 위한 보편의 원리를 요구하게 만든다. 이런 측면에서 볼 때 장자의 철학에서 부각되고 있는 개체가 지니는있는 고유한 본성에 대한 논의는 인간에 대한 새로운 이해를 가능하게 한다. 또한인간에 대한 이와 같은 이해의 변화과정은 선진시대 초기 철학자들에 의해 제기된인간 본성에 관한 논의들을 토대로 하고 있다. 그러므로 필자는 장자의 철학에서강조되고 있는 性에 대한 이해를 인간 개체의 자기보전적인 생명활동과 연계하여 살펴보고, 그 의미를 온전한 삶에 대한 인간의 욕망과 연계하여 살펴본다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This paper deals with the forms and meanings of plurals with respect to the way how the concept of number is realized in Korean. The summary of this paper is as follows. First, the default forms of Korean nouns express general number which is irrelevant to number. And special plural marker 'deul' is needed to express the plurality of nouns. Therefore there is a formal contrast between general/singular vs. plural in Korean. Second, the default forms' likelyhood of singular reading is proportional to the scale of animacy. Third, the actual examples don't agree with the theory that 'deul' plurals are considered to be i-sums and default forms are considered to be groups. And there are no connections between 'deul' marker in nouns and distributivity in predicates. Fourth, there are two kind of 'deul's in Korean where the one is an affix expressing individual plurals and the other is a particle expressing event plurals. The former is combined with nouns and the latter is combined with verbal projections. Fifth, 'deul' of event plural is devoted into expressing distributivity, so distributivity makers in Korean are bifurcated into nominal distributive marker 'mada' and verbal distributive marker 'deul'. Sixth, there are no connections between 'deul' of event plural and the plurality of subject in a sentence.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 주자철학을 환경윤리적 관점에서 접근하고자 한다. 최근 환경위기를 극복하기 위한 근본적인 대안으로 환경윤리의 필요성이 대두되고 있다. 환경윤리는 기존의 가치관이 자연을 인간을 위한 도구적 존재로만 인식되어진 것에 반해 자연도 그 자체의 내재적 가치를 가지고 있으므로 목적으로 대해야 한다는 것을 핵심내용으로 삼고 있다. 이 내재적 가치를 무엇으로 보는가에 따라 다양한 이론들이 제기되고 있다. 하지만 그 이론들은 크게 생명 개체주의와 생태 전체주의로 구분해 볼 수 있다. 그래서 이 논문에서는 두 입장의 장·단점을 살펴보고, 이 양자를 유기적으로 결합시킬 수 있는 모형을 주희철학에서 탐색해 보았다. 우선, 주희는 생명 개체와 생태계 생명을 모두 중시하고 있으며 이 두 가지를 음양의 관계적 생태에서 결합시키고 있고, 또한 인간을 비롯한 우주만물은 모두 理를 구유하고 있다는 점에서 인간과 자연의 관계가 평등함을 밝히고, 인간이 자연의 법칙을 실현시켜야 할 의무가 있음을 논의하였다. 그리고 주자철학에서 환경윤리 주체성 확립이 가능한가를 탐색하기 위해 心이 환경윤리의 주체가 될 수 있는가를 살펴보았다. 心은 그 감응의 대상을 인간에게만 한정하지 않고 자연에 대해서도 열려져 있다는 점에서 환경윤리의 주체가 될 수 있음을 논의하였다. 그리고 마지막으로 생태윤리에 관한 교육을 어떻게 해야 하는가를 주자의 공부론인 窮理와 涵養을 중심으로 살펴봄으로써 예절교육, 생태계 학습, 경전공부, 정좌공부, 환경실태에 대한 자료 분석과 대안마련에 관한 교육이 필요함을 논의하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문에서는 다양한 불가사리 영상을 판단하여 불가사리를 인식하는 기법을 제안하고자 한다. 아무르불가사리의 단일개체를 인식하는 경우는 불가사리의 오목 특성과 단선 특성을 이용하여 불가사리 여부를 판단할 수 있으나, 다중개체의 경우는 오목과 단선을 이용한 불가사리의 특징 추출이 불가능하기 때문에 불가사리로 인식할 수 없다. 따라서 다중개체의 영역 중심 모멘트와 장선을 이용하여 장선의 표준편차, 장선별 표준편차 값, 상대각 표준편차, 유효편차수 등의 특징을 이용한 인식 기법을 제안하고자 한다. 제안한 기법의 실험 결과 장선의 표준편차 조건이나 상대각의 유효편차수 조건을 만족하지 못하여 인식에 실패한 경우도 있었으나 약 95%의 높은 인식률을 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The purpose of this study was to suggest that selecting method of rotifer with high activity of digestive enzymes\nfor the enrichment effect of rotifer and the increasing of digestive enzymes of fish larvae. the populations\nassayed the activities of the digestive enzymes were randomly selected out of several population communities\ncultured with freshwater condensed Chlorella. The relationship with the population density and the growth rate\nof selected populations was shown to RD=5865 SGR-350.08 (P<0.001). The relationships with fecundity of the\ngrowth rate and the population density were shown to F=-36.147 SGR+61.652 (P<0.05) and F=-0.0085\nRD+66.38 (P<0.001), respectively. The relationships of the growth rate and the individual activities of digestive\nenzymes in rotifer were assayed to Amyl=-1.6482 SGR+3.2498 (P<0.05), TAP=-0.8115 SGR+1.1361\n(P<0.001) and TGL+0.0055 SGR+0.0079 (P=0.239), respectively. But in TG-lipase was not related significantly\nwith the growth rate. Also the relationships of the fecundity and the individual activities of digestive\nenzymes in rotifer were shown to Amyl=0.0296 F+1.0981 (P<0.001), TAP=0.0252 F+0.0975 (P<0.001) and\nTGL=-6E-06 F+0.0113 (P=0.915), respectively. But in TG-lipase was not related significantly with the fecundity.\nAnd the relationships with the specific activity of TG-lipase of the fecundity, the growth rate and the population\ndensity were TGL=-0.024 F+0.2332 (P=0.132), TGL=0.1267 SGR+0.005 (P<0.01) and TGL=0.0002 F-\n0.0594 (P<0.001), respectively. In this case, specific activity of TG-lipase was shown the significant relationship\nwith the population density and the growth rate, but it was not related significantly with fecundity.\nTherefore, Because a population shown the high activity of digestive enzymes for increasing a lipid enrichment\neffect of a rotifers and receiving the many exogenous digestive enzymes to fish larvae was the population of\nhigh fecundity than the population of high rotifer density, to select the population of a high fecundity was suggested\nto benefit than a high growth rate for fish larvae.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 풍우란 문화철학사상의 핵심이라고 할 수 있는 중서문화관을 중심으로 고찰할 것이다. 풍우란은 1920년대부터 1990년, 생을 마감할 때까지 수많은 철학서를 출판하고 문장을 발표하였으며, 독특한 “신이학(新理學)”체계를 형성하였다. 그러나 이와 같이 그가 일생동안 철학사에 심혈을 기울인 이유는 단지 철학사를 탐구하기 위함이 아니라 그 자신이 부딪히고 있었던 “현실문제”를 해결하기 위함이었다. \n풍우란이 부딪히고 있었던 시대는 중서문화 문제를 둘러싼 지식인들의 갈등이 극에 달하던 시대였으며, 중서문화에 대한 견해의 차이로 인해 중서문화 논쟁이 격렬하게 전개되고 있었다. 풍우란은 이와 같은 시기를 살았던 철학자로써 그가 일생동안 학술활동을 통해 토론하고자 했던 문제는 바로 “철학사가 중심이 되는 중서문화의 문제”였으며, 그의 일생 사명은 철학적 논증을 통해 중서문화의 대립과 충돌문제를 해결하고 나아가 중국문화의 합리적인 발전방향을 모색하는 것이었다. 그가 현대 철학사에서 심오하고 웅장한 철학적 성과물을 내놓았지만 그 근저에는 중서문화 문제라는 이러한 기본적인 문제가 자리 잡고 있었으며, 철학적 사고과정은 바로 이러한 문제를 해결해 나가는 과정이라고 말할 수 있다. 그렇기 때문에 중서문화관은 풍우란 문화관의 핵심이라고 할 수 있으며, 풍우란 문화철학 사상을 이해하는데 소홀히 할 수 없는 부분이라고 할 수 있다. 필자는 이러한 견해에 의거해서 이 글에서는 풍우란이 가장 관심을 가지고 해결하려고 했던 중서문화문제를 중심으로 첫째, 중서문화에 대한 그의 시각이 어떻게 변화하였고, 둘째, 이러한 변화 속에서 그는 중서문화의 대립과 충돌문제를 어떻게 해결하려고 하였으며, 셋째, 그가 제시하고 있는 중국문화의 새로운 발전방향은 어떤 것인가를 고찰하고, 마지막으로 그의 문화관이 가지는 한계 및 의의를 고찰할 것이다. 이러한 방면에 대한 고찰은 직접적으로는 풍우란 문화철학사상을 이해하는데 매우 큰 도움이 될 뿐만 아니라, 간접적으로는 중국 근현대 지식인들의 문화의식을 이해하는데 상당한 도움이 되리라 생각한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "Swarm has recently become a critical component of offensive and defensive systems. Multi-agent reinforcement learning(MARL) empowers swarm systems to handle a wide range of scenarios. However, the main challenge lies in MARL’s scalability issue - as the number of agents increases, the performance of the learning decreases. In this study, transfer learning is applied to advanced MARL algorithm to resolve the scalability issue. Validation results show that the training efficiency has significantly improved, reducing computational time by 31 %.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "孔子以“仁”為核心建立了儒家的思想體系, 使之成為東亞儒學的核心 價值。 “仁”是一種對人的生命價值予以肯認與培護的情感, 這種情感基於 人本性中的道德意識, 同時其外推也蘊含著超道德的義涵。 基於這種推 擴邏輯, 本文將儒家的仁愛精神析分為四個層級：“個體之仁”、 “類性之 仁”、 “成物之仁”和“本體之仁”, 這四者之間有機聯繫、 逐層升進, 仁愛 的對象分別是自我、 人際社會、 自然界和宇宙本體, 四者之間的內在邏 輯是仁德的推擴原則, 這種推擴建基於仁愛之情的感通作用。",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "Lee, Saeng-Keun. (2016). The Use of Regular Plural Modifiers within English Noun Compounds. The Linguistic Association of Korea Journal, 24(4), 375-393. The aim of this paper is to answer the question: what motivates the regular plural to appear within compounds? The paper basically supports Alegre and Gordon’s (1999) account that the appearance of the regular plural within compounds is conditioned on the heterogeneous reading of the regular plural. They argued that the noun modifier can license the regular plural if its meaning refers to different kinds rather than individuals. However, their argument is problematic in that it can't explain why the meaning of 'heterogeneity' is not always motivated. Thus the paper argues that other factors are involved, as well. All the factors are related to the semantic nature of the lexical item that occurs in the modifier position. Four categories of ambiguity are discussed: type/token ambiguity, count/mass ambiguity, text/object ambiguity, and adjective/noun ambiguity. This paper demonstrates through the examples taken from Google Corpus that compounds containing lexical items with these kinds of ambiguity accept the regular plural in compounds.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "목록의 기능은 크게 두 가지로 대별되는데, 하나는 집서 중의 특정 문헌을 식별하여 검색하는 기능이고 다른 하나는 특정 저자의 모든 저작과 특정 저작과 관련된 자료를 목록 상에서 한자리에 집중하는 기능이다. 본 논문에서는 목록의 기능을 재검토하고, 목록의 기능을 효과적으로 수행하기 위한 참조 개념 모형(conceptual model)으로서 IFLA에서 제안한 서지레코드의 기능요건(Functional Requirements for Bibliographic Records, FRBR) 모형에 대해서 검토하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문에서는 데이터베이스 설계시 중요한 과정인 개념설계 단계에서 개체관계도(Entity Relationship Diagram)의 정보를 저장하는 ERD시소러스(Thesaurus)를 구축하고, 이러한 ERD시소러스를 기반으로 하는 뷰 통합 방법론을 제시하고자 한다. 제시된 방법론의 유용성을 입증하기 위하여, 적용사례에 대한 뷰 통합지원시스템의 프로토타입을 구축하였다. 적용결과, ERD시소러스 기반의 방법론이 기존의 뷰 통합 방법론보다 친밀도 분석, 의미충돌 해결, 뷰 통합과정에서 더 효과적임을 확인할 수 있었다. 따라서 이 방법론이 기존의 단편화된 스키마의 통합이나 대규모 데이터베이스 통합 설계시 유용하게 활용될 수 있을 것으로 기대된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "최근 몇 년 동안 단차라는 건축 요소는 건축, 도시그리고 공간디자인에서 활발히 사용해왔다. 단차를 이용한 행동 유도에 관한 연구는 공간 디자인 분야에실질적인 의미를 지니고 있다. 단차는 기능적으로는수직적 공간 이동을 위해 사용하는 건축 요소이지만, 그것의 공간적 역할은 다양하게 확장할 수 있다. 예를들어 광장의 계단은 기능적 요소가 아닌 사람들이 머물러 쉬고, 관계를 맺는 장소로 확장되어 다양한 행동을 유도한다.\n본문의 주요 연구 대상은 사람이 걷거나 앉을 수있는 단차 공간이며, 문헌 연구법, 사례 분석법, 귀납과 연역의 방법을 통하여 단차 공간의 행동 유도 기능을 환경심리학적으로 탐구하였다. 다만, 단차의 건축 기술이나 무장애 설계, 소방 등의 내용은 본 연구대상에서 제외하였다. 또 지각이론에서 ‘단차’라고 하는 물리적 장치가 일으키는 프라이버시나 영역성 등수용기제의 수동적 관점에서의 분석이다.\n연구의 1장에서는 단차 공간에서의 행동 유도성 연구의 필요성과 국내외 연구 현황을 약술한다. 2장에서는 수직 이동의 수단으로서 계단의 특성을 분석하여기능적 요소가 공간적 의미를 지닌 요소로 전환되는지점을 개인공간이론을 바탕으로 확인한다. 개인공간이론을 설명하는 개념인 프라이버시와 영역성이 단차공간에 미치는 영향을 분석하여 단차의 공간적 역할을 정리한다. 3장에서는 단차의 간격과 경사도가 행동에 미치는 영향을 바탕으로 행동 유도와 억제를 분류하여 살펴본다. 4장에서는 앞 장의 분석을 바탕으로단차 공간이 기능적, 심리적 및 동선형태적으로 세 가지 측면에서 사람의 행동을 유동하는 기능이 있음을도출하였다. 이를 통해 본 연구는 단차 공간이 행위를유도할 수 있도록 이론적 배경을 통해 세 가지 층위로 분석하여, 그에 상응하는 디자인 전략을 제시하고자 한다. 또한 시각과 촉각 등 다층적인 공간 체험을통해 단차 공간 디자인에 대한 새로운 시사점을 제시한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "We treat genericity as a sort of quantification which has a tripartite structure as its proper semantic representation. Semantic characteristics of Korean generic expressions are accounted for through tripartite structures. First of all, we discuss why the two kinds of genericity, i.e. generic sentences and generic noun phrases are separated from each other. Then we discuss the similarity and the difference between them in terms of their tripartite structures. On the other hand, it will be argued that individual-level as well as stage-level predicates have a situation variable, and that genericity is much influenced by pragmatic factors.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "In this thesis, we propose an integrated simulation method of virtual tank simulators and an entity-based constructive simulation model for small unit tactical training. To do this, we first identify requirements for virtual-constructive integrated simulation in a synthetic environment. We then propose a virtual and constructive interoperation method where individual combat entities of virtual-constructive models are interacting with each others. We develop a method of aggregating individual combat entities into a larger combat unit and disaggregating an unit into entities from time to time. We also present a way of sharing synthetic environment information between the models. Finally, we suggest that for more effective interoperability, virtual and constructive models should be developed by using common combat object models. The proposed interoperation method can be extended to further live-virtual-constructive models.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "진화 알고리즘은 여러 개의 상충하는 목적을 갖는 다목적 최적화 문제를 해결하기에 적합한 방법이다. 특히, 파레토 지배관계에 기초하여 개체의 적합도를 평가하는 파레토 기반 진화알고리즘들은 그 성능에 있어서 비교적 우수한 평가를 받고 있다. 그러나 일반화된 다목적 최적화 진화알고리즘은 복잡한 문제들에서 찾아진 해들의 분포가 전체 파레토 경계면에 대하여 균일하지 못하고 특정 지역에서 집중적으로 해를 생성하는 문제점을 가지고 있다. 본 논문에서 우리는 이러한 문제점을 보완하기 위한 다목적 최적화 진화알고리즘을 제안한다. 제안한 알고리즘은 현재까지 찾아진 최적해들 중 특정 지역에 편중되지 않은 해를 우수 종자로 복제 연산에 참여시킨다. 따라서 특별한 지역탐색 기법을 사용하지 않아도 종자가 되는 개체 주위에 새로운 개체를 생성할 확률이 높기 때문에 지역탐색의 효과를 가질 수 있고, 비교적 고른 분포의 파레토 최적해를 생성할 수 있다. 5개의 테스트 함수에 대한 실험 결과, 제안한 알고리즘은 모든 문제에서 전체 파레토 경계면에 균일한 분포의 해들을 생성할 수 있었으며, 많은 지역해를 가지는 문제를 제외한 모든 문제에서 NSGA-Ⅱ보다 우수한 수렴 결과를 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This paper analyzes the hierarchical structures of named entities in the NIKL Named Entity Corpus, which is annotated with 553,830 flat named entity tags. This study will be a base for developing a method to build a Korean nested named entity corpus. The flat version of named entity recognition identifies mentions as linear spans.\nThe nested named entity approach analyzes the hierarchical internal structure of named entities which may consist of smaller component named entities. We extracted candidate mentions for the nested named entity analysis from the NIKL Named Entity Corpus and classified them into three categories: serial named entities, complex named entities, and phrases with a named entity head. These candidates were reviewed manually to be selected as the target of nested named entity analysis. Finally, we discussed the span and the internal structure of named entities and proposed principles and guidelines for the construction of the Korean nested named entity corpus",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "基于“都”的“個體性”语义功能, 本文对“都”跟“都”的语义指向对象之间的关系从功能主义的角度做出了解释｡ 本文首先介绍“都”的“個體性”语义功能, 然后用这“個體性”语义功能来具体考察了“都”的语义指向对象的形式､ 语义､ 条件等的问题, 特别是在“[+多数個體]NP1+[+多數個體]NP2+都+VP”以及“(X)+[+單一個體]NP+都+(不)+VP”结构中“都”的语义指向对象选择问题｡具有“[+多数個體]”或者“[-單一個體]”语义特征的名词性成分是最有可能的“都”的语义指向对象, 如果在句子里多出现了“[+多数個體]”名词性成分的话, “都”的真正地语义指向对象是其中跟“都”最邻近的名词性成分｡ “连+NP+都+VP”以及“一NP+都+不+VP”结构中的“都”的语义指向对象是具有“[+單一個體]”语义特征的名词性成分, 特别注意的是这里的“都”不是“甚至”的意义而是具有“对‘[+單一個體]’名词性成分赋予個體性”的语义｡",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "개체명 분석은 텍스트에서 개체명을 탐색해 일정한 하위 부류로 분류하고 적절한 태그를 부착하는 것으로, 자연언어처리를 이용한 정보 검색, 문서 요약, 자동 질의응답 시스템 구축, 지식베이스 구축 등의 다양한 목적으로 활용될 수 있다. 개체 연결은 분석된 개체명에 위키피디아와 같은 지식베이스 문서를 연결하는 것으로, 사용자에게 사전적 의미를 넘어서는 다양한 정보를 제공할 수 있다. 언어학뿐만 아니라 산업 전반에 걸친 이러한 활용도를 고려하면, 보다 양질의 데이터를 구축할 필요가 있음이 분명하다. 이를 위해 이 논문은 개체명 분석 말뭉치 및 개체 연결 말뭉치 구축 과정에서 발생한 문제들을 논의하고 해결 방안을 모색하고자 했다. 먼저 개체명 분석 말뭉치 구축 과정에서는 개체명 분석 대상 결정의 문제, 개체명 분석 단위 결정의 문제, 개체명 분석 표지 부착의 문제 등이 있음을 논의하고 이 문제들에 대한 대안을 제시했 다. 다음으로 개체 연결 말뭉치 구축 과정에서는 개체 연결 단위의 문제, 지식베이스 자체가 갖는 문제, 동일한 언어 표현의 개체명이 여러 위키피디아 문서에 대응하는 문제 등이 있음을 논의하고 이 문제들에 대한 대안을 제시했다. 마지막으로 개체명 사전 구축 과정에서 발생하는 문제를 살펴보고 이를 극복하는 방안을 제시했다. 이논문에서 제시한 문제점을 극복한다면 개체명 분석 단계에서 명확성과 일관성을 확보해 양질의 데이터를 구축할 수 있을 것이다. 또한 개체 연결 단계에서 체계성 및 일관성을 제고해 활용 목적에 알맞은 정보를 제공할 수 있을 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구에서는 자연언어처리를 위하여 한국어 사건 개체명의 실현 양상을 살펴보고일관된 처리를 위하여 중첩 개체명 주석 방법을 제안하였다. 국립국어원의 개체명 분석 말뭉치를 대상으로 하여 사건 개체명과 함께 실현되는 인접 개체명의 유형과 빈도를 제시하였고, 세부 유형별 사건 개체명의 내부 구조를 분석하였다. 사건 개체명의 세분류의 의미에 따라 인접 개체명과 내부 구조 양상이 다르게 실현됨을 알 수 있었다.\n본 연구에서 분석한 결과, 인접 개체명 유형과 개체명 내부 정보는 사건 개체명 인식 처리에 유용하게 적용될 수 있다. 기존 지침의 ‘최장 단위 태깅’ 원칙과 ‘최소 단위태깅’ 예외원칙의 혼재로 인한 주석 단위 결정에 미치는 어려움을 해소하기 위하여다어절 개체명을 일관적이면서도 체계적으로 주석할 방법을 제안하였다. 중첩 개체명주석 방법은 고품질의 데이터를 구축하는 데 기여할 수 있고, 언어 정보를 통해 AI 모델 향상되도록 할 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 한국어 개체명 말뭉치의 구축 방법을 논의하고 실제로 중첩 주석을수행하여 완성된 말뭉치를 소개하는 것을 목적으로 한다. 이 연구에서는 개방형데이터인 한국어 자연어 이해 평가(KLUE) 데이터 세트 중 개체명 말뭉치의 원시문장에 150개의 개체명 분류 표지를 주석하여 한국어 세분류 개체명 말뭉치(KONEC)를 구축하는 실증적 연구를 수행하였다. 이를 바탕으로 한국어 중첩 개체명 주석을 위한 방법론을 제안하고 실제 주석을 수행하여 한국어 중첩 개체명말뭉치(KONNE)를 구축하였다. 중첩 개체명 주석은 개체명을 계층적 내부 구조를 가진 요소로 분석하는 것으로, 기존의 나열식 주석에 비해 언어학적 정보를풍부하게 표현할 수 있으며 체계적이고 일관성 있는 주석이 가능하다는 장점이있다. 본 논문은 한국어에서 아직 시도되지 않은 중첩 개체명 주석의 방법론을제안하고 실제로 개체명 말뭉치를 구축하는 전 과정을 수행하여 실증적으로 제안된 방법을 검토하고 그 결과 얻어지는 한국어 개체명 주석의 특성을 살펴보았다는 데에 의의가 있다. 또한 본 연구를 통해 생성된 자료를 자유롭게 사용, 수정, 재배포가 가능한 개방형 데이터로 공개하여 한국어 개체명 연구를 위한 공공의토대를 만드는 데에 기여했다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The global population of the Yellow-breasted Bunting (Emberiza aureola) has plummeted toward extinction owing to rampant illegal hunting along its East Asian migratory flyway, although the species is broadly distributed from the northern Palearctic region to Far Eastern Russia. The threat category of E. aureola has recently been upgraded to critically endangered on the International Union for Conservation of Nature (IUCN) Red List, but its population dynamics in Korea are unknown. In the present study, we analyzed the population trends and migration patterns of the Yellow-breasted Bunting using data from a bird banding project obtained between 2006 and 2018 at a key stopover site in the Republic of Korea. The line transect census data showed the decreasing patterns of the number between 2006 and 2016, and appeared to slight recover the number after 2017. The age of 262 birds trapped during spring and autumn migration between 2006 and 2018 was estimated based on their plumage patterns: 83.1 (spring)–83.8% (autumn) were immature and 16.2 (autumn)–16.9% (spring) were adult, with a non-biased sex ratio. There was a difference in the timing of arrival between the sexes during migration. Males arrived earlier than females by 5.4 days during spring migration, whereas females arrived earlier than males by 6.2 days during autumn migration. Our results suggest that the migration patterns of the Yellow-breasted Bunting vary with age and sex, and the magnitude of the population changes necessitate international conservation activities for understanding factors causing its fluctuation along the East Asian migratory routes.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This article examines the aspects and characteristics of D. H. Lawrence’s postmodern Perspectives on the state, education, and individuals. Lawrence anticipates the main concerns of postmodernism such as the negation of the grand narratives, the fragmentation of subject, and the shift of attention to the other. There are many similarities between Lawrence and postmodernists. Both argue that the grand narrative has lost its credibility, which leads to the decline of the unifying power. The absences of the consequences have the world separated from the life-world and fragmented in consumer society.\nI will discuss the questions of social change in contemporary societies based on postmodern concerns by drawing on Lawrence’s novels and essays. The examination compared with Foucault’s theory will demonstrate Lawrence has a postmodern view on each domain. For Lawrence and Foucault, knowledge is not neutral or objective but is a product of power relations, and the functions of regulations or disciplines are being and will be further withdrawn from administrators only for efficiency. These mechanical devices follow the principle of optimal performance, maximizing output regardless of individualities.\nIt is time for us to consider the gains and loss of the postmodern innovative thought and integrate the isolated world into the proximity of life in which the aesthetic, cognitive, and moral are interwoven. Lawrence’s works and thoughts can help us to look for an answer to the problems.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "증강현실은 이미지나 배경에 3차원 가상이미지를겹쳐서 하나의 영상으로 보여주는 기술로 스마트폰보급 확대, 디바이스의 진화 등 ICT기술의 발전과 페이스북, 구글, MS, 애플 등 세계적인 IT기업의 투자를 배경으로 급성장 하고 있다. 이러한 새로운 성장동력으로 주목 받고 있는 증강현실 산업의 다양한 확장 영역 중 교육 분야 응용현황을 분석하면 현재 국내 영유아를 비롯한 초등학교 교육 분야에서의 증강현실 응용이 지배적이다. 이러한 현황에 비추어 본 결과 본 연구는 중고등학생들의 학습에 있어 다양한 매체를 통한 학습서비스의 필요성을 제시하며 증강현실기술을 기반 한 학습지 문제해설 어플리케이션을 개발하여 학습자에게 학습에 대한 상세한 도움을 실시간으로 주고자 하는데 그 연구목적이 있다. 연구를 진행하기 위해 우선적으로 기반기술인 증강현실 기술의특성과 문제인식 및 답안해설 추출을 위한 딥러닝 기술을 분석하고 딥러닝 관련기술 Object Detection 및Image Segmentation 의 이미지 처리기술에서의 여러장의 연속된 이미지를 실시간으로 처리하는 기술의체계를 분석하여 학습지에서의 문제인식 및 답안 해설 자동 추출 시스템을 구성하였다. 연구 방법으로 이론적 배경에 대한 분석을 위해 증강현실 기술과 딥러닝 기술에 관한 국내외 논문을 선행연구 하였으며 증강현실 교육용 어플리케이션 현황분석을 위해 구글, 네이버에 등록된 증강현실 기반 교육서비스를 분석하였다. 그 결과 현재 국내외 논문과 연구에서 증명된증강현실 기반 학습 환경에서의 학습자의 현존감, 학습 몰입감과 사용성이 높은 장점에 비해 영유아와 아동의 학습서비스에 치중되어 다양한 연령층의 학습서비스가 이루어지지 않음을 알 수 있었다. 모바일 기기와 디지털기술 기반 한 어플리케이션 사용량이 가장큰 연령층임에도(청소년) 불구하고 그들의 눈높이 맞는 학습서비스 콘텐츠의 부재, 모바일 기술에서의 증강현실 기반기술 탑재부재와 환경속도에 따른 기술적한계에 의해 교육활용 어플리케이션이 개발되어 활용되고 있지 않은 실정이다.\n학습서비스의 활용부재의 무엇보다 중요한 이유는중고등학생들의 실질적인 학습서비스에 대한 교육 킬러콘텐츠의 부재가 가장 크다고 보여진다.\n본 연구는 이러한 청소년층을 위한 실감 형 교육콘텐츠의 활용을 높이고 다양하고 직접적인 학습서비스를 개발하여 자기주도교육에 있어 도움을 주고자 증강현실 기반 학습설명서 어플리케이션을 개발하여 교육 분야에서의 증강현실 활성화뿐 아니라 딥러닝 기술과의 융합서비스를 개발하여 앞으로 다가올 교육서비스의 선두적인 방향과 그 해결방안을 제시하고자한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "개체 링킹은 입력된 질의에 존재하는 개체를 표현한 개체 표현(entity mention)을 지식베이스에 존재하는 개체와 연결하여 의미를 파악하는 연구이다. 개체 링킹에 관한 연구는 지식 베이스 구축 문제, 다중 표현 문제, 개체 연결 중의성 문제, NIL 개체 인식 문제가 존재한다. 본 연구에서는 지식 베이스구축 문제와 다중 표현 문제를 해결하기 위해 위키피디아를 기반으로 개체 이름 사전을 구축한다, 또한, 문맥 유사도, 의미적 관련성, 단서 단어 점수, 개체 표현의 개체명 타입 유사도, 개체 이름 매칭 점수, 개체인기도 점수 자질들을 기반으로 SVM(support vector machine)을 학습하여, NIL 개체를 인식하는 문제와 개체 연결 중의성을 해소하는 방법을 제안한다. 구축한 지식 베이스를 기반으로 제안한 두 방법을 순차적으로 적용하였을 때 좋은 개체 링킹 성능을 얻었다. 개체 링킹 시스템의 성능은 NIL 개체 인식 성능이 83.66%, 중의성 해소 성능이 90.81%의 F1 점수를 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "In the biomedical domain, the longest matching method is frequently used for recognizing named entity written in the literature. This method uses a dictionary as a resource for named entity recognition. If there exist appropriated dictionary about target domain, the longest matching method has the advantage of being able to recognize the entities of target domain quickly and exactly. However, the longest matching method is difficult to recognize the enumerated named entities, because these entities are frequently expressed as being omitted some words. In order to resolve this problem, we propose the partial matching method using a dictionary. The proposed method makes several candidate entities on the assumption that the ellipses may be included. After that, the method selects the most valid one among candidate entities through the optimization algorithm. We tested the longest and partial matching method about HLA entities: HLA gene, antigen, and allele entities, which are frequently enumerated among biomedical entities. As preparing for named entity recognition, we built two new resource, extended dictionary and tag-based dictionary about HLA entities. And later, we performed the longest and partial matching method using each dictionary. According to our experiment result, the longest matching method was effective in recognizing HLA antigen entities, in which the ellipses are rare, and the partial matching method was effective in recognizing HLA gene and allele entities, in which the ellipses are frequent. Especially, the partial matching method had a high F-score 95.59% about HLA alleles.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "By its intelligent insights into the modernity, Lee Ou-Gerl's world of shijos shows its important differences from his predecessors' shijos since the modern age as well as the classic shijos. On account of the contemporary shijos having to constitute their creative contents by putting the presence of a classic form of poetry in the temporality of the modernity, it would be inevitable that the world of them has contacted with the modernity. Lee Ou-gerl's shijos are to be most representatives of them combining naturally a traditional genre with sharp cognitions of the modernity. This paper has tried to analyze a problem of the modernity in his shijos more synthetically than ever, by allowing their differences from the traditional shijos, and to illuminate their significances. For a concrete discussion, this has analyzed problems of three subjects as ①the 'I' as an object of thought, ②to discovering the dailiness and to cognizing the reality, and ③the insight into the inhuman relationality with respect to the modernity in his shijos.\nIn the result, with his pose of reflecting or skepticizing over again problems of his individuality, his world of shijos shows markedly its repetitive disclosure of the self-consciousness of modern men incapable of being entirely solved with the derivative principle or idea of life from the circularity and aestheticality of nature, its security of a poetic reality by taking widely the modern dailiness into his shijos, and its attention to the derivative inhuman relationality from our living world.\nThe fact is that the contemporary shijos within an influence of the traditional genre have maintained their vitalities in agonies of succeeding contemporarily to the tradition. This is related to a tendency of the anti-modernism in most of the contemporary shijos. Lee Ou-Gerl grafts the diverse and concrete problems derived from the living world since the modern age upon the formal beauty of traditional shijos transformed naturally by him. This trait of his world of shijos has the significance of his literary effort to solve simultaneously two tasks of the succeeding to a tradition and the securing a contemporaneity.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "오늘날 정보 추출의 한 단계로서 개체명 인식은 정보검색 분야 뿐 아니라 질의응답과 요약 분야에서 매우 유용하게 사용되고 있다. 개체명은 일반 단어와 달리 다양한 문서에서 꾸준히 생성되고 변화되고 있다. 이와 같은 개체명의 특성 때문에 여러 응용 시스템에서 미등록어 문제가 야기된다. 본 논문에서는 이런 미등록어 문제를 해결하기 위해 기계학습 기반 개체명 인식 시스템을 위한 새로운 자질 생성 방법을 제안한다. 일반적으로 기계학습 기반 개체명 인식 시스템은 단어 단위의 자질을 사용하므로 구절 단위의 개체명을 그대로 자질로 사용할 수 없다. 이 문제를 해결하기 위해 본 논문에서는 새로운 구절 단위의 정보를 단어 단위의 자질로 변환하는 자질 생성 방법을 제안하였다. 이 방법으로 개체명 사전과 WordNet을 개체명 인식의 자질로 사용할 수 있었다. 그 결과 영어 개체명 시스템은 F1 점수의 약 6%가 향상되었고 오류의 약 38%가 줄어들었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "최근 개체 링킹에 대한 연구들은 지식 베이스를 외부 자원으로 사용하여 실세계의 지식과 의미적인 관련도를 통해 중의성을 해소하는데 중점을 두고 있다. 지식 베이스를 사용한 개체 링킹은 신문기사나 블로그 포스트 등에서는 좋은 성능을 보이지만, 마이크로블로그에서는 짧은 텍스트 길이와 지식 베이스에 존재하지 않는 주제를 다루는 특성 때문에 비교적 낮은 성능을 보인다. 본 논문에서는 140자가 되지 않는 짧은 텍스트 내에서 실시간으로 빠르게 정보를 공유하는 특성을 가지는 마이크로블로그에서 나타나는 개체명의 중의성을 해소하는 방법을 제안한다. 제안하는 방법은 지식 베이스만 사용하는 개체 링킹의 한계를 극복하기 위해 마이크로블로그 사용자 기록과 뉴스 기사를 이용하고, 지식 베이스에 존재하는 특정 엔트리로 개체 링킹을 수행한다. 본 논문에서는 개체명을 포함하는 한국어 트윗을 추출하여 데이터를 구축하였다. 성능 평가는 정확도 지표(시스템이 정답으로 판정한 데이터 개수/전체 데이터 개수)를 사용하였으며, 제안하는 시스템은 구축한 데이터에서 기존 지식 베이스만 사용한 개체 링킹 시스템보다 높은 67.7%의 정확도를 나타내었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "Vector and raster data model often base their conceptual framework on discreteness and continuity. Although the distinction makes sense in practice, more fundamental argument needs to be drawn on the fact that the continuous nature of geographic reality is not technically compatible to the discrete representation in the physical computer systems. The discrepancy between conceptual basis for perceiving geographic reality and physical limitation for concrete representation of it has derived the problem which has been referred to as modifiable areal unit problem (MAUP) in geographical analysis context. In the literature of geographical information science, the two dichotomous distinction of geographic reality and physical bound is remarked to object and field debates. In this paper, ontological argument is provided on realigning the distinction between discreteness and continuity to object and field to revisit the framework of vector and raster representation of geographic reality. The argument is intrinsically associated with the fundamental question of how to define geographic boundary, which is the foundational source of conceptual dilemma in vector and raster debate. It is expected that the argument in ontological perspective provides theoretically sound conceptual base for re-illuminating MAUP in geographical analysis.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "개체명 인식은 정보검색 시스템, 질의응답 시스템, 기계번역 시스템 등의 성능을 향상시키기 위하여 사용된다. 개체명 인식은 일반적으로 PLOs(인명, 지명, 기관명)을 대상으로 하며, 주로 미등록어와 고유명사로 이루어져 있기 때문에 고유명사나 미등록어는 중요한 개체명 후보로 쓰일 수 있다. 하지만 도서명, 영화명, 음악명, TV프로그램명과 같은 제목 개체명은 PLO와는 달리 단어부터 문장까지 매우 다양한 형태를 지니고 있어서 개체명 인식이 쉽지 않다. 본 논문에서는 뉴스 기사문을 이용하여 제목 개체명을 빠르게 인식하고 자동으로 사전을 구축하는 방법을 제안한다. 먼저 특수기호로 묶인 어절을 추출하고, 주변 문맥 단어 및 단어 거리를 이용하여 SVM으로 제목 후보들을 추출하였다. 이렇게 추출된 제목 후보들은 상호 정보량을 가중치로 SVM을 이용해 제목 유형을 분류하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "정보 시스템이 고도화되고 인공지능 기술이 발전하면서 대규모 데이터 수집, 처리되는 과정에서 발생하는 개인정보 유출의 우려가 커지고 있다. 방대한 양의 데이터에서 개인정보를 식별하기 위해서는 일반 개체명과 구별되는 개인정보 개체명을 정확히 인식하고 분류하는 것이 중요하다. 본 연구에서는 실제 대화 환경에서 일반 개체명과 개인정보 개체명이 나타나는 양상을 분석하고자 두 종류의 개체명이 동시에 주석된 대화문 데이터셋을 구축하고 각 태그별 출현 양상을 기반으로 두 체계를 비교 분석했다. 그 결과 '장소', '기관', '학문' 관련 개체명은 개인정보를 구분하기 위해서는 맥락 정보를 필수적으로 활용해야 함을 통계적으로 확인했다. 또한 '날짜', '용어', '문명/문화' 관련 개체명의 사례를 통해 기존의 일반 개체명 및 개인정보 개체명 체계로는 분류에 한계가 있으며 지속적으로 보완, 개정되어야 함을 밝혔다. 이러한 연구 결과는 개인정보 탐지를 위한 데이터 처리 기법과 인공지능 학습 알고리즘 개발이 필요함을 시사한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "반려동물에 대해 높아진 관심으로 반려동물 인구가 크게 증가하고 있는 것에 비해, 반려동물이 아플 때 질병 관련 정보를 찾는 것은 여전히 쉽지 않다. 본 논문에서는 사용자가 입력하는 반려동물 질병 증상에 관련된 질병명을 답변으로 출력하는 질의응답 시스템을 제안한다. 제안 시스템에서는 질병명의 개체명 인식(Named Entity Recognition, NER)을 위해 BERT에 CRF층을 추가한 BERT-DIS-NER 모델을 만들고, 질병명의 특징을 반영할 수 있는 음절 단위 개체명 인식을 사용한다. 반려동물 질병 데이터 부족 문제를 해결하기 위해, 유사 문맥을 가질 것으로 예상되는 사람 질병 데이터를 이용하여 기본 모델을 학습하고, 반려동물 질병에 대한 데이터를 파인튜닝에 사용한다. 실험 결과에서 BERT-DIS-NER의 F1-score는 사람 질병 데이터만을 학습했을 경우 0.74, 반려동물 질병 데이터만을 학습했을 때 0.77, 사람 질병 데이터에 반려동물 질병 데이터를 파인튜닝할 경우 0.81의 결과를 보여, 제안 방식에 의한 성능 향상을 확인할 수 있었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "Stress responses vary with individual differences in sensitivity to stressful stimulus. Individuals withstress susceptible personalities are facing an increased risk for developing various stress-relateddiseases. Epigenetic mechanisms, gene variants and personality are the key factors associated withindividual differences. Although many studies have reported stress susceptible personalities and stressresilient personality, its underlying neural and hormonal mechanism have not been investigated yet.\nIn this study we propose a new type E personality which turns stressful stimulus into eustress bypositive perspectives. Type E personality, characterized by optimistic perspective, gratitude, charitywork, social support, altruistic, religious activities and affective communication is closely associatedwith enhancing stress resilience through modulating immune, neuronal and endocrine systems.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "능동 개체 윤곽 추출의 대표적인 방법은 스네이크(Snake)와 레벨 셋(Level Set) 기술이다. 일반적으로 스네이크는 속도는 빠르나 개체위상을 처리하는 데 제약이 있다. 그러나 레벨 셋은 속도는 느리지만 개체 위상에 관계없이 잘 처리할 수 있는 장점이 있다. 본 논문에서는빠르고 복잡한 위상을 처리하기 위해 두 방법의 장점을 이용한 알고리즘을 제안한다. 알고리즘은 2단계로 구성된다. 첫 번째 단계는 스네이크를 사용하여 빠르게 개체의 대략적인 윤곽을 추출한 후 레벨 셋을 두 번째 적용하여 복잡한 개체 윤곽을 정확하게 추출한다. 제안한 알고리즘은 다양한 위상을 갖는 5개의 이진영상 및 2개의 자연영상에 적용하여 속도 및 윤곽 추출이 개선된 것을 보여 준다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "트위터 문서는 웹 문서에 비해 길이가 짧기 때문에 웹 기반의 개체 링킹 기법을 그대로 적용시킬 수 없어 사용자 정보나 집단의 정보를 활용하는 방법들이 시도되고 있다. 하지만, 트윗의 개수가 충분하지 않은 사용자의 경우 데이터 희소성 문제가 여전히 발생하고 관련이 없는 집단의 정보를 사용할 경우 링킹의 결과에 악영향을 미칠 수 있다. 본 논문에서는 기존 연구의 문제를 해결하기 위해 단일 트윗내의 의미 관련도 뿐만 아니라 사용자의 트윗 집합과 다른 사용자들의 트윗 집합까지 고려하여 데이터 희소성을 해결하고, 관련성이 높은 사용자들의 트윗 정보에 가중치를 주어 트윗 개체 링킹의 성능을 높이고자 한다. 실제 트위터 데이터를 활용한 실험을 통해 제안하는 트윗 개체 링킹 기법이 기존의 기법에 비해높은 성능을 가지며, 유사도가 높은 사용자의 정보를 사용하는 것이 트윗 개체 링킹에서 데이터 희소성해결과 링킹 정확도 향상에 연관성이 있음을 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 비문과 반려견의 랜드마크를 설정하여 개체를 식별하는 방법에 대해 제안한다. 최근반려견을 유기하는 현상이 점차 늘어나고 있는 추세이며 유기된 개체 수도 급증하고 있다. 이 유기된 반려견은 야생화가 되어 사람들의 일상생활에 많은 피해를 주고 있어 심각한 문제를 발생시키고 있다. 이에 대한 해결 방법으로 동물등록제가 시행되고 있으나 일부 반려견 주인들은 칩을삽입하는 등록 방법에 대해 기피하는 현상이 있어 완전한 등록제가 정착되지 않고 있다. 반려견을 등록할 때에 반려견주들의 혐오감이나 기피 현상을 제거하는 것이 반려동물등록제를 정착시킬수 있을 것이다. 본 논문에서는 이러한 기피 현상을 없애고 반려견주들이 친근하게 반려견을 등록할 수 있도록 비문과 반려견의 랜드마크를 설정하여 개체를 식별하는 방법을 제안하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "개체 링킹은 텍스트에 출현하는 개체 표현을 위키피디아 등의 지식베이스 항목으로 연결하는 작업이다. 동일한 개체 표현을 공유하는 서로 다른 개체들의 존재로 인해 개체 링킹에서는 개체 표현의 중의성을 해소할 필요가 있다. 개체 중의성 해소를 위한 최근 연구에서는 공기 개체 의미관련도를 중심으로 개체 출현 선험 확률와 공기 용어 정보 등을 결합하는 시도들이 주류를 형성하고 있다. 그러나 의미관련도의 왕성한 활용에도 불구하고 의미관련도 기반 방법이 개체중의성해소에 미치는 순수 효과를 분석 제시한 연구는 찾기 힘들다. 이 연구는 NGD, PMI, Jaccard, Dice, Simpson 등 서로 다른 의미관련도 지표의 차이, 공기개체집합 내 중의성 정도의 차이, 개별적/집단적 중의성해소 방식의 차이의 세 가지 관점에서 의미관련도 기반 개체중의성해소 방법들을 한국어 위키피디아 데이터를 사용하여 실험적으로 평가한 결과를 제시한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 연구는 한국어 중첩 개체명 말뭉치의 활용 방안으로서 중첩 개체명 인식 모델의 개발 과정을 소개하고 딥러닝 기반 중첩 개체명 인식기를 구현하는 데에 그 목적이 있다. 한국어 중첩 개체명 주석 말뭉치(KoNNE)가 공개된 이래로 중첩 개체명 말뭉치를 활용한 연구가 거의 시도되지 않았다. 중첩 개체명 주석 말뭉치는 자연어 정보 처리 단위로서의 개체명을 체계적으로 일관되게 주석된 고품질의 인문데이터로 한국어의 통사, 의미 정보를 반영하고 있으므로 인공지능인문학 연구에 활용하기가 적절하다. 이 연구에서는 고품질의 인문데이터를 활용하여 딥러닝 기반의 한국어 중첩 개체명 인식기(KorNNER)를 개발하였고, 개발한 모델은 F-1 0.87의 성능을 보였다.\n이 연구에서는 한국어 중첩 개체명 말뭉치 활용 연구의 하나로서 중첩 개체명 인식 모델 개발 과정에서의 여러 문제를 논의하고 모델 개발 방법을 기술하였다. 이 연구는 한국어 중첩 개체명 인식기 개발을 위해 학습데이터, 모델 개발, 활용 방안 등의 과정을 실증적으로 제시하고 있어 향후 중첩 개체명 말뭉치 활용 연구 등에 기여했다는 데에 의의가 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "최근 일본근세사에서 지역사회 연구를 비약적으로 발전시킨 것은 요시다 노부유끼(吉田伸之) 씨의 여러 논고들이다. 소유론에 기초하면서, 촌락에서의 사회적 여러 관계 속에서 지역의 전개를 파악하여 가는 視點을 가지고, 종래 농민층분해 일반이나 촌락 등의 여러 기능의 발견, 자치의 전개에 중점이 두어져 있었던 지역사 연구를, 지역에서의 사람들의 존재형태를 중심으로 하는 전체사적인 해명 인간적인 계기를 내포한 지역에서의 생활 구축의 역사 에로 방향지워지게 되었다.\n필자는 요시다 씨의 근년의 지역사 연구의 축적에서 배워서, 촌락의「개체성」적 파악을 중시하는 입장에서 이케다 시모무라(池田下村: 現 大阪” 和泉市)의 한 촌락에 즉하여, 17세기부터 19세기의 지역의 전개를 고찰하였다. ①村請制의 村 내부에 大地와의 관계에 뿌리를 둔 소농 경영의 전개와 그것에 기초를 둔 宮座講「門中」(同族)이라고 하는 기초 조직이 있고, 공동성을 체현하고 있었다는 것, ②17세기 이후의 新田 개발이나 상품작물 목면의 생산 유통 등에 의하여, 「자본」이나 화폐가지역에 침투하여 오지만, ③「자본」 등의 침투와 전통 사회의 지속이라고 하는 이 양면의 갈등이야말로 18세기 이후 지역 사회 구조의 역사적 전개의 메커니즘이라는 것을 전망하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "As the first English novelist to benefit from the Education Act of 1870, which sought to make elementary education universally available to its English citizens, Lawrence taught in the British public school system from 1908 to 1911. By suppressing the individuality and respecting only public virtues, the mechanical educational system pointed out only “equality” and “standards,” which destroyed and endangered the individual. Based on his experiences, he had a unique view on education, critically reflected in his works and he offered education alternatives in his essays. This paper examines his perspectives and solutions in The Rainbow and his essays, especially “Education of the People,” and reveals that he saw the public education as unconcerned with authentic self growth. Additionally, my examination pays attention to Lawrence’s thoughts on the individual and society related to the educational system, while studying his ideas. He insisted that the living self should have one purpose only: to come into its own fullness of being, and that all education should tend against the fixed mechanical automatism and support its own spontaneous desire and impulse.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "최근 메타데이터 표준의 국제적 흐름은 기록을 둘러싼 다양한 맥락정보를 개체로 설정하고 이들 각 개체 간의 다양한 관계를 보여주는 다중 개체 모형의 적용이다. 이에, 이 논문에서는 다중 개체 모형을 적용한 기록관리 메타데이터의 표준인 ISO 23081-2, 호주, 뉴질랜드, 호주의 뉴사우스웨일즈주, 퀸즈랜드주, 사우스오스트레일리아주 표준의 특징을 비교 분석하였다. 분석은 1) 적용범위, 2) 개체수, 3) 개체 내 카테고리, 4) 요소 설계 방법을 중심으로 비교하고, 다중 개체에 있어서 가장 핵심인 관계(relationship) 개체가 어떻게 구현될 수 있는지, 실제 사례를 통해 살펴본다. 마지막으로 앞선 분석을 통해 다중 개체 모형을 적용하여 표준을 제정 할 때 고려해야 할 몇 가지 사항들을 정리해 본다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "최근 비정형 공간 빅데이터를 정형데이터와 융합하여 분석하는 기술에 대한 연구가 활발히 진행되고 있다. 이러한지능형 공간데이터 분석을 원활하게 수행하기 위해서는 공간정보 추출이 필수적으로 선행되어야 한다. 하지만 대부분의 비정형 데이터는 개인정보보호법 등으로 인하여 GPS와 같은 정보를 저장하지 않으며, 위치 태그를 가지는트위터의 경우도 전체의 1.5%~3% 정도만 위치 태그를 포함하고 있기 때문에 공간정보를 식별하기 어렵다. 공간정보는 2014년 발표된 ISO Space(ISO 24617:2014) 표준에서 정의한 공간 개체와 공간관계로 구성되어 있다. 본 논문은 이를 확장한 한국어 공간정보 주석 말뭉치를 활용하여, 별도의 토크나이저를 필요로 하지 않는 음절 기반ELECTRA를 이용한 공간 개체 추출 모델을 제안한다. 실험 결과, KoCharELECTRA-Base 사전학습 언어모델에BiLSTM+CRFs 레이어를 추가한 모델이 F1-Score 86.67%로 가장 높은 성능을 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문은 개체성에 대한 현대신유학의 관점들과 관련된 철학적 문제들을 논의한다.\n생존해 있는 저명한 현대신유학자인 뚜웨이밍의 입장이 특별히 강조된다. 많은 현대신유학자들이 사회적 통합에 기반한 유교적인 “이상적” 개체성 혹은 자아에 대한 비전을공유한다는 점이 주목된다. 대조적으로 서양적 유형의 개체성은 때때로 고립에 의한개체성으로서 묘사되곤 한다. 이러한 개체성의 패턴들은 개체성의 의미론에 대한 니클라스 루만의 역사적인 분석과 ‘포함에 의한 개체성’과 ‘배제에 의한 개체성’이라는 그의 범주들에 기반하여 추가적으로 조사된다. 마지막으로, 유교적 관점과 루만의 관점의어떤 유사점들과 차이들을 지적하고 어떻게 루만의 관점이 현대신유학 사상의 재정식화들에 기여할 수 있을지에 대한 제안을 시도한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This study was conducted to distinguish adult morphology of the giant water bug (Lethocerus deyrollei) between over-wintered (OLD) and new-born (NEW) populations using materials collected from Gyodong island in Gyeonggi-do, Korea, as well as individuals reared in the laboratory (LAB population) as a control. As a result, no fundamental differences were found in external body structure between OLD, NEW, and LAB populations. However, marginal area of basal procoxa in ventral prothorax and jointed part of forefemur and foretibia were greatly worn in the OLD population. Mid-claws were shorter than 0.5 times the length of the 2nd mid-tarsus; the membranous margin of hemelytra was greatly worn; and hairs of the 5th abdominal tergum were greatly reduced in the OLD population.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The SCs selected by consider-type verbs and those selected by want-type verbs show different syntactic behaviors with respect to Binding Condition C, passivization, and topicalization. This fact naturally leads us to conclude that they should be treated as having different syntactic structures. This paper proposes proper syntactic structures for the two types of SCs on the basis of Basilico’s (1997) finding that consider-type verbs select SCs involving ILPs while want-type verbs select SCs involving SLPs. Especially, extending Diesing’s (1992) claim, which is that an SLP has an event argument, this paper argues that SCs with an SLP involve an event argument whereas SCs with an ILP do not. This point is crucially exploited in explaining the syntactic differences of the SCs selected by the two types of verbs in question. There is a potential counter-example to this paper’s proposal. It is the case that perception verbs, which select SCs containing an SLP, allow passivization of SC subjects. But it is not problematic if we adopt Higginbotham’s (1985) theta binding.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "In industrial wireless sensor networks, the continuous object detection such as fire or toxic gas detection is one of major applications. A continuous object occurs at a specific point and then diffuses over a wide area. Therefore, many studies have focused on accurately detecting a continuous object and delivering data to a static sink with an energy-efficient way. Recently, some applications such as fire suppression require mobile sinks to provide real-time response. However, the sink mobility support in continuous object detection brings challenging issues. The existing approaches supporting sink mobility are designed for individual object detection, so they establish one-to-one communication between a source and a mobile sink for location update. But these approaches are not appropriate for a continuous object detection since a mobile sink should establish one-to-many communication with all sources. The one-to-many communication increases energy consumption and thus shortens the network lifetime. In this paper, we propose the origin-centric communication scheme to support sink mobility in a continuous object detection. Simulation results verify that the proposed scheme surpasses all the other work in terms of energy consumption.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This paper investigates intervention effects in T(OUGH)- constructions in English. Hartman (2011) reports that the intervening attitude holder or judge PP prohibits the association of the matrix subject DP with the gap in the embedded infinitive clause of T-constructions. Hartman (ibid.) argues that intervention effects in these constructions make a strong case for the long-movement analysis for the matrix subject DP. In this paper we explore the different line of analysis, proposing à la Chomsky (1981) that the matrix TOUGH adjective is an individual-level (IL) predicate and converts the ensuing embedded infinitive form of verb into the same type of IL predicate. Consequently the two adjective and verb are combined into one complex IL adjective, mediated by raising of the functional category ⓘ-Pred that makes the embedded infinitive verb enter into IL predication. However, when the embedded infinitive clause is extraposed after the attitude holder or typical adjunct PP, ⓘ-Pred raising is disallowed, thereby failing proper predication in the matrix clause; this in turn accounts for intervention effects in T-constructions.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "온톨로지는 특정 도메인에 속하는 개념과 개념 간의 관계에 대한 형식화된 표현 방법으로서 정보과학 분야, 전자상거래 및 의료 분야 등의 다양한 분야에서 사용되고 있다. 온톨로지 데이터의 활용도를 높이기 위해서는 데이터를 검색하는데 사용되는 잘 알려진 질의언어인 SPARQL 질의의 결과를 효과적으로 가시화하는 방법이 필요하다. 그러나 기존 가시화 방법들은 질의 결과의 의미를 이해하기 위해 때때로 사용자에게 중요한 정황정보, 즉 개념 수준에서의 질의 결과를 설명하기 위해 필요한 개체 및 그들간의 관계 등의 개념요소를 효과적으로 가시화하지 못한다. 이 문제를 해결하기 위해, 본 논문에서는 SPARQL 질의 결과의 스키마 정보를 활용하여 질의 결과를 개체-관계 모델에 매핑하고 가시화 하는 개체-관계 모델 기반 가시화 방법을 제안한다. 제안하는 방법은 기존 가시화 방법들이 사용하지 않은 스키마 정보를 이용하여 질의 결과로부터 개념요소들을 추출한다. 그리고 이를 개체-관계 모델의 개념요소에 매핑한 뒤, 개념요소를 기반으로 질의 결과를 의미 있는 단위로 그룹핑하여 가시화한다. 본 논문에서는 제안한 가시화 방법의 알고리즘을 제시하고, 개체-관계 모델 관점에서 기존 방법들이 가지는 문제점을 설명함으로써, 제안하는 방법이 기존 방법들에 비해 질의 결과의 의미를 이해하는데 효과적임을 보인다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 연구는 기록관리시스템에 다중 개체 모형 적용을 위한 개선 방안을 탐구하는 데 목적을두고 있다. 단일 개체 모형의 한계를 극복하고, 기록물과 관련된 다양한 맥락 정보를 효과적으로 관리하기 위해 다중 개체 모형의 필요성을 강조하며, 이를 통해 시스템의 효율성 및 유연성을 향상시킬 수 있는 방안을 도출하였다. 특히, 특수한 유형의 동종 대량 기록물을 생산및 관리하고 있는 기관의 기록정보를 사례로 하여 다중 개체 모형의 설계 방안을 제시하였다. 또한, 도출한 결과를 바탕으로 기록관리시스템에 다중 개체 모형 기반의 메타데이터 모델을 적용할 때 입력, 검색, 관리 및 확장 측면에서 기능적 개선이 필요한 사항과 설계 시고려사항을 제안하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "매(Falco peregrinus)는 천연기념물 323호이며 멸종위기종으로 등재되어 있다. 본 연구는 한강의 장항습지에 서식하는 매의 멸종확률을 개체군변이분석을 통하여 시도하고자 한다. 장항습지는 개체군이 1999-2005년 동안 모니터링되었으며 평균 10.8 개체가 서식하는 것으로 조사되었으며, 개체군을 이용하여 향후 5년간(2015-2020) 변이분석을 실시하였다. 초기개체군을 이용하여 기간 동안 20%의 멸종확률이 예측되었으며, 이 확률은 지역의 수질오염과 서식지 손실을 고려하면 적은 것으로 나타났다. PVA는 개체군이 적고 다른 정보가 부족한 종에 대해 실시한다. 또한 매의 개체군은 댐의 보 및 콘크리트 제방 등을 고려하면 멸종의 확률이 증가될 것으로 사료된다. 장기적인 생활사 등을 고려한 연구가 필요하다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "오늘날 웹페이지(Web page)는 많은 정보를 포함하고 있다. 본 논문에서는 정보추출(information extraction) 등에서 유용하게 사용되는 개체명(named entity)을 웹(Web)을 이용하여 영역별로 자동으로 추출하는 집합 확장 시스템을 제안한다. 그 방식은 전체적으로 3단계의 구성을 가진다. 우선 사전을 구축하고자 하는 영역의 몇 개의 원소를 씨앗단어로 이용하여 웹페이지를 검색한다. 다음으로 검색되어진 웹페이지와 씨앗단어 정보를 이용하여 패턴 규칙을 추출한다. 추출된 패턴 규칙을 다시 웹페이지에 적용하여 개체명 후보들을 추출하고 최종적으로 추출된 후보들과 웹페이지 사이의 상호 중요도를 재귀적으로 계산하여 개체명 후보들에 대한 순위를 정하게 된다. 이 방식의 실험은 한국어와 영어로 나누어서 실험을 수행하였고, 한국어는 3개의 영역에서, 영어는 8개의 영역에서 실험을 진행하였다. 그 결과, 한국어에서는 78.72%의 MAP를 얻을 수 있었고, 영어에서는 96.48%의 MAP를 얻었다. 특히, 영어 개체명 인식에서의 성능은 구글에서 제공하고 있는 구글셋의 결과보다도 높은 성능을 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문에서는 심층 신경망 기반의 한국어 개체명 인식을 위해 데이터로부터 접사 자질을 추론하여 단어와 음절 단위 정보에 결합하는 실용적인 모델을 제안한다. 최근 개체명 인식 연구에서 가장 우수한 기법을 이용한 두 개의 모델, Bidirectional Long Short Term Memory-Conditional Random Field(bidirectional LSTM-CRF)와 Bidirectional Long Short Term Memory-Convolutional Neural Networks-Conditional Random Field(bidirectional LSTM-CNNs-CRF)를 사용하고, 기존의 입력 단어 표상에 품사 임베딩과 유사 접사 임베딩을 추가하여 확장하였다. 한국어 접사에는 접두사와 접미사가 있고 대부분 1음절인 특성을 고려하여 등장 빈도수에 따른 간단한 필터링 방법으로 유사 접사를 예측, 개체명 인식 자질로 활용하였다. 이 모델은 2016년 국어정보처리대회와 한국전자통신연구원(ETRI)에서 배포한 개체명 인식 말뭉치에 대해 별도의 외부 자원 없이 기존 모델보다 F1 점수가 최대 2.44% 향상되는 것을 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 연구는 국어의 개체명 범주 중 하나인 인명(Person, 人名)을 대상으로 그 의미적 특징과 의미확장 양상 등을 체계적으로 살피는 데 그 목적이 있다. 개체명은 자연어 처리 과정을 통해 사용자가 필요로 하는 정보를 가공해 효율적으로 제공해 준다는 점에서 그 중요성이 날로 커지고 있다. 하지만 이를 단순히 고유명과 유사한 범주로 파악하는 좁은 시각이 여전히 존재하며, 그로 인한 범주 설정 문제나 중의성 문제, 지시대상의 모호성 문제 등은 여전히 명확히 해결되지 못하고 있다. 이에 본고는 개체명으로서의 인명이 가지는 주요한 의미적 특질을 파악하여 그 성격을 명확히 규명하고자 하였다. 그 결과, 일반적인 개체명은 ‘변별성’, ‘유일성’, ‘지시성’, ‘지속성’, ‘공인성’ 등의 의미 자질을 공유하며, 인명은 ‘인간성’의 자질을 단독으로 가지고 있음을 밝혔다. 또한 인명의 하위분류를 판가름 짓는 주요 기제로 ‘실존성’을 제시하는 한편, 인명의 중심의미가 ‘집단 개체’, ‘가상공간 개체’, ‘유사 인간 개체’ 등의 확장의미로 나아가고 있는 양상을 보였다. 이와 같은 선행작업을 통해, 보다 효율적이고 명확한 개체명 분석과 이해를 기대해 볼 수 있을 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This study suggests the prediction model to estimate the specific energy of a pick cutter using a gene expression programming (GEP) and particle swarm optimization (PSO). Estimating the performance of mechanical excavators is of crucial importance in early design stage of tunnelling projects, and the specific energy (SE) based approach serves as a standard performance prediction procedure that is applicable to all excavation machines. The purpose of this research, is to investigate the relationship between UCS and BTS, penetration depth, cut spacing, and SE. A total of 46 full-scale linear cutting test results using pick cutters and different values of depth of cut and cut spacing on various rock types was collected from the previous study for the analysis. The Mean Squared Error (MSE) associated with the conventional Multiple Linear Regression (MLR) method is more than two times larger than the MSE generated by GEP-PSO algorithm. The R2 value associated with the GEP-PSO algorithm, is about 0.13 higher than the R2 associated with MLR.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "Among the many contemporary metaphysical debates, one revolves around the existence of ordinary objects. The philosophers, called the eliminativist, argue that there are no ordinary objects as there are no composite objects except for a few. On the other side of the aisle, the conservatives counter this claim by asserting that composition is possible in one way or another, thereby preserving the everyday objects we encounter. Interestingly, both sides of this debate exclude perceptual experience as an obvious judge. It has been a shared consensus that perceptual experience cannot determine the ontological status of ordinary objects. However, this tendency has recently changed due to the work of two philosophers: Alex Byrne and Thomas Hofweber. They have introduced perceptual arguments in favor of the existence of ordinary objects. In this paper, however, I shall argue that both of their arguments fall short. If my argument proves sound, the ontological debate regarding ordinary objects must be resolved through metaphysical arguments.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "Database schema integration is a significant issue in information systems. Because schema integration is a time-consuming and labor-intensive task, many studies have attempted to automate it. Researchers typically use XML as the source schema and leave much of the work to be done through DBA intervention, e.g., there are various naming conflicts related to relationship names in schema integration. In the past, the DBA had to intervene to resolve the naming-conflict name. In this paper, we introduce an algorithm that automatically generates relationship names to resolve relationship name conflicts that occur during schema integration. This algorithm is based on an Internet collocation and English sentence example dictionary. The relationship between the two entities is generated by analyzing examples extracted based on dictionary data through natural language processing. By building a semi-automated schema integration system and testing this algorithm, we found that it showed about 90% accuracy. Using this algorithm, we can resolve the problems related to naming conflicts that occur at schema integration automatically without DBA intervention.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 2002년 10월에서 2003년 3월까지 철원지역에서 시행되었다. 두루미는 철원지역을\n월동지역으로 이용하였으며, 핵심월동시기(12월~2월) 개체군은 평균 480.0±36.7개체였으며, 2003\n년 2월 13일 최대 559개체가 관찰되었다. 재두루미는 철원지역을 월동지와 중간기착지로서 이용\n하였으며, 2003년 3월 13일 최대 2,162개체가 관찰되었다. 두루미와 재두루미는 월동지로서 민간\n인통제지역을 선호하였다(두루미: 89.6%, 재두루미: 80.9%). 월동시기 두루미의 민간인통제지역\n내 밀도는 10.4/km2이었으며, 민간인통제지역 외의 곳에서는 3.3/km2를 나타내어 민간인통제지역\n내의 곳을 선호하는 것으로 나타났다. 재두루미 또한 민간인통제지역 내의 밀도는 14.4/km2이었\n고, 민간인통제지역이 아닌 지역의 경우 9.3km2로 역시 민간인통제지역에 대한 선호성이 나타났\n다. 비월동기 역시 민간인통제지역에 대한 선호성이 나타났지만, 재두루미에 비하여 두루미에서\n민간인통제선 내의 지역에 대한 선호도가 더 큰 것으로 나타났다. 월동기간 동안 4개 지역 간 개\n체군 밀도의 차이는 시기가 지날수록 감소하는 경향이 있었다. 이것은 주 취식지로 이용되는 지\n역의 먹이밀도가 감소하고, 상대적으로 월동초기 낮은 빈도로 이용하였던 지역을 더 많이 이용하\n였기 때문으로 판단된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본고는 18세기 문학의 새로운 지향이, 정주학적 이념으로 포섭될 수 없는 ‘개인성’과 ‘개체성’을 발견하고, 이를 자기만의 독자적인 관점으로 표현하려는 것이었음을 밝혔다. 글쓰기란 원래 인간 세계를 둘러싼 개체들을 대상으로 하고, 개인의 의식과 정서에 기반한 것이지만, 18세기 이전 조선의 문학은 ‘道文一致’라는 문학적 관점에 입각하여 ‘유가-성리학적 가치’에 부합하는 ‘치세 이념’과 ‘심성 수양’을 드러낼 때에만, 비로소 가치있는 것으로 인정받을 수 있었다. 하지만, 18세기에 이르면 대부분의 문인들 사이에서 ‘개인’과 ‘개체’의 독자성과 다양성을 옹호하는 많은 언술들을 발견할 수 있다. 본고는 우선 ‘개인·개체’ 중심 문학관의 始發點이 되는 조귀명의 진술을 토대로 ‘개인·개체’ 중심 문학관의 특징을 다음 세가지로 정리하였다. 첫째. ‘개인’의 기호와 취미에 대한 옹호와 긍정, 둘째. 공통적 속성에 포괄되지 않는 사물의 ‘개체성’에 대한 발견, 셋째. ‘개인’의 독자적 인식에 기반한 독창적 문학의 수립.\n본고는 먼저 이중 세 번째 측면에 해당하는 “독자적 인식에 입각한 독창적 문학의 수립”에의 의지를 가장 강렬하게 보여주는 趙龜命·李用休·李彦瑱 등의 문학관을 집중적으로 살펴보았다. 세 사람은 공히 古今의 모든 문학·사상적 典範들을 주체적으로 선별·흡수하고 그것을 자기나름대로 종합함으로써 儒·佛·道라는 사상과 秦漢·唐宋·明淸代의 典範的 문학으로 환원할 수 없는 자기만의 독자적인 문학세계를 수립했다는 점에서 서로 상통한다고 할 수 있다. 또한 이들은 공히 정주학 중심의 사상·문학적 관점에서 벗어나 老莊 및 西學 등을 흡수하면서도 그 어느 하나의 사상에 귀속되지 않고, 그 모두를 부분적인 재료로 삼아 자기 개인의 주체적이고 독창적인 사상과 문학을 건립하려 했다는 점에서 어떤 일방의 사상이나 문학적 경향에 구속되지 않는 ‘개인’ 중심 문학관의 한 특징을 분명하게 드러내고 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "많은 애플리케이션에서는 관계형 데이터베이스(Relational Database, RDB)에 저장된 데이터를 바탕으로 사용자나 고객에 대한 인사이트를 얻기위해 노력하고 있다. RDB에는 데이터베이스 스키마를 통해 직접 드러나는 명시적 개체 연관뿐만 아니라, 명시적 개체 연관들로부터 간접적으로추출될 수 있는 내재적 개체 연관들도 포함되어 있다. 인사이트를 발견하기 위해서는 이러한 내재적 개체 연관을 추출할 필요가 있지만, 내재적개체 연관을 어떻게 효과적으로 추출할 것인가에 대한 연구는 많이 이루어지지 않았다. 또한, RDB를 그래프 데이터베이스(Graph Database)로이관하는 기법들도 제안되었으나, 이러한 기법들은 명시적 개체 연관만을 추출한다. 따라서, 본 논문에서는 가중치 개체 연관과 그것의 릴레이션표현인 ε-릴레이션, 그리고 가중치 연관 합성 연산을 정의하고, 이를 바탕으로 내재적 개체 연관을 도출하는 기법을 제안한다. 또한 사례를 통해이 기법을 사용하여 데이터베이스로부터 그래프를 추출하고 가시화하는 방법을 설명한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "위상 배열 안테나를 이용한 적응형 빔 형성 시스템은 간섭신호가 있는 통신환경에 적응형으로 빔 형성하여 통신 품질을 향상시키는 시스템이다. 적응형 빔 형성을 위해서는 위상 배열 안테나의 각 방사소자에 급전되는 신호의 위상을 우수한 조합을 산출해야 한다. 본 논문에서는 우수한 위상 천이 조합 산출 확률을 증가시키기 위해, 개치 밀도에 따른 재확산 절차가 추가된 개선된 개체 군집 최적화 알고리즘을 제안하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "기계 요약의 사실 불일치 문제란 요약 모델이 생성한 요약문이 원문과 사실이 일치하지 않는 문제다. 사실 불일치는 개체명에서 주로 발생하므로 기존 연구들은 요약문의 잘못된 개체명을 교정하여 사실적 불일치를 해결하였다. 하지만, 명시적인 개체명 사실 불일치 판별 없이 모든 개체명을 순차적으로 교정하거나 모두 마스킹하여 교정을 시도하였다. 모든 개체명을 교정하는 연구는 원문과 일치하는 개체명도 교정을 시도하는 문제점과 마스킹되어 사실 정보임에도 불구하고 정보를 손실시키는 문제가 발생한다. 본 논문에서는 기존 연구들의 단점을 해결하기 위해 개체명 사실 여부를 판별한 뒤 사실 불일치 개체명에 대해서만 교정을 하는 방법을 제안한다. 이를 통해 사실 불일치 개체명이 발생시키는 오류를 방지할 수 있으며, 반대로 사실 일치 개체명에 대한 정보를 최대한 활용할 수 있다. 실험을 통해 제안한 방법이 기존 연구들보다 요약문의 사실 불일치를 잘 해소함을 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "시맨틱 기술 적용의 비전인 시맨틱 웹의 성공을 위해서는 그 기반 지식이 되는 온톨로지의 생산, 공유 및 연계가 전제되어야 함과 동시에 온톨로지를 구성하는 개체들의 정합성이 보장되어야 한다. 온톨로지 개체 정합성 측면에서, 두 개의 서로 다른 온톨로지 개체가 실세계에서 동일한 개체임을 표현하기 위한 방편으로 OWL에서는 sameAs가 사용될 수 있다. 그러나, 최근까지의 시맨틱 웹 응용 연구에 있어서 sameAs 적용과 관련된 문제점과 고려사항들이 충분히 고찰되지 못했다. 이 연구는 과학기술 연구분야 온톨로지에서의 sameAs 적용 사례를 소개함으로써 sameAs와 관련된 이해의 폭을 공유하고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "쇠뿔현호색은 현호색과 현호색속 현호색절의 다년생 초본으로 우리나라 경산시 계정숲에만 제한적으로 분포하는 특산식물종이며, 춘계단명식물로 제한된 생육기간과 자원으로 생활전략을 가지고 있다. 본 연구는 쇠뿔현호색 (Corydalis cornupetala Y.H.Kim et J.H.Jeong) 개체군을 대상으로 자생지의 입지 특성과 식생구조를 파악하여 쇠뿔현호색 개체군 및 생태연구에 대한 기틀을 마련하고 자생지 보전을 위한 복원 계획 수립의 기초 자료를 제공하고자 한다. 토성은 미사질식양토이며, 토양산도는 pH 5.4~5.9로 약산성, 전기전도도는 0.22~0.50ds/m, 토양유기물함량은 7.61~15.78%로 나타났다. 토양분석결과 양이온치환용량이 우리나라 산림토양의 평균치보다 높게 나타났는데, 이는 방형구에서 유독 칼슘과 마그네슘의 함량이 높게 나타난 결과라 사료된다. 식생분석결과 5개 방형구 내에서 조사된 관속식물은 총 59분류군이었다. 군락분류의 경우 PC-ORD를 이용한 이단계 군락분석 결과 신나무, 갈퀴나물 및 쇠별꽃군락으로 분류되었다. 쇠뿔현호색의 자생지는 출현종의 수보다는 우점하는 종의 상이성에 따라 집단의 유연관계가 결정되었다. 종다양도는 평균 1.26로 산출되었으며, 우점도와 균등도는 각각 0.08와 0.92이었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "While increasing income inequality in China has been commented on and studied extensively, relatively little analysis is available on inequality in other dimensions of human development. Using data from different sources, this paper presents some basic facts on the evolution of special inequalities in education and healthcare in China over the long run. In the era of economic reforms, as the foundations of education and healthcare provision have changed, so has the distribution of illiteracy and infant mortality. Across provinces and within provinces, between rural and urban areas and within rural and urban areas, social inequalities have increased substantially since the reforms began.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The main advantage of dissolved air flotation (DAF) in water treatment process is the small dimension compared with conventional gravity sedimentation and it can be basically reduced by the separation zone performed with the short solid-liquid separation time. Fine bubbles make such a short time possible to carry out solid from liquid separation as a collector on the course of water treatment. Therefore, the dimension of separation zone in DAF process is practically determined by the rise velocity of the bubble-floc agglomerates, which is a floc attached with several bubbles. To improve flotation velocity and particle removal efficiency in DAF process, many researchers have tried to attach bubbles as much as possible to flocs. Therefore, the maximum number of attached bubble on a floc and the rise velocity of bubble-floc agglomerates considered as the most important factor to design the separation zone of flotation tank in DAF process was simulated based on the population balance theory. According to the simulation results of this study, the size and volume concentration of bubble influenced on the possible number of attached bubble on a floc. The agglomerates attached with smaller bubble was more sensitive to hydraulic loading rate in the separation zone of DAF process. For the design of a high rate DAF process applied over surface loading 40 m/hr. it is required a precise further study on the variation of bubble property and behavior including in terms of bubble size distribution.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "Plant species exhibit current characteristics as a result of interactions with environmental conditions. The plants of Viola sp. have selected chasmogamous flowers with vigorous vegetative propagation or development of cleistogamous flowers as an adaptation strategy. Viola websteri is distributed on the Korean peninsula and the eastern part of Jilin Province, China. The center and edge of the distribution are expected to exhibit different population-dynamics. It is necessary to investigate the cause of its current limited distribution even though V.\nwebsteri has a mixed-mating strategy. Firstly, We examined the vegetation environment of habitats and evaluated its characteristics. Growth characteristics were examined through plant phenology. We then evaluated the population structure, characteristics of chasmogamous flowers, and productivity of cleistogamous flowers. Moreover, we compared population sizes between 2014 and 2018. Most habitats were located in deciduous broadleaf mixed forests adjacent to valleys. V. websteri produced chasmogamous flowers with self-incompatibility in April-May and cleistogamous flowers in June-September. The cleistogamous flower production is a strategy ensuring seed production under uncertain environmental fluctuations; these were approximately twice as numerous as chasmogamous flowers. The population structure was distinguished into stable and very unstable regions. There were sites where the population experienced a sharp decline in the 2018 compared to that of 2014. This large decline was found in the edge populations. The habitats had different microsites depending on the natural disturbances of drought and the matrix constituting the habitat, thus supporting various plants. Ensuring the production of seeds through cleistogamous flowers, it was determined that rapid seedling re-establishment and population replenishment were possible when the natural disturbance factor was removed. Environmental factors did not equally affect all populations or individuals. Therefore, it was expected that it would be able to persisted in a long time, despite the rapid decrease in the number of individuals in the population regionally. Local extinction and re-establishment are likely to repeat according to environmental change. We propose the additional population investigation based on this works are required.\nWe also suggest a need to assess the long-term population dynamics and the genetic characteristics of chasmogamous flowers and cleistogamous flowers to establish and implement effective conservation strategies.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "중국에서 個體工商戶는 이미 독립적인 사회계층으로 발전하였으며 사회생산력의 신속한 발전을 촉진하는 하나의 소홀히 할 수 없는 중요한 역량으로 형성되었다. 개체공상호의 발전의 생성과정을 돌이켜 보면, 중국 개체공상호의 생성과 성장은 기본적으로 중국 시장경제체제의 수립 및 건전성과 동시에 이루어 졌다. 이러한 기간에 비록 개체공상호의 발전이 완만한 상황도 나타났으며 심지어 어떤 단계에서는 저조하여 침체에 빠져지기도 하였다. 그러나 총체적으로 놓고 볼 때, 중국 개체공상호는 이미 시장의 검증을 받았고 시장법칙에 순응하면서 어렵고 험난한 과정을 거쳐 발전하고 성장하여 왔던 것이다. 중국 개체공상호의 생성과 발전에서 증명하듯이, 시장경제는 개체공상호가 필요하며 개체공상호는 시장경제의 토양을 떠날 수 없다. 개체공상호는 독립된 시장주체로서 기타 시장주체가 대체할 수 없는 시장기능을 지니고 있으며 시장법칙에 적응하는 끈끈한 생명력을 갖고 있다. 중국 시장주체체계 중에서 만약 개체공상호라는 이 하나의 독립적인 시장주체가 없다면 다원화된 시장주체체계는 완전하지 못할 것이며 시장도 활력이 없을 것이라고 말해도 과언이 아니다. 이러한 인식에 기초하여 중국은 개체공상호의 법적지위를 확립하고 개체공상호의 합법적 권익을 보호하는 법률제도를 구축함으로써 개체공상호의 건강한 발전을 위해 방향을 명확히 제시하고 법적보장을 제공하였다. 그러나 중국 시장경제체제의 건전성과 시장주체 경쟁의 격화에 따라 중국 개체공상호가 어떻게 경제 환경에 적응할 것인가, 어떻게 지속적으로 독특한 시장기능을 발휘할 것인가, 어떻게 자신의 시장이익을 보호할 것인가 등 일련의 새로운 상황, 새로운 문제, 새로운 도전에 직면하게 되었다. 따라서 중국이 개체공상호에 대한 보장 제도를 어떻게 건전화 시킬 것인가에 대해 새로운 과제를 제기하게 되었다. 중국 시장경제의 안정된 발전은 여전히 개체공상호의 존재를 떠날 수 없기 때문에 개체공상호에 대한 보장제도의 개선화가 절박하게 필요하다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "개체초월성은 시몽동의 철학을 자연주의에서 인간주의로 이행하게해 주는 개념이다. 그것은 개체화론의 일반적 기획에서 물리생물학적 체제와인간학적 체제를 구분하게 해 주는 기준이다. 개체초월성은 정신적 개체화와집단적 개체화의 두 측면에서 접근함에 따라 주관적이고 객관적인 두 가지 의미를 내포한다. 즉 개체가 스스로를 넘어선다는 의미와 개체들이 집단적인 것으로 구조화된다는 의미가 그것이다. 개체와 집단은 상호연관된 동시적이고 지속적인 생성이다. 개체는 스스로를 넘어서서 주체로 거듭나고 개체들은 서로를관통하면서 집단의 생물학적 성격을 벗어나 인간의 집단으로 된다. 개체초월적활동은 이미 완수된 개체화를 벗어나 개체가 가진 전개체적 퍼텐셜을 더 광대한 차원으로 증폭시키는 끝없는 역동성이다. 이런 점에서 시몽동에 있어서 인간주의는 그의 자연주의와 모순되지 않는다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "In einem Brief an Lavater schreibt Goethe: “Das Individuum ist unaussagbar”. Damit versucht Goethe deutlich zu machen, warum er mit der Lavaterschen Physiognomik nicht völlig einverstanden sein kann. Ihm zufolge habe die gütige Vorsehung jedem einen inneren Trieb gegeben, so oder anders zu handeln, und durch das Wirken dieses Triebs erhalte jedes Individuum sein eigenes Empfinden. Es sind der innere Trieb und das Empfinden, die eine kleine Welt für jedes Individuum konstruieren: nämlich die Individualität. Die Individualität, die sich als eine spezifisch für ein jedes Individuum konstruierte kleine Welt versteht, kann daher nicht allgemein sein und ist als das innere Wesen eines Individuums nicht aussagbar. Das ist der Grund dafür, dass das Empfinden des Lebens in Goethes Auffassung vom Individuum der Erkenntnis des Lebens den Rang abläuft. Es geht ihm auch um das Ganze, obwohl er die Unaussagbarkeit des Individuums beständig betont. Das Individuelle, das sich vom allgemeinen Ganzen unterscheidet, bezieht sich doch immer auf das Ganze. Im Verständnis Goethes vom Individuum wird das Ganze als oberste Vorstellung konzipiert, indem es dem Individuum seinen Erfahrungen nach wahrnehmbar, dem Wesen nach unbegreiflich gegenübersteht. Also besteht das Paradox des Individuums gerade darin, dass das Individuum seine unaussagbare Individualität negiert, indem es sich im Ganzen (z.B. in der Gesellschaft) verwirklicht.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "BERT와 같은 트랜스포머 기반의 언어 모델은 대용량의 레이블이 없는 말뭉치를 자가 학습방법을 통해 학습한 후 다양한 자연어 처리 응용 태스크에 적용하여 놀라운 성능 향상을 보였다. 이와 같은 언어 모델은 실세계 지식 정보를 표현할 수 없는 단점이 존재하고 이러한 문제를 해결하기 위해 언어 모델에 지식 베이스를 반영하려는 다양한 연구들이 수행되었다. 본 연구에서는 단어 시퀀스 이외에 엔티티 시퀀스와 임베딩을 정의하고 단어와 엔티티의 모든 시퀀스 쌍에 따라 별도의 쿼리 파라미터를 두고 셀프 어텐션을 수행하는 LUKE 모델을 한국어 위키피디아 상에서 학습한 후 엔티티 관련 태스크인 개체명 인식, 개체 연결에 적용하여 기존의 RoBERTa 기반 모델 대비 각각 0.5%p, 1.05%p의 성능 향상을 가져왔다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "Data redundancy is problematic in that it not only induces heavy storage management cost but also could bring critical degradation of information systems. Unfortunately, to our knowledge, only few enterprises willingly afford time and efforts for the faithful conceptual design to prevent the degree of inappropriate data as much as they could, while most of enterprises pay rare attention to the notion of that sort of data quality. Wondering if there would be any other way to design the enterprise‐wide data design without prior knowledge about business works is our major motivation for this study. In this paper, we present our data modeling methodology in which associations among objects in each sentences of a business job descriptions are treated as the focal point in database design. A proposed agent for automated design tool simply takes a business job description written in natural language as an input, and then designs an entity relationship diagram with some smart rules. We introduce the scope of the proposed agent and its detailed logics with several examples. And then, we verify the appropriateness of the resulted associations among objects. Lastly, we perform case studies to evaluate the devised agent’s applicability to a business field.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "종래의 클러스터링 기법은 단순히 키워드를 추출에 기반한 단어간 유사도에 의한 그룹핑 방식을 구사함으로써 비교해야 할 대상 키워드 수 및 종류가 매우 다양하여 계산량이 증가함으로써 속도가 느리고 정확도도 높지 않은 편이다. 본 논문은 이러한 단점을 해소하기 위해 웹 문서를 대상으로 기존 명사 위주의 키워드 뿐 아니라 인명, 지명, 회사명, 물품명 등을 자동으로 인식하는 개체명 인식 결과를 이용하는 웹 클러스터링 기법을 제안하고자 한다. 실험을 통해 기존 키워드 기반 클러스터링 결과에 비해 개체명 기반 클러스터링의 품질이 우수함을 증명하였으며, 문서 집합 특성에 따른 클러스터링 결과도 비교 분석하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "캐나다기러기류(White-cheeked Goose, Branta canadensis와 B. hutchinsii)는 형태적인 유사성 때문에 종 또는 아종 구별이 어려워 정확한 도래 실태를 파악하기가 매우 어렵다. 본 연구에서는 지난 27년 동안의 사진자료와 관찰기록을 통해 국내에 도래하는 캐나다기러기의 분포와 아종 현황을 분석하였다. 캐나다기러기는 1992년 첫 관찰 이후 2018년 3월까지 41회의 관찰기록이 있으며, 거의 매년 몇 개체가 관찰되는 매우 드문 겨울철새이다. 한국을 찾는 캐나다기러기(B. hutchinsii) 아종은 leucopareia, minima, taverneri로 확인되었으며, 이 중 minima와 taverneri는 기존에 공식적인 한국조류목록에 포함되지 않은 아종이다. 아종 중 leucopareia가 가장 흔하게 도래하며, 그 다음으로 minima가 찾아오고, taverneri는 매우 드물게 찾아오는 것으로 확인되었다. 본 연구 결과는 한국에 도래하는 캐나다기러기의 아종 구별에 대한 기초자료로 활용될 것으로 판단된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "완고한 사실은 과정이며, 이는 작용인의 역할을, 유한한 실현은 현실태의 목적인 역할을 한다. 즉 공공성에서 사적으로 나아가는 과정을 현실태의 목적인이라고 할 수 있고, 사사성에서 공공성으로 나아가는 과정을 현실태의 작용인인 것이다. 이러한 특징은 '관계'와 '가치' 혹은 '과정'과 '강도' 개념이다.우리는 새로운 관계, 새로운 가치의 증식이 필요한 시대에 살고 있다. 그러므로 근대의 자본주의와 민주주의를 가능하게 한 과학적이고 수학적인 패러다임에서 벗어나서, 새로운 사유를 전개할 필요성을 마주하고 있다. 이때 우리는 하나의 대안으로 과정과 미적 가치를 결합하고 있는 화이트헤드의 유기체 철학을 하나의 대안으로 고려해볼 수 있다. 화이트헤드는 \"종래의 철학적 사고로부터 다소 벗어나는 특성을 내포하고 있는\"(PR 72) 새로운 형이상학을 제시하고자 한다. 따라서 화이트헤드는 자신의 새로운 형이상학에서 \"관계적 힘\"으로의 작용인과 \"미적 가치\"의 목적인을 함께 실현할 수 있는 개체성을 구성한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문에서는 2차원 셀 공간인 셀 우주(Celluar Cosmos)상에서 인공개체의 주화성이 진화적으로 발현하는지를 시뮬레이션하였다. 이를 위하여 인공개체가 좋아하는 먹이가 셀 우주 공간상에 이동하며 확산하도록 하였다. 초기 인공개체는행동결정로직이 무작위라서 제대로 먹이를 따라가지 못하지만 먹이를 먹어서 죽지 않은 개체가 번식을 함으로써 점점더 먹이를 잘 먹는 개체로 진화할 수 있었다. 먹이환경을 변화시키면서 다양한 환경에서 실험한 결과 자연계에 존재하는대장균과 같은 생물의 주화성과 유사한 특성을 보이도록 진화하는 것을 확인하였다. 이러한 결과는 실제 생물체의 다양한주화성 특징을 연구하는 데 사용되거나 인공개체의 행동발현 연구에 이용하거나 공학적 문제에서 최적화 특성을 찾는 곳에응용될 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논고는 헌법에 보장된 대학의 자유에 대한 시론이다. 모든 생명성의 원천은 개체성에 있으며 개체성의 원천은 자유에 있다는 전제하에 대학도 하나의 생명체로서 자유를 보하지 않으면 존재하고 성장할 수 없다는 관점으로 대한민국 대학의 자유에 대해 검토하고자 한다. 다만 대한민국 대학의 자유는 완전하지 못하고 그로써 대학의 생명 또한 완전하지 못하다는 입장을 견지하며 그 논거는 서구대학들이 탄생 과정에서 신으로부터 선천적 자유인 Freedom을 부여받은 것으로 그치지 않고 성장 과정에서 스스로의 노력으로 후천적 자유인 Liberty를 쟁취하여 왔다는 역사적 사실에서 찾아보고자 하였다. 따라서 이 논고는 대한민국 대학의 생명성이 freedom과 liberty를 모두 갖춘 온전한 자유를 어떻게 갖추어 나갈 것인가에 달려있음을 밝히려는 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문에서는 문화유산정보 말뭉치 구축을 위한 개체명 및 이벤트 부착 도구를 제안한다. 제안하는 도구를 이용하여 말뭉치 구축자는 문화유산정보 관리에 유용한 시간, 장소, 인물, 사건을 중심으로 개체명과 이벤트를 부착할 수 있다. 이 때, 개체명과 이벤트 부착이 용이하도록, 제안하는 도구에서 줄번호나 어절번호와 같은 개체명이나 이벤트의 위치정보를 자동으로 부착하며, 구축된 개체명이나 이벤트 중에서 하나를 선택하면 해당 문자열을 원문에서 진한 이탤릭체로 표시하여 올바르게 부착되었는지 쉽게 확인할 수 있다. 그리고, 제안하는 도구는 말뭉치 구축자의 수작업을 줄이기 위해서 개체명 자동인식 패턴을 활용한다. 학습말뭉치가 거의 없다는 점을 고려하여 단순한 규칙패턴을 학습한다. 또한, 오류 전파를 차단하기 위해서, 제안하는 개체명 자동인식 패턴은 개체명 부착 말뭉치에서 추가적인 분석처리 없이 바로 추출한다. 실험결과 제안하는 개체명 및 이벤트 부착 도구는 말뭉치 구축자의 수작업량을 절반이상 줄여주었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "고계는 ‘명대 제일의 시인’이라 할 정도로 유명한 시인이다. 명청 양 시기의 문인들은 그가 시풍을 원말의 시풍으로 바꾼 공적에 대해 긍정적이며, 또한 이 때문에 그에 대해 높은 평가를 내린다.\n그는 38년이라는 짧은 생애를 살았지만, 적잖은 시가와 문장을 남겼다. 그는 시를 마치 자신의 생명과도 같이 중시하며 일생동안 시가 창작에 정력을 쏟았다. 그는 어렸을 때부터 시가에 남다른 흥미를 느끼고 창작활동에 전념했으며, 청년기에는 이미 시로써 명성을 날려 “北郭十才子” 가운데 최고의 시인으로 꼽혔다.\n그의 시 창작은 우선 고인들의 모방으로부터 시작했다. 그는 어떤 시체라도 가리지 않고 반복해서 읊으면서 옛 시인들의 다양한 풍격과 풍부한 예술기법을 본받으며 성장했다. 따라서 그는 여러 문장들을 모두 섭렵했으며, 또한 고인들의 특징이나 장점을 섭취하여 자신만의 개성을 만들었다. 그렇기 때문에, 그의 시가 속에는 전인들의 시가를 계승 모방한 흔적이 보인다. 그러나 결코 기계적으로 모방한 것이 아니라, 그는 각종 제재와 체재에 따라, 최선의 예술형식과 풍격을 가려서 자신의 사상과 감정을 표현하였다.\n그의 생활과 시가는 개성의 자유와 해방에 대한 추구였다. 그는 일상생활 속에서 자유와 독립을 유지할 수 있어야 만이 시인의 자질을 갖춘 것이며, 또 창작 속에서 자신의 사고를 충분히 발휘할 수 있다고 보았다. 그는 잠시 관직에 있기도 했지만, 중국역사상 그처럼 정치를 멀리하고 독립적인 인격과 행동으로 개성의 자유를 추구했던 문인은 매우 드물다. 그는 명대 시단에 복고풍의 장을 열었고, 전후칠자의 복고이론에도 직접적인 영향을 미쳤다. 그의 시 속에 표현된 개성의식은 중시되어야 하며, 그의 문학사상의 지위와 영향에 대해서도 다시 한 번 관심을 가져야 할 것이라 본다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "A ceramic articulation thought to be superior to metal-on-polyethylene due to its extremely low coefficient of friction and its potential for resistance to wear. But ceramic is brittle, which makes it theoretically susceptible to fracture. Although many authors have reported that metal-on-polyethylene articular pairing had good results after a ceramic head fracture, there have been few reports about complication due to the remaining ceramic particles after revision surgery. We report here on a case of severe metallosis that was thought to be due to third body wear by the remaining fractured ceramic particles after revision total hip arthroplasty.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "本論文は韓国語では対応する表現がほとんどない「ひと＋名詞」構文の用法や意味を認知言語学の観点から分析した。「ひと＋名詞」構文に関する従来の研究では「ひと＋名詞」構文の名詞が名詞化した表現に限定されている。これは従来の研究が英語の輕動詞構文との比較検討に焦点が置いていたことと関連性がある。本稿では分析の範囲を名詞一般に広げて包括的な分析を試みた。方法論としてはLakoff(1987:68-76,284-292)の提示した理想化認知モデル(Idealized Cognitive Model)を参照した。今回の分析を通して「ひと＋名詞」構文が(1)個体選択モデル、(2)全体選択モデル、(3)段階選択モデル、(4)スケール選択モデル、(5)行為選択モデルの少なくとも5つの理想化認知モデルをその基盤とする表現であるということが明らかになった。また、これらの理想化認知モデルの中でも個体選択モデルと全体選択モデルが中心的な地位を有していることが分かった。本稿では「ひと＋名詞」構文の分析を通して数字‘一(ひと)’が人間の日常的なカテゴリー化や経験において特別な意味を持ちうるという点を明らかにできた。",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "In der vorliegenden Arbeit sollen die Erziehungsphilosophie und die Erziehungskritik von Hermann Hesse dargestellt werden. Hesse geht davon aus,dass die Menschen von Natur aus frei und gleich und dazu fahig seien, uber sich selbst zu bestimmen.\nHesse hatte in seiner Jugend kein besonders gutes Verhaltnis zu seinem Vater.\nUnd er stand stets auf Distanz und in Hassliebe zu ihm. Die Befreiung aus der Welt des Vaters ist in Hesses Werken verbunden mit dem Widerstand gegen Autoritat und dem Durst nach Freiheit, und zugleich der Entdeckung des inneren Selbst.\nEr fuhlte sich von Gott, den Eltern und der Welt verlassen und sah hinter den starren pietistischen Traditionen der Familie nur noch Scheinheiligkeit. Dieses Erinnern an die Jugendzeit ist wichtichster Teil seiner Kritik an der autoritaren Erziehung.\nAusgangspunkt des Hesse’sche Denkens ist der Abscheu vor der dominanten Schulbildung und Familienerziehung seiner Zeit. Er stellt sich die Frage, wie ein wildes und freies Individuum seine Freiheit behalten kann, wenn es aus dem Naturzustand in den Zustand der Gesellschaft eintrittt. Er geht davon aus, dass die Menschen im Naturzustand unabhangig voneinander leben konnen.\nHesse lasst keinen Zweifel daran, dass wir Menschen im Wesentlichen autonom und autark sind. Daher darf der Mensch keine zwangsmassigen erzieherischen Einflusse ausgesetzt werden. Jedem soll individuelle Bildung gewahrt werden.\nDabei soll der Mensch nicht zu einem guten Staatsburger, sondern zu einem selbststandigen Menschen erzogen werden.\nEs wurden fur diese Arbeit die Erziehungskonzepte von Jean-Jacques Rousseau und Ellen Karolina Sofia Key gewahlt, da beide von einem gemeinsamen Aspekt ausgehen, namlich von dem Guten im Menschen und der Notwendigkeit, dieses sich in Freiheit entfalten zu lassen.\n“Sooft ich an manche meiner Lehrer denke, die aus wirklich harmlosen, ja gutartigen Bagatellen Kriminalfalle machten, wird ein Dreinfahren mir unmoglich.\nIch denke einstweilen, es werden auch in der Erziehung Freiheit und Humor nicht schaden, solange man das Gefuhl der Uberlegenheit und namentlich das Vertrauen der Kinder noch hat.”(Hermann Hesse / aus einem Brief vom 16.11.1910 an seinen Vater)",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "전라남도 순천시 서면 청소골 일대에 분포하는 히어리개체군의 분포특성과 개체군 동태를 조사하였다 . 히어리개, 북사면, 북서사면 및 북동사면에만 분포하는 특이성을 보였다. 교목층이 형성된 삼림내에서 아교목층이나 관목층을 이루고 있으며 , 종조성에 있어서는 히어리가 분포하지 않는 인접지역 삼림식생과 별다른 차이는 없었다 . 25㎡당 평균개체수와 개체당 평균 맹아지는 각각 6.25주 및 3개로서 다른 지역에 비해 낮은 밀도를 나타냈으며 , 이 지역의 히어리개체군이 쇠퇴해가고 있음을 알 수 있었다 .",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 헤겔의 자연법 논문에서 “인정” 개념이 자연법 논문의 기획 의도 위에서 독해할 때 그 정확한 의미가 이해될 수 있다는 문제의식에서 출발한다. 자연법 논문의 기획 의도는 근대의 학문과 제도가 바탕에 두는 “주체성”의 원리가 그 자체로 인식되지 못한 채로 사용되고 있고, 그 때문에 근대사회가 특유의 갈등과 모순에 봉착해 있다는 진단 하에, 이 문제를 “원리의 인식”을 통해 해결하는 데 있다. 근대성의 원리의 인식이라는 자연법 논문의 프로젝트는 그 철학적인 토대를 헤겔의 프랑크푸르트 시기 사유에서 얻는다. 헤겔은 프랑크푸르트에서 개체의 본질에 관해 독자적인 사유에 도달했고, 이 철학적인 토대에서 근대의 학문적, 제도적인 원리들이 모두 하나의 뿌리에서 발원하여 분화된 것들이라는 통찰에 이를 수 있었다. 이는 또한 근대의 원리들 사이의 충돌과 모순은 이 “혼합된 원리들”의 “의식적인 분리”라는 실천적인 태도를 통해 해소 및 관리될 수 있다는 견해로 이어졌다. 자연법 논문에서 “인정”은 바로 이러한 “혼합된 원리들”의 “의식적인 분리”라는 실천적 태도를 가리킨다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 연구의 목적은 현대 사회의 핵심 가치들의 단초가 동학사상에 내재하고 있음을 밝힌다. 더하여 한 개체에 내재한 보편의 가치를 살핀다.\n이 연구의 내용은 다음과 같았다. 첫째, 동학의 메시지는 미래에 대한 희망 과 시대를 선도하는 개벽된 세상에 대한 열망이자 무지함으로 인해 망각한 자 신을 회복하는 계몽의 빛이었다. 둘째, 동학은 개인이나 집단, 민족, 국가를 이해관계의 문제로 바라보지 않았다. 이로 인해 동학의 메시지는 서로 반목 하는 인류 문화의 반성과 화합의 씨앗이었다. 셋째, 동학은 인간과 세상의 관 계를 수직적인 관계로 보지 않고, 상호 수평적인 관계로 보았다. 이로 인해 개 인의 완성보다는 보편적 인간, 즉 인류의 완성과 함께 전 생명체의 완성을 강 조했다. 넷째, 동학의 깨달음은 한 개인의 완성에 그치는 것이 아니라 인간 보 편의 완성을 의미했다. 다섯째, 동학의 메시지는 개인과 집단 그리고 국가와 국가 간의 갈등을 해결하는 근본 테제였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "한우는 국가단위 검정체계에서 개량되고 있는 한국 고유품종이다. 한우의 평가형질 중 체척은 개체의 신체부위를 10부위로 구분하여 개체의 성장 척도로 활용하는 형질이다. 2021년 하반기 기준의 검정체계는 18개월령에 측정된 후대검정우의 체척성적을활용하고 있으나 이는 검정체계 상 어느 종료시점에도 해당되지 않는다. 그 외에 당대검정에서도 체척 성적을 수집한다는 점에서 모든 자료를 활용하지 못하고 있다. 따라서 본 연구에서는 체척 수집개월령 및 모형에 따른 유전모수와 육종가, 정확도를 비교하고 개선된 평가결과를 제공할 수 있는 방안을 모색, 정보를 제공하기 위하여 수행되었다. 활용된 자료는 총 13370두의 당후대검정우의 보정된 12개월령 체중과 12, 18개월령 체척 10부위 성적이며 혈통자료는 84936두의 자료를 활용하였고 단형질, 다형질평가모형으로 나누어 총 6개의 평가그룹 간 비교를 실시하였다. 유전모수 추정에는 수집개월령을 불문하고 모형을 기준으로 볼 때 단형질모형 전체형질의 유전력평균이 0.27, 다형질모형이 0.28의 수준을 보였다. 육종가의 상관결과로는 단형질, 다형질모형 간에 0.87 수준을, 12개월령 당대성적이 추가된 육종가와 12개월령 후대성적만 활용된 상관결과는 0.72 수준으로 파악되었다. 정확도는 전체형질의 평균을 기준으로 12, 18개월령 후대검정 단형질모형에서 각각 63% 수준으로 최저 정확도를, 12개월령 당후대검정 성적을 모두 활용한 다형질모형에서는 74%로 전체 평가그룹 간 가장 높은 정확도를 확인하였다. 연도별 씨수소들의 육종가의 경향은 12개월령 당후대검정 단형질모형으로 평가된 육종가 평균을 제외하고 전체 형질에 대해 전반적으로 높은육종가 경향을 보였다. 결론적으로, 본 연구는 12개월령 당후대검정 성적을 모두 활용하여 다형질모형을 적용한 평가결과의 이점을 투영하려 하였으며 평가결과를 개선할 수 있는 방안의 정보를 제공할 수 있을 것으로 보인다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The aim of this paper is to discuss Paul’s vitality as living individual and its critique of capitalism in D. H. Lawrence’s Sons and Lovers. Paul as a living individual feels as if his body were living empty. This being is univocal because through ‘combat-between’ he realizes his power in a life. It is this mode of individuation that overcomes the static identity and abolish work. Because univocal being must be conceived as difference that “constitutes being as a synthetic multiplicity.” This intensive life defeats the logic of identification in the modern civilization. In this novel, Paul is becoming through a dissolved self, which is no longer imprisoned within the fixed subjectivity and consists of events and singularities. As opposed to a subjectivity, Paul’s individuality is the force of non-organic life and an event, not a thing or a person. In this sense, Paul equilibrates himself with others, even nature. His creative journey can make things have fluid relationship with the circumambient universe. Deleuze says that this indefinite life attains a sort of beatitude. In this novel, Paul attains a life’s “very ecstasy of living, the highest point of bliss” in which a man reaches his fullest living and lives in immanent life.\nThe psychoanalytic conception of desire is lack and the desire is repressed by the Oedipal law. But the Oedipus is the effect of social repression on desiring production. Desire is not a lack of something and doesn’t refer to any law which traditional psychoanalysis supports. In this regard, revolution consists of “the repetition of the future in its difference” just as positive desire functions heterogeneous in the field of immanence. For, Deleuze and Guattari, desire includes no lack: it is revolutionary because desire as productive process, desiring machine, prevents the body from being repressed by the Oedipal Law and being deprived of his labour power by capitalism. It is for this reason that Deleuze and Guattari condemn the practice of psychoanalysis, through which desire is determined to desire its own repression as “a gigantic enterprise of absorption of surplus value.” In this result, this irreducible inequality forms the condition of the world. According to Deleuze and Guattari, Lawrence is a novelist who only affirms “pantheism of flows” in his characters so as to de-oedipalize the capitalism. As Lawrence considers capitalism as “ugly relationship” between labourer and capitalist, revolution is to live as univocal being, a life that is immanent, which means Paul’s passage of a life can break the alliance between oedipal law and capitalism.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This paper purports to elucidate the significance of Will Brangwen’s transformation into a modern man, in terms of “the broken relation between the senses and the outspoken mind”. Unlike the first generation who finally achieves a complete arch providing full security to their daughter, the marriage of Will and Anna undergoes the alternation of love and conflict, that is the unconscious “unknown battle”. While sharing the widely agreed views that this conflict of the second-generation Brangwens represents the crucial watershed between the traditional past and the modernity in The Rainbow, this paper tries to interpret it not as a conflict between opposing, or dualistic ideas imposed to them a priori, but as a process made through their reciprocal relationship at the moment. More specifically, the crux of their conflict lies in their different attitudes towards the mind or the mental consciousness and in how this influences the way toward each other and their own life as well. In that context, the biblical allusions as well as church buildings and Christian art, for example, show their respective attitudes to the senses and the mind. As it turns out, it is the repression of “the outspoken mind” that causes Will to be infatuated with the Gothic form and then with Absolute Beauty found in the body of woman. And neither of them is considered to have fulfilled the task of creating “the rolling, absolute beauty of the round arch” in his own era. Rather, Will’s intense feeling here recorded can be estimated as characteristically modern in pursuit of a single aspect of experience.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구에서는 서비스 연구 분야에서 제안된 Transformative Service Research 패러다임에 대한 등장 배경과 지향하는 연구 방향과 TSR 패러다임의 체계와 구성 요소 등을 알아보았다. 또한, TSR 패러다임을 기반의 서비스 분야의 선행 연구들에 대해 체계적으로 이해하고자 2단계로 접근하였다. 먼저, 정량적 수치를 바탕으로 선행 연구들에 대해 이해하고, 키워드들의 의미연결망을 살펴봄으로써 선행 연구들의 연구 방향성을 확인해보았다. 2단계 접근을 통해서 TSR 패러다임 기반 서비스 연구가 아직까지는 한정된 서비스 분야(예:헬스케어 서비스, 사회 서비스 등)에 집중되어 있으며, 관광학 분야에서의 서비스 연구에는 TSR 패러다임 관점의 연구가 드물게 이루어지고 있음이 밝혀졌다. 또한, 키워드 의미연결망에서 시간이 지남에 따라 웰빙의 중요도가 높아짐을 보여주고 있다. 관광학 분야의 서비스 연구에서도 TSR 패러다임에 기반한 연구가 필요하며, TSR 패러다임의 체계와 구성 요소를 바탕으로 서비스 개체 관점, 소비자 개체 관점, 거시환경 관점, 학제 간 공동연구, 관광 서비스를 통한 사회의 발전을 위한 연구 과제들을 제시하였다. 관광학 분야의 서비스 연구도 기업의 수익과 성과의 범위를 넘어서 TSR 패러다임의 관점에서 연구를 수행함으로써 관광 서비스 환경 내 모든 소비자 개체의 웰빙 증진에 도모하는 연구로의 확장을 제안한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The main purpose of this paper is to provide an account of why in certain environments bare plural objects get a generic interpretation and what the semantic core of their genericity is. Generally, bare plurals have been regarded as having two different interpretations (i.e. generic and existential), and nor only in subject position but in direct object position bare plurals show this difference. There are two kinds of verbs that can have generic bare plural objects (i.e. individual-level predicates and habitual verbs), so proper theory must give an account of generic objects of both kinds of verbs.\nIn this paper, I present two major types of previous approaches that deal with the problem of generic bare plural objects in terms of syntactic information and semantic roles respectively, and I point out each approach has its own problems. Adopting the notion of possible worlds and intensionality as relevant factors, I provide a fundamental explanation about the genericity of bare plural objects. Furthermore, it is also shown that the notion of possible worlds gives us a way to deal with generic objects of individual-level predicates and habitual verbs in a unified way.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 중국 개혁개방 전후(1974-1983) 대중가요 속 ‘어머니’ 이미지의 표상 변천에 초점을 맞춘다. 본 연구는 200곡 샘플에 대한 정량적 통계와 정성적 분석을 통해, 어머니 이미지가 단순한 단절적 대체를 겪은 것이 아니라, 단일한 ‘정치적 모체’에서 ‘정치적 모체’의 지속, ‘개인적 어머니’의 부상, 그리고 ‘혼합형’ 표상이 병존하는 복잡하고 다원적인 과정으로 전환되었음을 밝혔다.연구 결과, 개혁개방 이전(1974-1978)에는 국가 이데올로기에 복무하는 ‘정치적 모체’가 유일한 형태였다. 개혁개방 이후(1979-1983)에는 ‘정치적 모체’의 출현 빈도가 현저히 감소했지만 사라지지 않았으며, 이와 동시에 진실한 가족 정서를 묘사하는 ‘개인적 어머니’가 대량으로 등장하여 주도적인 위치를 차지했고, 나아가 양자를 융합한 ‘혼합형’이라는 새로운 형태가 나타났다.이러한 전환은 개혁개방 초기 중국 사회의 이데올로기, 집단/개인 관계 및 정서 표현 방식에서의 중대한 전환을 심각하게 반영한다. 특히 사회 격변기에 ‘어머니’ 이미지의 회귀는 사회의 ‘정서적 닻(emotional anchor)’이라는 핵심적인 역할을 수행했다. 이 과정은 공식 담론, 시장의 힘, 그리고 민중의 정서적 요구 사이의 복잡한 힘겨루기가 빚어낸 문화적 표상이며, 본 연구는 이 시기 중국 대중문화와 사회 변천을 이해하는 데 새로운 시각을 제공하고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "‘배아가 인간인가?’라는 물음에 보편 객관적인 답이 존재하는가? 기술이 발달하고 여권이 강화됨에 따라 특히 14일 이전의 인간 배아의 지위를 놓고 집단 갈등이 심화한다. 이 점에서 본 연구는 인간학, 인간 발생학, 그리고 가톨릭 생명윤리학의 관점에서 이에 대한 다양한 찬반 논쟁을 비교함으로써 그러한 답을찾고자 한다. 이로써 인간배아의 정체성을 명료화하고 현행 인간 배아 정책 변화의 불가피성을 환기하려는 것이다. 이를 위해 이 연구는 수정과 접합자의 본성, 분화와 전능성, “유전적 개체성”과 “발달적 개체성”, “14일 이후 새로운 인간의 시작” 논증 등을 검토한다. 본 연구가 “실제로, 인간의 생명에 대한 존중은생성과정이 시작되는 시점부터 요구된다”라고 천명한 「낙태에 관한 선언」(신앙교리성, 1974, 12항)의 의미를 이해하는 데 보탬이 되기를 바란다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문에서는 셀 수준의 진화 프레임워크를 이용하여 인공개체의 행동로직을 진화하는 연구를 수행하였다. 이를 위하여셀 수준의 진화 프레임을 구현하였으며 이 프레임 상에서 인공개체가 먹이를 먹기 위해 행동로직을 진화하는 것을 살펴보았다. 인공개체의 행동로직 진화를 관찰하기 위하여 행동결정 로직 프레임을 제안하여 적용하였다. 테스트결과 인공개체가빠른 세대 내에 먹이를 잘 먹는 로직으로 진화하는 것을 관찰할 수 있었다. 또한 여러 번의 실험을 통하여 대부분의 실험에서 거의 동일한 행동양식을 보이는 것으로 진화하는 것을 확인할 수 있었다. 본 논문에서 제안한 방법은 기존의 진화 알고리즘을 이용한 알고리즘이나 하드웨어의 진화와는 다른 방법으로서 기본적으로 접근 방법에 차이점이 있다. 이런 결과로보았을 때 본 논문에서 제안한 프레임워크가 셀 수준의 진화를 관찰해볼 수 있는 좋은 도구가 될 수 있음을 알 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "세계적으로 인간 활동에 따른 서식지의 소실과 단절은 생물다양성을 떨어뜨리는 주요원인이며 서식지의 소형화와 세분화는 개체군의 크기를 감소시키고 있다. 본 연구는 꼬리명주나비를 표지-방사-재포획법(MRR방법)을 이용하여 메타개체군 동태를 파악하였다. 그 결과 2,749개체(암컷-2295, 수컷-454)가 포획되었으며 이중 343개체(12.8%)가 재포획되었다. 포획된 암수 비율에서는 수컷이 주를 이루는 것으로 나타났다. Jolly-Seber의 방법으로 일일메타개체군의 크기, 생존율, 추가율, 사망률을 추정하였다. 저자들은 보전생물학자들에게 단절된 경관에서 국지적 메타개체군의 관리와 보전을 강조하고자 하며, 특히 한국산 꼬리명주나비의 경우 지속적인 서식지 보전이 필요하다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "경산시에 있는 32개의 마을숲을 전수조사 하여 입지에 따른 마을숲의 유형을 분류한 바, 동구숲 8개소(25.0%), 동산숲 6개소(18.8%), 하천숲 7개소(21.9%) 및 마을주변숲 11개소(34.4%)를 확인하였다 동구숲에 출현하는 주요수종은 느티나무가 34.3%, 은행나무가 11.2% 및 아까시나무가 10.5% 등을 확인하였으며, 동산숲의 경우 소나무가 56.8%, 상수리나무가 26.4% 및 느티나무가 4.3% 등을 확인하였다. 하천숲의 경우 느티나무가 40.4%, 왕버들이 27.1% 및 말채나무가 5.5% 등을 확인하였으며, 마을주변숲의 경우 느티나무가 21.7%, 상수리나무가 10.8% 및 말채나무가\n8.9% 등을 확인하였다. 본 연구에서 확인한 마을숲의 대부분(71.9%)은 도로 때문에 분획화되어 서식처의 기능이 축소되었다. 마을숲의 기능을 개선하기 위해서는 마을숲 복원을 위한 후대목의 육성 그리고 교육 및 홍보를 통한 마을숲의 중요성을 일깨우는 등 관리방안의 수립이 필요하다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "급격하게 성장하고 있는 오픈 리소스인 링크드 데이터는 최근 선진국 정부의 많은 관심 속에 데이터 공개 및 상호운용성 확보를 위한 방안으로 주목받고 있다. 그러나 신뢰할 수 있는 개체 식별 기술의 부재로 링크드 데이터의 양적 성장에 비해 개체 수 대비 링크의 수가 적은 현상과 일부 데이터 셋에 링크가 집중되는 현상을 보이고 있다. 본 연구에서는 이러한 링크드 데이터의 문제를 해결하기 위해 개체 간 관계(owl:sameAs, owl differentFrom 등)를 이용하거나 Curation 방식을 사용하는 기존 링크드 데이터 기반 개체 식별 방식의 문제를 다중 온톨로지의 개체 식별이 가능한 자동화된 개체 식별 방식을 통해 개선하고 저자 개체의 대응 속성과 개체 유형의 논리적 특성을 활용하여 개체 식별 정합성을 검증할 수 있는 다중 온톨로지 기반의 실시간 저자 식별 방법을 제안하고 평가한다. 본인의 확인을 거친 29명의 저자 정보를 이용해 개체 식별 정확성 결과를 평가하여 평균 0.8533 (K measure)의 긍정적인 성능을 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 연구는 연변 조선족자치주 조선족 자영업자의 영업실태를 설문조사를 통해 실증적으로 분석하였으며 연변조선족 자영업에 대한 최초의 실태조사라는 점에서 그 의의를 찾을 수 있다. 주요 분석결과는 다음과 같다.\n 연변 조선족 자영업의 업종별 분포를 보면 식당이 가장 높은 비율을 차지하고 있으며, 그 다음으로 옷가게, 다방·찻집·커피숍, 미용실(이발소) 순으로 나타났다. 연변조선족 자영업의 종업원 수는 전체 응답자의 80% 이상이 5인 이하의 종업원을 고용하고 있는 것으로 조사되었으며, 또한 종업원을 고용할 때 대부분 조선족을 고용하는 것으로 분석되었다. \n 판매 및 유통실태를 보면 주요고객의 경우 연변조선족 자영업자들의 주요고객은 조선족(46%)이며 다음으로 중국인으로 조사되었으며, 가게의 주요홍보 수단으로 TV나 광고지를 이용하고 있다. 연평균 매출액의 경우 1만위안 이상 30만위안 미만자가 81%를 차지하였다. \n 연변조선족 자영업자들은 극히 일부(11%)만이 한국으로부터 제품이나 원료를 구매하는 것으로 조사되었으며, 향후 한국으로부터 제품이나 원료를 구매할 계획에 대한 질문에 대해서 계획이 있다고 응답한 비율이 전체의 36%인 것으로 나타났다. 한국으로부터 제품이나 원료를 구매한 적이 있다고 응답한 연변 조선족 자영업자들은 대부분 만족하는 것으로 나타났다. \n 연변조선족 자영업자들은 종업원 채용시 연고채용방식을 선호하며, 이는 「관시」를 종업원 채용시에 중요시함을 알 수 있다. 종업원의 임금은 종업원의 능력을 기준으로 지급한다고 응답한 자영업자가 가장 많았다. \n사업자금의 자금조달방법은 친척 및 가족이나 친구로부터 조달하는 경우가 가장 높게 나타났다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "시몽동의 기술적 대상들에 관한 철학은 발생적이고, 과정적이며, 관계론적이다.\n질료형상설(hylomorphism)을 비판의 시작 지점으로 삼아 그의 개체화 논의를시작한 것은 그의 철학이 향하는 지점을 분명히 보여준다. 분리되고 고정되며, 자기완결적인 존재로서의 개체를 파악하게 된다면 기술적인 대상들의 존재양식에대한 올바른 이해에 도달하지 못할 것이라는 것을 분명히 하고 있다. 시몽동에 의하면 개체 발생의 조건들과 동시에 개체 개념 그 자체도 바뀐다는 것인데, 이는 개체의 특성을 ‘정태적 형상(닫힌 체제)’이 아니라, 매개와 소통의 ‘관계적 기능’에서찾는다는 것을 의미한다. 매클루언의 미디어론 역시 관계론적 미디어 존재론의특성을 잘 보여준다. 미디어는 개별적 존재로서는 아무런 의미가 없고 어떤 미디어 짜임관계(constellation)에 존재하느냐에 따라 개별적 미디어의 특성이 생겨난다는 것이다. 매클루언은 사회 속에 존재하는 하나의 미디어를 자기완결적이고단일성을 지닌 실체로 바라보았다기보다는 지속적인 전개과정을 지닌 하나의 과정적 실체로 파악했다. 사람들이 만들어내는 인공적인 산물들의 그물망, 즉 다른사물들과 제도, 그리고 그것과 관련된 관념 등의 그물망(앙상블) 속에서 그 존재의 성격이 형성되는 것으로 파악했다고 볼 수 있다. 시몽동은 전개체적 상태에서생성된 존재인 개체는 현실화한 잠재성이다. 이 개체는 지속적으로 상전이하며변환한다. “미디어가 메시지이다”는 이런 관계론적 존재론을 잘 표현하고 있다.\n인간–기계 앙상블의 공진화과정이 이전과는 다른 존재론적 관점으로 다가갈 때, 기계와 미디어에 대한 보다 넓은 인식지평을 열어줄 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "상품가치를 상실한 장기저장 개체동결 굴에서 추출한 복합엑스분의 실용화를 목적으로 이를 주소재로 제조한 굴소스의 정미성분과 향기성분을 분석하였다. 굴소스 시작품의 수분함량은 60.6%, 조단백질 8.5%, 염도는 8.3%, 그리고 아미노질소 함량은 539.8mg/100g이었다. 굴소스 시작품의 유리아미노산 총함량은 7,346.9mg/100g, 주요 유리아미노산은 glutamic acid가 3,799.1mg/100g으로taurine, urea, proline, glycine 및 alanine 등의 순으로 함량이 많았으며, IMP도 131.6mg/100g 함유되어 있었다. 굴소스 시작품의 가열향기 성분으로 총 76성분이 동정되었으며, 이들 성분을 group별로 분류하면 benzaldehyde를 위주로 한 aldehyde류 5종, 1-(2-furanyl)-ethanone을 위주로 한ketone류 5종, alkane류 6종, ethyl acetate를 위주로 한 ester류 14종, ethyl alcohol과 6-methylheptanol을 위주로 한 alcohol류 12종, 2-furancarboxyaldehyde와 2-furanmethanol을 위주로 한furan류 4종, d-limonene과 같은 aromatic compound류 3종, 2,4,6-trimethyl pyridine을 위주로 한N-containing compound류 13종, hexadecanoic acid를 위주로 한 acid류 13종 및 miscellaneouscompound류 1종으로 구성되어 있었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "김남조 시에는 시인의 공동체의식을 바탕으로 하는 휴머니즘적 사랑의 상상력이잘 나타난다. 그의 휴머니즘적 사랑은 복잡다단하게 서로가 얽혀 있으나 명확히 드러나는 특징에 따라 임의적으로 다음의 세 가지로 분류할 수 있다. 하나는 신앙과 맞물려서 나타나는 휴머니즘적 사랑, 즉 기독교적 휴머니즘이다. 김남조는 존재적 근원에 대한 사랑을 내포하고 있는 기도 안에 이웃 사랑을 통합시킨다. 그러나 그는 휴머니즘적 사랑을 위하여 절대자에게 순응하지 않고, 기독교의도그마를 부정한다. 이는 그가 기독교적 휴머니즘을 창조적으로 수용하였음을 대변한다. 한편, 김남조는 인간 개체 간의 관계에 초점화하여 휴머니즘적 사랑을 전개하기도 한다. 이를 위해서는 개체 간의 상호성과 그들의 품성의 유사성이 요구된다. 이를 위해 그는 ‘나-너’의 인격적ㆍ상호적 관계를 형성하고, 존재적 유사성을 발견해낸다. 그리고 이를 바탕으로 부지의 개체를 ‘너’로 지정하여 ‘너’의 결핍과 고통의 해소를 추구하는 휴머니즘적 사랑을 실천한다. 종교적 색채가 부재한 김남조의 휴머니즘적 사랑은 사회와 개인들의 불가분의 관계를 인지하면서도 나타난다. 그의 사랑의 대상인 모든 개인은 사회적 인간이기 때문이다. 그렇기에 그는 개인이 마주한 사회의 문제들을 해소하기 위하여 사회적 주체를 다수화하고자 한다. 이러한 목적에 따라 그는 과거와 현재의 사회적 ‘슬픔’을 텍스트화한다. 이것은 사회가 낳은 개인들의 상처를 위로하고, 그러한 상처를 야기한 사회에 대해 숙고하게 만들기 위함이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "Such meta-theatrical dramas as Desire under the Elms and Buried Child principally show the inner confliction of paranoiac delusional disorder and obsession derived from incest, Oedipus complex, and Lacanian imaginary’s mirror stage. Both of these literary works destroy the illusion and fabrication of the American family myth and success dream based on the patriarchal system and Christian logocentric authority. They disclose the political duplicity and distortion of American culture, which has divided the invisible dichotomous border between sexuality genders, reality and simulacre, races, consumer classes, and signifier and signified. These expressionistic, absurd, and hyper-realistic meta-dramas show the paradox, tragicomedy, irony, violence, regression, subversion, sexual perversion, aphasia, and frequent slip of tongue in the recirculing stage of multilevel structures confused with past and present.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "스피노자는 자유를 내적 규정 상태로 정의하고 제약은 외적 규정 상태로 정의한다. 오직 신만이 이러한 의미의 자유를 갖고 있으며, 인간을 포함한 모든 유한한 개체는 외적 규정을 피할 수 없다는 점에서 자유를 결여한 것으로 이해된다. 그러나 스피노자는 인간이 내적으로 규정될 수 있다고 말하기도 하고 무엇보다 우리를 진정한 자유로 안내한다. 우리는 유한한 개체의 자유에 대한 스피노자의 견해가 그의 개체론을 통해 일관되게 해명될 수 있다고 본다. 스피노자가 유한한 개체의 자유를 부정한 이유는 그것들이 근본적으로 관계적이며 따라서 외적 규정에서 벗어날 수 없기 때문이다. 반면 유한한 개체의 내적 규정으로서의 자유를 인정할 수 있었던 것은 유한한 개체의 실존과 작업의 근본 조건인 외적 규정의 경우 내적 규정을 방해하는 것이 아니라 내적 규정이 가능하기 위한 상수로 이해될 수 있기 때문이다. 그러나 유한한 개체의 내적 규정은 단지 원할만한 자유의 필요조건일 뿐 스피노자가 말하는 진정한 자유는 아니다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 로테에 대한 사랑에 빠진 베르터가 비극적 결말에 도달하게 된 이유가 무엇인지 밝히려는 시도이다. 이를 위해 본 논문은 우선 이 소설의 제1부에서는 로테에 관한 모든 정보가 베르터의 눈과 입을 통해서만 독자들에게 전달되고 있음에 주목한다. 로테에 관한 모든 정보가 사랑에 빠진 베르터를 통해서만 전달된다는 사실은, 로테가 자신을 사랑하고 있다고 확신하는 베르터의 생각이 과연 믿을만한 것인지 의문을 갖게 하기 때문이다. 특히 작품의 후반부에서 편집자의 개입을 통해 전달되고 있는 베르터에 대한 로테의 생각을 분석함으로써 앞서 독자들에게 제시된 로테에 대한 베르터의 판단이 옳지 않음을 밝힌다. 이 과정에서 중요한 것은 베르터가 말하는 로테와의 사랑과 그가 주장하는 개인/개체성에 관한 견해를 서로 비교함으로써 그의 사랑 이해와 그 사랑을 수행하는 개인/개체성에 대한 견해가 서로 모순적임을 드러내는 것이다. 또한 개인/개체성에 대한 베르터의 견해와 괴테 견해를 비교함으로써 『젊은 베르터의 슬픔』에 서술되어 있는 베르터의 사랑이해는 괴테의 사랑이해와 동일한 것일 수 없음을 밝히고, 작가가 이 소설을 통해 궁극적으로 드러내고자 하는 사랑은 바디우가 언급했던 ‘둘이 등장하는 하나의 무대’로서의 사랑과 유사한 것임을 확인한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "공간해상도가 높은 드론 영상은 수목 밀도가 높은 지역에서 추출 한계를 갖는 기존 연구의 대안으로 떠오르고 있다. 본 연구에서는 드론 영상으로부터 수목이 우거진 산림 지역 내 수목 개체를 추출하였다. 영상 분할 과정을 거쳐서 추출되는 수목 개체 인식을 위해, DSM(digital surface model), 그리고 R, G, B 밴드 모두를 조합한 경우와 각각을 분리 조합한 경우의 영상 분할 결과를 비교하였다. 또한, 낙엽수림의 수목 우거짐의 변화를 시기별⋅영상별로 실험하였다. 3, 4, 5월 영상 중 숲이 울창한 5월의 경우 현지 측량한 나무를 기준으로 한 수목 개체 추출율은 50%로 나타났고, 수관폭 정확도 분석 결과 RMSE(root mean square error)가 1.5미터 이하로 가장 좋은 결과를 보였다. 실험지역의 추출은 중간 나무, 작은 나무 2가지 크기로 추출하였으며 작은 크기의 나무가 추출 정확도가 더 높았다. 이를 바탕으로 수고 추출을 하고, 수관폭과 흉고직경간의 관계식을 이용하여 흉고직경을 추정한다면, 임목 재적 추정 및 산림바이오매스 추정까지 가능할 것으로 보인다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본고는 중세 국어 한정 보조사의 의미와 기능을 그 분포와 관련하여 설명하는 것을 목적으로 한다. 한정 보조사는 그 작용역에 따라 개체 한정과 사건 한정으로 구별될 수 있으며, 작용역의 차이에 따라 특정 절과의 공기 빈도에서 상당한 차이를 보인다. 이에 따라, 현대 국어와 중세 국어의 한정 보조사 ‘-곳’, ‘-만’, ‘-□’을 살펴보면 다음과 같은 결론을 얻을 수 있다. \n<중세 국어 한정 보조사의 중심적 의미ㆍ기능> [표] <현대 국어 ‘-만’의 의미ㆍ기능> [표] \n 현대 국어 ‘-만’의 의미ㆍ기능이 중세 국어의 그것에 비해 넓어진 것은 사건 한정 보조사 ‘-곳’의 소멸과 ‘뿐’의 보조사로서의 기능이 현대 국어로 오면서 심하게 제한된 것에 기인하는 것으로 보인다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 키워드 기반 통합 검색의 한계를 극복하고자, 인스턴스를 등록하고 관리하는 URI 서버를 이용하여 개체 페이지를 구성하는 방식의 통합 검색 방안을 제안한다. 키워드로 구성된 사용자 질의어와 매칭된 URI 서버 내의 인스턴스를 분석하여 최적 개체를 선정하고 단위 서비스들을 동시에 호출하는 방식으로 개체 페이지를 구성한다. 또한, 논문으로부터 자동 추출된 주제 정보를 대상으로 추론을 수행함으로써 인물, 기관, 위치 등에 대해서도 주제 중심의 심층적 정보 제공이 가능하다. 해외에서 실 서비스되고 있는 Citeseer, Google Scholar와의 통합 검색 결과 비교 실험과 사용성 평가를 통해 본 연구의 효용성을 실증한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "量詞是現代漢語語法的特点之一,陪伴性個體量詞是量詞系統中最具有代表性的一類。近年來,泛化使用陪伴性個體量詞成爲計量新生事物的一重要方 式。同時,陪伴性個體量詞的泛化也在一定程度上現了現代漢語語法語匯系統的內部調整和選擇。本文借討論現代漢語陪伴性個體量詞“位”的泛化現象和原因,來初步探討現代漢語量詞系統發展的趨勢。",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "개체명 인식은 정보 추출의 한 단계로서 정보검색 분야 뿐 아니라 질의응답과 요약 분야에서 매우 유용하게 사용되고 있다. 본 논문에서는 structural Support Vector Machines(structural SVMs) 및 수정된 Pegasos 알고리즘을 이용한 한국어 개체명 인식 시스템에 대하여 기술하고 기존의 Conditional Random Fields(CRFs)를 이용한 시스템과의 성능을 비교한다. 실험결과 structural SVMs과 수정된 Pegasos 알고리즘이 기존의 CRFs 보다 높은 성능을 보였고(신뢰도 99%에서 통계적으로 유의함), structural SVMs과 수정된 Pegasos 알고리즘의 성능은 큰 차이가 없음(통계적으로 유의하지 않음)을 알 수 있었다. 특히 본 논문에서 제안하는 수정된 Pegasos 알고리즘을 이용한 경우 CRFs를 이용한 시스템보다 높은 성능(TV 도메인 F1=85.43, 스포츠 도메인 F1=86.79)을 유지하면서 학습 시간은 4%로 줄일 수 있었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "시가 나오야(志賀直哉)는 시라카바파(白樺派)의 한 사람으로 미술에도 조예가 깊다고 알려진 작가이다. 서양의 사상과 문화의 영향을 받은 일본 근대 젊은이들처럼 시가도 계몽사상의 자유주의적 사고를 가지고 자아와 정신의 자유를 강조하며 기성세대의 권위를 부정하게 된다. 이러한 사고는 문학을 통해서‘자아 중심적 사고’로 표현되었다. 그러나 정신적 불안과 방황의 상황 속에서접한 자연과 고미술은 타자와의 관계를 원만하게 만드는 원동력이 되었고 정신적 불안은 안정을 되찾게 되었다. 여기서 보듯 시가는 다른 사람들이 서양에 주목하였을 때 본인은 동양적 고미술에 관심을 보이게 된다. 자아를 중요하게 여긴 시가 입장에서 근대화하기 위해 군중적 심리를 이용하는 국가에 저항하는 것은 당연하다. 일상적 풍경까지 국가가 지배하며 집단적 문화와 사고에 대한 강압으로 모두가 단편적이고 일률적인 모습을 취해야 한다는 것에 대한 거부이다. 그러므로 시가는 보잘 것 없는 작고 초라한 개체에 주목한다.\n집단적이고 군중적인 풍경이 아니라 개체의 풍경으로 집단에서 벗어난 자유를그리고 있다. 전체의 조화로움 속에서 하나하나의 개체의 존엄성을 소중히 다루고 있다고도 주장할 수 있다.\n시가는 『암야행로(暗夜行路)』 속에서 미술과 풍경 묘사로 자신의 자유주의적 의견을 제시하고 있다. 국가가 제시하는 근대의 풍경이라는 집단적 모습속에서 시가는 조화롭지 않은 풍경을 발견한다. 어울리지 않는 근대화된 풍경과 일본의 자연 풍경에 대해 시가는 자신의 정서적 불안으로 비꼬아 은유한다.\n즉 작품 전반부에 흐르는 자신의 정서적 불안상태와 마찬가지로 지금의 풍경도 불안정적인 모습이라는 것이다. 국가가 관여한 강압적인 근대화의 모습 속에서 희석되어 버리는 일본 풍경은 자아의 상실이라고도 할 수 있다. 그러므로 작품 후반부에 갈등이 해소되는 과정 속에서 시가는 식물과 동물 하나하나에 시선을 집중시킨다. 개체에 집중한다는 것은 자아의 존재감을 나타내는 것이며 개체의 자유를 나타내는 것이라 할 수 있다. 결국 풍경이란 시가가 강압적인 지배에서 벗어나고 싶은 자신의 자유를 표현하는 메타포인 것이다. 그러므로 시가는 작품을 통해 인위적인 풍경이 아니라 자연스러운 풍경 또는 자아가 존재하는 자유로운 풍경을 바라고 있었던 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "웹 3.0 시대의 도래와 IoT(Internet of Things) 기술을 발달에 따라 생산된 정보의 양 역시 기하급수적으로 늘고 있다. 본 논문에서는 이 중에서 사용자의 관심도가 높은 개체명(NE: Named Entity) 사전을반자동으로 구축하는 도구를 개발하였다. 제안된 방법은 초기 학습 모델을 통해 인식된 결과로부터 오류후보를 자동으로 생성하고 사용자로부터 최소한의 보정 작업을 수행하여 이를 재학습한다, 특히 공개지식자원인 위키피디아 내의 다양한 메타데이터의 특성을 활용하여 능동 학습에 필요한 학습 예제 작성을위한 수작업을 최소화하고자 한다. 도구 활용 효과를 분석한 결과, 능동 학습을 통해 자동 인식 결과의오류의 약 68.6%가 보정됨을 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "젊은 시절 캉길렘은 ‘단일성(unité)’의 문제를 중요한 철학적 문제로 간주했다. ‘기술과 과학의 관계’ 문제는 이 단일성의 문제의 한 가지 양상이었다. 콩트는 환원을 통해 인간의 여러 활동 사이의 단일성을 확보하고자 했다. 이에 반발하여 캉길렘은 위계의 도입에 의한 조화를 통해 단일성을 이룩하길 제안했다. 이 제안은 위계를 결정할 기준에 대한 질문을 야기한다. 캉길렘은 이 지점에서 ‘생(vie)’을 거론했다. 생에 입각하여 기술과 과학을 고찰하면 기술이 생에 대해 갖는 우위가 드러난다. 기술적 활동은 생의 창조하려는 충동에 직접적으로 맞닿아 있다. 과학적 성찰은 이렇게 착수된 행위의 실패로부터 등장한다. 이러한 점에서 기술은 과학에 대해 선행성을 갖는다. 그러나 이 선행성은 항구적인 우위의 징표는 아니다. 과학과 기술은 문제를 야기하는 입장과 해결책을 제시하는 입장을 번갈아 취한다. 따라서 이 두 활동 사이의 위계를 결정할 기준에 대한 질문이 재차 제기된다. 이 질문에 대한 답은 캉길렘이 제시한 기술로서의 의학의 의미와 의학의 과학적 측면에 대한 서술에서 찾을 수 있다. 의학은 ‘있는 것’과 ‘바라진 것’의 간극을 창조로 매우려는 생의 즉각적 충동에서 비롯되었다는 점에서 기술이다. 이 충동이 겪을 시행착오에 대한 우려에서 인간은 기술인 의학을 여러 과학의 교차점에 위치시켰다. 이 조치는 충동에 상반되는 신중함에서 기인했음에도 건강을 도모하는 생의 기획을 저해하지 않는다. 따라서 의학은 생의 노력의 인간적 연장이다. 기술과 과학은 개체의 치유라는 하나의 목적 아래에서 결합된다. 여기에 캉길렘이 의학에서 포착한, 젊은 시절부터 천착해 온 단일성의 문제에 대한 답이 담겨있다. 환원되지 않는 다양한 기능, 논리, 활동들 사이의 역동적 조화로서의 단일성은 사유의 중심에 구체적 개체를 둘 때 확보될 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "겨울철 조류 동시 센서스 자료(1999년-2012년)를 이용하여 한국에서 월동하는 오리류 16종의 개체군 경향을 분석하였다. 지난 14년간 청둥오리(Anas platyrhynchos), 흰뺨검둥오리(A. poecilorhyncha),고방오리(A. acuta), 쇠오리(A. crecca), 홍머리오리(A. penelope), 알락오리(A. strepera), 원앙(Aix galericulata), 흰죽지(Aythya ferina), 흰비오리(Mergellus albellus) 9종은 개체군 감소경향을 나타냈다. 반면 청머리오리(A. falcata), 넓적부리(A. clypeata), 댕기흰죽지(A. fuligula), 흰뺨오리(Bucephala clangula), 바다비오리(Mergus serrator), 비오리(M. merganser) 6종은 증가경향으로 평가되었으며,검은머리흰죽지(A. marila)는 불확실한 경향을 나타냈다. 감소경향을 보인 종의 대부분이 수면성오리류로 이들은 초식성으로 농경지 의존이 매우 높았다. 반면, 증가경향을 보인 종들의 대부분이잠수성오리류로 농경지 보다는 하천, 하구, 해안 지역을 선호하는 종이었다. 각 종의 개체군 증가및 감소경향은 서식지유형에 따라 다르게 나타났다. 개체군 감소경향이 가장 큰 청둥오리를 비롯하여, 흰뺨검둥오리, 고방오리, 쇠오리, 홍머리오리는 간척지호수에서 현저한 감소경향을 보였다.\n알락오리는 하구역과 하천에서 주로 감소하였으며, 원앙은 해안지역의 개체군 감소가 뚜렷하였다.\n한편 개체군 증가경향을 보인 청머리오리는 주로 하구역과 하천에서 증가하였고, 넓적부리는 저수지와 하천지역에서 증가하였다. 잠수성오리류 중에서 감소경향을 보인 흰죽지는 하천과 해안지역에서 감소가 가장 심하였으며, 흰비오리는 간척지호수에서 감소경향이 컸다. 반면 개체군이 증가한 것으로 평가된 댕기흰죽지는 하천과 저수지에서, 흰뺨오리는 간척지호수와 하구역에서 각각 증가하였다. 바다비오리와 비오리는 두 종 모두 해안과 하구역에서 증가경향이 있었으며, 비오리의경우 하천지역에서도 증가경향이 나타났다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구의 목적은 명사화된 절(nominalized clause)의 대표적인 유형인 ‘것’ 구문에 대해 범언어적인 관점의 문법 단위들인 내핵 관계절, 핵없는 관계절 등 관계절 부류와의 연관성과 변별성을 고찰하고 한국어 명사화된 절을 명사구로 보아야 하는지 아니면 보절로 보아야 하는지도 논의하여 궁극적으로 국어 명사화된 절의 범언어적인 정체성을 제시하는 것이다.\n첫째 본 논의에서는 관형사절과 명사절이 명사화된 절(nominalized clause)이라는 포괄적인 단위로 언어보편적인 관점에서 논의되고 있음을 보였고 국어에서도 다양한 내부 구조를 가진 절들을 명사화된 절로 포괄할 수 있음을 제시하였다. 특히 핵없는 관계절 및 내핵 관계절의 경우, 일반 ‘관형사절+것’ 구성 관점에서 분석하기보다는 ‘명사화된 절’ 관점에서 분석하는 것이 더 설명적이라는 점도 주장하였다.\n둘째 주지하다시피 다양한 절들은 ‘사건(event)’, ‘개체(entity)’를 나타내는 중의성을 보인다. 그러나 ‘개체’를 나타내는 경우도 결국 사건과 관련한 ‘개체’를 나타낸다는 것을 고찰하였고 따라서 관형사절로서 피수식어를 제한한다는 관점보다는 ‘명사화’ 관점에서 ‘명사화된 절’로 보아야 그 중의성을 적절하게 설명할 수 있다고 주장하였다. 또한 중의성에 대해 살펴보면서 국어 명사화된 절의 부류에서는 ‘-음, -기’ 명사절이 아니라 ‘것’ 구문이 대표형이라는 점도 재확인하였다.\n셋째, Dryer(1985/2007), Dixon(2006), Noonan(1985/2007) 등을 토대로 이질적인 내부 구조를 가진 국어 명사화된 절의 경우 보절보다는 명사구로 포괄될 수 있음을 제시하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This paper examines the humanness restriction on specificational Pseudo-clefts where the pseudo-cleft clause in subject position is followed by the post-copular, clefted constituent denoting a person. We will first note that the verbs within the pseudo-cleft clause at issue are restricted to what Moltmann (2013) calls ‘verbs describing (visual, tactile, or auditory) perception’ or what Akmajian (1970) calls ‘verbs which take as subjects (or objects) either abstract nouns or human nouns.’ Since like the subject of specificational copular sentences it is substituted for by it or that, but not by he nor by she, the pseudo- cleft clause is essentially construed not as a person but as a thing. The copula is required to be present in this construction and has the role of equating/identifying the open variable provided by the pseudo- cleft clause-internal gap with the referent of the post-copular, clefted constituent. However, the pseudo-cleft clause connected to the post- copular, clefted AP/VP constituent is not entity-but property-denoting, thus being resistant to its substitution by entity-denoting pronominals such as it and that.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "Kim Na-Hyeon, 2021. The polysemy of Proper Names-Focusing on Organization, Company, and Place-. Korean Semantics, 74. The objective of this study is to present the distinction standard by examining the category of proper nouns with polysemy. Contrary to the researches on the polysemy of common nouns that have been relatively discussed a lot, this thesis discussed the polysemy of proper nouns. By limiting the subjects to ‘institution, company, and place’ out of proper nouns with polysemy, this study discussed the semantic category of each of them, and then presented the semantic distinction standard of proper nouns with polysemy. The meanings of proper nouns with polysemy could be easily distinguished through contexts or appropriate predicate. In case when there is no context or predicate, however, it is not sometimes possible to choose a meaning out of many meanings. Thus, this thesis presented the semantic distinction standard of proper nouns with polysemy. This study argued that it should be distinguished through context or appropriate predicate. In case when it is not possible to be distinguished, the priority should be applied to the overall meaning that could include the partial meaning of proper noun. This study could be helpful for establishing the foothold for constructing precise data, and also to be helpful for the clear analysis of entity name.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "도시화, 농경지 확장, 기후변화 등 인간 활동은 서식지 단편화를 가속화하며, 이는 멧돼지(Sus scrofa)와같은 광역 이동종의 공간적 이동 경로를 제한하고 개체군 간 연결성을 약화시켜 생태계 안정성을 위협한다. 특히 멧돼지는 뛰어난 환경 적응력과 높은 번식력을 바탕으로 농경지, 도시 외곽 등 인간 활동 지역으로 이동할 가능성이 높으며, 이는 아프리카돼지열병(ASF)과 같은 인수공통감염병의 확산 위험을 증가시키는 요인으로 작용할 수 있다. 본 연구는 멧돼지의 생태적·행동학적 특성과 공간 이용 특성을 통합한 밀도 기반 시뮬레이션 모델을구축하여, 개체군 동태와 자원 이용 간의 공간적 상호작용을 분석하고자 하였다. 시뮬레이션 결과, 시간 경과에따라 개체군은 먹이 자원이 집중된 지역으로 군집을 이루었고, 이로 인해 특정 지역에서 자원의 급격한 고갈과밀도 집중 현상이 나타났다. 또한 개체들은 자원 밀도에 따라 공간을 선택적으로 이용하며, 먹이가 고갈된 지역은 회피하는 경향을 보였다. 특히 개체 밀도가 높은 지역은 병원체의 유지 및 전파가 용이한 공간으로 작용할 수있어, 본 연구 결과는 ASF와 같은 인수공통감염병의 확산 위험 지역 예측 및 생태적 복원 대상지 우선순위 설정에 활용될 수 있는 기초자료로서의 가능성을 제시한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "양사는 현대중국어어법 특징 가운데 하나이며 동반성 개체양사는 양사 계통 가운데 가장 대표적인 종류이다. 근래 동반성개체양사의 범용현상은 새로운 사물을 계량하는 하나의 중요한 방식이 되었다. 아울러 이러한 현상은 어떤 면에서는 현대중국어어법 어휘계통의 내부적 조정과 선택임을 나타내주고 있다. 본문은 현대중국어의 동반성개체양사인 “個”의 범용현상과 그 원인에 대한 논의를 통하여 현대중국어 양사계통의 발전 추세를 초보적으로 탐색해보았다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "XML이 웹 상에서 문서 교환의 표준으로 자리잡고 있으며 그 수요가 나날이 증가하고 있다. 그에 따라 XML 데이터나 문서 구조를 모델링하는 XML Schema(W3C XML Schema Spec) 또한 수요가 증가하고 있다. 그러나 XML Schema는 다양한 자료형과 풍부한 표현력을 제공하지만 그 복잡성으로 인해 모델링하기가 어려운 단점이 있다. 본 논문에서는 관계형 데이터베이스 설계의 기본적인 도구인 개체-관계 모델을 이용하여 XML Schema를 간단하게 생성하는 방법을 제시한다. 개체-관계 모델과 변환될 XML Schema의 구조는 서로 일대일로 매핑되지 않아 직접 변환할 수는 없다. 그래서 몇 가지 알고리즘을 이용하여 개체-관계 모델을 계층적 구조모델로 변환을 한다. 이렇게 변환된 계층적 구조 모델을 이용하여 최종적으로 XML Schema를 생성한다. 기존의 XML Schema 생성 방법은 개체 간의 속성이 상위 혹은 하위로 이동하면서 최초 설계시의 개체가 사라지므로 XML Schema의 중요한 특성인 재사용성을 이용할 수 없다는 단점을 가진다. 여기서 제시한 알고리즘은 XML Schema의 중요한 특성들인 재사용성, 전역 및 지역 기능 등을 가진 문서를 생성한다는 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "北宋 词人 贺铸는 탁월한 재능으로 豪放한 风格과 婉约 풍격의 词作을 창작했을 뿐만 아니라 두 풍격이 어우러지는 兼类词(第三種词)를 창작하는 등 다양한 풍격의 詞作을 창작하였다. 이 같은 하주의 여러 詞體 겸비는 詞體 변천과정에서 중요한 부분 중의 하나로 볼 수 있다. 그의 婉弱詞는 부드럽고 화려하며, 곱고 아름다운 情感을 표현하여, 詞 본연의 전통적인 藝術精神을 엄격하게 따랐다고 볼 수 있다. 반면에 그의 豪放詞는 雄壯하고 호매하면서 沈鬱悲壯하여 오히려 詞 본연의 예술정신과 충돌하여 일종의 굳세고 강한 색채를 표현했는데, 이러한 표현을 통하여 나약한 精氣를 일으켜 세우고 당시의 특수한 時代精神과 작자 고유의 個人意識을 구현하였다. 婉弱風格과 豪放風格의 兩種詞 이외에 두 풍격이 융합되어 어우러지는 兼类词는 아름답고 부드러운 중에 그윽하고 깊이가 있으며 강하고 힘이 있는 필치로 詞의 傳統精神을 구현함과 동시에 웅장하고 호매한 특징을 자연스럽게 표현함으로서 사의 본질적인 특징과 복잡하게 얽혀있는 시대정신 및 개인의식이 한데 잘 어우러지도록 하였다. \n이러한 하주의 詞作을 통하여 우리는 詞의 전통예술정신과 시대정신 및 작자 개인의식의 충돌과 조화에 대해 명확하게 느낄 수 있는데, 직접적으로 詞의 본질적 특징을 구현한 詞作은 아름답고 부드러운 婉弱詞이고, 전통예술정신과 충돌이 발생하는 詞作은 호기 충천한 豪放詞이며, 전통예술정신과 자연스럽게 어우러지는 詞作은 강함과 부드러움을 겸비한 兼类词임을 알 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "애반딧불이의 유충상륙은 약 5.3일이 소요되었고 고치방을 만든 후 약 6.6일에 번데기로 변태하였\n다. 고치방의 크기는 길이 10.1 mm, 폭 4.7 mm, 벽두께 1.3 mm이었다. 번데기는 약 10.5일이 소요되었다.\n성충이 되고 고치방 속에 약 6.8일 후에 출현하였다. 성충의 출현은 PM. 9시를 전후로 최대였고 PM.\n10시에 감소하였다. 성충출현의 최적지온은 23.4℃였다. 실내개체군(Lab-type)의 암컷 및 수컷과 야외개체\n군(Nat-type)의 수컷은 수명이 비슷하였고, Nat-type의 산란 수는 200~400립 구간을 형성하였다. 단지,\nNat-type의 암컷은 수명이 짧았으며, 산란 횟수와 산란 수는 적었다. 산란횟수에서 야외개체군은 2회와\n실내개체군은 4회로 차이를 보이는 것은 야외개체군은 시료 채집 이전에 산란했을 가능성을 배제할\n수 없다",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 1990년대 전반기(1989년 5월～1993년 4월)의 자료와 2000년대 중반기(2002년 5월～2006년 4월)의 자료를 분석하여 낙동강 하구에서 수면성 오리류(Dabbling Ducks; Anas spp.)의 장기적 도래 현황을 파악하고자 하였다. 조사기간(1989년5월～1993년4월, 2002년5월～2006년4월, 총 8차년도)에 관찰된 수면성오리류 중 청둥오리속(Anas spp.)은 총 11종 356,100개체이었다. 1990년대 전반기(1989년～1993년)와 2000년대 중반기(2002년～2006년)까지 조사한 청둥오리속(Anas spp.)들의 개체수의 월평균 값은 1990년대 전반기에는 10월부터 점진적으로 개체수가 늘어나 11월에 가장 많은 개체수를 관찰할 수 있었으며, 2000년대 중반기에는 10월에 가장 많은 개체수를 관찰하였다. 또한 월별 개체수 평균도 1990년대보다 2000년대가 약 2, 3배 이상을 나타내었다. 1990년대 전반기 조사와 2000년대 중반기 조사 결과를 T-검정을 실시한 결과 11월부터 2월까지의 것이 5% 수준에서 유의한 것으로 나타나 11월부터 2월까지의 개체수들은 큰 차이가 있는 것으로 나타났다. 채식지와 휴식지가 다른 오리류는 낙동강 하구를 휴식지로 낙동강 상류를 채식지로 하는 조류로서, 채식지와 휴식지가 분리된 충분한 공간이 형성되어야만 다양하고 많은 개체들이 월동에 필요한 충분한 기간을 가질 수 있으므로 경작지의 보존이 무엇보다 중요한 실정이다. 낙동강 하구와 인접해 있는 주변의 논과 밭은 오리류의 서식지로 이용되는 공간이므로 경작지에 대한 철저한 관리와 부산광역시 강서구청에서 시행하고 있는 생물다양성관리계약제도를 확대하여 이러한 농지가 지속적으로 보존되어야 할 것으로 판단된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "대용량 문서에서 정보를 추출하는 작업은 정보검색 분야뿐 아니라 질의응답과 요약 분야에서 매우 유용하다. 정보추출은 비정형 데이터로부터 정형화된 정보를 자동으로 추출하는 작업으로서 개체명 인식, 전문용어 인식, 대용어 참조해소, 관계 추출 작업 등으로 구성된다. 이들 각각의 기술들은 지금까지 독립적으로 연구되어왔기 때문에, 구조적으로 상이한 입출력 방식을 가지며, 하부모듈인 언어처리 엔진들은 특성에 따라 개발 환경이 매우 다양하여 통합 활용이 어렵다. 과학기술문헌의 경우 개체명과 전문용어가 혼재되어 있는 형태로 구성된 문서가 많으므로, 기존의 연구결과를 이용하여 접근한다면 결과물 통합과정의 불편함과 처리속도에 많은 제약이 따른다. 본 연구에서는 과학기술문헌을 분석하여 개체명과 전문용어를 통합 추출할 수 있는 기반 프레임워크를 개발한다. 이를 위하여, 문장자동분리, 품사태깅, 기저구인식 등과 같은 기반 언어 분석 모듈은 물론 이를 활용한 개체명 인식기, 전문용어 인식기를 개발하고 이들을 하나의 플랫폼으로 통합한 과학기술 핵심개체 인식 체계를 제안한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "조류 개체군의 소리 표출량은 번식 행동과 밀접한 관련이 있으며, 번식 주기, 일주기, 지역 환경의 특징에 따라 다르게 나타난다. 본 연구에서는 2018년 번식기 동안 탁란으로 인해 번식 주기가 단순한 두견이속 4종과 매사촌속 1종의 소리를 수집하여 3개 지역(덕유산, 속리산, 치악산)에 걸쳐 나타나는 개체군 각각의 소리 표출량을 조사하였다. 5종의 두견이아과 조류는 번식기 초반에 소리활동이 활발했다가 이후 여러 번의 피크를 반복하며 줄어드는, 상당한 계절적 증감 추이를 보였다. 하루 중에는 이른 오전과 늦은 오후 시간대 밀집도를 보여주었다. 매사촌은 야간에 주간보다 더 활발한 소리활동을 하였으며, 다른 종에서도 야간 소리활동이 관찰되었지만 활발하지는 않았다. 종마다 서로 다른 야간 기록의 차이는 서식지의 물리적 특성과 종간 경쟁에 의한 결과일 것으로 사료된다. 이러한 연구 결과는 탁란조류에서 개체군 수준의 소리활동이 번식주기 외에 다양한 요인들에 의해 영향을 받는다는 것을 보여주며, 향후 이에 대한 연구가 필요한 것으로 판단된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본고는 1980년대와 1990년대 무렵에 한국을 찾아 수년 혹은 수개월에 걸쳐 체류한 이양지, 사기사와 메구무, 쓰카 고헤이의 조국체험을 고찰하고 있다. 재일코리안 작가에게 ‘조국’은 실재하지 않을 수도 있으나, 그들은 제각각 다른 시기와 다른 처지에서 조국을 체험하면서 ‘조국’을 자기 자신 안에 내면화시켰다. 이양지에게 조국은 정체성을 구현하는 공간이었으나, 결국 ‘개체(個)로서의 자기 자신’을 발견하는 통로로 받아들였다. 그러나 이양지는 조국을 체험하면서 ‘민족’이나 ‘국가’ 단위의 범주를 넘어서는 지점으로까지는 나가지를 못했다. 사기사와 메구무는 한국에 머물면서 한국이 안고 있는 ‘사정’을 직시했다. 조국에서 국가나 민족이라는 범주 안으로 포섭될 수 없는 ‘교포’의 위치를 확보했다. 이로써 그의 국가 관념은 조국 건너편으로 밀려났다. 쓰카 고헤이는 조국을 추상화된 개념 ‘여인의 아름다움’으로 비유했다. 스스로 일본과 한국의 중간지대에 자기를 위치시키고 조국을 자기 해방의 의지처로 삼았다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "Jeju Eoseungsaeng lake which is a main water resource of Eoseungsaeng water treatment plant(Q=15,000 m3/d) experienced high chromaticity(40 CU) and pH(9.46) in 2013. This could decline customer's confidence on drinking water quality unless proper identification and removal of chromaticity were implemented. To find cause of chromaticity, water monitoring on various water parameters including TOC, algal cell count, Chl-a, turbidity, SS, conductivity, etc. were implemented. Iron and manganese were excluded from the cause of chromaticity due to its low concentration (i.e., < 0.02 mg/L). Correlation among water parameters showed that relationship between algal cell count and chromaticity was the highest(R=0.43), which suggested that presumably the main reason of chromaticity occurrence in Jeju Eoseungsaeng lake was algae.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구의 목적은 염소의 개체식별에 있어서 효율적인 microsatellite (MS) marker set를 확립하는데있다. 염소 10집단 455두를 대상으로 국제식량농업기구(FAO) 권고 및 미국 국립생물정보센터(NCBI)에서수집한 30개 MS 마커에 대한 유전정보량을 확인한 후 대립유전자형 크기, 형광표지 종류, PCR 조건 등을 고려하여 7개의 MS 마커(SRCRSP1, SRCRSP8, OarFCB048, OarFCB193, BOBT24, INRA063,DRBP1)를 선정하였다. 또한 분석 효율성을 극대화하기 위해 7개 마커에 대해서 multiplex PCR 기법을적용하였다. 분석된 7개 MS 좌위에서 총 80개의 대립유전자형이 관찰되었고, 기대이형접합도(HExp) 및다형정보지수(PIC)의 평균치는 0.710 및 0.674로 산출되었다. 7개 좌위의 다형성을 기반으로 무작위 교배집단, 반형매 교배집단 그리고 전형매 교배집단으로 가정하였을 때의 동일개체 출현확률은 각각2.42×10-11, 1.70×10-8 및 2.22×10-4으로 산출되었다. 이상의 결과는 국내에서 사육되고 있는 염소의개체수를 고려할 경우 동일개체 출현 가능성이 없는 것으로 판단된다. 따라서 본 연구에 의해서 구축된염소 개체식별 마커 세트 및 분석방법은 우리나라 염소의 개량 및 안전유통에 유용하게 활용될 수 있을것으로 사료된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The ability to perceive, share and understand others’ emotional states plays a pivotal role in interpersonal relationship. Empathy in humans is built on basic mechanisms related to affective sharing, parental care, and attachment. Since empathy has deep neurobiological underpinnings, its developmental perspectives are better understood with reference to a neuroevolutionary perspective. In this paper, therefore, we overviewed empathy within a neuroevolutionary framework including phylogeny, ontogeny, and neurobiology. First, we defined empathy and explained the differences of its meaning from its related terms such as mimicry, emotional contagion, sympathy, or compassion. Next, we provided the evidence of empathy in mammals and addressed how empathy has evolved in the context of parental care in them. Then, we discussed how empathy develops from infancy to adulthood in human, and examined the relationship between it and attachment. Finally, we reviewed neuroimaging studies associated with empathy and elucidated its modulating factors such as context, interpersonal relationship, and personal characteristic. Considering empathy in a neuroevolutionary perspective will warrant a better and wider understanding of empathy.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 연구는 FRBR과 FRAD 모형, ICP, RDA, NCR 개정안의 분석 결과를 토대로 KCR4 개정판의 구성 방안을 다음과같이 제시하였다. 1) 개체는 저작, 표현 형, 구현 형, 개별 자료, 개인 , 가족 , 단체 , 개념 , 대상 , 사건 , 장소 로 구분한다.\n2) 규칙 전체는 ‘속성’과 ‘관계’로 대별하며 ‘속성’은 다시 속성 기술과 접근점 구축으로 구분한다. 3) 속성 기술은 1집단개체는 저작, ,표현형 ,구현형 개별자료의 순으로, 2집단 개체는 개인, 가족, 단체의 순으로 배열한다. 4) 접근점 구축은저작과 표현형의 접근점 구축, 개인 , 가족 , 단체 의 접근점 구축 순으로 배열한다. 5) ‘관계’는 저작, 표현형 , 구현형 , 개별자료 간의 기타 관계와 개인, 가족 , 단체 간의 관계에 대한 규칙을 둔다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "멸종위기 야생생물 양비둘기(Columba rupestris)의 국내 개체군은 지속적으로 감소하는 경향을 보이고 있으나, 최근 신규 서식지인 연천 개체군이 추가로 확인되었다. 본 연구는 연천 양비둘기 개체군의 국내외 집단 간 유전적 특성과 집단 내 잡종화를 추정하기 위해 실시되었다. 유전적 거리 분석 결과, 연천 개체군은 러시아보다 몽골 개체군과 유전적 거리가 비교적 가까웠으며, 국내 개체군과는 구례, 의령, 고흥 개체군 순으로 가까운 것으로 확인되었다. 기 개발 양비둘기×집비둘기 잡종 판별 InDel 마커 8개로 테스트를 한 결과, 5개체 중 4개체는 양비둘기로 확인되었고, 1개체는 잡종화의 영향이 있었던 것으로 확인되었다. 연천 개체군은 몽골 개체군과의 유전자 교류가 추정되며, 구례 개체군과 가장 유전적 거리가 가까워 구례군으로부터 유입되었을 가능성이 있으며 일부 잡종이 의심되지만 추가적인 샘플 확보를 통해 국내 양비둘기 집단유전학적 특성을 규명할 필요성이 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "헤르더는 당대의 지배적인 계몽주의 철학과 그 역사관에 반대하며, 고유한 역사철학을 전개해나간다. 특히 그는 볼테르의 보편적인 역사관과 일직선적인 역사진보를 비판했으며, 나아가 칸트의 역사인식에 제동을 가한다. 헤르더는 계몽주의자들처럼 보편적인단 하나의 척도로 각 민족이나 시대를 재단해서는 안 된다고 주장한다. 그래서 헤르더는 제 민족이나 시대의 개별성을 강조하며, 그 나름의 가치관을 존중해야 한다고 피력한다. 또한 계몽주의자들이 암흑의 세계라고 규정하며, 역사 발전의 단계에 걸림돌이라고 평가했던 중세도 인류의 역사발전에 중요한 한 단계라고 평가했다. 헤르더는 자신의개체성 개념이 가장 잘 나타나는 것이 민족이라고 보았다. 그는 이러한 제 민족들의 집합체인 인류가 발전하려면, 교육이 필요하며 이 교육의 내용이 바로 인간성이라고 보았다. 즉 인류의 발전과정은 이러한 인간성을 심화하는 과정이라고 보았다. 따라서 인간성은 인류의 역사발전의 목적지로 나타난다. 국내의 선행연구는 헤르더의 개체성, 민족, 진보관, 교육, 휴머니즘 등의 역사철학적 개념들을 따로 분리하여 다루었기 때문에, 이러한 개념들이 유기적인 상호관계에 놓여 있음을 밝혀주지 못했다. 본고는 선행연구에서 다루어진 헤르더의 개념들이 하나의 종합적이고 유기적인 관계에 놓여있음을 밝히고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구목적은 전남지역 35개 지역의 옥수수와 콩 밭을 대상으로 멀칭 종류별 잡초 발생 분포와 동일 초종내에 개체간 생장 차이 정도와 중요도 값에 기초한 잡초 우점도와 관련성을 알아보는데 있다. 6월과 8월에 옥수수 재배지에 발생한 초종은 각각 27종과 21종이었고, 8월에 비해 6월에 피도가 높았다. 6월, 8월 및 9월에 콩 재배지에 발생한 초종은 각각 28, 33, 및 31종이었고, 6월에 비해 8월과 9월에 피도가 높았다. 옥수수와 콩 재배지에서 조사시기와 작물별로 상위 우점 6종의 순위는 다소 차이가 있으나 초종은 유사하였다. 옥수수와 콩 재배지의 전 조사시기에 공통적으로 발생한 상위10초종의 우점 순위는 바랭이>깨풀>한련초>명아주>개비름>어저귀>방동사니>돌피>미국가막사리>석류풀 순이었다. 옥수수 재배지에서 멀칭 종류별 잡초 발생수는 유사하였다. 그러나 6월, 8월 및 9월 콩재배지에서 잡초 발생수는 무멀칭과 흑색비닐멀칭에서 각각 28종과 12종, 28종과 18종 및 31종과 20종으로 차이를 보였다. 옥수수와 콩 재배지에서멀칭 종류별 상위 우점 10초종의 순위는 다르나, 초종은 유사하였다. 옥수수와 콩 재배지에서 동일 초종내에 개체간 생장 차이는 8월과 9월에 비해 6월에서 컸다. 또한 옥수수와 콩 재배지에서 동일 초종내 개체 간 생장 차이가 큰 잡초종 순위와 중요도 값에 의한 우점 순위는 차이가 있으나, 일반적으로 주요 우점 초종의 종류는 유사하였다. 따라서 동일 잡초중 개체간에 생장 차이가 큰 초종들이 기후변화와 같은 요인들에 의해 우점 잡초로 될 가능성이 큰 것으로 사료된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본고는 스피노자의 『윤리학』에 나타난 영원성 개념과 그것의 철학적 함축에 대해서 논하고자 한다. 『윤리학』 1부의 영원성에 대한 정의에 따르면, 영원성은 필연적 실존을 뜻한다. 신만이 아니라 유한한 개체도 이러한 의미에서 실존한다고 일컬어질 수 있다. 실존은 두 가지 의미를 갖는데, 그것은 지속의 측면에서 이해될 수도 있고, 비시간적 측면에서도 이해될 수 있다. 후자의 실존은 신의 본질에 논리적으로 함축된다. 이러한 의미에서 개체도 영원하다고 말해질 수 있다. 『윤리학』 5부는 이러한 존재론적 영원성 개념에서 출발하지만 그러한 영원성에 대한 인식까지 다루고 있다. 이러한 구도는 스피노자의 윤리적 기획과 연관이 있다. 자신의 영원성에 인식은 우리의 개별 본질을 능동적으로 실현하는 것이기 때문이다. 스피노자의 철학에서 구원은 개체성의 초월이 아니라, 개체성에 기초한다. 현자는 지속 속에서 영원한 자기를 인식함으로써 스스로가 신의 한 부분임을 적합하게 의식하고, 그러한 자기에 대한 만족을 획득한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 분비나무의 수고 특성에 따른 개체군 동태 분석이 가능한지 알아보고자 수행되었다. 이는 기존 수령 및 흉고직경에 기반한 개체군 동태 분석이 고지대의 척박한 환경에서 더디게 생장하는 분비나무 특성을 반영하기 어렵다고 판단하였기 때문이다. 이를 위해 분비나무군락이 대표적으로 분포하고 있는 설악산, 오대산, 태백산국립공원 을 대상으로 분비나무 수령과 흉고직경급 분포에 따른 개체군 동태 분석의 한계를 검증하고, 수고 생장 특성을 조사하여 수고에 기반한 수직적 구조를 통한 개체군 동태 파악이 가능한지 종합 분석하였다. 연구 결과, 분비나무 개체군 동태 파악에 있어 수령 분포는 모든 수목에 대한 실질적인 시료 채취의 어려움과 더불어 동일한 임분 내에서도 광조건 등에 따라 수령 분포가 다양하게 나타나기 때문에 한계가 있었다. 또한 흉고직경급 분포는 치수 단계에서 세분화 된 구분이 어려워 피음 조건에서 치수 단계로 오래 머무르다 광 조건이 적합해지면 급격히 생장하는 분비나무 특성을 반영하기 어려웠다. 반면, 분비나무 수고 특성을 종합 분석한 결과, 전나무속 개체군 동태 특성에 해당하는 밀도가 높고 유사한 수고 단계에서의 주된 수목 고사, 하층에서의 U자형 개체군 동태 등을 충분히 반영하는 것으로 나타났다. 또한 피음 조건에서 하층 분비나무 개체의 연간 수고 생장량이 커지는 전환점이 되는 수고값을 확인할 수 있었으며, 해당 수고에서야 분비나무 개체가 다른 관목 및 초본의 피압으로부터 벗어나 진계 생장이 본격적으로 일어나게 됨을 알 수 있었다. 따라서 본 연구를 통해 고지대 분비나무의 개체군 동태를 이해하는데 있어 수고를 통한 수직적 구조가 활용될 수 있음을 확인할 수 있었고, 향후 현장에서도 수고 특성에 기반하여 직관적으로 분비나무군락의 유지 여부 등을 파악할 수 있을 것으로 예상된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "양비둘기(Columba rupestris)는 국제적으로 관심대상종(LC; Least Concern)이나, 국내에서는 160여 개체만이 야생에서 서식하고 있는 것으로 나타나, 2017년 환경부 멸종위기 야생생물 II급 지정 후 2018년 우선복원대상종으로 선정되어 증식·복원 사업이 추진 중이다. 본 연구는 5년간의 증식 양비둘기 개체정보, 번식정보 및 혈연관계를 정보화하고, 야생-증식 개체군 통계, 유전자 다양성 및 가계도 분석이 가능한 PMx 프로그램을 이용하여 양비둘기 증식개체군 건강성 평가를 진행하였다. 결과적으로, 개체군 크기 성장지수는 완만한 증가추세를 보였으나, 지속적인 야생 개체의 도입에도 불구하고, 연령별 성비 불균형, 짧은 번식가능 연령 등 번식 개체군에서 부정적 현상이 관찰되었다. 본 연구 결과를 통하여, 지역적 절멸 위기의 양비둘기 야생개체군 보충·강화를 위한 향후 국내 양비둘기 증식개체군 관리와 번식프로그램 개선 방안에 대해 고찰하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "최근 환경 문제와 탄소 중립화에 대한 필요성이 증대함에 따라, 산림 관리의 패러다임이 면적 기반에서 개체목 기반으로 전환되는 과도기에 있다. 전통적으로 사용되는 면적 기반(area based approach, ABA) 조사 방법은 표본지를 대상으로 수행하여 전수 범위에서의 적용이 어려우며, 관측값의 신뢰성이 저하되는 단점이 있다. 본 연구에서는 이와 같은 단점을 보완하기 위하여 치악산 국립공원 부곡지구 내 임상별 실험지구를 대상으로 전수 범위 적용이 가능한 ALS(airborne laser scanning) 기반의 최적 수목개체추출(individual tree detection, ITD) 알고리즘 및 매개변수를 결정하였다. 또한 표본지 매목조사 방식의 단점을 보완하기 위해 TLS(terrestrial laser scanning)와 DLS(drone laser scanning) 데이터를 융합·활용하여 라이다 기술 기반의 현장 매목조사의 개선방안을 제시하였다. 본 연구의 성과는 라이다 기술을 활용한 산림자원조사에서 임상별 개체목 단위 신뢰성 있는 데이터를 생성하고 이를 활용하여 산림자원관리 디지털트윈을 구축하는 데 기여 할 수 있을 것으로 판단된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This paper aims to examine the semantic interpretation of the sentences with aspectual meaning in Korean. The Korean sentences with aspectual meaning include the following types of sentence: the aspectual verb construction with an event argument, the aspectual one with an individual argument, the action verb construction with an event argument, and the action one with an individual argument. As for the aspectual meaning, the aspectual verb with an event argument has a very transparent interpretation, but the other cases need special processes of interpretation. We can suggest that these special processes are ‘the type coercion’ and ‘the cognitive inference’ like metaphor and metonymy and that some processes can happen as the mixed form such as metaphor following the type coercion. Also, I can conclude that these generative and cognitive processes depend on the lexical-semantic structure of a word, and that this phenomenon reflects the compositionality of the semantic interpretation.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This paper aims at developing a System Dynamics model with an augmented predator-prey interaction structure to deal with the population management of roe deer in Jeju, Korea. Although people still regard the creature as one of the important tourist attractions, there has been much debate on the issues of the appropriateness of the population size of roe deers because they have been stigmatized as crop damagers, and roadkill/poaching victims due to their natural habit to move around from the top mountain to the lowland of the island. The model is therefore to incorporate these migrating and grazing behaviors into an augmented Lotka-Volterra model coupling roe deer population in both parts of the island to that of predators and preys of the species. The authors also provide a comprehensive set of dynamic hypotheses and relevant CLD/SFD to understand the population dynamics of roe deer and co-evolving species and perform the steady-state analysis of the proposed equation system to verify the model behavior of the numerical example lastly presented in this paper.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 아비첸나의 이론체계에서 인간 영혼의 불멸성과 개체성이 양립될 수 있는지에 주목한다. 이 작업을 위해 먼저 아비첸나가 영혼을 포함한 존재자 일반에 대한 개체성을 어떻게 설명하는지 보편자 문제의 맥락에서 살펴보겠다. 둘째, 영혼에 초점을 맞추어 개체성 문제를 다룰 것이다. 마지막으로, 그가 이승에서 신체와 결합된 영혼과 신체에서 분리된 영혼의 개체성을 각각 어떻게 설명하는지 비교․분석함으로써 아비첸나의 입장이 지니는 문제점을 드러낼 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "최근 사물 인터넷 기술의 활용을 통해 가축 및 축사 관련 빅데이터 축적이 가능해 졌다. 이러한 빅 데이터를 기반으로 다양한 기계학습방안들이 가축관리에 적용되어 축산농가의 생산성을 크게 향상시키고 있다. 본 연구에서는 현재 가장 주목받고 있는 기계학습 기술인 딥러닝을 적용한 질병개체 파악방안을 제안한다. 제안한 방안에서는 정상상태와 질병상태의 가축들이 섞여있는 환경에서 상태에 따라 다른 생체데이터 특성을 지닐 때 심층신경망을 이용하여 가축의 상태를 분류한다. 제안 방안은 가축 생체데이터의 통계적 특성을 모르는 상황에서도 학습을 통해서 가축의 상태를 정확하게 분류할 수 있다. 질병개체의 정확한 파악은 구제역과 같은 전염성 질병을 예방하는데 큰 도움이 될 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 물푸레나무과의 한국특산식물인 버들개회나무 자생지의 입지 환경과 생태적 특성을 알아보기 위하여 수행되었다. 버들개회나무 개체군은 주로 강원도의 계곡과 강변을 따라 분포하고 해발고는 121~520m의 높이에 위치하고 있다. 식생분석결과 4개 지역의 20개 방형구내에서 조사된 관속식물은 총 320분류군이었다. 버들개회나무 개체군은 광대싸리 우점개체군, 당단풍나무 우점개체군, 족제비싸리 우점개체군, 쉬땅나무 우점개체군으로 분류되었다. 토양의 이화학적 특성을 분석한 결과 유기물함량은 1.98~2.81%, 전질소함량 0.13~0.20 mg/kg, 치환성 K+는 0.10~0.33 cmol+/kg, Ca2+는 3.44~20.53 cmol+/kg, Mg2+는 0.34~0.95 cmol+/kg, 양이온치환용량 8.08~13.68 cmol+/kg이며, 토양 pH는 6.28~7.74인 것으로 조사되었다. 버들개회나무 개체군 내에서 중요치는 물참대 86.99%, 물푸레나무 43.97%, 박쥐나무 23.01%, 버들개회나무 18.52%, 가래나무 18.40%, 버드나무 11.56%로 나타났다. DCCA를 이용한 버들개회나무 개체군의 식생과 환경요인과의 상관분석 결과 해발고도와 Mg2+가 가장 큰 영향을 미치는 것으로 나타났으며, 광대싸리와 당단풍나무 우점개체군은 pH, CEC, Mg2+가 높은 지역에 분포하였고, 당단풍나무 우점개체군의 경우 광대싸리 우점개체군보다 K+가 높은 곳에 분포하였다. 족제비싸리 우점개체군은 해발고가 높고, 유효인산과 K+, 노암율이 높은 곳에 분포하는 것으로 나타났다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "2012년 시화호 조력발전소가 가동됨에 따라 조간대가 복원되었다. 복원 후 물새 분류군별 개체수 변동의 차이를 알아보고자 2009년부터 2014년까지 조사가 수행되었다. 복원 전 배수갑문 운영시 조간대 면적은 5.3㎢에서 복원 후 20.3㎢로 늘어났다. 전체 조류개체수 군집에는 큰 차이가 없었으나 6개 분류군별 개체수 차이를 분석한 결과 잠수성오리류(p=0.237)를 제외한 백로류(p<0.001), 고니기러기류(p<0.01), 수면성오리류(p<0.001), 도요물떼새류(p<0.001) 갈매기류(p<0.001)에서 유의한 차이를 나타냈다. 시화호 조간대는 복원된 지 얼마 지나지 않았지만 환경 및 저서생태계의 개선이 이루어지고 있으며, 조간대 지역을 기반으로 살아가는 수조류의 서식지 이용에 긍정적 영향을 미친 것으로 판단된다. 본 연구는 사라졌던 조간대가 다시 복원된 유례가 없는 사례이며 향후에는 유사한 환경에서의 생물다양성 유지를 위한 대안의 한 방법으로도 고려될 수 있을 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 우리의 삶속에서 일상적으로 경험되는 현상, 동일한 체육을 연구하는 인문 사회계열과 자연계열 간의 의사소통이 이루어지지 않는 체육학 정체성 혼란의 문제에서 시작 하였다.\n체육학 정체성 혼란의 문제를 해결하기 위하여 도여베르트(Dooyeweerd)의 법이념 철학사상을 통하여 일련의 대안을 제시하고 앞으로 체육 연구의 방향성을 조명하고자 하였다. \n연구 방법으로 문헌연구를 실시하였으며 논의의 순서로는 서론에서 연구의 필요성과 목적, 본론으로 2장에서 법이념 철학사상의 구조, 양상구조와 체육, 개체구조와 체육에 대해 기술하였다. 3장에서는 법이념 철학사상으로 조망된 체육학 4장에서는 법이념 철학사상이 체육학 정체성에 주는 함의를 기술하였다. 마지막으로 결론 및 제언을 하였다.\n도여베르트의 철학사상을 통해 나타난 체육학 정체성에 주는 함의는 다음과 같다.\n첫째, 실재에 대한 이론적 사유의 추상화로 양상간의 대립이 있으며 이로 인한 체육 연구의 주체-객체의 분리 문제가 발생되기 때문이다. 둘째, 체육학의 연구 대상인 신체의 움직임이 인간과 밀포합 되어 있는 ‘체육’이라는 개체를 분절적이고 단절된 형태로 연구를 하고 있기 때문이다. 셋째, 이에 대한 해결책으로 양상구조의 회기와 예기분석을 통한 역동적, 전체적, 통합적인 체육을 연구해야함을 강조하고 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "지난 10년간 인터넷과 컴퓨팅 기술의 발전, 모바일 기기와 센서들의 진화, 페이스북이나 트위터와 같은 소셜 네트워크의 출현 등으로 정보량은 급속도로 늘어나고 있다. 대용량의 데이터와 이로 인해 파생되는 방대한 정보는 그것을 얻고자 하는 사람들에게 한계를 느끼게 한다. 따라서 방대한 정보 속에서 의미있는 지식을 추출하기 위한 시스템 기반의 연구가 활발히 시도되고 있다. 이로 인해 지식 추출 시스템의 중요성이 날로 강조되고 있지만, 정확성과 효율성 측면에서 여전히 많은 과제가 있다. 지식 추출 시스템의 성능을 향상시키기 위해서는 시스템을 평가하기 위한 테스트 컬렉션이 중요하다. 본 논문에서는 기술 지식의 자동 추출을 위해 개발된 시스템을 평가하기 위한 테스트 컬렉션을 소개한다. KEEC/KREC(KISTI Entity Extraction Collection/KISTI Relation Extraction Collection)라 명명된 테스트 컬렉션에 대한 구축 절차 및 기준과 구축된 테스트 컬렉션의 특징을 제시한다. 특히 테스트 컬렉션의 주요한 평가 기준이 되는 정확도를 높이기 위해 태깅 지원 도구를 활용한 전문가 태깅 방식을 사용하는 것이 주요 특징이다. 태깅 지원 도구를 활용한 전문가 태깅은 시스템에 의한 자동 태깅 도구들 또는 사람이 태깅을 하되, 지원 도구 없이 태깅하는 방법보다 태깅의 정확도를 높여준다. 구축된 KEEC/KREC은 실제로 과학기술 문헌에 존재하는 PLOT(Person, Location, Organization, Technology) 간 연관관계 추출 성능 평가를 위해서 사용되었고, 의미있는 연구결과를 도출하는데 기여하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "It is common that Theological meaning of the Christian church is made up of Individual church. The legal implications are not clearly defined, only means the Christian Church. The precedents on theological meaning of the Christian church limited to a range of a socially accepted idea.\nThe episcopal church according to Church identity is comprised of Catholic Church of a form of monarchy believers absolutely can not participate in church politics, Eastern Orthodox of a form of aristocratism ,Anglican Church of England.\nThe Presbyterian Church identity is consist of Most Presbyterian Church are equal the status of Christian official and laity, the Holiness Church, Full Gospel Church. and there is congregation identity made a feature of complete independence of the church and direct democracy.\nThus, the identity of the church, each is different, depending on the identity of each individual church. Should review the interpretation and application specific. If church property is registered in the name of the Individual church, disputes are less likely to occur because the Individual church have a ability to registration,",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "NetLogo 시뮬레이션에 기반하여 구축한 식물-초식자(plant-herbivore)시스템의 3차원 모델에서 식물-초식자 개체군(population) 밀도의상호변화에는 정상상태(steady state)와 진동상태(oscillation state)가존재한다. 정상상태에서 식물-초식자의 밀도는 시간이 경과함에 따라각자의 평형밀도로 수렴하고 진동상태에서 식물-초식자의 밀도는 시간에따라 주기적으로 진동하게 된다. 3차원 모델에 대한분기분석(bifurcation analysis)에서 초식자의 출산율이 증가함에 따라정상상태에서 버금임계 호프 분기(subcritical Hopf bifurcation)를 통해진동상태로 되고 또 진동상태에서 초임계 호프 분기(supercritical Hopf bifurcation)를 통해 정상상태로 된다는 결과를 얻었다. 또한 버금임계호프 분기가 일어나는 영역에서는 정상상태와 진동상태가 공존하는현상도 보여주었다. 시뮬레이션에서도 정상상태와 진동상태가 존재하는데초식자의 출산율과 사망률에 따른 상그림(phase diagram)을 통해 3차원모델과 시뮬레이션 모델의 결과를 비교하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문의 목적은 투르게네프의 논쟁적인 작품들 중 하나인 『아버지와 아들』에 형상화된 주인공들을 분석함으로써 작가가 제시하고자 했던 새로운 지식인상을 규명하는 것에 있다. 이 작품은 당대 비평가들 사이에서 엇갈린 평가를 받았다. 보수주의자들은 급진적 혁명가들을 옹호했다고 비난했으며, 급진주의자들은 자신들을 희화화하였다고 분노하였다. 이는 투르게네프가 작가적 언술을 배제한 채 각 세대와 계급간의 만남을 통해 주인공들을 형상화함으로써 다층적 해석의 가능성을 열어놓았기 때문이다. 흥미로운 점은 이러한 다층적 해석이 역설적으로 보편적 지식인상을 구현해낼 수 있게 한다는 것이다. 마치 각각의 개체들이 유기적 전체를 형성하고 유기적 전체 속에서 각각의 개체들이 존재 의미를 확립할 수 있듯이, 작가는 다양한 주인공들 간의 만남과 충돌을 통해 니힐리즘의 의미를 새롭게 규정하여 이상적 지식인상을 제시하고 있는 것이다.\n투르게네프의 니힐리즘도 작품의 슈제트와 동일한 의미를 내포하고 있다. 니힐리즘은 계몽된 인간 이성을 바탕으로 세상을 단일한 관념적 체계로 규정하는 것을 반대하는 정신에서 비롯되었다. 즉 유기적 전체를 고려하지 못한 채 자신의 유아론적 관념 외 일체를 부정하는 것에 대한 반작용인 것이다. 따라서 삶과 세계를 단일한 관념체계로 규정하는 것을 부정하는 무(無)의 정신에는 역설적으로 유기적 전체를 창조하려는 유(有)의 정신이 내재되어 있다고 파악해야 한다. 투르게네프의 니힐리즘은 이러한 새로운 창조적 정신의 발현인 것이다.\n이에 본 논문에서는 투르게네프의 니힐리즘을 주도적 가치들을 해체하고 자연과 문명의 공존이라는 새로운 가치를 창조하려는 자유의 정신이라 규정한 후, 이를 토대로 각 세대를 대표하는 주인공들을 분석하였다. 40년대 세대를 대표하는 파벨과 공작부인 P가 자연이라는 유기적 전체를 인식하지 못한 채 공허한 관념에 사로잡힌 인물이었다면, 60년 세대를 대표하는 바자로프는 실천적 행동의 부재라는 한계를 지니지만 사랑을 통해 자연이라는 거대한 유기적 실체를 인식하는 새로운 유형의 니힐리스트였다. 반면, 엄격한 질서와 안정 외에 사랑과 자연까지도 무가치하다고 판단했던 오딘초바는 전형적인 니힐리스트라 할 수 있다. 끝으로 니콜라이와 아르카디는 내적 자연성을 기반으로 유기적 전체를 고려하는 이상적인 지식인의 형상을 담아내고 있다. 이처럼 투르게네프에게 문명과 자연, 개체와 전체의 화합은 바자로프의 무덤 위에 핀 영원한 화해와 무궁한 생명의 꽃을 인류에게 퍼질 수 있게 하는 유일한 길이었으며, 그의 니힐리즘은 이러한 창조적 정신의 발현이었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본고는 중국어의 전칭양화사 '都/全'과 한국어의 전칭양화사 '전부/모두/다'의 양화대상의 차이와 그 제약 조건이 서로 어떻게 다른지 고찰하였다. 이를 위해 본고는 먼저 '都', '全', '전부', '모두', '다'의 양화대상의 차이와 그 특징을 자세히 대조하였다. 그 결과 다음과 같은 사실을 발견하였다. 중국어 '都'와 한국어 '다'는 둘 다 일반명사(구), 병렬식, 每＋NP나 중첩식, 양화구, 의문사(任指)를 양화한다. 그런데 중국어 '全'과 한국어 '전부', '모두'는 주로 일반명사(구), 병렬식, 양화구를 양화하지만, 每＋NP나 중첩식, 의문사(任指)는 양화하지 않는다. 또한 중국어 '都'와 한국어 '다'는 문장에서 일반적으로 개체적 인지 방식을 취하고, 중국어 '全'과 한국어 '전부', '모두'는 문장에서 일반적으로 전체적 인지 방식을 취한다. 그러나 이러한 인지 방식은 절대적인 것이 아니라 일종의 정도상의 문제라고 할 수 있다. 끊임없는 언어의 변화에 따라 이러한 인지방식 또한 부단하게 서로 융합하고 있는 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 만병초 개체군을 식물사회학적 방법으로 군락을 분류하고, 토양을 분석하였으며, 식생과 환경과의 상관관계를 밝히고자 분포서열법을 사용하여 분석하였다. 만병초 개체군은 주로 한반도 백두대간의 고산지대와 울릉도에 분포하고 해발고는 872~1466m의 높이에 위치하고 있다. 만병초 개체군은 회솔나무 우점개체군, 함박꽃나무 우점개체군, 눈측백 우점개체군, 만병초 전형개체군으로 분류되었다. 토양의 이화학적 특성을 분석한 결과 유기물함량은10.45~15.28%, 전질소함량 0.37~0.61%, 치환성 K+는 0.21~0.35cmol+/kg, Ca2+는 0.39~2.54cmol+/kg, Mg2+는 0.17~0.50cmol+/kg, 양이온치환용량 18.28~22.81cmol+/kg이며, 토양 pH는 4.66~5.23인 것으로 조사되었다. DCCA를 이용한 만병초 개체군의 식생과 환경요인과의 상관관계를 분석한 결과 해발고도가 가장 큰 영향을 미치는 것으로 나타났으며 군락별 입지 특성은 회솔나무 우점개체군이 사면경사가 급하고 양료 중 전질소와 유기물함량이 낮은 지역에 분포하였고, 회솔나무 우점개체군에 비해 함박꽃 우점개체군과 눈측백 우점개체군은 사면경사가 낮고 전질소와 유기물의 양료가 높은 입지에 분포하였다. 눈측백 우점개체군은751 해발고와 노암율이 높은 곳에 분포하는 것으로 나타났다. 만병초의 자생지는 약초채집으로 인한 훼손으로부터 취약한 상태이다. 따라서 개체군의 생육특성 파악과 자생지의 보전을 위한 구체적인 대책 마련이 요구된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "2006년 10월부터 2007년 3월까지 충청남도 태안․홍성군 및 서산시에 걸쳐있는 천수만의 간월호와 부남호에 서식하는 조류상과 분포 및 먹이량에 대하여 조사하였다. 총 142종 최대개체수 합계 362,797개체, 평균개체수 합계 84,818개체 조사되었다. 월동기 동안 초기와 말기를 제외한 전시기 안정적인 종수가 관찰되었으며, 개체수는 겨울 후반기로 갈수록 지속적으로 감소하였다. 주요 우점종은 큰기러기 Anser fabalis, 가창오리 Anas formosa, 쇠기러기 Anser albifrons, 청둥오리 Anas platyrhynchos, 고방오리 Anas acuta였다. 큰기러기, 가창오리, 청둥오리, 고방오리는 지속적인 감소경향, 쇠기러기는 안정적으로 유지되는 개체군 양상을 보였다. 간월호와 부남호간 종, 개체수, 종다양도는 유의한 차이가 없었으며, 대형추수기계와 소형추수기계간 낙곡량은 유의한 차이가 있었다(3배 이상). 또한 볏짚을 수거하는 경우와 존치하는 경우 낙곡량은 유의한 차이가 있었다(3배 이상). 잔존 낙곡량은 월동기 중반에 급격히 감소하였으며, 12월과 2월의 잔존 먹이량의 차이는 유의하지 않았다. 조류개체군의 수는 잔존 낙곡량과 강한 상호관계가 있었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 현재 인류가 당면한 생태위기 극복을 위한 윤리적 논쟁에 있어서 왕양명 생명관의 생태 윤리적 해석이 담고 있는 함의가 무엇인지를 고찰하였다. 서양 환경윤리의 다양한 갈래를 대체적으로 종합할 경우 크게 인간 중심적인 개체론과 비인간 중심적인 전체론으로 분류할 수 있다. 인간 중심적인 개체론은 생명과 생태에 대한 기계론적인 유물론적 해석을 통해 인간이라는 개별성의 가치 제고에 집중한 결과 인간과 여타 생명체 사이에 분명한 계서를 조장하였을 뿐만 아니라 자연과 인간의 관계 설정에서 동반자적 혹은 친화적 관념을 간과하게 만들었다. 이에 반해 비인간중심적인 전체론적 접근은 생태위기 극복을 위한 자연과 인간 사이의 이원화 해소에 주력한 나머지 모든 생명의 평등적 직관을 주장함으로써 실천과 행위 영역을 방기한 측면이 강하다. 이렇게 볼 때 현대 생태위기 극복을 위한 실질적 대안은 이 양자의 난점을 보완할 수 있는 포괄적 접근의 모색될 것으로 보인다. 이에 논자는 왕양명 생명관의 생태 윤리적 해석이 현대 서양 환경윤리의 격렬한 논쟁의 결과 노정된 난점의 극복에 어떤 총섭적 함의를 보여줄 수 있는지 고찰하였다. 왕양명은 환경생태에 대한 전일적(全一的) 이해를 추구한다는 점에서 비인간중심적인 전체론과 비슷한 점을 보이면서도 또 다른 한편으로 책임과 실천에 있어서는 인간의 역할을 강조하는 보다 확장된 인간 중심주의의 일면을 보이는 것으로 평가할 수도 있다. 이러한 양 측면이 그의 생태 윤리 사상에서 어떻게 체계화되고 있는지를 보다 구체적으로 살펴보기 위해 첫째, 왕양명은 一氣相通의 우주론에 의거하여 생명가치를 어떻게 파악하고 있는지 고찰하였다. 둘째, 萬物一體의 존재관과 생명가치의 연관구조에 비추어 개별생명을 어떻게 이해하고 있는지 고찰하였다. 셋째, 인간과 자연의 一體的 관계에 의거하여 생명가치의 자각과 실천에 대해서 어떻게 보았는지 살펴보았다. 넷째, 왕양명 생명관에 대한 생태 윤리적 해석이 현대 생태위기 극복에 있어서 어떤 가치론적 함의를 가지는지 논의하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 생태계 교란식물 가시박의 방제를 위한 기초자료 확보를 위해 금강수계 미호천을 대상으로 가시박의 개체밀도에 영향을 주는 환경요인과의 영향관계를 분석하였다. 가시박 서식지 토양입도 분석결과 가시박 개체밀도는 실트질 및 점토질 함량이 증가할수록 감소하는 것으로 나타났다. 가시박 서식지 대부분은 모래질 및 실트질 함량이 높았으며 점토질은2% 이하로 낮게 나타났다. 유량의 경우 평수량 및 풍수량 초과 이벤트가 증가할수록 가시박 개체밀도는 낮아지는 경향을보였는데, 이는 유량증가시 가시박의 침수로 인한 토양특성 변화와 성장장애 떄문이다. 수질은 가시박이 침수시 양분을 공급하는 역할을 하나 가시박이 물에 침수시 토양특성 변화로 성장장애를 받기 때문에 오히려 가시박 개체밀도가 낮아지는경향을 보였다. 따라서 생태하천복원사업 등 하천의 자연성 회복을 위한 자연적 방제기법으로 가시박 성장환경을 가진 토양에 자연형 물길을 조성함으로써 물관리를 통한 기법이 적용 가능할 것으로 본다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문에서는 별사 가 충동의 실체 찾기라는 탐색의 서사로 이루어져 있다 고 보고, 이 탐색의 구조가 여로나 회상, 병치 형식과 맞물려서 어떻게 중층적인 의미망을 형성하는가를 고찰하였다. 이 소설은 낯선 곳으로의 여정을 통해 변화 하는 자아의 모습을 보여주고 있다는 점, 회상이 현실적 사건과 중층적으로 연 결되면서 새로운 서사를 만들어낸다는 점, 서로 다른 초점 화자를 등장시켜 시 점을 교차시키는 병치 형식을 통해 공간적 단절감이나 개체로서의 지향을 구체 화한다는 점에서 서사 구조가 의미 형성에 관여하는 정도가 큰 작품이다. 그런 만큼 작품의 서사구조가 의미를 형성하는 데 관여하는 양상을 밝히는 일이 필요 하다고 보았다. 먼저, 정옥을 친정집으로 이끈 충동의 실체란 죽음을 만나고자 하는 욕망으로 보고, 정옥이 여정 동안 느끼는 낯섦, 두려움, 섬뜩함 등의 감정이 죽음과의 만남에서 오는 것이라는 점을 분석하였다. 안식 묘원에서 이루어지는 매장 장면을 남편에 대한 회상 장면과 중층적으로 배치하여 존재가 사라지는 순간을 확인하고, 남편에 대한 기억을 매장하는 방식으로 남편과의 이별을 수행 하도록 하고 있으며, 묘원에서 내려와 백중재가 열리는 절에 도착하도록 함으로 써 정옥의 여정을 애도의 과정으로 연결하고 있음을 살펴보았다. 이와 함께 남 편 초점의 서사와 정옥 초점의 서사를 병치하여 정옥과 남편 사이의 공간적 단절감을 부각시키면서도, 서로 다른 공간에서도 반복되는 죽음의 사건을 보여 줌으로써 공간의 단절과 죽음의 편재성을 보여줌을 확인하였다. 또한 두 사람의 서사를 병치시킴으로써 두 사람이 서로 다른 지향을 갖고 있다는 점을 보여주 고, 존재의 개체성을 강조하면서 죽음이란 개별적인 존재 사건이라는 점을 보여 주고 있다고 보았다. 여로, 회상, 초점화자의 교체와 같은 서사구조의 분석을 통해 별사 의 서사를 추동하는 힘은 시공간적 병치이며, 대상이나 사건의 중층 적 연결이 오정희 소설의 서사를 이해하는 한 방법임을 확인하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문은 스피노자 철학의 개체론에서 핵심적인 지위를 차지하는 코나투스 개념의 단일성 문제를 살핀다. 최근 스피노자 연구자들은 한 개체의 본질(essentia)로 설명되는 코나투스 개념을 단일성으로 해석할 때의 여러 문제점을 제기하며 코나투스 개념을 복합적인 것으로 이해하는 경향이 있다. 하지만 필자는 스피노자 철학에서 코나투스는 신의 역량이 구체화 된 하나의 단위 혹은 단일성에 속하고, 본성(natura)으로서 운동량이 개체의 복합성과 상황 함수에 종속된다고 이해한다.\n개체의 본질로서 코나투스는 신의 속성을 어떠한 결정된 방식으로 표현하는 양태이지만, 이때의 결정성은 개체의 역량을 제한하기보다는 신의 무한한 역량 안에 위치시키는 기능을 한다. 따라서 신의 역량이 일정한 방식으로 결정된 코나투스 개념 안에는 어떠한 부정이나 제한의 의미도 내포되지 않는다.\n반면 개체의 결정된 본성은 본성 밖의 다른 것들에 대한 개체의 무능을 내포하기 때문에 개체의 본성을 통해서 비로소 유한한 양태가 겪을 수밖에 없는 다양한 제한적 상황들에 대한 해명이 가능하다. 따라서 본질과 본성을 이렇게 구분하는 것이 타당하다면 개체의 자기 폭력적인 현상으로서 자살의 문제를 해명하고자 할 때 본질이 아닌 본성 개념에 근거해야만 한다는 결론을 도출할 수 있을 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "광릉요강꽃(Cypripedium japonicum Thunb.)은 한국, 중국, 일본에 분포하는 동아시아 특산식물로, 지구 수준의 IUCN Red List “위기(Endangered, EN)”로 평가되며, 한국의 국가 Red List에서는 “멸종위기(Critically Endangered, CR)”에 포함된다. 본 연구는 광릉요강꽃 자생지에서 7년 동안 수행된 개체통계학적(demographic) 모니터링 자료를 바탕으로 개체군 구조 및 변화양상을 분석하고, 개체군의 지속성에 대하여 예측하였다. 광릉요강꽃은 국내 7개 지역(포 천, 가평, 화천, 춘천, 영동, 무주, 광양)에서 자생지가 관찰되었고, 15개 아개체군에 4,356개체가 생육하는 것으로 확인되었다. 개체군 크기 및 구조는 지역별로 상이하였으며, 인위적 관리가 개체군 크기 및 구조 변화에 중요한 영향을 미치고 있었다. 7년 동안 개체 수 변화를 모니터링한 결과 광릉요강꽃의 개체군 생존력(Population Viability Analysis, PVA)은 지역별로 다양한 경향을 보였다: 향후 1세기 안에 멸절할 가능성은 포천 0.00%, 광양 10.90%, 춘천 24.05%, 화천 79.50%로 예측되었다. 모니터링이 수행된 위 연구지역은 현지 내 보호시설로 인위적 출입을 제한하고 있어 광릉요강꽃의 최대 위협요인인 인위적 남획 변수가 개체군 생존력에 반영되지 않았다. 즉, 실질적인 멸절 위험도는 본 연구에서 추정된 값보다 현저하게 클 것으로 예상된다. 국내 광릉요강꽃 개체군의 멸절위험도의 객관적 판단을 위해서는 향후 다양한 위협요인이 있는 여러 지역의 개체군 정보가 반영될 필요가 있으며, 국내·외로 광릉요강꽃 개체군에 대한 개체통계학적 모니터링을 확대해 나가야 할 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The Black-tailed gull (Larus crassirostris) is one of the most common gull species in the Northeast Asia and classified as LC (least concern) in the IUCN Red List. The bird has become a useful indicator for marine environmental pollution and habitat disruption, since the human activities impacted marine environments. Here we show that the black-tailed Gull has 6 haplotypes and some rare haplotypes are locally limited implying that the bird may not disperse far. This study may be the first report on population genetic study of Black-tailed Gull in Korea and could be used as the baseline data for monitoring and genetic study on the bird as an environmental indicator.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 경상남도 학교숲 53개교를 대상으로 학교 수목 현황을 파악하고, 유형별로 분류하여 비교 및 분석하였다. 수목 조사는 목본식물을 대상으로 전수 조사하였으며, 학교 면적, 녹지 면적, 학생 수, 교목·교화 등 일반적인 현황을 함께 파악하였 다. 학교 종류별로 구분하였을 때, 중학교가 평균 종 수를 제외하고 초등학교, 고등학교보다 평균 녹지율, 평균 수목 개체수, 학생 1인당 평균 녹지 면적, 학생 1인당 평균 교목 개체수가 더 많았다. 소재지별로는 도시학교가 평균 종 수를 제외하고, 평균 녹지율, 평균 수목 개체수, 학생 1인당 평균 녹지 면적, 학생 1인당 평균 교목 개체수가 비도시학교보다 낮았다. 설립 유형별로는 사립학교가 공립학교에 비해 모든 녹지 관련 지표에서 높게 나타났다. 성상별 비교 결과, 낙엽활엽교목이 다른 성상에 비해 가장 많은 종 수를 보였으며, 향나무 '가이즈카', 동백나무, 영산홍, 은행나무, 배롱나무, 무궁화, 등이 성상별로 가장 많이 조사되었다. 53개교 전체에 대한 종다양도 평균은 2.33으로 나타났으며, 고등학교, 도시학교, 사립학교가 타 유형에 비해 높게 나타났다. 본 연구결과를 통해 경상남도 학교숲 조성에 관한 기초 자료를 제공할 것을 기대한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "2010년부터 2011년까지 미얀마 예진 지역의 과수원에서 methyl eugenol trap을 이용하여 과수원 해충인 과실파리에 대한 발생빈도와피해정도에 대한 연구를 수행하였다. 망고, 구아바, 대추나무를 대상으로 과실파리의 발생 정도를 알아보고 아울러 강수량, 온도, 습도, 일조시간등 발생과 기후적요인과의 상호관계 등을 분석하였다. 그 결과 회귀분석에서 강수, 최저온도 그리고 상대습도는 과실파리의 발생에 긍정적인 영향을 주었고 반면에 일조량은 발생을 억제하는 요인으로 작용하였다. 그리고 Bactrocera arecae, B. carambolae, B. correcta, B. dorsalis, B.\nkandiensis, B. latilineola, B. malaysiensis, B. neocognata, B. raiensis, B. verbascifoliae와 Carpomya vesuvina 등, 모두 11종의 과실파리가 조사되었고, 그 중 B. correcta와 B. dorsalis가 29.3%와 28.6%로 많은 개체수를 나타내었다. 구아바가 가장 피해가 심했고(59±15.4), 다음은 망고였으며(35.5±12.1), 반면에 대추에서 가장 낮은 비율을 보였다(18.5±7.9).",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "생명의 존엄성과 생명의 창조성의 잠재적인 위력은 어디로부터오는가? 아리스토텔레스는 생명의 원리를 현실태와 가능태의 형이상학적 원리로 설명하였으며, 개체들의 본성을 한 형상 내에서의질료에 의한 개별화의 원리로 제시하였다. 이러한 그의 형이상학과생물학적인 설명은 생명의 보편성과 개별성을 설명하는 원리로서,근대에 이르기까지 생명의 목적론적 세계관으로 지속되어 왔다.\n근대 자연 철학의 목적론적 자연관과 유기체적 생명 개념과 결별하고 다윈의 진화론을 창조적으로 받아들여 현대 생명 철학과자연관에 새로운 시각을 제공한 철학자는 베르그송이다. 베르그송은 전통 형이상학에서의 일과 다의 원리에 입각한 개별자의 존재론의 원리를 버리고, ‘다양체’ 개념을 새롭게 마련하여 생명을 잠재성의 차원으로 획기적으로 전환시켰다. 즉 가능한 것을 대신하는잠재적인 것은 질료형상설을 따르지 않는, 다양체에 작동하는 원리가 된다.\n들뢰즈는 이러한 이념적 차원의 다양체를 생물학적 다양체로 현실화한다. 들뢰즈는 다양체가 분화의 차원에서 생명의 잠재성과창조성을 보여 준다고 생각했다. 또한 들뢰즈는 시몽동의 개체화의 원리를 수용하고, 이를 전-개체적 상태의 독특성의 지평이자,개체가 갖는 이념-잠재적인 차원과 연결시킨다. 들뢰즈는 개체화의 원리를 생물학에서의 분화의 원리에 적용하여 배의 발생으로 연결시킨다. 이러한 들뢰즈의 생명철학은 다윈의 진화론의 계보를 넘어서서, 생명의 잠재성의 차원을 리좀적인 평면으로 연계하여 윤리적이고 형이상학적인 지평으로 확장시킬 수 있는 의미를 지닌다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "2010년 6월부터 2011년 5월까지 봉화군 7개 지점에서 어류상과 열목어 개체군 특징을 조사하였다. 조사 기간 동안 출현한 어종은 총 7과 15종 957개체 이었다. 출현한 어종 중 법적보호종에 속하는 종은 Brachymystax lenok tsinlingensis, Koreocobitis naktongensis, Cottus koreanus 등 3종 이었다. 고유종에 속하는 종은 Microphysogobio yaluensis, Coreoleuciscus splendidus, Zacco koreanus, Cobitis hankugensis, K. naktongensis, Iksookimia longicorpus, Niwaella multifasciata, Liobagrus mediadiposalis, C. koreanus, Coreoperca herzi 등 10종으로 고유화빈도가 66.7% 이었다. 우점종은 Z. koreanus(St. 1), B. lenok tsinlingensis(St. 3, 4, 5), Rhynchocypris oxycephalus(St. 2, 6, 7) 등 이었다. 열목어 전장과 체중의 관계식은 BW = 0.000008TL3.02 이었고 비만도는 평균 0.84 이었다. 전장이 80∼180㎜에 해당하는 개체는 만 1년생, 200∼300㎜는 만 2년생, 300㎜ 이상은 만 3년생 이상으로 추정되었다. 보호수역 내에서 열목어는 밀도는 100㎡ 당 평균 17 개체가 서식하는 것으로 조사되었고 보호수역 내에는 총 4,760개체가 서식하는 것으로 추정되었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구에서는 57,316두의 농장 검정된 돼지 자료를 이용하여 유전 모수를 추정하였다. 현재 돼지 등급 제도가 도체 위주로 진행되고 있어 농장의 경제적 이익을 고려한다면, 향후 경제 가치를 고려한 정확한 선발 지수를 설정하여 정확히 추정된 육종가를 바탕으로 국가 단위 개량체계가 확립되어야 유전적 개량을 이룰 수 있을 것으로 사료된다. 조사된 형질들에 대한 유전력은 품종에 따라 다소의 차이는 있었지만, 평균 등지방 두께에 대하여 0.46 ∼ 0.65, 최후 늑골 등지방 두께에 대하여 0.42 ∼ 0.61, 등심 깊이에 대하여 0.28 ∼ 0.31, 정육율에 대하여 0.50 ∼ 0.60, 일당 증체량에 대하여 0.45 ∼ 0.55, 90kg 도달 일령에 대하여 0.38 ∼ 0.50 및 100kg 도달 일령에 대하여 0.40 ∼ 0.50의 범위에서 추정되었다. 추정된 유전력이 일반적으로 알려진 형질들의 유전력과 유사하고, 성별 및 품종별로 뚜렷한 일관성을 나타내는 것으로 미루어 다형질 개체 모형 하에서 DF-REML에 의한 유전력의 추정이 효과적인 것으로 생각된다. 조사된 형질의 유전력은 도체 형질에 대해서는 중도의 유전력을 보였으며 나머지 성장 형질에 있어서는 고도의 유전력을 나타냈다. 본 연구의 결과로 미루어 성장 형질에 대한 개량이 유의적으로 이루어 질 수 있음을 나타내었다. 등지방 두께, 일당 증체량 및 90kg 도달 일령간의 유전 상관은 그다지 높지는 않았지만 이들 형질간에 유전적 관계가 있는 것으로 나타났으나, 이들간의 작용 방향이 서로 바람직하지 않은 상관 관계를 가지는 경우가 있어, 어느 한 형질에 치우친 선발은 다른 형질을 불량하게 할 수 있음을 보였다. 등 부위 등지방 두께와 등심 깊이간의 상관이 Duroc 종과 타 품종간에 차이가 있을 뿐 다른 형질에서는 품종간의 차이를 나타내지 않았다. 등심 깊이의 경우 성장 형질이 우수할 수록 넓은 경향을 보였으나 정육율의 경우는 정 반대의 상관을 나타냈다. 반면에 등심 깊이와 정육율의 경우에는 낮은 정의 상관 관계를 나타내어 이들 형질을 다같이 개량하기 위해서는 선발 지수식에 의한 조화있는 개량이 필요한 것으로 사료된다. 표현형 상관에 있어서도 유전 상관과 비슷한 결과가 추정되었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "기후변화에 따른 양서류 번식계절학 및 양서류 군집다양성 변동에 대한 연구는 다수 수행되었지만, 개별 종의 번식개체군 크기의 변동에 대한 연구결과는 여전히 부족하다. 본 연구에서는 기후변화가 국내 산간계곡에서 번식하는 무미류인 계곡산개구리(Rana huanrenensis)와 유미류인 도롱뇽(Hynobius leechii) 번식개체군 크기에 영향을 미치는지를평가하기 위하여 2005년부터 2012년 사이 8년간의 야외개체군 변동과 주변 기후변화 요인들과의 관련성을 분석하였다.\n야외에서 두 종은 각각 약 3.5년을 주기로 번식개체군의 크기가 증감하고 있었다. 특별히, 도롱뇽 번식개체군의 크기는8년에 걸쳐 유의하게 감소하였다. 기후요인들 중, 기온은 계곡산개구리, 강수량은 도롱뇽 번식개체군의 크기와 더밀접한 관련성을 가지고 있었다. 특별히, 해당지역에서는 8년에 걸쳐 년간평균최고기온 및 봄철평균일교차가 일관되게감소하였으며, 후자는 도롱뇽 번식개체군 크기의 의미 있는 감소와 관련되었다. 이러한 결과는 최근의 기후변화가산간계곡에서 번식하는 국내 양서류, 특별히 도롱뇽, 번식개체군 크기의 감소로 직접적으로 이어질 수 있음을 보여준다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "자연어 표현에는 인물, 조직, 장소, 제품 등의 다양한 개체들이 존재한다. 이러한 개체는 다양한 의미를 가질 수 있다. 이러한 개체가 갖는 중의성 문제는 자연어 처리 분야에 있어 매우 도전적인 과제이다. 개체 링킹(Entity Linking)이란 텍스트에 등장한 개체명을 지식베이스 내의 적절한 개체로 연결해주는 작업이다. 개체 링킹을 위한 대표적인 방법론인 짝 연결 접근법(Pairwise based method)은 한 문장에서 등장한 개체가 두 개 이상일 경우 서로의 연관성을 이용해 개체 링킹을 하는 방법이다. 이 방법은 동일 문장에서 등장하는 개체들 간의 상호의존성(interdependence)만을 고려하고 있어 포괄적인 상호의존성(Global interdependence)이 부족하다는 한계를 갖고 있다. 본 논문에서는 개체 링킹을 위해 RDF 형태의 지식베이스 정보를 바탕으로 Word2vec을 활용한 Entity2vec 모델을 생성하였다. 그리고 생성된 모델을 사용하여 각 개체에 대한 랭킹을 하였다. 본 논문에서는 짝 연결 접근법의 한계점을 보완하기 위해 포괄적인 상호의존성을 바탕으로 짝 연결 접근법을 고안하고 구현 및 실험을 통해 기존의 짝 연결 접근법과 비교하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "‘주체’, ‘타자’, 그리고 ‘주체와 타자와의 관계’를 이해하고 정의하는 방식은 다양하다. 본 논문에서는 유학사상 가운데 하나인 양명학에서 ‘주체’와 ‘타자’, 그리고 ‘주체와 타자의 관계’를 어떻게 이해하고 정의하고 있는지 고찰한다. 1장 ‘들어가는 말욕망과경쟁과 갈등의 소비사회’에서는 주체와 타자를 중심으로 기후위기와 소비사회의 문제점을 진단하고 생태문명으로의 전환의 필요성에 대해 살펴본다. 그리고 2 장 ‘참된 나(眞吾)’와 ‘사사로운 나(私吾)’에서는 왕수인이 말하는 ‘큰 사람(大人)’과‘작은 사람(小人)’ 및 ‘참된 나’와 ‘사사로운 나’에 대한 분석을 토대로 왕수인이 말하고자 하는 ‘참된 주체’란 어떠한 존재인지에 대해 탐구한다. 3장 ‘참된 나(眞吾)와 양지주체’에서는 양지의 다양한 정의와 관련하여 왕수인이 말하고자 하는 참된 주체의 본질로서의 ‘양지주체’가 어떠한 특성과 속성을 지니는지에 대해 고찰한다. 4장‘양지주체를 가로막는 개체 욕망(私欲)’에서는 참된 주체에 반하여 사사로운 내(私 吾)가 되는 원인으로서의 개체 욕망의 속성과 폐단에 대해 살펴본다. 5장 ‘양지주체의 실현타자와한 몸 짜기’에서는 참된 주체가 되기 위한 양지주체의 실현 방안으로 치양지(致良知)와 친민(親民)에 대해 고찰하고, 타자(萬物)와의 한 몸 짜기(一體) 와 더불어 양지 실현의 귀결처에 대해 고찰한다. 마지막 6장 ‘나오는 말소비주체에서 생태주체로’에서는 생태문명으로의 전환에 있어 양지주체와 한 몸 짜기가 지니는 의의에 대해 살펴본다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 인천경제자유구역 청라지구에 도래하는 큰기러기의 월동지 비오톱구조와 행동특성 간의 관계를 분석하여 큰기러기 월동지 보전관리를 위한 기초자료를 제공하고자 수행하였다. 청라지구 비오톱의 주요 유형은 갈대습지 6,093,762㎡(47.8%), 볏짚이 없는 논 2,927,916㎡(23.0%), 볏짚이 있는 논 1,915,655㎡(15.0%)이었으며, 얼음이 있는 논, 건조초지 등이 일부 분포하였다. 2005년 2월 13일 현장조사 결과 청라지구에서 관찰된 전체 야생조류는 총 33종 6,534개체이었으며, 이 중 큰기러기는 총 5,128개체이었고 출현한 전체 종 중 78.5%를 차지하는 우점종이었다. 큰기러기 이동경로 분석 결과, 일출 전․후를 기점으로 잠자리에서 채식지로 이동하였고, 일몰 전․후를 기점으로 채이장소에서 잠자리로 이동하였다. 큰기러기의 행동특성과 비오톱 유형의 관계를 종합해보면, 갈대습지에서 큰기러기 개체군의 출현밀도가 가장 높았으며, 얼음이 녹은 무논에서 큰기러기의 출현 개체수가 가장 많았다. 갈대습지에서 큰기러기는 식물의 뿌리 및 열매를 채식하였으며, 얼음이 녹은 무논에서는 낙곡 채식, 휴식, 수면하는 등 다양한 행태를 보였고 볏짚이 있는 논과 볏짚이 없는 논에서는 낙곡 채식 및 휴식을 하였다. 큰기러기의 출현 개체수는 논에서는 논경작지의 유형보다 낙곡 유무에 따라 영향을 받는 것으로 판단되었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 스포츠 영상기록물의 효과적인 관리․검색․활용을 목적으로 다중개체 모형을 기반으로 하여 메타데이터 요소들을 제안하였다. 스포츠 영상기록이 가진 특성을 표현하고 풍부한 맥락 정보를 제공하기 위하여 스포츠 경기, 경기 참여자, 영상기록, 기록관리업무의 네 가지 개체들을 선정하였으며, 각 개체에 해당하는 메타데이터 요소들을 추출하였다. 또한 스포츠 인물 및 팀에 대한 용어에 일관성을 유지하고 보다 상세한 정보를 제공하고자 인물과 팀에 대한 전거레코드를 제안하였다. 제안된 다중개체 모형과 메타데이터 요소들, 그리고 스포츠 인물 및 팀 전거레코드는 체육학과 교수들과 스포츠 마케팅 전문가로 이루어진 전문가 집단과의 면담을 통해서 검정되었고 수정, 확대되었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 희귀 및 특산식물과 멸종위기야생식물 Ⅱ급으로 지정되어 있는 세뿔투구꽃의 자생지 환경을 조사하여 보전 및 복원 시 기초자료를 제공하고자 한다. 조사결과 세뿔투구꽃의 자생지는 해발고도 260-728m범위와 경사 4-39˚의 계곡부에 주로 생육하는 것으로 조사되었다. 식생 및 관속식물 조사결과 7개 지역의 20개 방형구내에서 조사된 관속식물은 총 147분류군이 출현하였으며, 각 조사구내 초본층 피도와 빈도를 기초로 한 세뿔투구꽃의 중요치를 산출한 결과 평균 24.3%로 나타났다. 종다양도는 1.23로 산출되었으며, 우점도와 균등도는 각각 0.22와 0.77로 확인되었다. 토양분석 결과 토성은 미사질양토(4site)와 사질양토(2site), 양토(1site) 순으로 나타났으며, 유기물함량은 7.83%, 전질소함량은 0.35%, pH는 5.69으로 측정되었다. 환경요인과 개체군특성에 기초한 상관분석에서는 세뿔투구꽃의 자생지에서 엽록소와 경사도간의 강한 부의상관이 인정되었고, 개화율과 토양습도는 부의상관이 인정되었다. 자생지의 안정적인 유지를 위해서는 서식지 보전이 중요하며 서식지 주변에 보호구역을 설정이 필요하다고 판단된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 헤르더의 역사철학에서의 개체성과 인간성의 관계를 칸트의 역사철학에 대한 비판을 중심으로 고찰하는 데 있다. 칸트의 역사관은 계몽주의적-보편주의적 역사관에 근거한다. 그러나 헤르더의 비판에 의하면, 1) 보편주의적역사관이란 초시간적 법칙을 전제하는 것이다. 2) 보편주의에 의한 유럽중심주의란 허구에 불과한 것이다. 3) 보편주의적 역사관이란 역사를 도식적으로 규정하는 것일 뿐이다. 이를 극복하기 위해, 헤르더는 각기 다른 민족 혹은 국가에 있어 보편성보다 개체성을 중시한다. 개체성은 기후와 풍토 및 관습 등에근거해서 여러 지역에서 다양하게 형성된다. 그러나 이와 같은 개체성은 자칫배타적 민족주의 혹은 지나친 상대주의로 변질될 수도 있다. 그 때문에 헤르더는 인간성이라는 개념을 도입해서 이를 세계시민주의에 연관시킨다. 인간성은인류의 궁극 목표인 각자의 행복을 통해 전체의 번영으로 발전해야만 한다. 결론적으로, 헤르더에게 있어 개체성과 인간성의 관계는 개별자와 보편자의 이원론적 관계가 아니라, 각각의 민족과 국가가 서로의 특성을 서로 인정하면서 전체의 행복을 위해 서로 조화 및 공존할 경우에 성립한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "최근 멸종위기 종에 대한 보전, 복원프로그램은 세계적인 추세일 뿐만이 아니라 국내에서도 자연환경보전법으로 보호를 받고 있다. 본 연구는 국내에서 멸종 위기에 처해 있는 붉은점모시나비가 상주-영덕 고속도로 계획노선에 의하여 서식지의 일부를 관통하거나 인접하여 이 지역의 개체군을 대체서식지로의 이주가 결정되었다. 이에 대체서식지의 조성에 앞선 선행 작업으로 위치 선정을 위하여 Mark-Release-Recapture (MRR) 방법으로 가상이동모델을 적용하여 패치의 연결성을 추정하고 개체생존이주율을 산출하여 대체서식지 위치선정의 평가 자료로 활용하였다. 그 결과, 붉은점모시나비는 패치간의 거리가 약 250m 이내의 범위에서 50% 이상의 연결성과 개체생존이주 가능성을 보였으며, 나비의 이동거리를 추정에서는 평균 300m로 나타났다. 그리고 나비의 분포특성에서는 인접한 여러 개의 서식지 패치를 개체들이 이주를 하면서 순환 발생하는 메타개체군을 이루고 있다.\n대체서식지의 위치를 결정하기 위하여 연구 결과에 따른 지역, 해당 지역의 지방자치단체의 추천지역, 그리고 훼손지역의 가치를 상쇄할 수 있을 정도의 중요도가 있는 지역을 예비 선정하였다. 그리고 이 지역들을 나비의 생태, 생태기반환경, 관리방안, 위험요소, 시공요소를 평가를 한 결과, 의성군에서는 5안(안사면사무소)이 관리방안에서 높은 점수를 얻어 선정되었다.\n이번에 평가된 항목에서 나타난 바와 같이 대체서식지의 위치 선정에 있어서는 대체서식지 조성이 가능한 예산의 범위, 서식지 관리주체의 선정, 현지 주민과의 협의 등 여러 가지 문제를 복합적으로 고려하는 것이 높은 비중을 차지하였으며, 생물학, 생태학, 경관생태학, 생물지리학, 생태공학, 조경학, 인문학 등의 다양한 분야의 참여로 얻은 결과물을 융합하여 반영하는 것이 필요하다는 것을 제언하고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "에코시스템은 모든 산업계에서 중요한 이슈 중 하나가 되고 있다. 산업 가치사슬 내 다양한 참여자들의 협력이 소비자에게 다양한 가치로 전달되는 만큼 기업에서는 에코시스템 모델을 활용, 소비 트렌드 변화 및 비즈니스 모델 개발 등의 분석툴로도 활용되고 있다. 또한 학계에서는 IT산업을 중심으로 에코시스템에 관한 연구가 활발히 진행되고 있으며, 특히 모바일 산업을 중심으로 다양한 분석이 이루어지고 있다. 본 연구는 에코시스템 관점에서 음악산업이 어떤 흐름을 가지고 있는지 살펴보는 것에 목적을 두고 있다. 이를 위해, 기존 에코시스템에 대한 문헌들을 살펴보고, 음악산업을 에코시스템에 적용해보며 현상을 파악하고자 하였다. 뉴 미디어 및 멀티플랫폼 기술의 발달에 따라 음악 제작 및 소비의 경로가 다양해지면서 우리는 어느 때보다 쉽고 간편하게 음악을 감상할 수 있는 시대를 맞이했다. 물론 이러한 환경의 변화가 저작권 침해 및 적정 수익에 대한 분배 등 해결이 쉽지 않은 이슈도 가져왔지만, 실제 창작 및 소비측면에서의 간편성과 다양성 확보는 물론이고 과거 음악 제작자가 부담했던 물류 및 유통 비용의 획기적 절감을 가져오기도 했다. 전술한 바와 같이 본 연구는 이와 같은 음악산업의 변화를 에코시스템 관점에서 살펴보고 현상을 살펴보는 것에 목적을 두고 있다. 이를 위해 에코시스템의 변화를 설명하는 데 꼭 필요한 네 가지 요인 즉, △개체군의 변화 측면, △형태적 측면, △경쟁 측면, △기술적 측면에서 음악산업이 어떤 변화를 가져왔는지 살펴보는 것에 초점을 맞추고 있다. 첫 번째, 개체군의 변화 측면에서는 과거 오프라인 기반 개체군에서 온라인 및 모바일 기반 개체군으로 변화하고 있으며 그 중심에서 이동통신사와 플랫폼 사업자가 주도권을 확보한 것을 알 수 있었다. 두 번째, 형태 측면에서는 저장기술 및 유통기술의 형태를 들 수 있는데 과거 LP부터 현재의 MP3까지 저장기술 형태의 발전이 있었고, 뉴 미디어를 비롯한 클라우드 시스템 등과 접목하며 다양한 경로로 음악이 유통됨을 다시 한 번 확인할 수 있었다. 세 번째, 경쟁측면에서는 개인적, 집단적 차원의 역할 이동성에 따라 기업은 기획부터 생산, 유통, 소비에 이르는 대부분의 기능을 통합하는 경향을 보이고 있었으며 창작자 구성원들 역시 그들의 역할이 다각화되고 있음을 알 수 있었다. 네 번째로는 기술의 발전에 따라 창작과 소비 행태가 변화하고 있음을 알 수 있었는데 특히 디지털 싱글 시장이 활성화되면서 창작의 영역에서는 제작비를 절감하는 효과를 가져왔고 소비 측면에서는 프로슈머의 활동 영역이 넓어지면서 점차 창작자와 소비자의 이분법적 경계가 완화되고 있음을 알 수 있었다. 본 연구는 콘텐츠산업, 특히 음악산업이라는 특정 장르를 중심으로 에코시스템에 적용해봤다는 것에 의의가 있으며, 향후에는 본 연구를 중심으로 다양한 음악산업의 구조 분석 및 정책개발 등 다양한 연구가 이루어질 것으로 기대한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "연속개체는 크기가 크며, 확산하는 특징이 있다. 따라서 연속개체 탐지에서는 소스가 매우 많이 발생하며, 계속해서 새로운 소스가 발생하는 점을 고려해야 한다. 기존 연속개체 탐지 연구들은 탐지 정보를 고정된 싱크로 전달하는 상황만을 고려하고, 많은 소스로부터 발생하는 통신비용을 줄이기 위해 노력했다. 본 논문에서는 연속개체 탐지에서 효율적으로 이동싱크를 지원하는 방안을 제안한다. 이동싱크가 데이터를 받기 위해서는 소스에게 자신의 현재 위치를 알려야 한다. 기존 이동싱크 지원 방안들은 개별개체를 대상으로 했다. 이를 연속개체 탐지에 그대로 적용하면 연속개체의 수많은 소스들에게 개별적으로 현재 위치를 알려야 하며, 이는 심각한 에너지 낭비를 초래한다. 제안방안은 연속개체의 소스들의 지역성을 이용하여 이동싱크의 현재위치를 연속개체의 소스들에게 효율적으로 전달한다. 실험 결과는 제안방안이 기존 방안에 비해 이동싱크의 위치갱신을 수행할 때 더 적은 에너지를 소모함을 보인다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "위키피디아는 개방형 백과사전으로서 수많은 편집자들에 의해 작성되기 때문에 빠른 시간에 방대한 양의 정보가 축적되고 있으며, 축적되는 정보의 신뢰성 또한 매우 높다. 본 논문에서는 이러한 장점을 가진 위키피디아의 여러 가지 세부정보를 이용하여 한국어 개체명 사전을 자동으로 구축하는 방법을 제안한다. 먼저 위키피디아의 각 엔트리(entry)의 분류정보를 사용하여 분류체계(class hierarchy)를 생성한다. 생성된 분류체계에 위키피디아 엔트리를 자동으로 매핑(mapping)시킨 다음, 분류체계에서 최상위 계층의 불확실성(entropy)을 계산한다. 마지막으로, 임계값 이상의 불확실성을 가지는 분류체계를 제거함으로써 정확률이 높은 개체명 사전을 구축한다. 본 논문에서 제안하는 방법으로 실험을 한 결과 최고 81.12%(83.94%:정확률, 78.48%:재현율)의 F1-measure의 성능을 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 1990년대 전반기(1989년 5월~1993년 4월)의 자료와 2000년대 중반기(2002년 5월 ~2006년 4월)의 자료를 비교 분석하여 주변 환경이 급변하는 낙동강 하구에서 왜가리(Ardea cinerea)의 장기적 도래 현황을 파악하고자 하였다.\n조사기간(1989년 5월~1993년 4월, 2002년 5월~2003년 4월, 총 8차년도)에 관찰된 왜가리는총 5,491개체이었다. 1990년대 전반기와 2000년대 중반기까지 조사한 왜가리의 월 평균 개체수를해 보면, 1990년대 전반기에는 7월부터 점진적으로 관찰된 개체 수가 증가되어 9월에 가장 많은개체수(210개체)가 관찰되었으며, 2000년대 중반기에도 같은 경향으로서 9월에 가장 많은 개체수(946개체)가 관찰되었다. 또한 월별로 관찰된 개체수 평균도 1990년대보다 2000년대에서 약 5배가량 많았다. 두 집단의 월별 개체수의 차이를 검증하기 위하여 Mann-Whitney U 검정을 실시한결과 왜가리의 개체수는 3월부터 8월까지, 그리고 10월에 통계적으로 유의한 차이가 있는 것으로나타났으며(P＜0.05), 11월부터 익년 2월까지와 9월에는 유의한 차이가 없는 것으로 나타났다.\n계절별 개체수의 차이를 알아보기 위하여 두 집단의 평균값을 T 검정한 결과 왜가리의 개체수는 모든 계절에서 유의한 차이가 있는 것으로 나타났다(P＜0.05). 모든 계절에서 1990년대 전반기보다 2000년대 중반기에 왜가리의 개체수가 더 많은 것으로 나타났다.\n2000년대 중반기에 관찰된 왜가리의 지역별 평균 개체수를 조사한 결과 대마등(DMD)에서351.00개체, 장자 · 신자도(JJ.SJD) 120.50개체, 사자 · 도요등(SJ.DY) 137.50개체, 을숙도남단(LUD)193.75개체, 을숙도(USD) 340.75개체로 나타났다. 조사 지역 간의 차이를 알아보기 위하여Kruskal-Wallis 검정을 한 결과 지역 간에 통계적으로 유의한 차이가 있는 것으로 나타났다(P＜0.05).\n왜가리는 1990년대 전반기 보다 2000년 중반기에 더 많은 개체수가 관찰되었는데 특히 겨울철에 더 많이 관찰되었고 이는 왜가리가 다른 백로류와는 달리 월동을 위하여 동남아시아 등지로 이동하지 않고, 낙동강하구에서 월동을 하는 개체수가 증가하고 있는 것으로 볼 수 있다. 이러한 현상은 한반도의 최남단에 위치하고 있는 낙동강하구가 겨울철 평균기온이 다른 내륙지역 보다 높고, 겨울철에는 철새도래지로서 무분별한 출입이 통제되고 있고, 지리적으로 격리되어 있으며, 민물과 바닷물이 만나는 기수역으로 먹이가 풍부하기 때문으로 판단된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "다윈의 진화론이 정작 해체하는 것은 ‘창조론’이 아니라 당대 과학자들과 신학자들의 공통 토대였던 ‘인간중심주의와 목적론’이었다.\n인간을 중심으로 세계를 구성하고 해석하던 시대의 이념적 표상이 바로 창조론이었던 것이다. 진화론이 야기한 근심과 불안은 바로 인간중심적으로 세계를 해석하여 제시해주던 세계관과 이념의 토대가 허물어지는데서 야기되는 것이었다. 그리고 그렇기 때문에 창조론은 사람들에게 호응을 얻었다. 하지만 당대의 창조적 과학자들이 주장하듯,종이 고정되고 실체적인 것이라면, 창조에 의한 것이든 진화에 의한것이든, 목적론적 해석을 우회할 수는 없다. 다윈이 진정으로 도전한것이 바로 이것이다. 그것은 생명의 과정에 ‘목적’이나 방향성이 없다는 것이 아니라, 그것이 결정론적으로 고정되어 있지 않다는 것이다.\n다윈에게 종의 기원은 태고의 먼 옛날이나 아주 작은 유전자적 차원으로부터 도래하는 것이 아니라, 바로 생물 개체와 개체 사이의 차이 및 관계로부터 도래하는 것이다. 즉 바로 지금 여기 실존하는 이웃개체들과의 차이가 바로 종의 기원을 가능케 하는 ‘차이’이며, 그래서종의 기원은 생물 개체와 개체 사이의 관계에 기반하는 것이지, 오래전에 지나가 버린 과거나 혹은 그 과거의 정보를 통해 힘을 발휘하는유전자적 미시 차원이 아닌 것이다. 현대의 진화론 논쟁은 바로 이 다윈의 핵심적 주장, 즉 종의 기원은 어떤 신비한 과거나 보이지 않는 차원들에 있는 것이 아니라, 가장 구체적인 일상의 차이들로부터 도래한다는 것을 은폐하고, 종의 기원을 유전자나 환경 혹은 그들 간의 추상적 상호작용으로 환원하여 설명한다. 그러면서 정작 다윈의 진화론이함축하는 가능성, 즉 사람들 사이의 작은 차이들이 새로운 인간 종의탄생을 도모하고 있다는 사실을 은폐한다. 인간은 고정된 존재가 아니라 지금도 끊임없이 변화해 나아가는 ‘과정’인 것이다.\n진화는 종이 실체적인 것이 아니라 역사적 패턴의 문제임을 밝혀준다. 고정된 실체로서의 종은 존재하지 않으며, 이 실체적인 종이 다시 새로운 종으로 진화해 나아가는 것이 아니라, 종이라는 현상은 언제나 차이를 유발하며, 그 차이들이 보다 새로운 환경에서 새롭게 개체들이 적응해 나가도록 도와주는 현상을 가리킨다. 따라서 종은 ‘차이의 사건’이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "로그 메시지의 양이 증가함에 따라 수동 모니터링이 어려워지고 있다. 이에 데이터 마이닝 모델을 이용한 새로운 로그 분석 기술들이 도입되고 있으며, 대부분 모델은 정형화된 입력을 필요로 한다. 따라서 비정형 로그 메시지를 정형화된 형식인 로그 템플릿으로 변환하는 기술이 필요하다. 그러나 클러스터링 기반의 기존 기술들은 여러 개의 토큰으로 이루어진 개체를 감지할 수 없다는 어려움을 겪고 있다. 이 문제를 해결하기 위해 본 논문에서는 NER(Named Entity Recognition)을 활용한 로그 템플릿 추출의 가능성을 탐구한다. 구체적으로, 실험을 통해 기존 규칙 기반 파싱 기법의 한계를 보완하고 NER을 통해 개선할 수 있는 가능성을 검증하였으며, NER이 0.902의 F1-score로 로그의 객체를 유의미하게 인식할 수 있음을 확인하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구에서는 자발적으로 움직이는 개체 군에서 발생하는 다양한 형태의\n무리 형성을 이해하기 위하여 개체 모형에 기반을 둔 Netlogo 프로그램\n`Schooling'을 개발하였다. 이 프로그램에서는 개체와 개체간의 직접적\n상호작용뿐 아니라, 주변 매질에 의한 개체 간의 간접적 상호작용도\n도입하였다. 이 프로그램은 사용자가 편리하게 사용할 수 있도록\n만들었으며, 다양한 형태의 무리 형성과 그에 따른 상전이 특성을\n보여주도록 개발되었다. 이 프로그램을 이용하여 정적상태 (nonmoving\nstate)에서 동적상태 (moving state)로의 상전이가 2차 상전이 특성이\n있음을 보여주었다. 또한, 매질에 의한 상호작용의 효과로 소용돌이\n패턴이 형성될 수 있음을 보여주었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구에서는 개체 모형에 기반을 둔 NetLogo프로그램으로 생태계에서생기는 현상을 시뮬레이션하고 그 시뮬레이션에 부합되는 동역학 모델을구축했다. 동역학 모델에서는 포식자 (predator)와 먹이 (prey)의 양만고려하는 2개 변수를 갖는 모델이 아니라, 거기에 포식자의 에너지를도입하여 3개의 변수를 갖는 모델을 구축하였다. 두 모델의 포식자와먹이의 수량, 포식자의 평균에너지 등 양의 증가율과 감소율에 대한비교와 시스템 거동 (system behavior)이 나타내는 상그림 (phase diagram)의 비교를 통해 두 모델이 잘 일치하고 있음을 보여주었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The purpose of this research was to grasp the characteristics of bench use behavior through survey on how behaviorism of\nusing bench was expressed accordant with external environments that would be changed according to each time zone at the\ncommercial street. First, the results from research showed that there were differences in preference of bench according to the\nlocation of street furniture around the bench. Second, the result from research revealed that during the time zone when the bench\nusers scored the greatest number, the occupancy rate of the benches located at the corner with easy access and better view was\nhigher than those benches that placed in the center of the rest stops, and that, during the time zone when there were fewer\npedestrian traffics, the occupancy rate not only of the benches at the corner of the rest stops but of those benches placed in the\ncenter also was higher. Third, men preferred the bench that was rather independent separated from others, having a good view\nof the street where they could take a good look at pedestrians. Meanwhile, women preferred the benches facing each other that\nwould allow them to enjoy talking, and also that could be easily accessed. Fourth, the survey results revealed that there were a\nlarge number of pedestrians who sat on the benches, which was easy to access from the influx direction, and that there were\ndifferences in the distribution of bench occupancy according to the influx direction of pedestrians according to the time zone.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "히어리의 자연집단과 벌채집단간의 비교는 전라남도 순천시 승주읍 접치재, 월등면, 황전면, 경상남도 진주시 명석\n면, 경기도 포천시 백운산 5곳의 벌채지와 주변 자연림에 분포하는 히어리군락을 대상으로 비교 하였다. 100㎡당 맹아수와 개체 당 평균 맹아수는 벌채 집단에서 자연집단의 것보다 더 높게 나타났다. 반면 맹아수별 수고와 직경은 자연집단에서 더 높게 나타났다. 종조성과 식생상관성은 없으며 벌채집단과 자연집단 모두에서 큰 차이 없이 생육하였다. 개괄지인 벌채집단에서 근맹아 뿐만 아니라 실생묘로도 번식하였다. 이처럼 히어리는 환경적응력이 커서 인간이 훼손시킨 벌채집단에서 근맹아와 실생묘로 번식함으로써 종 자체의 소멸은 없고, 오히려 일시적인 교란이후에 개체군 확장을 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "정치사상은 인간의 정치 현상에 대한 사상이기 때문에 인간의 근원이 되는 인성의 문제는 정치사상의 현상이나 전개에 중요한 의미를 지닌다.\n본 논문은 하곡의 양명사상 관점에서 인성론을 중심으로 개체의 논리를 살펴보는 것이다. 특히 하곡이 한국 최고의 양명사상가로서 개체가 중시되지 않았던 성리학 정치 이념의 조선왕조라는 시대적 상황 속에서 개체성의 논리가 나타날 수 있었던 정치 상황과 사상상의 연계와 관련지어 찾아보는 것이다. 그리고 하곡의 개체성 논리가 한국 정치사상에서 어떠한 의의를 지니는가를 알아보는 것이다.\n첫째, 하곡의 양명사상에서 보인 개체 논리는 16세기 이후 인간의 개체성이 부각되었던 실학사상과 그 궤를 같이하면서 개체의 주체성에 관심을 갖고 있었다. 이러한 개체성의 강조는 「理」 중심의 성리학적 보편 질서에서 주관적 「氣」 중심의 양명학적 개체성 부각으로 나타났다.\n둘째, 하곡 양명사상에서 보는 바와 같이 「民」 본위의 治者政治가 인간의 내면적 수신이라는 주관적 이상론의 방법만 가지고는 이루어질 수 없다는 논리로, 「制度」라는 객관적 방법으로 근대적 이상 사회를 추구하고 있다.\n셋째, 하곡 말년에 나타난 개체성은 민중의 생존 문제와 국가의 수호라는 愛國保民에 이르는 愛國主義까지 진전시키고 있다. 특히 박은식의 「致良知」는 주체적인 도덕적 자아의 완성으로서 개체 수준이 민족 단위의 수준을 넘어 개인 단위의 수준으로까지 확대되고 있다.\n결국 하곡의 양명사상에서 나타난 개체성의 논리는 조선왕조 후기 사회의 격변과 병행하였고, 가정적 불우와 자신의 인간적 고뇌, 성리학 정치 이념에서의 당쟁의 격화와 성리학 통제 기능의 약화, 민생 문제에 적절히 대처하지 못한 지배층의 문란, 그리고 성리학의 허명에 따른 당시 양명학의 사회적 요구가 반영된 복합적인 것이었다.\n뿐만 아니라 하곡은 초기 양명학자인 남언경․최명길․장유 등과 가정적 관계와 學承의 관계를 가지고 있으며, 이들 초기 양명사상가와 연계되면서 개체성이 더욱 심화되는 계기가 되었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 모의개체로 하여금 동적행위연결을 통한 목적지향 행위계획을 수행토록 하는 기법의 구현사례로서 재계획기법을 소개한다. 기존의 행위처리기법, 특히 Semi-Automated Forces (SAF)에서는 모의 초기에 주어진 정해진 계획을 단순히 수행하는 수준에서 크게 벗어나지 않는다. 따라서 인간의 판단 같은 예측불허 상황이 발생하는 (Human in the loop) 모의에서 기존 기법은 상황대처에 미흡하다. 또한 그러한 기법은 돌발상황 대응을 위한 광범위한 경우의 수를 고려하다보면 행위조합 폭증 문제를 겪을 수 있으며, 그러한 조합이 상황에 부합하지 않을 수 있다. 재계획기법은 역전파(back-propagation)를 활용, 목표달성을 위해 필요한 행위들을 검색, 연계하는 자동계획기법 구현사례이다. 이 기법은 행위에 태그(pre/post-conditions)를 부여, 동적으로 행위들을 연결한다. 본 논문은 기법의 실효성 입증을 위해 국방분야의 연구과제에 적용된 성과를 소개한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "군 워게임 분야에서 많은 에이전트 협력과 관련된 연구들이 제시되었고, 그러한 연구들은 주어진 목표를 달성하기 위해 존재하는 한 팀을 이루는 모의개체간 협업을 위한 기법들을 다루고 있다. 급격히 변화하는 전장을 모의하기 위해서, 실제 전장상황에서 빈발하는 임무 인계를 반영하기 위해 하나의 모의개체는 다른 개체의 역할을 인계 받을 수 있어야 하며, 이를 위해 개체는 자신의 과업과 느슨하게 연결되어 있어야 한다. 이 요건을 만족함으로써 모의상황에서 파괴된 개체가 자신의 과업을 수행하지 못할 경우 다른 개체에게 자신의 과업을 전달하는 것을 가능케 한다. 그러나 개체와 과업간의 긴밀한 연결은 긴박한 전장상황에서의 임무 승계를 반영하는 것을 저해한다. 기존의 문제점으로서, 기존의 연구 및 워게임들은 설계단계에서 과업을 개체에 엄격하게 지정함으로써 그러한 느슨한 연계를 어렵게 한다. 이 결함을 극복하기 위해 역할기반명령계층(ROCH) 모델은실행상태에서 개체의 주변 상황에 근거하여 역할을 동적으로 할당한다. 이 모델에서 역할(Role)은 개체와 과업을 분리한다. 본 논문에서는 하나의 개체와 다른 부하 개체들 간의 역할과의 연결이 긴밀하지 않도록 출판/구독(publish/subscribe)패턴을 활용하여 ROCH 모델을 하나의 컴포넌트로 구현한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "Based on the semantic relationship between ‘X’ and ‘V/A’ the structure of ‘V/A+de(得)+yi(一)+Nm+X’ is classified into three types; ‘V/A+X’ represents (1) skill, (2) human modality, (3) non-human modality. ‘AP’s represent single trait and non-single trait, so that ‘V/A+de(得)+yi(一)+Nm+AP’ is classified into two types. In some sentences there is Atrib before ‘X’ and based on its semantic orientation ‘V/A+de(得)+yi(一)+Nm+Atrib+NP’ can also be classified into three subcategories. If the ‘NP’ is bounded, ‘yi(一)’ emphasizes the entirety and, on the contrary, ‘yi(一)’ emphasizes the individuality. When the ‘NP’ is a bounded abstract noun, the semantic state of ‘yi(一)’ is affected by the ‘container-contents’ category′s typical coefficient: the more typical ‘yi(一)’ emphasizes ‘overflow’, however when more atypical, its digital significance is stronger. When ‘X’ is an adjective, ‘yi(一)’ means ‘overflow’, and when ‘X’ is an verb, ‘yi(一)’ means ‘continuity’.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "개체명 인식이란 문서 내에서 인명, 기관명, 지명, 시간, 날짜 등 고유한 의미를 가지는 개체명을 추출하여 그 종류를 결정하는 것을 말한다. 최근 개체명 인식 연구에서 가장 우수한 성능을 보여주고 있는 모델은 Bidirectional LSTM CRFs 모델이다. 이러한 LSTM 기반의 딥 러닝 모델은 입력이 되는 단어 표상에 의존적이다. 따라서 입력이 되는 단어를 잘 표현하기 위하여 단어 표상을 확장하는 방법에 대한 연구가 많이 진행되어지고 있다. 본 논문에서는 한국어 개체명 인식을 위하여 Bidirectional LSTM CRFs모델을 사용하고, 그 입력으로 사용되는 단어 표상을 확장하기 위해 사전 학습된 단어 임베딩 벡터, 품사 임베딩 벡터, 음절 기반에서 확장된 단어 임베딩 벡터, 그리고 개체명 사전 자질 벡터를 사용한다.\n최종 단어 표상 확장 결과 사전 학습된 단어 임베딩 벡터만 사용한 것 보다 8.05%p의 성능 향상을 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문에서는 최적화 문제를 해결하는 기법의 하나인 유전자 알고리즘을 이용하여 모든 노드를 탐색하여 최적의 경로를 도출하는 최적화 경로 탐색 알고리즘을 제안한다. 경로를 도출하기 위해 중간 경로 노드로부터 출발지 노드 및 도착지 노드까지의 거리를 측정하여 개체를 생성한다. 출력 노드들을 도출하기 위해 생성된 개체를 적합도 함수에 적용하여 적합도를 계산한다. 계산된 적합도 값에 따라 교배를 할 노드 및 교배 지점(비트단위)을 선택한다. 선택된 노드와 교배 지점을 이용하여 개체들을 교배한다. 교배를 통해 새로운 개체를 생성한다. 새로운 개체가 적합도 조건에 만족하면 출력 노드로 도출하고, 다음 출력 노드를 도출할 때의 출발지 노드로 선택한다. 이러한 과정을 반복하여 모든 출력 노드를 도출한다. 제안된 방법을 실험한 결과, 순차 방식과 난수를 이용한 경우보다 제안된 방법이 효율적인 것을 확인하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "자율적인 다개체 모바일 로봇 시스템에 관해 경로 계획과 충돌회피는 중요한 기능이며 동시에 협력과 협동적으로 주어진 일을수행하는데필요한기능이다. 본 논문에서는이러한중요하고도도전적인문제를다룬다. 제안된방법은 포텐셜 필드 방법과 퍼지로직 시스템에 기반을 두고 있다. 첫째로, 전역경로 계획은 포텐셜 필드를 이용하여로봇이 목적지까지 가는데 비용을 최소화할 수 있는 경로를 선택한다. 그러고 나서 지역경로 계획은 퍼지로직 시스템을 이용하여 정적이거나 동적인 장애물과의 충돌을 피하기 위해 전역경로에서 경로를 변경시킨다. 본 논문에서는각각의 로봇은 독립적으로 목적지를 선택하며 동시에 다른 로봇은 동적인 장애물로 고려한다. 또한 장애물의 움직임을 예측할 필요도 없다. 이러한 과정은 각각의 로봇이 해당되는 목적지를 찾을 때 까지 지속된다. 이 방법을 테스트하기 위해 자율 다개체 로봇 시뮬레이터(AMMRS)를 개발했으며 시뮬레이션과 실험기반의 결과물을 제공한다.\n본 결과는 다개체 모바일 로봇 시스템에 대하여 경로계획과 충돌회피 전략이 효율적이며 유용하다는 것을 보인다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "오피니언마이닝은 대량의 온라인 고객리뷰에서 상품이나 서비스의 속성들에 대한 고객들의 주관적 의견을 긍정과 부정으로 분류하여 요약한다. 그러나, 고객들의 관심사항은 주관적 의견뿐만 아니라 객관적 사실을 통해서도 표현되기 때문에 주관적 의견만을 주요 분석대상으로 하는 기존 오피니언마이닝 기법을 확장할 필요가 있다.\n본 논문에서는 주관적 의견뿐만 아니라 객관적 사실도 분석대상으로 하는 개체연관망 모델을 사용하여 기존 오피니언마이닝의 분석능력을 확장한다. 개체연관망 모델은 각 개체에 대한 긍정부정 정도를 표현할 뿐만 아니라 개체들 사이의 연관관계와 상대적 중요성을 나타낼 수 있다.\n시스템 구현 결과, 개체연관망 모델에 기반한 오피니언마이닝시스템은 기존 기법에 비하여 보다 풍부한 정보를 추출할 수 있음을 확인하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "톱다리개미허리노린재(Riptortus pedestris (Fabricius))는 콩과 작물을 가해하는 해충으로 국내 대부분의 지역에서 발견된다. 톱다리개미허리노린재는 성충 수명이 길고 발육기간이 짧아 야외에서 여러 세대가 혼재되어 발생하고 있어 각 세대를 구분하기 어렵다. 특히, 제2세대 성충의 발생시기는 콩의 착협기와 일치하여 큰 피해를 주고 있어, 제1세대 성충의 방제는 제2세대 밀도를 감소시켜 콩과 작물의 피해를 줄이는데 도움이 될 것으로 예상된다. 따라서 본 연구는 약충기간의 광주기가 성충의 체색변이에 영향을 주는 특성을 이용하여 야외 포장에서 월동세대와 제1 세대의 발생시기를 구분하였다. 또한 톱다리개미허리노린재 개체군 모형을 수립하고 적용하여 이를 검증하였다. 여름형 성충의 비율이 20% 이상 되는 시기를 제1세대 톱다리개미허리노린재 성충의 발생시기로 추정할 수 있으며, 이는 제2세대 성충의 밀도를 억제하기 위한 방제시기를 결정하는데 활용될 것으로 기대된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "인간을 둘러싼 환경이 아니라 인간 자신을 변형시키는 과학기술의 영향력이 인간 사회의 포스트휴먼화를 가속화하고 있다. 그러나 대중문화의 SF적 상상력과 기술결정론적 미래학이 결합되어 그려지는 포스트휴먼 사회의 모습은 정당한 것일까? 포스트휴먼은 과연 사이보그 모델(기계적 보철화, 생명공학적 조작, 디지털 탈신체화)로 환원될 수 있을까? 시몽동의 기술-정치학은 도래 중에 있는 포스트휴먼 사회를 사유하는데 유용한 개념적 도구들과 새로운 청사진을 제시한다. 그에 따르면, 인간이 자신의 물리생물학적 조건을 넘어설 수 있는 가능성은, 생명체로서의 인간 개체 안에 내재하는 전(前)개체적 퍼텐셜의 존재와, 이 퍼텐셜 에너지를 개체초월적으로 집단화하여 현실화시킬 수 있는 기술적 대상들의 변환 역량에 있다. 포스트휴먼은 단지 기술의 효과에 불과한 것이 아니라 인간 안에 실재하는 ‘자연의 무게’와 더불어 발생한다. 기술은 결여된 인간을 강화하는 보철물이 아니라 인간의 잠재력을 현실화하는 매체로서 인간 사회의 새로운 구조화와 존재론적 도약을 가능하게 한다. 경제적 소외와 노동 문제로 환원될 수 없는 기술적 소외와 정보 소통의 문제, 인문교양으로 포괄할 수 없는 기술교육의 중요성, 기술적 활동을 통해 형성되는 개체초월적 집단성 등 시몽동의 통찰들은 포스트휴먼 사회로의 이행에서 주목해야할 기술-정치적 조건들을 보여준다. 인간의 사이보그화가 정당한지 비판하기 전에, 인간은 왜 ‘인간-기계 앙상블’의 형태로 변환하며 포스트휴먼 사회로 이행하고자 하는지 새로운 시각에서 접근할 필요가 있다. 나는 이 논문에서 시몽동의 기술-정치학이 어떻게 그 가능성을 제공하는지 밝혀보고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "학습자의 인지발달을 생물학적 존재로서 개인내적인(intra-mental) 상호작용에 기초를 두고 있는 피아제의 입장과는 달리, 사회적인 존재로서 개인간적인(inter-mental) 상호작용에 기초를 두고 있는 비고츠키는 학교를 가장 이상적인 교육기관으로 인식하면서, 근접발달영역 내에서 선발달자인 교사의 지도와 도움을 통하여 어느 누구로부터 도움을 받지 않은 채 수행할 수 있는 학습자의 실재적 발달수준을 능가하는 교육적으로 가장 이상적인 상태인 잠재적 발달수준을 달성할 수 있다고 주장한다. 비고츠키는 이런 과정이 학습자의 인지가 발달하는 가장 바람직한 과정임을 강조한다. 본 연구의 목적은 비고츠키의 교사관, 학생관, 방법관을 분석하고, 그 결과에 근거하여 그의 교육관을 도출하고자 하는 것이다. 본 연구를 통하여, Vygotsky의 교사관은 선발달자로서의 교사와 중재자로서의 교사로 규정한다. 학생관은 적극적인 참여자와 상호 협력자로 개념화 했으며, 끝으로, 근접발달영역의 활성화, 지식구축경험 공유를 방법관의 대표적인 특성으로 규정하였다. 결론적으로 Vygotsky의 교육관은 첫째, 사회 문화적 환경의 역할을 강조하고, 둘째, 발달을 주도하는 학습을 강조하며, 셋째, 지식 공유과정의 강조와, 마지막으로, 중재와 매개 과정을 강조하는 것으로 규정한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "식물은 다양한 생물적･무생물적 환경요인과 상호작용한다. 한 가지 종이 소유하는 특성을 이해하기 위해서는 다양한정보가 요구된다. 특별히 어떤 종이 멸종의 위협에 직면해 있는지를 평가하는데 있어서 한두 가지의 정보만으로는한계가 존재한다. 북방계식물로 우리나라가 분포의 남방한계에 해당하는 층층둥굴레는 2015년 12월까지도 멸종위협에직면해 있는 것으로 평가되었다. 최근 분포범위가 비교적 넓고 다수의 개체군이 보고되었음에도 개체군의 낮은 유전적다양성으로 인해 취약하다고 평가 하였다. 본 연구에서는 우선적으로 분포현황을 평가하였다. 이를 바탕으로 분포지의식생환경, 개체군의 구조, 식물계절학, 토양환경, 자가불화합성 여부를 평가하였다. 마지막으로 분포지에서 나타나고있는 현재의 위협요인을 평가하였다. 분포지는 일부 산지의 사면에 위치하는 경우를 제외하고 대부분은 하천의 가장자리에 위치한 미사가 퇴적되는 공간에 위치하였다. 대부분은 안정적인 개체군 구조를 나타내었고 재정착하는 유묘가존재하였다. 지상으로의 줄기 출현은 토양 중에 위치한 근경의 깊이에 따라 차이가 존재하였다. 특히 유묘와 어린개체는 토양 중에 얕게 근경이 위치하였다. 종자의 결실은 화분매개곤충의 방문과 수분의 성공이 중요한 요인으로평가되었다. 각각의 분포지에서 관찰된 주요한 위협요인으로는 경작지의 확대, 건물의 신축, 제방과 도로의 건설이있었다. 관찰된 위협요인에도 불구하고 넓은 분포범위, 270만 개체 이상의 전체 개체 수 및 재정착에 의해 새롭게형성되는 개체군의 존재에 따라 급격한 감소와 절멸은 나타나지 않을 것으로 예상되었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "개체명 인식은 미리 정의된 개체 범주로 텍스트의 요소를 분류하는 과정을 의미하며 최근 주목 받고 있는 음성 비서 서비스 등 다양한 응용 분야에 널리 활용되고 있다. 본 논문에서는 지식베이스를 사용하여 개체명 인식 코퍼스를 자동으로 생성하는 방법을 제안한다. 지식베이스의 종류에 따라 두 가지 방법을 적용하며 그 중 첫 번째 방법은 위키피디아를 기반으로 위키피디아 본문의 문장에 개체명 표지를 부착하여 학습 코퍼스를 생성하는 방법이다. 두 번째 방법은 인터넷으로부터 다양한 형태의 문장을 수집하고 다양한 개체들 간의 관계를 데이터베이스에 보유 중인 프리베이스를 이용하여 개체명 표지를 부착하는 방법으로 학습 코퍼스를 생성한다. 자동 생성된 학습 코퍼스의 질과 본 논문에서 제안하는 학습 코퍼스 자동 생성 기법을 평가하기 위해 두 가지로 실험했다. 첫 번째, 다른 형태의 지식베이스인 위키피디아와 프리베이스(Freebase)를 기반으로 생성된 학습 코퍼스의 표지 부착 성능을 수동으로 측정하여 코퍼스의 질을 평가하였다. 두 번째, 각 코퍼스로 학습된 개체명 인식 모델의 성능을 통해 제안하는 학습 코퍼스 자동 생성 기법의 실용성을 평가하였다. 실험을 통해 본 방법이 타당함을 증명하였으며 특히 실제 응용에서 많이 사용되는 웹 데이터 환경에서 의미 있는 성능 향상을 보여주었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "생태계 내에서 개체군 변동을 이해하는데 다양한 시간 스케일에서의 분석이 유용한 방법이 될 수 있다. 최근까지 다양한시간 스케일에서의 개체군 변동에 대한 연구는 거의 드물다. 본 연구는 2014년부터 2017년까지 4년간 충남 당진시 석문면논에 도래하는 백로류 개체군을 대상으로 시간 스케일에 따른 이들 개체군 변동에 영향을 미치는 요인을 확인하기 위해수행되었다. 백로류는 황로, 왜가리, 중대백로, 중백로, 쇠백로만을 대상으로 하였으며, 고정된 지점에 설치된 무인모니터링시스템을 활용하여 백로류의 개체군 변동을 다른 시간 단위의 스케일인 월 단위와 일 단위 변동으로 나누어 확인하였다.\n그 결과, 월별 개체군 변동에 영향을 미치는 요인은 시기, 평균 온도, 평균 강수량으로 나타났고, 일별 개체군 변동에 영향을미치는 요인은 평균 온도와 서식지 유형이 중요한 것으로 확인되었다. 시기의 통계적 유의성이 일 단위에서는 나타나지않고 월 단위에서 확인된 이유는 백로류의 논 이용 패턴이 일 단위보다는 월 단위 스케일에서 명확히 구별되기 때문으로판단된다. 이를 통해 시간 스케일에 따라 백로류에 영향을 미치는 요인에 차이가 있다는 것을 확인할 수 있었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구에서는 국가단위 개체모형을 이용하여 일반농가 한우의 도체중, 등심단면적, 등지방두께, 근내지방도에 대한 유전력를 추정하고 이를 국가단위 종모우 선발용 후대검정우 집단의 유전력과 비교하여 일반 한우농가 개량방향에 효율적인 기초자료로 활용하고자 한다. 일반농가 한우 107,020두중 생산정보와 2008년부터 2012년까지의 도체성적 기록이 정확한 일반농가 한우 5,843두를 대상으로다형질 개체모형을 사용하여 유전력를 추정하였다. 유전력를 추정하기 위해 도체형질에는 출생년도, 사육지역을 고정효과, 사육일령을 공변량으로 포함하였다. 일반농가 한우의 유전력를 추정한 결과 도체형질에 대한 유전력은 도체중 0.19, 등심단면적 0.17, 등지방두께 0.20, 근내지방도 0.23 이며 국가단위 씨수소 선발용 후대검정우 집단의 유전력에 비해 낮았다. 이는 사육지역의 환경, 암소 유전능력과 사육개월의 차이로 인해 낮게 나타났다. 따라서 본 연구에서도 현재 실시되어지고 있는 국가단위씨수소 선발용 개체모형에 농가 한우집단에 사용할 수 있는 유전요인을 포함시켜 실용화 개체모형 개발이 시급하다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 17∼21대 총선 기간 동안 다음과 네이버 등 포털들이 정치뉴스 섹션에서 주요 이슈 들을 어떻게 구성하였는지, 그리고 선거별로 이슈의 구성이 어떻게 변화하였는지를 분석하고자 하였다. 약 175만 건의 뉴스 기사들의 분석을 위해 본 연구에서는 개체명 인식을 통하여 주요 인명, 조직, 지역명의 출현에 대한 시계열적인 변화 양상과 함께 다음과 네이버의 유사성과 차별 성을 함께 확인하고자 하였다. 분석결과, 인명에 있어서는 현직 대통령의 노출 정도가 감소하는 반면 정치인이 아닌 인명들의 노출빈도가 증가하는 양상이 나타났다. 조직명과 관련해서는 정부 기관의 노출비중이 지속적으로 증가하고 있는데 반하여 민간조직의 노출은 감소하는 대별적인 양상이 확인되었다. 지역명과 관련해서는 지역명과 지역 관련 장소명들의 노출 비중들이 꾸준히 줄어들면서 총선과정에서 지역적 이슈의 중요성이 감소하고 있는 것으로 나타났다. 추가적으로 두 포털의 비교분석 결과는 대체적으로 두 포털이 유사한 개체명들을 노출시킴으로써 의제설정 상에 있어서 차별성을 확보하지 못하고 있는 것으로 나타났다. 또한 전체적으로 네이버에서는 상대적으로 낮은 여당 정치인들의 노출비중이 나타났으며 이에 반해 다음에서는 높은 노출비중 경향성을 보이고 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "Der Mensch als werkzeugschaffendes Lebewesen hat sich in seine Umwelt extendiert. Unter ‘Media’ versteht Marshall McLuhan die Produkte vom Prozess dieser Extension. Beschreibt McLuhan diejenigen Jahrhunderte, in denen die Kör- perausweitung durch Maschinen bzw. fragmentarische und mechanische Techno- logien erfolgt, als das Zeitalter der Explosion der Welt, so nimmt der Prozess mit der Emergenz der Elektrizität als genealogischen Fundaments der neuen Medien vom Radio über das Fernsehen bis zum Computer eine gegenläufige Richtung an. In diesem elektrischen Zeitalter, das unser Zentralnervensystem technisch so sehr ausgeweitet hat, dass es uns mit der ganzen Menschheit verflicht und die ganze Menschheit in uns vereinigt, werde die Endphase dieser Ausweitung des Men- schen beginnen, so hat McLuhan vorhergesagt. McLuhans Überlegungen waren sicherlich noch ganz in der analogen Phase der Elekrizität gefangen. Obwohl sich McLuhan in seinem Buch Understanding Media auf die Beobachtung des Fern- sehens, dem dominanten Medium seiner späten Schaffensperiode, konzentrierte, legte er schon in diesem Buch zwar wenige, aber doch außerordentlich relevante Erkenntnisse über den Computer und das digitale Zeitalter. Im Zentrum steht die bis heute relevante Erkenntnis, dass Elektrizität das Medium ist, das dazu fähig ist, den Planeten zu umspannen und alles zu durchdringen.\nDie als schwerer Eingriff in das körperliche Wahrnehmungssystem begriffene Ausweitung oder Selbstamputation eines Organs postuliert Maßnahmen der Narko- tisierung und Verkennung. Diese Narkotisierung und Verkennung nennt Mcluhan ‘narzisstische Betäubung’. In dieser narzisstischen Betäubung ist man außerstande, in seinem Gegenüber, das heißt in der Verlängerung seines eigenen Körpers in Medien, sich selbst zu erkennen und reflexiv wiederanzueignen. Das führt zu einer digitalen Dystopie. Dies ist auch McLuhans Prophezeiung, die sich heute realisiert.\nUm aus dieser Betäubung zu erwachen, müssen wir in unseren Körperaus- weitungen in Medien uns selbst erkennen und reflexiv wiederaneignen können. Diese Erkennen und Wiederaneignen meint in diesem Manuskript ein ethisches Postulat in der heutigen Multimedienzeit.\nNach Humberto Maturana bedeutet der Begriff Medium den Bereich, in dem ein autopoietisches System operiert. Dieses Medium enthält nicht nur die künstlichen Produkte, sondern alle natürliche Gegebenheiten. In der ‘global life’ Theorie als einer Hypothese der modernen Ökologie im weiteren Sinne heißt dieses Medium ‘co-life’. Diese Theorie versteht unter dem Begriff ‘Leben’ ein lebendes System. Sie findet das wahre Leben im ‘global life’, nicht im ‘individuellen Leben’, das ein wahres Leben geführen könne erst zusammen mit all den äußeren Bedingungen, die für das Existenz des individuellen Lebens nötig sind und daher ‘co-life’ genannt werden.\nIn unserem Medium als unserem co-life uns selbst zu erkennen und reflexiv wiederanzueignen, infolgedessen die christliche Nächstenliebe als die Sorge für die anderen Leute in die Praxis umzusetzen, das ist ein ethisches Postulat, das uns zu einer digitalen Utopie führen würde.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "데이터 자본주의 사회는 개인들이 정보를 공통으로 공유하는 일이 없이 알고리듬이 구성한 ‘필터버블’에 의해 분절된 환경에 존재한다는 것이 상식이자 현실임에도 불구하고, 동시에 동질화·획일화되는 양상을 보인다. 이 글은 데이브 에거스(Dave Eggers)가 쓴 『서클』(The Circle, 2013)의 후속작인 사실주의적 테크-픽션(realist tech-fiction) 『에브리』(The Every, 2021)를 통해 데이터 사회가 보이는 동질성과 획일화 양상을 검토하고, 작품이 제시하는 전망을 서사 형식을 통해 살펴본다. 분석을 위해 안토이네트 루브루아(Antoinette Rouvroy)의 ‘알고리듬 통치성’(algorithmic governmentality) 개념을 바탕으로, 유사-주체(quasi-subject)와 파동-입자 주체(wave-particle subject, Shapiro “Agorithmic” 65)로 정의되는 데이터 주체의 생성 단계와 행동 원리를 ‘비평 역량의 상실: 데이터 공론장의 형성’과 ‘현재를 선점하는 미래: 확실성의 갈구’라는 키워드를 중심으로 검토한다. 데이터 사회에서 개인은 데이터포인트로서의 ‘개체-하부적인것’(infra-individual)/분체’(分體, dividual)로 전락함과 동시에, 그것의 가변적 집합체이자 완벽한 객관성의 위상을 획득하는 ‘개체-초과적인것’(supra-individual)/알고리듬의 지시에 자발적으로 자신을 미세 조정하는 방식으로 체제를 재생산한다. 작품은 이 같은 현실을 사실주의적으로 재현하면서도 풍자적 미학이라는 서사 전략을 통해 현실주의적 봉합을 거부한다. 더불어, 시스템의 극단화를 통해 내파를 노리던 주인공이 결국 죽음에 이르는 서사를 전개함으로써, 사회적 성장(Bildungsroman)을 개인의 추락(anti- Bildungsroman)과 병치시켜 아이러니를 증폭시키는 방식으로 데이터 사회의 디스토피아적 전망을 주장한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "Phylogenetic reconstruction based on one locus or a few loci can be misleading due to gene-tree/species-tree discordance. Species delimitation and intraspecific studies also often suffered from low resolution because of insufficient statistic power when few loci were used. Exon capture method is one of the most efficient way to collect genome-scale data, which can significantly augment studies that aimed to investigate patterns and histories of organisms at both intraspecific and high level. Here, I showed the advancement of shifting from single-gene method to genomic approach and the benefit of applying exon capture method comparing to alternative genomic techniques. Then, I explained the principle of exon capture method as well as providing detailed recommendations for applying this method. Finally, I demonstrated exon capture method using two applications and discussed future perspectives of this technology.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 저수지의 환경요인들과 월동수조류의 개체수와 종수간 상호관계를 분석하고 이를 통해 수조류 서식지로서의 효과적인 관리방안에 대해 논하고자 2008년 11월부터 2009년 3월까지충청남도 서해안 일대의 저수지 21곳에서 수행되었다. 저수지의 환경요인 중 개체수와 종수의 증가에 가장 큰 영향을 미치는 환경요인은 저수지의 면적이었다(각각 Y＝1.884＋1.583X, R2＝0.584; Y＝6.948＋13.225X, R2＝0.504). 한편, 둘레복잡도지수가 커질수록 개체수와 종수가 감소하여(Y＝3.935－2.654X, R2＝0.318; Y＝3.682－2.483X, R2＝0.278) 같은 면적일지라도 형태에따른 영향이 있음을 알 수 있었다. 식생의 면적 또한 종수의 증가에 영향을 미쳤으며(Y＝－0.470 ＋14.006X, R2＝0.236), 영양 물질(TP, Chl-a)의 농도와 저수지의 조성 후 기간은 영향을 미치지 않았다. 결과적으로, 우리나라 저수지를 이용하는 월동수조류의 개체수와 종수는 저수지의 면적및 형태 등의 지형 요인과 수생식물의 면적에 많은 영향을 받는 것으로 판단된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "수생 정수식물인 매자기(Scirpus fluviatilis (Torr.) A. Gray)의 화력학과 개체군 변화를 규명하여 연안대 식생의 복원에 필요한 기초 자료를 제공하고자 경남 창녕군 우포늪에서 2006년 3월부터 2006년 11월까지 매자기의 계절에 따른 생장 특성 및 부위별 생물량을 조사하고 화분 재배 실험을 병행하여 실시하였다. 매자기는 우\n포늪의 우포, 목포, 사지포, 쪽지벌, 토평천 상하류 등에 고루 분포하는데, 특히 목포의 밀도가 높았다. 매자기의 생육이 왕성한 시기 중 5월 28일 조사에서 매자기의 분포 수심은 9~49㎝ 범위였는데, shoot 밀도는 수심 26~49㎝에서 높았고, ㎡당 shoot 밀도는 평균 119이며, 초장은 평균 122.3㎝이었다. 지하부의 괴경 밀도는\n104.5개/0.25m2으로 생존 괴경은 84.2%이고 사망 괴경은 15.8%였다. 생존 괴경의 평균 생중량은 3.0g인데, 1~4g의 괴경이 57.9%로 가장 많았다. 생존 괴경 중 이미 발아한 괴경은 43.8%였으며, 새싹이 1개(29.0%)인 것이 가장 많았고, 7~9g 및 10g 이상의 괴경에서 발아율이 높았다. 재배 실험에서는 8월초에 shoot 밀도가 발아괴경과 휴면 괴경에서 각각 13.5 및 8.7로 최대치를 나타내었다. 현지 조사에서는 매자기의 shoot 밀도가 태풍 피해 이전에는 대체로 비슷한 수준을 유지하다가 태풍 ‘에위니아(Ewiniar)'로 인한 침수 후 모두 고사하였고 11월에 급격히 증가하였다. 초장은 재배 실험에서 100∼116㎝ 및 현지 조사에서 60∼170㎝까지 생장하였다. 생육기 말에 화분에서 재배한 매자기의 생물량 분배 비율은 발아 괴경을 식재한 화분에서 줄기 8.9%, 잎 6.6%, 화서 0%, 지하부 84.5% 등이고, 휴면 괴경을 식재한 화분에서는 줄기 7.1%, 잎 7.1%, 화서 0%, 지하부 85.8% 등으로서 모두 지하부의 비율이 높았다. 또한 생육기 말에 화분 속의 괴경 수가 1.4∼4.1배 증가한 것으로 보아 매자기는 영양생식으로 주로 번식하는 것으로 사료된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "<위생전>은 17세기 소설 가운데서 특이한 위상을 점하고 있다. 공간을 인물의 운명으로 조건지우는 한편 삶의 가치를 다층화하는 수단으로 삼았기 때문에 이렇게 볼 수 있다. 공간은 두 가닥의 대열로 나타난다. 한 가닥은 인물이 소망을 이루는 공간 대열이고, 다른 한 가닥은 인물이 소망을 이루지 못하는 공간 대열이다. 위경천은 성격이 다른 두 가닥의 공간 대열을 교차적으로 밟아나간다. 세 차례나 제시되는 소숙방의 집을 A대열이라 하고 악양성 나루터, 위경천의 집, 전장터를 B대열이라 할 때, A대열 → B대열 → A대열 → B대열 → A대열의 과정을 보인다. A대열에서 내세우는 가치는 개체의 행동양식이고, B대열에서 내세우는 가치는 집단의 윤리체계인데, 각 공간 대열은 서로 자기 쪽으로 위경천을 끌어들이고자 한다. <위생전>의 의의는 여기서 드러난다. 17세기의 공간이 인물에게 어떤 영향을 끼치는지를 세세하게 파헤침으로써, 공간을 다변화하고 인간의 삶을 입체적으로 형상화했다는 점이 <위생전>의 의의가 된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "지난 2007년 통계에 의하면 우리나라는 외국인 100만 명 시대에 진입하였다. 이제 우리 사회는 백의민족, 단일민족, 단일문화, 순혈주의 등의 동질성만을 강조하던 시대는 서서히 역사 속으로 사라지고 있다. 다인종, 다민족, 다문화, 다종교 등 여러 이질적인 요소들이 함께 어울리고 섞이고 경계가 무너지면서 온갖 종류의 새로운 잡종들을 탄생시키는 융합과 통섭(統攝, Consilience)의 시대이고, 인종, 문화, 학문, 기업, 기술, 음식 등 모든 영역에서 벽을 허물고 각각의 다름들이 균형과 조화를 이루면서 자신들의 다름들을 멋지게 연출하며 서로 소통하고 공존하는 새로운 글로벌 시대가 이미 개막되었다. \n우리 사회의 이러한 급속한 변화는 모든 영역에 영향을 미치고 이에 상응하는 변화를 요구하고 있다. 이러한 변화의 요구에 따라 이미 각 분야에서 엄청난 변화가 진행되고 있다. 그러나 정작 모든 변화의 토대가 되어야 할 정신적 분야 - 의식과 윤리적 측면 - 에서는 상대적으로 그 변화의 속도가 너무나 더디다. 이러한 외적 물질적 변화와 내적 정신적 변화와의 차이가 우리 사회의 근본적 변화의 가장 큰 걸림돌이 되었다. 이 걸림돌을 제거하지 않고서는 궁극적인 도약은 불가능할 것이다. \n본 논문에서는 새로운 의식과 윤리가 요구되어지는 글로벌 시대와 21세기 지식정보사회에서 아직도 통용되는 전통사회의 의식과 윤리가 낳는 문제들을 살펴보고, 이 시대와 사회가 요구하는 새로운 의식과 윤리가 구체적으로 어떠한 모습과 기능을 해야 하는지를 제시하고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 쇠백로(Egretta garzetta)에서 부모와 새끼 그리고 형제간 개체인식을 알아보기 위하여 백로류 집단번식지에서 20개의 쇠백로 둥지를 대상으로 이루어졌다. 그 결과 새끼들은 부화 후약 18～20일 정도에 그들의 형제와 비 형제에 선택적 반응을 하는 것으로 나타났다. 그러나 부모는 새끼가 부화 후 20일전에는 자신의 새끼를 인식하지 못하는 것으로 나타났다. 음성적 인식을알아보기 위한 실험에서는 새끼는 자신의 어미와 형제 모두에게 다가가는 반응이 나타나지 않았다. 집단번식지에서 개체 인식은 그들의 사회행동에서 중요한 진화적 지표가 된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 한우 암소 초음파 측정자료 특징을 알아보고, 측정형질에 대한 유전모수를 추정하여 육질 또는 육량 개량을 위한 기초자료를 제공하기 위해 수행되었으며, 2001년부터 2009년까지 한국종축개량협회에 의해 측정된 한우 암소 36,893두를 이용하였고, 그 중 반복기록이 있는 개체는 7,913두였다.\n유전모수 추정을 위하여 반복개체모형을 이용하였으며, 유전모수추정에는 REMLF90(Miztal, 2001)을 이용하였다. 유전모수 추정 모형의 설정을 위하여 흉위, 영양도 및 초음파 측정치에 대한 출생년도, 출생계절, 측정년도, 측정계절, 측정지역, 측정연령 등의 환경효과를 추정하였다.\n반복개체모형으로 추정된 배최장근단면적, 등지방두께 및 근내지방도에 대한 유전력이 각각 0.31, 0.38, 0.27로 나타났고, 다형질개체모형으로 추정한 유전력은 각각 0.02, 0.09, 0.07로 낮게 추정되었다.\n반복개체모형을 이용한 반복력은 배최장근단면적, 등지방두께, 근내지방도가 각각 0.46, 0.57, 0.39로 나타났다. 분석모형 간의 추정치의 차이를 비교 할 때 반복모형에서의 유전력과 반복력이 높게 추정되었다.\n따라서 반복형질 값을 가진 형질들의 측정치를 표준화하여 한우 암소개량을 위한 기초자료로 활용된다면 유전능력평가와 개량사업 비용절감에 도움이 될 것으로 기대된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "맹꽁이(Kaloula borealis)의 산란지 보호하기 위하여 제주도 전 지역에 분포하는 습지를 대상으로 2007년부터 2010년까지 5월에서 8월 사이에 조사하였다. 비가 오는 날 밤부터 다음날 낮 동안 울음소리를 통해 습지의 위치를 파악하였으며, 알과 유생의 유무로 산란지를 판단하였다. 연구결과 맹꽁이들이 산란지로 이용하는 습지는 83개의 지역으로 나타났으며, 영구습지를 산란지로 이용하는 경우가 많았다. 고도별로는 150m이하가 전체의 81.9%였고, 산란지의 수심은 일반적으로 50cm를 넘지 않는 얕은 장소에 산란하고 있었다. 지역별 산란장소는 제주시 지역이 54개소로 서귀포시지역 29개소보다 많았는데 이는 서귀포시 지역이 과수원이 많아 습지가 더 많이 훼손된 결과로 판단된다. 성산읍인 경우는 갈대습지가 넓게 분포하고 있어 다른 지역보다 산란지가 많이 보존되어 있었다. 본 연구결과는 개발에 앞서 산란지를 보호하고 서식장소를 제공하여 맹꽁이의 개체군을 보존하고, 이미 심각하게 손상되었거나 파괴된 산란지를 복원하게 하여 급격히 감소되어가는 개체군을 유지할 수 있는 자료로 활용될 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "중국 當代의 詞家였던 劉揚忠은 자신의 大作인 唐宋流派史에서 과거의 詞學 연구에 대한 반성과 현재·미래의 詞學 연구에 대한 방향성을 투척하고 있다. 劉揚忠은 특히 唐宋詞의 流派에 대한 설정과 규정 및 용어 사용에 대한 오류를 지적하고 있으며, 이를 지양하고 개선하기 위해서는 각 시대의 詞人들에 대한 작가별 개체연구가 아닌, 경향성을 중심으로 한 군체의 연구로 그 방향을 전환해야만 한다고피력하고 있다. 지금까지도 관성적으로 사용되고 있는 완약파·호방파 등의 표현은 풍격과 유파를 혼돈한 것으로 詞文學을 바르게 이해하는 데 있어, 커다란 장애의 요소로 작용해왔다. 이에 劉揚忠은 唐宋 流派史을 통해 완약파·호방파 등에 대한 개념의 오류를 규명하고, 詞文學의 유파에 대하여 정확히 인식하여, 향후 詞學 연구의 가속적인 바탕을 구성하려 하였다. 劉揚忠의 이러한 시도와 주장은 詞家들에게 대단히 유의미한 경고라고 할 수 있다. 따라서 그의 견해와 주장을 면밀하게 살펴, 그 의도를 간파하고 이해하고 소개하는 것이 본고의 목적이다",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This study has evaluated 9 AI chatbots developed by a class of 19 pre-service teacher students in order to find out whether those chatbots work properly and pre-service student teachers’ attitudes to developing chatbot experiences. The summary of the study is as follows. First, four types of evaluation are used: 1) asking questions specific to the entity, 2) evaluating whether prompts work properly, 3) evaluating whether or not the partial utterances were accepted depending on the work of prompts and finally, 4) performing the actual learning task. According to the analysis, 1) the chatbot had a 57.4% success rate in setting up the entity. 2) Prompt operation in relation to the entity showed a success rate of 50%. 3) Initiating prompts by part of speech was 57.4% successful. 4) Finally, six chatbots have succeeded in performing learning task. Second, 9 out of 10 items in the active and collaborative learning domain show more than 3.0 and positive recognition. Six out of seven items in the learning strategy category have scored at least 3.5, indicating that the collaborative task had students actively communicate with peers and contribute to effectively completing the task. In addition, the average time spent for finishing the task was 34 hours or more, which is a surprising result considering that the total semester hours for the course work are 30 hours per semester. The findings of this study suggest that it’s the only beginning of a collective effort to implement AI in education. We are supposed to face the music and give it a try.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 우리나라 흑비둘기 최대 서식지인 울릉도에서 2016년 3월부터 2018년 2월까지 흑비둘기의지역별 개체군 변동과 선호하는 생태적 환경에 대하여 조사하였다. 조사기간 동안 40개 정점에서 확인된 흑비둘기의 누적개체수는 1,956개체가 조사되었고 최대개체수는 2016년 8월에 326개체가 출현하였다. 월별 개체수 변동은 10월부터 출현개체수가 감소하다가 겨울철인 12월에서 2월에는 거의 관찰되지않았다. 지역별 개체수 비율은 2016년에는 나리분지 지역이 33.43%로 가장 높았고 2017년에는 태하,학포 지역이 29.39%로 흑비둘기가 많이 출현하였다. 흑비둘기가 선호하는 서식지 특성은 활엽수림(77.5%), 임분의 영급은 4영급(75%), 흉고직경(DBH)은 중경목(80%), 수관수밀도는 밀밀도를 선호하였다. 해발고는 평균 178.22±36.60 m(SD, n=40, range 10∼472)였고 10∼160 m 지역이 전체 지역의57.5%를 차지하여 저지대 산림을 선호하는 것으로 나타났다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "모감주나무는 꽃을 보기 위한 정원수나 밀원수로 이용되는 자원식물이다. 이 연구는 모감주나무의 자생지를 천연기념물로 지정하여 보전하는 완도와 안면도에서 개체군 특성과 군락 내 분포하는 구성식물종의 특성을 분석하고 관리방안을 마련하기 위하여 수행되었다.\n그 결과, 완도와 안면도의 모감주나무군락의 층위구조는 각각 4층(교목층, 아교목층, 관목층, 초본층)과 2층(아교목층, 관목층)이었고, 흉고직경급분포는 역J형과 정규분포형을, 공간분포는 집중분포와 규칙분포이었다. 또한 관속식물상(193분류군:150분류군)과 식물구계학적 특정식물종(114점:32점), 한국특산식물종(2분류군:1분류군)의 다양성이 완도의 모감주나무군락이 안면도의 모감주나무군락보다 더 높았다. 반면 귀화율은 안면도(14.7%)가 완도(12.4%)보다 더 높았다. 이처럼 완도의 모감주나무군락의 자연성이 안면도보다 높게 나타난 것은, 완도는 자연친화적으로 보전되고 있는 반면에, 안면도는 인위적 간섭이 심하게 일어나고 있음을 뜻한다. 따라서 안면도의 모감주나무군락도 완도처럼 유식물의 천연 갱신 등이 가능한 자연친화적인 관리로의 전환이 필요하다고 판단된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "POI (Point of interest)는 위치 정보를 가진 관심 지점을 뜻하는 용어로, 디지털 지도 위에서 표현될 수 있는 주요 시설물(관광지, 교통시설, 문화시설, 음식점, 연례 축제 장소 등)과 지역 등을 지칭한다. 이러한 POI는 위치 기반 서비스에서 대부분의 데이터를 연결하고 관리하는 기준점으로 쓰인다. 본 논문에서는 학습 데이터에 의존하지 않는 근사개체명 인식 방법을 이용하여 텍스트로부터 POI후보를 탐지하고, POI를 POI 집합에 연결하는데 있어서의 모호성을해소하는 두 단계의 관심 지점 탐지 방법을 제안하였다. POI 모호성 해소 문제를 해결하기 위해 문서의 주제 지역 정보를 이용하는 방법과 POI 그래프를 생성하는 방법을 제안하고, 테스트 콜렉션 구축을 통한 정량적 평가를 통해 두가지 POI 모호성 해소 방법의 성능과 장점 및 단점을 분석하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문에서는 이동 로봇의 군집 제어를 위해 퍼지 보상된 PID 제어 시스템을 제안한다 . 제어 시스템은 선도-추종기법에 기반한 기구학 제어기와 이동 로봇의 동역학적 영향을 고려한 동역학 제어기로 구성되어 있다. 이동 로봇의대형 유지를 위해 동역학 제어기는 PID제어기로 구성되었다. 하지만 PID 제어기는 비선형 또는 환경 변화에 취약점을 가진다. 이러한 문제를 보완하기 위해 퍼지 보상기를 추가하였다. 마지막으로 개선된 성능을 보이기 위해 컴퓨터시뮬레이션을 통해 제안된 제어기를 평가하였다",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "인성교육에 한 심과 요구로 인성교육법이 시행되고 있음에도 불구하고 교육에서 인성 는 인격의 개념은 불분명하고 모호하게 규정되어 있으며 이것은 교육의 혼란을 이끈다. 이러한 혼란은 인간 본성의 의미를 총체으로 이해하지 못한 계몽주의 사상에서 비롯된다. 계 몽주의 사상을 표하는 칸트의 이성주의나 루소의 낭만주의는 세의 존재론 인간에 한 논의 없이, 인간본성을 논함으로써 인간본성을 온히 이해하는 데에 한계를 가진다. 이 게 인간의 교육을 이해하는 것은 본래 존재론에 그 근원을 두는 인격의 개념을 제로 드러내 지 못한다. 그러므로 본 연구에서는 아퀴나스와 마리땡의 존재론 인간을 살펴으로써 세 존재론에 근거한 인격의 개념과 그것이 가져오는 교육 함의를 고찰한다. 아퀴나스의 존재 론을 토로 인격의 의미를 교육이론으로 해석한 마리땡은 인격과 개체성의 구분 련을 통하여 인격의 의미에 들어있는 신 본성의 측면, 즉 인간의 본질 측면에 의해 가려지기 쉬 운 인간의 존재 측면을 드러냄으로써 인간본성의 의미를 총체으로 이해하고 있으며, 이로 부터 교육의 목은 인격을 최화 하는 것이라는 , 그리고 그것은 학생 마음의 내 활력과 교사의 기라는 역동 요인에 의해 실된다는 을 분명히 하고 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "<단허리소리>는 대부분 남한강 수계지역과 그 연장지에 분포한다. 강원도 횡성과 원주 등 섬강 일대에 토대를 두고 남한강을 루트로 삼아 주변지로 퍼진 것이다. 그런데 남한강 수계지역은 아라리권, 하나소리권, 상사소리권, 정자소리권 등 4대 농요권이 맞부딪치며 대립국면을 보이는 경계지역이다. 이 중 <단허리소리>가 높은 점유율을 보인 곳은 아라리권과 하나소리권의 동남부지역에 그쳤다. 외부 권역에 진입하면서 그 곳의 다른 <논매는소리>들과 경쟁하며 충돌하는 과정을 겪으며 추동력이 약화된 탓이다.\n<단허리소리>의 분포지들은 후렴의 모습을 달리하며 대립적인 국면을 형성하고 있다. <단허리소리> 후렴이 섬강일대 거점지의 영향력이 강한 곳에서는 전형이 유지되고, 그 영향력이 점차 약화되면서 그 정도에 따라 핵심어 “단허리”가 “대허리”로 바뀐다. 그리고 대허리권 안에서는 거점과 인접한 곳에서는 전형 후렴의 정통형 장식어구가 쓰이고, 더 나아간 곳에서는 후렴의 장식어구가 다양하게 변이되는 양상을 보인다.\n민요는 스스로 지닌 미감과 정서에 따라 각자의 에너지를 지니며, 문화지형에 따라 소비의 감도가 형성된다. 그러므로 민요의 파급력은 스스로의 미적 자질과 문화지형의 함수에 의해 결정되며, 이를 바탕으로 동일용도의 다른 존재들과 경쟁과 충돌을 경험한다. 그러기에 민요의 분포는 각각 나름의 생태력을 내포한다. 이러한 시각에서 <단허리소리> 분포 국면 읽기는 그것의 생태력 읽기라는 의미를 지닌다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "조르주 캉길렘의 의철학에서 의학은 기술이라고 주장된다. 이는 실용적 의미가 아니라 인간의 전체성을 반영하는 가치론적 지평에서 제시된다. 이러한 의학의 특징이 캉길렘의 철학적 사유의 동기가 된다. 의학적 지식은 생리학의 단순한 응용이 아니라 환자 개인의 체험에 기초한 임상적 관찰에서 비롯한다. 의학이 과학이고 그 실행이 순수 지식의 응용이라면 환자는 수동적 대상에 머물게 된다. 그러나 환자는 질병에 수동적으로 노출되기보다는 자신의 생애를 통해 이미 습득된 능동적 태도에 의해 질병의 위협에 대처한다. 캉길렘은 이 점을 ‘규범성’이라고 특징짓는다. 규범성은 개인의 삶의 핵심이지만 실증주의 의학은 이를 설명할 수 없다. 여기서 캉길렘의 의학사상의 생기론적 특징이 나타난다. 캉길렘의 규범성 개념은 일인칭 주관과 관련되기 때문에 기계론적 설명방식을 벗어난다. 캉길렘의 독창성은 개체성과 가치 그리고 규범에서 의학의 본질을 도출하는 데 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "멸종위기수생식물 선제비꽃이 증가된 CO2농도와 온도에 생태적으로 어떻게 반응하는지 알아보기 위하여 연구를 실시하였다. 실험은 2007년부터 2012년까지 야외조건인 대조구와 CO2농도 + 온도를 증가시킨 처리구에서 개체생태학적으로 생육반응을 모니터링하였다. 그 결과 지상부 길이, 개체 당 가지 수, 개체 당 열매 수, 열매 당 종자 수, 가지 당 열매 수와종자무게는 처리구에서 대조구보다 낮았으나, 가지 당 잎 수는 많았고, 꽃대길이, 가지 길이와 개체 당 잎 수는 차이가없었다. 이러한 결과 CO2농도와 온도가 증가하면 선제비꽃의 가지 수는 줄어들지만 가지에 붙은 잎 수를 늘리는 반응을하며, 종자생산이 감소하여 번식에 부정적임을 의미한다. 그래서 지구온난화현상은 멸종위기의 주요한 원인 중 하나가 될것으로 판단된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 필자가 수행하는 몸학 연구의 연장선상에서 나온 글이다. 몸학은 화이트헤드의 유기체적 세계관을 사유의 가장 궁극적인 기초 배경으로 삼고서 이를 몸의 현실에 응용해보고자 하는 하나의 시도에 해당한다. 여기서 말하는 몸은, 영어의 신체(body)로 번역되는 한글말이지만, 원래 우리말의 몸이라는 의미에는 물질과 정신이 결합된 차원을 내포하고 있다. 본래 이원론적인 의미가 아닌 것이다.\n본 연구에서 소개하고 있는 홀로니즘 개념은 개체 분석 수준과 동시에 전체 및 부분을 통합하는 통합적 접근법을 내포한다. 이것은 전체성과 개체성을 모두 포괄하는 핵심 개념에 속한다. 여기서는 이를 <전개체성>으로 명명하고 있다.\n또한 몸학은 통섭 대신에 몸섭 개념을 제안한다. 우리는 모든 개별 학문들을 몸을 통해 섭렵하고 있다. 몸학에서 보는 우리의 몸은 온갖 관계들로 구성되어 있다. 그런 점에서 몸섭 개념을 통해 개별 전문 영역에 갇혀 있는 현재의 여러 분과 학문들을 새롭게 조망해보자는 것이다. <몸섭>은 다양한 분과 학문들 간의 만남과 교차가 일어나는 진정한 통합적 크로스오버의 사건이자 큰 줄기가 될 만한 결절점을 의미한다. 알고 보면, 우리가 배우고 익히는 모든 학문과 지식들은 결국 몸을 위한, 몸에 의한, 몸에 관한 학문들이기 때문이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "온도에 따른 톱다리개미허리노린재 (Riptortus pedestris)의 개체군 밀도 변동 예측 모델을 상용 소프트웨어인 DYMEX로 구축하고 월동 성충밀도를 바탕으로 한 연간 발생 밀도 변동 패턴과 살충제 처리 시기에 따른 밀도 억제 효과를 시뮬레이션하였다. 구축된 모델은 총 10개의 모듈을사용하였으며, Lifecycle 모듈은 알, 1, 2, 3, 4, 5령, 성충의 7개 발육 단계로 구성하였다. 월동 성충 개체군의 포획시기를 이용하여 연중 밀도 변동을 예측한 결과 연도에 따라 3~4번의 신 성충 발생이 가능하여 페로몬 트랩 포획밀도 조사와 유사하였다. 콩 포장으로 침입해 들어오는 두 번째 신성충의 경우 개발된 모델을 이용하여 예측된 성충 발생 최성일이 페로몬 트랩으로 조사된 포획 밀도 최성기와 거의 일치 하였다. 그러나 예측된 첫번째 신 성충 발생 최성일은 페로몬트랩 포획 최성기보다 연도에 따라 9~16일 늦었으며, 마지막 세대의 발생 최성일은 연도에 따라 페로몬 트랩 포획 최성기보다 17~23일 빨랐다. 살충제 사용을 가정한 첫 번째 신성충 개체군 밀도 억제가 다음 세대들의 밀도 증가에 미치는 영향을 시뮬레이션한결과, 신 성충 발생 초기일수록 밀도 억제효과가 커서 7월 1일 살충제 처리를 가정하였을 때 다음 세대에 형성된 성충은 무처리의 3% 정도로 현저하게 낮았다. 또한 포장에 침입해 들어오는 두 번째 신성충 개체군을 대상으로 시기별 살충제 처리 효과를 시뮬레이션한 결과 8월 30일 살충제 처리를 가정한 경우 다음세대 성충 최고 밀도는 무처리의 25% 정도로 줄었고, 최고 밀도에 도달한 시기도 무처리에 비해 2주 이상 늦었다. 이상의연구 결과들은 톱다리개미허리노린재의 효율적인 종합적 방제 계획을 세우는데 유용하게 사용될 수 있을 것으로 기대된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "CMV 내병성 인자가 도입된 형질전환고추(H15)가 바이러스 매개충인 복숭아혹진딧물(Myzus persicae Sülzer)의 개체군 성장에 미치는 영향을 조사하기 위하여 ‘H15’에서의 개체군 통계량을 모본고추(P2377) 계통에서의 생활사와 비교하였다. 23±0.5℃에서 복숭아혹진딧물의 평균수명은 ‘P2377’ 과 ‘H15’에서 각각 26.88일과 25.92일로 유사하였으며, 산자수 또한 ‘P2377’에서 63.5마리와 ‘H15’에서 66.59마리로 유의한 차이를 보이지 않았다. 순증가율은 ‘P2377’에서 64.13, ‘H15’에서 66.43, 내적자연증가율은 각각 0.294와 0.299로 유의한 차이가 없었다. CMV 저항성 인자의 삽입으로 형질 전환된 고추는 복숭아혹진딧물의 생활사에 영향을 미치지 않았다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글의 목적은 서양 멜랑콜리의 한국적 변용 과정을 추적하기 위하여 사르트르의 철학(특히 사랑론)과 고정희의 시를 비교하는 데 있다. 상호문화철학적인 관점과 방법이 본 논문의 기본 구조를 이루고 있다. 사르트르와 고정희가 공유하는 만남의 지평은 자유와 사랑이다. 사르트르는 자유를 바탕으로 서양의 사랑 담론을 재정립한 철학자다. ‘계약결혼’은 그의 사랑론을 잘 대변해 준다. 실체적 존재론을 바탕으로 사르트르는 자유인들 사이의 사랑을 규명하였는데, 이 사랑에서 필연적으로 멜랑콜리라는 정조가 파생된다. 한편에서 고정희는 사르트르식 자유를 적극 수용하기 때문에 그녀의 시에도 멜랑콜리 정조가 감돈다. 그러나 다른 한편에서 그녀는 의식적으로 전통적인 한국 여성의 한을 멜랑콜리에 접목시킨다. 온전히 서양의 자유, 즉 실체적 존재론에 뿌리내린 자유를 시인은 받아들일 수 없었기 때문이다. 사르트르의 사랑이 근본적으로 자기애에서 유래한 것이라면, 고정희의 사랑은 타자 중심적 사랑에서 유래한 것이다. 사르트르에게 자유가 사랑에 앞서는 것인 반면, 고정희에게 사랑은 자유에 앞선다. 그것은 곧 사랑의 ‘관계’가 실체(주체)에 선행한다는 뜻이다. 시인이 관계적 존재론의 관점에서 자유와 사랑을 재해석함으로써, 사르트르와는 다른 길을 간다.\n고정희는 사르트르와 결별하는 지점에서 한을 탐구하고, 그것은 놀랍게도 탈근대적 성찰로 이어진다. 그녀의 시, 「드디어 신 없이 사는 시대여」는 서양의 근대적 자유가 얼마나 역설적으로 인간을 자유롭지 못하게 하는지를 잘 보여주는 작품이다. “버린 것들 속에 이미 버림받음이 있다”는 시 구절 속에서 필자는 “존재유기”를 말한 하이데거와 ‘인간 조건의 망각’을 지적했던 아렌트의 성찰을 읽어내고 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문에서는 컨테이너 영상 인식 시스템의 처리 과정에 컨테이너 코드 영역 추출과정이 있는데 본 논문에서는 이를 모폴로지(Morphology) 연산과 라벨링 개체 병합 방식을 이용하여 추출하는 방법을 제시하고자 한다. 입력된 영상에서 우선 영상 전체 비율을 기반으로 하여 영역 분할을 적용하여 코드부분이 있을만한 부분만을 남기고 영상에서 컬러정보를 제거하여 그레이 영상으로 변환한다. 그리고 4가지의 모폴로지(Morphology) 연산을 적용하여 서로 다른 4개의 영상을 생성한다. 생성된 4개의 영상을 라벨링하여 개체를 추출해내고 영상과 개체간의 비율을 고려하여 잡음을 제거한다. 이후 라벨링된 개체들을 병합하여 컨테이너 코드 영역을 추출해낸다. 실험 결과 유효영역 비율이 단순 영역 추출 방식을 적용한 경우 보다 높게 나타났다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글의 주된 목적은 들뢰즈의 ‘존재의 일의성’ 주장이 무엇을 할 수 있으며, 왜 그것을 할 수 있는지를 밝히는 것이다. 이를 위해, 우리는 먼저 들뢰즈가 제시하는 ‘정동의 윤리학’이 기존의 도덕 이론에 어떤 근본적인 혁신을 가져오는지를 논의한 다음, 이처럼 매우 중요한 일을 할 수 있는 이 ‘정동의 윤리학’이 실은 ‘존재의 일의성’ 주장에서 그것을 뒷받침하는 근거를 찾을 수 있다는 것을 보여줌으로써 이 목적을 달성하려 하였다. 실로 ‘정동의 윤리학’의 커다란 혁신성은 개체에 대한 들뢰즈의 새로운 정의(定義)로부터 논리적인 결론으로 나오는 것이다. 그러므로 우리는 개체에 대한 기존의 정의는 ‘존재의 일의성’ 주장과 양립 불가능한 반면 오직 들뢰즈의 이 새로운 정의만이 이 주장에 의해 지지받을 수 있다는 것을, 이 기존의 정의가 숨기고 있는 존재론적 함축을 파헤침으로써 보여 주려 하였다. ‘존재의 일의성’ 주장은 어떤 경험적이거나 실증적인 증거에 의존하지 않고 순전히 사유의 독자적인 힘에 의해 수립되는 사변적인 주장이다. 실증성에 의존하는 주장만을 펴기보다는 오히려 사유의 순수한 사변적인 힘을 신뢰하고 이 힘의 개발에 적극적으로 헌신하려 하는 것, 바로 이것이 다른 학문들과 차별되는 철학만의 독특한 특성일 것이다. 이런 의미에서, 오로지 사변적이기만 한 ‘존재의 일의성’ 주장은 지극히 철학적인, 오로지 철학적이기만 한, 주장이다. 그러므로 이러한 ‘존재의 일의성’ 주장이 우리의 실질적인 삶을 바꿔놓을 수 있는 일까지 할 수 있다는 것을 보여 주는 것은 바로 ‘철학의 위대함’을 보여 주는 일이 될 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "최근 기후위기 대응을 위한 탄소중립 전략의 이행이 중요해 지고 있는 시점에서 산림자원은 주요한 탄소흡수원으로 부각되고 있다. 이러한 산림의 현황을 조사하는 방법으로 일정 면적의 샘플링을 조사하는 방식인 면적기반(area based approach, ABA) 조사방법이 수행되고 있으나 전체 현황을 정확하게 반영하기 어려우며, 현장 상황 및 조사자의 능력에 의해 불규칙한 측정오차가 나타날 수 있다. 본 연구에서는 이를 개선하기 위해 고밀도 항공라이다(airborne laser scanning, ALS) 데이터를 이용하여 전수조사 기반의 수목개체추출(individual tree detection, ITD) 방법을 제안하였다. 이를 위해 치악산국립공원 부곡지구(8.32 ㎢)를 연구대상지로 선정하여 항공멀티센서인 leica citymapper를 통해 항공라이다 측량을 수행하였으며, 6개 조사 및 검사지구(30m×30m)의 수목개체 수와 수고 및흉고직경의 최확값을 얻기 위해 휴대용 라이다 측량 장비로 지상라이다(terristial laser scanning, TLS) 데이터를 취득하였다. 본 연구에서는 고밀도 ALS 기반 수목개체추출을 위해 point cloud segmentation(PCS) 과 canopy height model segmentation(CS)을 적용한 결과 인공림과 자연림에서 PCS 보다는 CS방법이 더욱 양호한 수목개체추출 품질을 나타내었다. 인공림의 수목개체추출 결과, CS 적용시 90% 이상의 수목개체추출이 가능하였으며, 자연림의경우는 활엽수림보다 침엽수림의 수목개체추출 품질이 좋았으며, 모두 70% 이상의 수목개체추출 품질을 나타내었고 흉고직경이 10cm 이상의 수목에서는 80%의 이상의 수목개체추출 품질을 나타내어 ALS 기반 전수데이터를 이용하여 수목단위로 산림의 수평 및 수직적 구조조사 및 산림관리의 가능성을 확인하였다",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 매토종자를 활용한 소나무림 생태복원 시 적정 매토종자 최소생존가능개체군의 크기를 확인하기 위해2010년 8월부터 2011년 11월까지 매토종자 발아실험을 실시하였다. 상관관계분석 결과, 면적과 초본 종수가 0.686으로가장 높게 나타났다. 도서생물지리학의 이론에 따라 최소생존가능개체군에 적용하여 면적과 유의성이 있는 네 변수에대해 회귀분석을 한 결과 목본 종수, 목본 개체수, 초본 종수 및 초본 개체수 모두 5% 이내에서 유의하며, 회귀함수의설명력은 58.3%였다. 종수와 개체수간의 정준상관분석 결과 한 개의 함수가 유의하였으며 함수의 설명력은 82.4%이고, 유의수준 1% 이내에서 정준함수의 정준근 모두 유의한 것으로 판단된다. 연구 결과, 소나무림 매토종자 최소생존가능개체군의 크기는 면적 64m²이상, 종수 21종 이상, 개체수 120개체 이상을 권장하며 초본 종수의 영향에 따라 매토종자군집의 크기가 결정되는 것으로 나타났다. 따라서, 매토종자를 활용한 소나무림 생태복원의 적용 시 초본 종에 대한 고려가 필요하다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "온라인 교육이 증가함에 따라 다양한 교육 관련 애플리케이션이 출시되고 있다. 하지만 기존의 교육 관련 애플리케이션은 다양한 유형의 문제를 제시해주기에는 어려움이 있고, 사전에 등록되어 있는 문제 중심으로 제공되는 방식을 취하고 있다. 따라서 새로운 교육 자료가 추가되는 경우 자료의 내용에 근간을 둔 새로운 문제를 별도로 생성하여 제공해 주어야 하는 어려움이 있다. 이와 같은 한계를 개선하기 위하여, 본 연구에서는 강의자료가 제공되는 경우 제공된 자료에 대한 분석을 통해 다양한 유형의 문제를 자동으로 생성하여개인 학습에 도움을 줄 수 있는 방안에 대하여 제안하고자 한다. 즉, 강의자료가 주어지는 경우 강의자료의 글자 영역에서 문서 영역을분리하고 BERT 한국어 개체명 인식기를 통해 문제 생성에 필요한 후보개체 추출 후 문제 생성 알고리즘을 통해 다양한 유형의 문제를생성하여 제공한다. 또한, 오답노트 관리를 통해 교육 효과를 높이는 방안도 제안한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문은 메이지시대에 일본적 세계관으로 구상된 ‘현상즉실재론’과 신유학의 관계를 탐구했다. 구체적으로 이노우에 데쓰지로가 구축한 현상즉실재론의 구성에, 기존에 지적되던 독일관념론과『대승기신론』외에, 성리학이 중요한 역할을 했다고 주장한다. 이노우에는 성리학의 기질지성(氣質之性)과 리(理)를 각각 현상과 실재로 해석함으로써, 현상즉실재론을 개체와 전체가 동질적인 존재라는 논리로 만들고, 나아가 개체에게 전체의 가치실현에 동참하라고 요구할 수 있는 기반을 만들었음을 논했다. 한편 진화론에, 쇼펜하우어의 의지, 스펜서의 완전을 향한 진화, 신칸트학파의 자아실현설을 결합하여, 성리학의 수양론을 ‘완전을 향한 도덕적 발전’으로 해석함으로써 성리학에는 없던 진화의 관념을 성리학의 이름으로 현상즉실재론에 덧붙였음을 논했다. 즉 성리학에서 개인과 전체의 연결논리를 받아들이는 한편, 성리학에는 없던 진화론을 성리학의 성격으로 갖다붙임으로써, 윤리의 이름으로 개체를 규율할 세계관을 만들었다고 주장했다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 멸종 위기에 처한 두루미 군집의 개체수를 자동으로 추정하는 단일 이미지 학습 기반 YOLO 객체 탐지 ​​시스템을 제시한다. 기존 객체 탐지 ​​모델은 대량의 레이블링된 데이터를 필요로 하기 때문에 멸종 위기종의 보존 및 연구에 적합하지 않다. 이러한 문제를 해결하기 위해 본 연구는 고해상도 두루미 군집 이미지 한 장에서 사용자가 지정한 소수의 객체 및 배경 좌표를 기반으로 학습 데이터를 구축하고 YOLOv8n 모델을 사용하여 시스템을 학습시켰다. 우리는 또한 객체 탐지 과정에서 슬라이딩 윈도우 방식을 사용하여 이미지 전체를 유클리드 거리 기반 중복 제거 필터링을 통해 탐지된 객체의 고유성을 포착하였다. 이 논문은 시각화 이미지 파일과 생태학자들이 검토 및 수정할 수 있는 데이터로 흑두루미 개체수 탐지 결과를 제공한다. 제안된 시스템은 단일 이미지 내에서 개체수를 빠르고 정확하게 추정할 수 있는 잠재력과 대규모 데이터 세트 없이도 생태 정보를 분석하는 실용적 도구로서의 가능성을 보여준다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 연구에서는 다 개체 로봇에 의해 하나의 로봇을 자율적으로 포획하는 협업제어에 관한 연구를 제안한다. 제안된 방안은 각 로봇에 대한 작업역할을 지정하는 역할 분류기, 단일 로봇의 행동 선택기 그리고 복잡한 상황을 대처하는 협업관리기로 구성되어 있다. 이 연구에서는 주변의 다개체 로봇의 다양한 행동을 통하여 단위 로봇을 특정지역으로 몰아가는 결과를 시뮬레이션을 통하여 그 적절성을 검증하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "고대 중국에서 民은 有德者의 통치로 보호받아야 될 수동적인 존재로서 여겨져 왔다. 그러나 『좌전』이나 『논어』에는 民의 또 다른 면모가 보인다. 民은 통치자의 교화를 기다리는 수동적인 존재가 아니라, 자신의 욕구를 충족시켜줄 군주를 찾아 나서기도 하고, 불합리한 정책에 적극적으로 대응하기도 하며, 통치자의 다스림을 공고하게 할 수 있는 결정적인 요소인 ‘신뢰’를 제공하는 존재로서 나타나 있다. 그러므로 본고에서는 수동적 존재로서만 부각되어 왔던 民이 개체적 존재로서 결단을 내리기도 하고, 부당한 정책에 대해서는 적극적으로 대응하는 면모를 밝히고자 하였다.\n民의 개체성 양상은 욕구 충족적인 특징을 지녔다. 民은 기본적인 욕구를 충족시켜줄 군주를 찾아 ‘떠남’으로써 개체성을 표출하였다. 民의 개체성은 春秋時代까지 이어져서 사회전반의 현상에서 불합리한 정책에 직면하였을 때, 民은 일탈하는 행동을 통해 개체성을 표출하게 되었다.\n춘추시대는 각 제후국들 간의 전쟁으로 인하여 축성작업이 자주 진행되었고, 民으로부터의 부역을 부과하는 일이 비일비재하였다. 지배층의 과도한 축성작업은 民의 일탈현상을 초래하였다. 民은 과도한 축성작업을 견디지 못하고 도주하기도 하였고, 과도한 부역으로 지친 民은 축성작업을 중단시키기도 하였다. 또한 民은 고된 부역에 자신들을 징발하는 위정자를 풍자하는 노래를 지어 부르기도 하였고, 축성작업 중에 民을 부당하게 대우한 감독관을 죽이기도 하였다. 이로써 보면 축성작업에 동원된 民은 위정자의 부당한 처사에 대해 적극적으로 대응함으로써 개체성을 표출하였음을 알 수 있다.\n본고는 西周時代에 태동한 욕구충족적인 民의 개체성이 春秋時代로 이어지면서 부당한 정책에 대응하는 적극적인 양상으로 발전하고, 이러한 民의 개체성 표출은 戰國時代에 이르러 여러 사상가들이 ‘民’을 국가의 근본으로 인식할 수 있는 계기를 마련해 준 것으로 보고, 그 과정을 밝히는 것을 목적으로 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "단형질 개체모형을 이용한 육종가 추정프로그램의 해를 구하는 컴퓨터 프로그램을 포트란 언어를 이용하여 자체개발하였고, 프로그램은 자료기반으로 반복적으로 계산을 해 나가는 간접법을 이용한 것으로 일반적인 알고리즘으로 프로그램을 개발하고 이의 효율을 개선한 개선알고리즘으로 프로그램을 개발하여, 두 프로그램 간 효율을 비교하였다.\n기존의 전통적인 알고리즘은 순차적인 반복문을 이용하여 자료를 읽고 기록하는 방법이며, 새로운 알고리즘은 효과별로 LHS를 직접작성하여 추정하는 방법을 사용하였다. 개발된 두 가지 프로그램으로 육종가를 추정하고, 그 추정 값이 정확하게 평가되었는지 알아보기 위하여 기존에 개발되어 사용되고 있는 BLUPF90 (Misztal,2007)과 MTDFREML (Boldman 등, 1999)과 비교하여 보았다.\n서로 다른 프로그램으로 추정된 육종가간의 상관은 전체 항목에서 99% 이상 고도의 상관이 나타났으며, 프로그램 추정치 간의 높은 상관으로 볼 때 Model Ⅰ, Model Ⅱ는 정확하게 개발되었고 평가된 것을 확인할 수 있었다.\nSolution이 수렴 될 때까지의 반복횟수는 Model Ⅰ은 2,568 round, Model Ⅱ는 1,038 round로 수렴되어 Model Ⅱ가 ModelⅠ보다 작은 반복횟수에서 수렴이 된 것을 확인할 수 있었으며, 수렴속도는 Model Ⅰ은 256.008초, Model Ⅱ는 235.729초로 Model Ⅱ가 Model Ⅰ 보다 약 10% 정도 개선된 것을 확인할 수 있었다.\n개발된 프로그램을 기존 D/B와 연계한다면 농가 및 지자체 등에 지속적인 개량 정보를 제공할 수 있으며, 농가 단위 암소 유전능력평가로 암소개량을 도모할 수 있을 것이라 사료된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 동림저수지에서 지난 18년(1999~2016)동안 1월에 조사한 조류자료를 대상으로 시계열적 변화와 환경 요인과의 관계에 대해 분석하였다. 조사 자료는 '겨울철 조류 동시센서스'를 활용하였고, 연도별 개체군의 변화를 파악하기 위해 주성분 분석과 군집분석을 사용하였다. 환경 요인은 1월 평균 기온과 평균 저수율을 이용하였다. 연구 결과, 조류의 개체군 변화는 2개의 물새 그룹과 산새 그룹 1개의 증감으로 설명될 수 있다. 물새 그룹의 개체수가 증가하는 시기는 산새 그룹의 개체수가 증가하는 시기에 비해 월평균기온이 1.4℃ 이상 높았다. 이에 비해 저수율의 영향은 분명하지 않았다. 기온의 영향을 받는 가창오리의 도래 여부는 나머지 하나의 물새 그룹과 산새 그룹에 모두 영향을 주는 요인이었다. 이 연구 결과는 기온 변화가 조류의 광역적인 공간 분포에 영향을 미치고, 가창오리와 같이 개체군이 큰 종 또는 무리의 이동은 조류의 지역적인 종구성과 개체수에 영향을 미친다는 것을 시사한다. 따라서 광역적인 규모에서의 환경 변화와 그에 따른 종 분포의 변화에 대한 이해는 지역적인 규모에서 조류 개체군의 시계열적 흐름을 이해하는데 도움을 준다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "분포지의 환경특성, 개체군구조, 생태적지위, 생활사 특성 그리고 개체군 통계적 연구는 효과적인 보전을 위해 필수적인 정보이다. 우리는 12년간의 분포조사를 통해 총 37개의 분포지를 확인하였고 그중 12개 지역에 있는 25개의 집단을 대상으로 생육지의 환경과 개체군 구조를 조사하였다. 강원도 평창군 대관령면의 8개 집단을 대상으로 4년간에 걸친 개체군동태를 조사하였다. 4년간의 재배실험과 화분매개곤충의 영향을 관찰하였다. 조사결과 산작약은 비교적 넓은 식생환경에 걸쳐 분포하였다. 조사가 이루어진 25개 집단의 개체군 구조는 비교적 안정적인 집단과 극단적으로 성체만이 존재하는 집단 등 상당한 차이를 나타내었다. 조사기간 동안 상층식생에 생성된 숲 틈이 개체군 동태에 영향을 미치는 요인으로는 추정되었다. 재배실험에서 유묘는 토양의 유기물이 상대적으로 적은 곳에서 잘 성장하였다. 화분매개곤충의 방문이 결실한 종자의 수와 결실률에서 높게 나타나는 경향이 있었다. 결론적으로, 산작약의 분포는 환경적 요인과 더불어 분포에 관여하는 다른 요인의 연구가 필요하며 그 중에서 종자의 운반체에 대한 연구의 필요성을 제안하였다. 현재의 산작약 개체군은 과거 급격한 분포지의 감소 이후 확대되는 과정으로 평가되었다. 멸종위기야생식물인 산작약의 효과적인 보전을 위해서는 시공간적 확장을 통한 종에 대한 이해와 이를 바탕으로 한 생태계의 건강성 유지를 제안하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "포항시 마이오세 두호층에서 2개의 신생대 어류 화석들이 발견되었다. 두호층에서 발견된 이 어류 화석들은 다음과 같은 근거로 도다리속으로 동정되었다. 첫째, 앞쪽 등지느러미가 두개부 위까지 연장되어 뻗어있다. 둘째, 두개골에서 안와는 모두 오른쪽에 몰려있는 비대칭성을 갖는다. 셋째, 낚시 바늘 모양의 미설골을 지닌다. 넷째, 미설골의 좌골부가 꺾여있다. 다섯째, 후의쇄골이 존재한다. 여섯째, 척추체의 개수가 27개를 넘는다. 일곱째, 첫 번째 뒷지느러미 담기골이 연장되어 있다. 여덟째, 미설골의 내연부가 ‘c’자 형태를 갖는다. 아홉째, 분문돌기가 작거나 거의 없다. 열째, 몸에 여러 반점들이 존재한다. 도다리속 어류 화석은 동아시아에서 최초로 보고되는 것이다. 두 표본은 두개골의 비대 칭성과 납작한 정도에서 해부학적 차이가 존재한다. 이는 가자미과 어류의 독특한 개체발생 단계를 나타내는 데, 그들은 표영성 생활 양식에서 저서성 생활 양식으로 전환할 때 위와 같은 해부학적 차이를 수반하기 때문이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 수위 변동에 따른 수심별 면적의 변화 양상이 월동 수조류 종별 개체수의 변동에 미치는 영향을 파악하기 위하여 2009년 12월부터 2010년 2월에 걸쳐 경상남도 창원시에 위치한 주남저수지 일대에서 수행되었다. 수심을 ‘50cm 이하’, ‘50∼100cm’, ‘100cm 이상’의 3개 항목으로나누어 각 항목별 면적과 각 종의 개체수 간 상관관계를 분석하였다. 분석 결과 동판저수지에서는큰고니(r＝0.77, p＜0.05), 큰기러기(r＝0.80, p＜0.05)가 수심 50cm 이하 면적과 유의한 상관관계가 있었고, 흰죽지는 수심 50cm 이하 면적(r＝－0.86, p＜0.05), 50∼100cm 면적(r＝－0.91, p ＜0.01), 100cm 이상 면적(r＝0.92, p＜0.01)과 모두 유의한 상관관계가 있었으며, 댕기흰죽지와 흰비오리는 수심 50cm∼100cm 면적(각각 r＝－0.84, p＜0.05; r＝－0.82, p＜0.05), 100cm 이상면적(각각 r＝0.78, p＜0.05; r＝0.82, p＜0.05)과 유의한 상관관계가 있었다. 산남저수지에서는 물닭이 수심 50cm 이하 면적과 유의한 상관관계가 있었으며(r＝0.76, p＜0.05), 주남저수지에서는 유의한 상관관계가 있는 종이 없었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 스마트폰으로 서비스 할 수 있는 한국역사정보서비스 앱을 개발하기 위한 선행연구로써, 공간정보기반의 한국역사정보데이터베이스 설계방안을 제시하고자 한다. 이를 위하여 현재 중고등학교에서 사용되고 있는 역사부도의 역사지도를 중심으로 국민소양 차원의 한국역사정보의 범위를 분석하였으며, 분석 결과 다음과 같이 제안한다. 첫째, 역사적 의미와 가치가 있는 역사적 사실을 공간개체화하고, 이를 연대별로 나열하여 코드번호를 부여하는 방식의 데이터모델 설계와 둘째, 각 객체마다 관련된 인물, 지명, 사건에 대한 정보를 분류하여 구축함으로써, 사용자가 한시대의 모든 정보를 검색할 수 있음과 동시에 특정 주제에 대한 정보를 시대를 초월하여 총체적으로 검색할 수 있도록 데이터베이스를 설계하는 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "춘천시 소양강 일대는 한반도 중심부에 위치하여 내륙으로 도래하는 수조류의 이동경로이자 월동지로서 역할을 하고 있으나 중요성에 비해 실태조사는 이루어지지 않았다. 이에 본 연구는 겨울철 이 지역을 이용하는 수조류의 실태를 조사하고 내륙습지로서의 지역적 특징을 밝히는 것을 목적으로 하였다. 조사는 2011년 10월부터 2012년 3월까지 6개월간 월 2회씩 총 12회 조사를 실시하였다. 조사 결과 관찰된 수조류는 총 32종이었으며, 최대수는 1,605개체였다. 이 중에서 오리과조류는 19종 1,038개체로서 대다수를 차지하였고, 우점종은 흰뺨검둥오리와 청둥오리, 물닭, 민물가마우지 순이었다. 도래하는 조류는 시기와 장소에 따라 종류가 달랐으며 6종의 법정보호종을 비롯하여 700여개체가 겨울철에 도래하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "13종의 초위성체 마커를 이용해 분석한 대립유전자형을 F0, F1 그리고 F2로 세대 간 구분 하여 동일한 개체 출현확률 값을 추정한 결과 F2의 무작위교배집단으로 가정한 경우 13종의 초위성체 마커는 3.84 × 10-23의 추정치를 나타내 37개의 SNP 마커를 이용할 경우와 유사한 동일개체 출현확률 추정치를 유추할 수 있었다. 본 연구에 사용한 실험축군은 2품종 상호교배로 만들어졌다. 친자감정확률 추정치를 전체집단을 대상으로 13종의 초위성체 마커와 37개의 SNP 마커를 이용하여 분석한 결과 부모를 동시에 찾을 수 있는 추정치인 PEpu의 경우 초위성체 마커는 0.97897이고 SNP 마커는 0.99149였으며, 한쪽 부모를 찾을 수 있는 추정치인 PE의 경우 초위성체 마커는 0.99916이고 SNP 마커는 0.99949로 나타났다. 또한 가능한 후보 부모들로부터 가장 확률이 높은 부모를 찾을 추정치인 PNEpp의 경우는 초위성체 마커와 SNP 마커 둘 다 1.00000으로 추정 되었다. 한정된 부모집단 내 한정된 대립유전자형을 통해 대량의 비육돈이 생산되는 국내의 양돈산업의 경우 DNA 마커의 특성, 분석집단의 크기, 유전자형 분석의 정확도와 비용, 분석된 자료 관리의 용이성 및 기존 분석 시스템과의 호환성 등을 고려하여 효율성과 경제성이 높은 마커를 선정해 마커 조합을 만드는 것이 필요할 것으로 사료된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "장자는 죽음의 철학자다. 그는 죽음의 불가지론자였지만, 죽음에 관해 많은 말을 남겼다. 그에게 죽음은 중요한 철학적 테제였음에 분명하다. 선행연구자들은 장자의 죽음관을 그의 세계관으로부터 구성해냈다. 그들은 장자가 죽음과 삶을 구분하지 않았다고 말하고, 장자가 죽음을 찬양했던 것처럼 말하기도 했다. 장자의 죽음관을 정확히 도출하기 위해 고찰한 장자의 세계관에 대한 이해가 정밀하지 않았기 때문에 도달한 결론이다. 본고에서는 장자의 죽음에 대한 태도가 환영과 거부의 사이에 있었다고 주장했다. 그리고 이 주장에 도달하는 와중에 생명, 개체, 기 그리고 감응의 문제를 다뤘다. 장자의 생명은 생기다. 생기는 언표되기 어렵지만 명확하게 체험할 수 있다. 인식과 존재를 섞어 놓는 기는 상징적 존재로서, 변화의 조짐이기도 했다. 변화는 일기의 변화였으므로, 세계와 격절된 개체는 성립할 수 없었다. 장자의 개체는 개방적이었다. 개방된 개체는 세상과 감응했다. 자의식은 감응을 방어했으므로, 도가 수양론에서는 자의식의 제어를 요구했고, 자의식이 제거된 상태의 체험을 중시했다. 호흡법과 같은 명상법이 중시된 까닭이다. 죽음은 감응을 방지하는 자의식의 소거를 의미하는 동시에 감응자체를 불가능하게 만든다. 그러므로 장자에게 죽음은 환영할 만한 일이 아니다. 다만, 죽음에 저항하는 것은 세상과의 격절을 만들고 감응을 거부하는 것이었으므로, 장자는 죽음을 애써 거부하지는 않았을 것이다. 장자의 죽음에 대한 태도는 환영과 거부의 사이에서 찾아야 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "많은 연구들 가운데 살펴볼 가치가 있는 대상을 찾아 제시해주는 문헌기반 발견의 접근법은 연구자들에게 매우 유용할 것이다. 문헌기반 발견 연구의 대표 이론인 Swanson의 ABC 모델은 기존에 검증되지 않은 개체들의 관계를 연구할 것을 제안해 준다. 본 연구는 Swanson의 ABC 모델에 인용 정보를 고려하여 유의한 관계에 있는 개체들을 더 효율적으로 찾아내고자 하였다. 수집 논문들의 참고문헌 목록에서 인용 정보를 확인하고 논문의 표제와 초록을 대상으로 텍스트 마이닝 기법으로 중요한 단어들을 추출하였다. Swanson의 연구들 중 어유와 레이노드 질병 및 증상의 관계를 재현하였으며 기존의 접근법으로 확인되는 개체들과 어떤 차이가 있는지 분석하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "Named Entities are very important linguistic elements in informationtechnology domain which carries out natural language processing.\nSpecifically, This paper shows why problematic the synonyms ofnamed entities in linguistic information processing application areaslike search engine and dialog system are. We investigate how the synonymsof named entity are used based on the corpus of web document andthen propose lexicon improving method to facilitate the method ofimformation processing about named entity synonyms in various nlpapplications",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "한강하구에서 천연기념물 개리와 재두루미 : 등의 주요 먹이원인 수생식물 새섬매자기(Scirpus\nplaniculmis)의 개체군 감소의 원인을 분석하고자, 1) 주변 경쟁 초본과의 개체군 생태학적 특성을 분석하고, 2)\n토양이 퇴적이 되어 토심이 깊은 곳에서 자라는 집단과 그렇지 않는 곳에서 자란 것 간의 활력도를 비교하고, 3)\n실내조건에서 새섬매자기를 양묘하여 괴경의 분포를 관찰하고, 4) 이를 근거로 새섬매자기 서식지복원의 방안을\n제시하였다. 그 결과 새섬매자기는 한강하구습지에서 경쟁관계에 있는 수생식물인 갈대나 줄 등에 비하여 지상부\n물질생산량과 지하부 물질생산량이 낮고, 키도 작고, 번식력도 낮았다. 또한 습지에 퇴적되는 곳의 새섬매자기\n개체군은 퇴적되지 않는 곳에서 자라는 집단보다 땅속덩이줄기생산량, 지하부생산량, 지상부생산량, 종자생산량이\n훨씬 감소되었고, 키도 작았다. 이상적인 조건에서 새섬매자기의 괴경은 얕은 토심(15cm 이내)에 주로 분포하였\n다. 이러한 결과는 한강하구에서 새섬매자기가 다른 수생식물보다 경쟁력이 약하고, 한강하구에서 괴경이 깊은\n흙에서 출현하는 것이나 개체군 쇠퇴의 원인이 토양의 퇴적임을 의미한다. 따라서 새섬매자기 개체군 유지와 보\n전을 위해서는 퇴적이 되지 않도록 한강하구 습지 내 물이 흐르도록 물길을 조성하고, 경쟁종을 제거하여야 할\n것으로 판단된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본고는 각각 황석우, 이상화 시와의 비교 분석을 통해 이장희 시세계의 특성을 고찰한다. 황석우, 이상화, 이장희는 한국 근대 초기시에 나타나는, 미를 전유(專有)하는 유형, 개체의 존재방식에 관한 유형을 특징적으로 보여준다. 황석우 시에서, 개인의 의미를 공동체적 가치 실현을 통해 추구하는 상호부조의 원리는 미(美)의 영역 속에 구현된다. 이상화와 이장희는 미적 영역의 독립적 가치를 인식했다는 점에서 공통점을 보여주지만, 끝까지 미의 영역에 칩거한 이장희와 달리, 이상화는 개체적 인식에서 공동체적 가치 추구로 그 지향점을 변화시킨다. 이장희에게 미(美)란 식민지적 근대 사회와 철저히 대립하며, 또한 개체는 공동체로부터 독립된 지위를 확보함으로써 자율적 영역을 구성하는 대상이다. 이장희의 시는 1920년대 동인지 세대가 보여주는 하나의 지향, 즉 자아의 내부에 절대적 영역을 구성하고 모든 사회적 가치와 공동체적 지향을 거부하는 일군의 태도를 전형적으로 보여준다. 그 가운데서도 특히 이장희는 지극히 개인화된 시적 공간을 창조함으로써, 당대의 많은 시인들을 사로잡았던 개체/공동체, 미/사회의 질긴 순환 고리를 단절시킨 시인으로 평가된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "제지슬러지를 먹이로 공급하여 줄지렁이를 사육하면서 지렁이 사육상 높이 및 사육상내 개체군 밀도가 높아짐에 따른 줄지렁이 개체군의 수직분포를 사육상 표층으로부터 5 cm 간격으로 조사하였다. 줄지렁이 유충, 성충 개체군의 50% 이상이 표층으로부터 5 cm 이내에 서식하였으며, 줄지렁이 유충, 성충, 난포 개체군의 96% 이상이 표층으로부터 20 cm 이내에 서식하였다. 사육상의 높이가 50 cm로 높아질 때까지 사육상 높이나 지렁이 개체군 밀도 변화가 지렁이 개체군의 수직분포 비율에 큰 영향을 미치지 않았다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "도메인별로 적합한 온톨로지를 구축하는 것은 시멘틱웹의 한 구현 방법으로서 해당 도메인 응용프로그램의 의미적 정보를 풍부히 해준다. 전자상거래에서 카탈로그는 상품과 서비스에 대한 가격, 특성, 조건 등의 다양한 정보를 저장 관리해주는데, 카탈로그에는 상품 개별 정보뿐 아니라 상품간에도 다양한 정보가 내재되어 존재하게 된다. 따라서 전자카탈로그 영역에 온톨로지를 적용하기 위하여는 먼저 카탈로그 영역에서 존재하는 의미적 관계(semantic relationships)를 분석해 보는 것은 의미 있는 일이다. 본 논문에서는 카탈로그의 의미적 관계를 분류체계를 통해 분석해보고, 각각의 관계가 어떻게 온톨로지 모델화 될 수 있는지를 제시한다. 모델링 기법으로서는 기본적으로 EER(Extended Entity-Relationship)을 사용하는데, 이에 제한되지 않고 궁극적으로 온톨로지 모델을 사용하여 추론을 할 수 있도록 모델을 Description Logics으로 표현한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "톨스토이의 문학성은 주제와 시학, 그리고 서술기법 간의 융합에서 비롯된다. 개체의 자율성과 보편성의 관념화라는 주제론적 대립과 관념론을 형성하는 대위법적 구성양식, 그리고 인식 패러다임의 변화를 형상화한 서술기법들이 서로 유기적으로 융합되어 톨스토이의 문학성을 창출하고 있는 것이다. 이에 본 논문은 톨스토이의 주요한 사상성에 대해 다각도로 검토한 후, 서술구조와 기법이 작품의 형이상학적 명제와 그의 예술적 심미성을 어떻게 창출하고 있는지에 관해 분석하였다.\n우선, 주제론에서는 개체의 자율성과 보편성의 관념화라는 대립명제의 충돌과 융합에 대해 살펴보았다. 삶은 행위 그 자체로 시대적 보편율과 종교적 교리로 규정지을 수 없다고 판단했던 톨스토이는 개체의 자율성을 동경하였다. 하지만 이와 정반대로 톨스토이는 ‘초록 지팡이’의 이상처럼 삶의 법칙과 도덕적 보편율을 정립하여 조화로운 공동체를 구성하고자 하는 열망 또한 간직하였다. 두 대립명제의 융합은 『전쟁과 평화』와 『안나 카레니나』에 이르러 이루어진다. 보편적 세계의 원리가 개체에도 의미가 있을 때 정당화될 수 있다고 판단했던 톨스토이는 보편성에 대한 추구를 개체의 자율성과 등가로 인식했던 것이다. 하지만 두 대립 명제 사이의 갈등은 그의 말년에 이르러서도 지속된다. 극도로 혼란스런 방황을 겪은 후 집필한 『참회록』 이후, 개체의 자율성보다 조화로운 세계를 위한 관념을 창출하는 것이 더욱 가치 있는 일이라 판단했던 톨스토이는 예술가로서의 삶을 포기한 채 구도자의 길을 선택했기 때문이다. 하지만, 그는 자신의 마음 한편에 뚜렷하게 자리 잡고 있었던 또 다른 욕망을 결코 지울 수 없었다. 예술론을 창작하던 시기에 집필한 『신부 세르기이』는 이러한 그의 내적 갈등을 뚜렷하게 드러낸 작품이라 할 수 있다.\n톨스토이의 사상성은 관념론을 형성해가는 대위법적 구성양식과 서술기법을 통해 구체화되고 있다. 우선, 진리에 다가서려는 주인공들의 삶 그 자체를 의미 있게 평가했던 톨스토이는 관념의 대위법적 구성을 통해 이를 형상화하였다. 톨스토이는 한 인물의 내면에 서로 다른 가치를 중첩시키고 이들 간의 충돌과 경쟁을 통해 새로운 가치를 지속적으로 융합시켜 나감으로써 자신의 명제를 명료하게 구현했던 것이다. 또한 서술기법과 관련하여, 톨스토이는 에피파니를 초월적 질서의 현현으로 파악하기보다는 사변적 명제에 관한 주인공들의 오랜 사유가 자기 인식의 상징적 매개물로 재정립되어 명백하게 나타나는 순간으로 형상화함으로써 진리에 접근하려는 그들의 여정을 효과적으로 드러냈다.\n이처럼 톨스토이의 예술적 다산성은 개체의 자율성과 보편성의 관념화라는 두 대립명제사이의 갈등에서 비롯되었다. 그가 새로운 소설 장르와 기법을 통해 심미적 자율성을 창출하고자 했던 것도 이러한 그의 이원론적 세계관에서 비롯된 것이다. 따라서 작품의 다층적 관념성과 더불어 구조시학 및 서술기법에 대한 고찰은 톨스토이의 문학세계와 그의 작품이 창출하는 문학성의 본질을 파악하는 중요한 기준이 될 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "개체명 인식(Named Entity Recognition) 시스템은 문서에서 인명(PS), 지명(LC), 단체명(OG)과 같은 개체명을 가지는 단어나 어구를 해당 개체명으로 인식하는 시스템이다. 개체명 인식을 하기위한 전통적인 연구방법으로는 hand-craft된 자질(feature)을 기반으로 모델을 학습하는 통계 기반의 모델이 있다. 최근에는 딥러닝 기반의 RNN(Recurrent Neural Networks), LSTM(Long-short Term Memory)과 같은 모델을 이용하여 문장을 표현하는 자질을 구성하고 이를 개체명 인식과 같이 순서 라벨링(sequence labeling) 문제 해결에 이용한 연구가 제안되었다. 본 연구에서는 한국어 개체명 인식 시스템의 성능 향상을 위해, end-to-end learning 방식이 가능한 딥러닝 기반의 모델에 미리 구축되어 있는 hand-craft된 자질이나 품사 태깅 정보 및 기구축 사전(lexicon) 정보를 추가로 활용하여 자질을 보강(augmentation)하는 방법을 제안한다. 실험 결과 본 논문에서 제안하는 방법에 따라 자질을 보강한 한국어 개체명 인식 시스템의 성능 향상을 확인하였다. 또한 본 연구의 결과를 한국어 자연어처리(NLP) 및 개체명 인식 시스템을 연구하는 연구자들과의 향후 협업 연구를 위해 github를 통해 공개하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 무인모니터링 시스템을 활용하여 논에 도래하는 조류의 현황과 개체군 변동 특성을 확인하기 위해 수행되었다.\n무인모니터링 시스템을 이용한 조사와 전문가에 의한 현장 조사를 비교하여 개체군 변동 특성의 유사성을 파악하였고, 무인모니터링 시스템 조사를 통해 확인된 조류의 개체군 변동을 시공간적으로 평가하였다. 무인모니터링 시스템을 활용한 조사는 철원, 당진, 부안, 해남 4곳에서 2014년 1월 1일부터 2016년 12월 31일까지 06:00부터 20:00까지 14시간 동안 10분 단위로 촬영하였다.\n전문가에 의한 현장 조사는 2016년 1월부터 12월까지 당진에서 월 1회 수행되었다. 무인모니터링 시스템을 활용하여 조사기간동안 한 대의 무인모니터링 시스템에서 총 91,980장의 이미지를 획득하였다. 획득한 이미지 자료를 분석하여 백로류, 도요물떼새류, 오리기러기류의 동정 및 개체군 변동을 확인하였다. 무인모니터링 시스템과 현장 조사를 비교해보면 수조류 군집 변동패턴이 현장 조사 결과와 유사한 것을 확인 할 수 있었다. 특히 백로류의 개체군 변동의 유사성이 가장 높게 나타났다.\n무인모니터링 시스템을 이용하여 지역별 백로류의 개체군 변동 특성을 확인한 결과 지역에 따라 개체군 변동 특성이 다르게나타나는 것을 확인할 수 있었다. 또한 무인모니터링 시스템은 월 단위, 일 단위, 분 단위와 같이 다양한 시간 스케일에서개체군 변동 특성을 확인 할 수 있는 장점을 가지는 것으로 나타났다. 무인모니터링 시스템을 이용한 장기적인 자료 축적은논습지를 활용하는 수조류 군집의 세부적인 장기변동 특성뿐만 아니라 미래 예측에도 유용하게 이용될 것으로 기대된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "벼에 줄무늬잎마름병을 유발하는 애멸구(Laodelphax striatellus)의 온도에 따른 산란 등 성충 활동 특성을 12.5~35.0℃ 10개 항온조건 광주기 14L:10D에서 조사하였다. 산란모델을 만들기 위한 단위 함수를 개발하고 DYMEX를 이용하여 개체군 밀도 변동 모델을 구축하였다. 성충 수명은 15.0℃에서 56.0일로 가장 길었고, 35.0℃에서 17.7일로 가장 짧았으며 온도가 올라감에 따라 수명도 짧아지는 경향을 보였다. 암컷한 마리당 총산란수는 22.5℃에서 515.9개로 가장 많았으며, 35℃에서 18.6개로 가장 적었다. 산란 모델 개발을 위해 성충발육율, 총산란수, 성충사망율 및 누적산란율 단위모델을 추정한 결과, 단위모델 모두에서 높은 수준의 모델 적합성을 보였다(r 2 =0.94~0.97). 개체군 밀도 변동 모델은 포트와 포장 실험을 통하여 예측 정확도를 평가하였다. 포트 및 포장 실험 결과 접종 후 30일까지는 각 조사 시점에서 밀도 및 영기 분포 비율의 예측 정확도가 비교적 높았으나 이후에는 1, 2령의 조사 밀도와 예측 밀도 간에 큰 차이가 발생하였고, 영기 분포 변화의 경우도 모델에서 실제 조사 자료보다 1~2단계의 발육 영기가 빠르게 추정되는 경향을 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 돼지 간 거리(PD), 돈사 내 상대 습도(RRH), 돈사 내 이산화탄소(RCO2) 세 가지 변수를 사용하여, 네 개의 데이터 세트를 구성하고,이를 다중 선형 회귀(MLR), 서포트 벡터 회귀(SVR) 및 랜덤 포레스트 회귀(RFR) 세 가지 모델 기계학습(ML)에 적용하여, 돈사 내 온도(RT)를예측하고자 한다. 2022년 10월 5일부터 11월 19일까지 실험을 진행하였다. Hik-vision 2D카메라를 사용하여, 돈사 내 영상을 기록하였다. 이후ArcMap 프로그램을 사용하여, 돈사 내 영상에서 추출한 이미지 안 돼지의 PD를 계산하였다. 축산환경관리시스템(LEMS) 센서를 사용하여, RT,RRH 및 RCO2를 측정하였다. 연구 결과 각 변수 간 상관분석 시 RT와 PD 간의 강한 양의 상관관계가 나타났다(r > 0.75). 네 가지 데이터세트 중 데이터 세트 3을 사용한 ML 모델이 높은 정확도가 나타났으며, 세 가지 회귀 모델 중에서 RFR 모델이 가장 우수한 성능을 보였다",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "규범적 개체주의는 집단을 도덕적 책임의 주체로 보아서는 안 된다는 입장이다. 이들이 이러한 주장을 하는 이유는 첫째 개인만을 도덕 행위자로 간주하는 기존의 방식으로도 집단행위에 대한 설명에 부족함이 없고, 둘째 집단행위자가 책임의 주체가 된다면 행위자는 타인의 행위에 대해 책임을 지지 않는다는 철학의 기본 원칙이 침해될지 모른다는 데 있다. 따라서 집단행위자를 책임의 주체로 간주하는 것은 세계의 이해에 굳이 필요 없는 잉여적 개념의 도입일뿐더러, 개인의 자유를 제약하며 지나친 도덕주의 사회로의 이행을 주도할 위험이 있다는 것이다.\n이 논문의 목적은 이러한 규범적 개체주의자들의 우려가 근거 없음을 보이는 것이다. 그러한 과정에서 집단이라는 행위주체가 위험하지도 않고 또 요구되는 개념임이 드러날 것이다. 필자는 우선 규범적 개체주의자들의 주장을 단계적으로 살펴볼 것이다. 전체주의에 대한 우려를 중심으로 한 고전적 개체주의는 개인적 책임과 독립적으로 논의되는 집단적 책임이 동시에 존재할 수 있다는 가능성을 보임으로써 논파 된다. 집단행동의 개체주의적 해명을 시도하는 강화된 개체주의는 중대한 문제를 해결할 수 없는 주장임을 보여 그 한계를 지적할 것이다. 필자는 집단 역시 책임의 주체가 될 수 있다는 집단주의자의 입장에서 규범적 개체주의자들의 주장을 설명하고 이들의 주장을 논박하고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 2019년 5월부터 2021년 5월까지 무인센서카메라를 이용하여 설악산과 지리산 국립공원에 서식하는 다람 쥐(Tamias sibiricus)의 연중 관찰 양상과 행동 패턴을 파악하기 위해 실시하였다. 주차별 관찰빈도를 지표로 하여 관찰빈도의 연중 변화를 파악하였고 봄과 여름, 가을의 시간별 관찰빈도를 이용하여 계절별 일일 행동 패턴을 분석하였 다. 다람쥐의 일일 행동 패턴은 지역 및 계절에 따른 차이 없이 주행성인 것으로 나타났다. 두 지역에 서식하는 다람쥐는 연중 관찰 기간에 차이가 있었다. 설악산에서 18~45주차에, 지리산에서는 7~48주차에 다람쥐가 관찰되었으며, 이는 동면시기에 영향을 받은 것으로 판단된다. 두 지역에서 다람쥐는 가을에 가장 많이 관찰되었다. 계절에 따른 다람쥐의 개체군 동태 및 활동량 변화가 무인센서카메라 관찰빈도에 반영되는 것으로 판단된다. 무인센서카메라의 관찰빈도는 간접적인 지표로서 대상종의 서식 밀도와 활동량을 구분해낼 수 없다는 한계점이 존재하지만, 방법이 쉽고 조사자에 따른 편차가 적어 효율적인 모니터링 방법으로 제시될 수 있을 것으로 판단된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "멸종위기식물의 보전을 위해서는 종의 생활사에 기초한 개체군 동태에 대한 정보가 필요하다. 개체군 동태에 대한 정보는 장기간에 걸친 정량적인 모니터링을 통해 달성할 수 있다. 본 연구는 멸종위기식물인 가시오갈피나무를 대상으로 고정 조사구를 설치하고 모니터링을 수행하였다. 정량적인 모니터링 방법으로 매년 개체별로 높이의 변화, 맹아의 발달을 측정하고 기록하였다. 또한 연간 생활사 특성을 관찰하고 평가하였다. 가시오갈피나무는 정착하여 생장함에 따라 높이가 높아졌고 다음으로 맹아가 발달하였다. 줄기는 생장하여 가지가 갈라지면서 개화하였다. 모니터링이 이루어진 개체군에서 가시오갈피나무의 높이는 점진적으로 높아졌고 다음으로 감소하였다. 모니터링 시작 단계에서 이미 높이가 높았던 줄기는 윗부분에서 고사가 관찰되었다. 줄기의 생장과 고사는 개체에 따라 차이가 있었지만 7-8년의 주기를 나타내었다. 가시오갈피나무는 4월 초순에 잎의 생장이 시작되었고 6월 초순에 꽃눈이 출현하였다. 개화는 7월 초순에 시작되었고 열매는 9월 중순에 익었다. 다만, 모니터링 대상 개체군에서 정상적인 열매의 생성은 드물게 관찰되었다. 가시오갈피나무는 관목으로 정착과 생장 및 맹아의 발달이 이루어졌다. 또한 생장한 줄기는 개화 및 결실이 이루어진 이후에는 고사하였다. 맹아의 발달은 개체군의 지속과 크기 증가의 과정은 비교적 긴 시간이 요구된다고 평가되었다. 개체군 내에서 개화 및 열매의 성숙과 종자의 결실에 대해서는 지속적인 관찰이 필요함을 제안하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "顧長衛是最近在中國影壇上被評價爲一個建立自己獨特的電影世界的電影導演. 他的電影的特點之一就是淡化時間槪念和注重個體生命,他的<孔雀>以文化大革命末期的1970年代末到1980年代初爲背景, 而<立春>以改革開放時期的1980年代到1990年代爲背景, 各各描寫了一家族和一郡文藝靑年的人生歷程和面貌.\n本文以顧長衛的<孔雀>和<立春>的主要人物高衛紅和王彩玲爲中心,分析了三個方面: 第一,個人的才能和時代的關係; 第二,人物所追求的和其障碍因素; 第三,人物的最終選擇.\n通過以上分析,可以確認他所描寫的時代和個人的關係,爲此,能知道顧長衛的電影克服了不少以前把同時代作爲背景的電影注重于描寫歷史,單純化和單一化個體的生存樣式,忽視個人價値的缺點. 顧長衛以具體描寫這些人的個別生存樣式,反思個人的犧牲和努力多麽有價値,安慰他們孤單的人生和鬪爭. 另外,電影的這種講故事的方式就是說反映不是重視集體而是重視個人的時代變化,對此可能多角度的硏究.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "지렁이 사육상을 조성하는데 있어서 적정한 초기 지렁이 입식 밀도를 추정하기 위해서 단위 면적당 서로 다른 밀도의 지렁이(1m2의 사육상 면적당 지렁이 1, 2, 3, 5kg)를 입식하여 12kg의 먹이를 반복 급이하면서 그의 개체군 밀도 변화를 조사하였고, 효율적인 먹이급이량을 추정하기 위하여 최고 한계에 근접한 지렁이 밀도(5kg/m2)에서 먹이급이량을 달리하였을 때(1m2의 사육상 면적당 먹이 16, 24, 32, 40kg) 먹이섭식속도를 조사하였다. 지렁이 구입비용, 노동비용 등을 고려하였을 때, 지렁이 사육상을 조성하기 위한 초기 입식밀도는 사육상 면적 1㎡당 2kg 이하로 하는 것이 합리적인 것으로 판단된다. 지렁이 사육상에 지렁이 밀도가 최고밀도에 근접한 이후에는 단위 사육 면적당 1회에 투입되는 먹이량은 40kg/m2정도인 것이 그 보다 적은 경우보다 지렁이 증식과 먹이급이를 위한 작업효율 측면에서 유리하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "메타개체군의 구조와 이주에 관한 이해는 종 보존을 위해서 필요하다. 본 연구는 붉은점모시나비 서식지에서 MRR 방법으로 나비의 이주패턴을 분석하고 패치연결성을 추정하였다. 그 결과 194(수컷: 137, 암컷: 57)개체가 포획 되었으며 이중 93 (수컷: 73, 암컷: 20)개체가 재포획되었다. 이주 분석에서 이입율은 23-150%, 이출율은 28-53%으로 나타났다. 패치면적과 이입· 이출 개체수와의 회귀분석에서는 상관관계를 보이지 않았으며, 먹이식물 수와 이입· 이출 개체수와의 회귀분석에서도 상관관계를 보이지 않았다. 그러나 이입 개체수와 패치간 거리와의 분석에서는 높은 상관관계를 보였다. 따라서 나비의 이주는 패치거리가 가까울수록 빈번하게 일어나고 있으나 패치의 면적이나 먹이식물 량과 관계가없는 것으로 나타났다. 나비의 이주에서 암컷보다 수컷이 매우 활발한 것으로 나타났다. 패치의 위치에 따른 이주 패턴의 분석 결과 패치 네트워크상에서 중앙에 위치한 패치가 양쪽 끝에 위치한 개체군을 이어주는 역할을 하고 있으며 근접한 거리에 있는 패치들간 이주가 멀리 떨어진 패치에 비해 빈번한 이주가 일어나는 것을 보여주었다. 따라서 붉은점모시나비의 이주에 있어서 근거리에 위치한 패치들간 교류가 활발히 일어나고있으며 패치와 패치를 이어주는 징검다리 역할을 하는 패치가 존재할 경우 교류가 더 활성화된다는 것을 제시하고 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "데모-기반 학습은 사용자가 직접 작업을 시연함으로써 로봇에게 쉽게 새로운 작업지식을 가르칠 수 있다는 장점이 있다. 하지만 기존의 많은 데모-기반 학습법들은 상태공간과 정책들을 표현하기 위해 속성-값 벡터 모델을 이용하였다. 속성-값 벡터 모델의 제한성으로 인해, 이들은 학습과정의 효율성도 낮고 학습된 정책의 재사용성도 낮았다. 본 논문에서는 기존의 속성-값 모델 대신 관계적 모델을 이용하는 새로운 데모-기반 작업 학습법을 제안한다. 이 방법에서는 사용자 데모 기록에서 추출한 훈련 예들에 관계적 개체-기반 학습법을 적용함으로써, 동일 작업영역내의 다른 유사한 작업들에도 활용하기 용이한 관계적 개체-기반 정책을 유도한다. 이 관계적 정책은 (상태, 목표) 쌍으로 표현되는 임의의 한 상황에 대해 이것에 대응하는 하나의 실행동작을 결정해주는 역할을 한다. 본 논문에서는 데모-기반 관계적 정책 학습법에 대해 자세히 소개한 후, 로봇 시뮬레이터를 이용한 실험을 통해 이 학습법의 효과를 분석해본다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "In this paper I discuss two markers for specificity, etten and han, in Korean. First, I discuss their structural properties and claim that etten is a determiner, and han is a numeral preceded by an implicit existential quantifier. Then I discuss four uses of etten and two uses of han, and show when they are used as specificity markers. There are various properties of the two specificity markers, some of which they have in common. I take them as properties of specificity markers in general. The properties only one of them has are taken to come from the original meanings of the two morphemes. I claim that specific indefinites range over individual concepts, which lead to the properties they have in common.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This paper concerns the development of a designer friendly hull form parameterization and its coupling with advanced global optimization algorithms. As optimization algorithms, we choose the Partial Swarm Optimization recently introduced to solve global optimization problems. \nMost general-purpose optimization softwares used in industrial applications use gradient-based algorithms, mainly dueto their convergence properties and computational efficiency when a relatively few number of variables areconsidered. However, local optimizers have difficulties with local minima and non-connected feasible regions. Because of the increase of computer power and of the development of efficient Global Optimization (GO) methods, in recent years nongradient-based algorithms have attracted much attention. Furthermore, GO methods provide several advantages over local approaches. In the paper, the derivative-based SQP and the GO approach PSO are compared with their relative performances in solving some typical ship design optimization problem focusing on their effectiveness and efficiency.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "It is time-consuming and difficulty to solve the time-cost trade-off problems, as there are trade-offs between time and cost to complete the activities in construction projects and this problems do not have unique solutions. Typically, heuristic methods, mathematical models and GA models has been used to solve this problems. As heuristic methods and mathematical models are have weakness in solving the time-cost trade-off problems, GA based model has been studied widely in recent. This paper suggests the time-cost trade-off optimization algorithm using particle swarm optimization. The traditional particle swarm optimization model is modified to generate optimal tradeoffs among construction time and cost efficiently. An application example is analyzed to illustrate the use of the suggested algorithm and demonstrate its capabilities in generating optimal tradeoffs among construction time and cost. Future applications of the model are suggested in the conclusion",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문에서는 다개체 시스템이 군집 행동을 달성하기 위한 군집제어 문제를 연구한다. 특히, 다개체 시스템이 다수의 리더 개체들과 추종 개체들로 구성된 경우를 고려하여 안정적인 군집 행동을 달성하기 위한 포위제어 문제를 연구한다. 포위제어는 추종 개체들에 의해 형성되는 볼록 껍질(convex hull)이 리더 개체들을 포함하도록 추종 개체들을 제어함으로써 군집 현상을 달성하는 것이 목표이다. 본 논문에서는 추종 개체들의 입력포화 비선형성과, 리더 개체들이 일정한 속도로 움직이는 경우를 고려하여 포위제어의 문제를 해결하기 위한 PI(Proportional-Integral) 기반의 분산제어 알고리즘을 제안한다. Lasalle’s invariance principle을 기반으로 포위제어의 목표 달성하기 위한 제어 파라미터들 및 정보교환 조건을 분석한다. 마지막으로 모의실험을 통하여 해석의 타당성음 검증하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "A Study of the Debate on Human Nature (人物性同異論辨)between Yi Kan (李柬) and Han Wonjin (韓元震)",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "New media technology has brought changes to the production of spatial design. The difference between real space and the virtual world disappeared and the concept of spatiality was expanded. Subjects also changed from a hierarchical relationship with technology to an equal relationship due to the influence of new media, and interactive exchanges became more active and active subjects. The unique physical properties were combined with new media to create visual and tactile sensations, and sensory organs created extrasensory experiences through separation and fusion. This study confirmed that the design characteristics that appear when these new media technologies are reflected in spatial design have changed in the three dimensions above. The resulting spatial design is non-hierarchical and borderless. It has been proven that it is visualized with the characteristics of flexibility, activity, individuality, individualization, contingency, hybridization, and extrasensoryness. This paper is expected to serve as a logical guideline for spatial design using new media.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "자기조직화지도(SOM)는 고차원 다변량 자료를 저차원 그리드 공간에 축약하여 시각화하는 비지도 학습 신경망 모형의 일종이다(Kohonen, 1998). SOM은 개체를 각 승자노드의 중심에 할당하는데 개체의 연속성을 보존한다는 관점에서는 그리드 공간에 승자노드를 중심으로 개체들이 적절히 퍼지도록 분포시키는 게 바람직하다. Um(2003)은 개체벡터의 승자노드와 그 인접노드의 중량벡터에 대한 가능도를 이용하여 그리드 공간상에 개체벡터의 상대적인 위치를 표현하도록 SOM을 확장한 IL-SOM을 제안하였다. SOM에서는 사각형 또는 육각형 그리드를 주로 사용하는데 Um(2003)은 이차원 그리드 공간에 사각그리드와 가상노드를 통해 확장한 확장형 사각그리드를 구현하였고 개체표현지수(Um, 2003)가 최소화되는 그리드의 크기를 선택하면 개체를 가장 잘 시각화한다는 결론을 내렸다. 본 연구에서는 이차원 그리드 공간에 육각그리드와 가상노드를 통해 확장한 확장형 육각그리드를 사용하는 IL-SOM을 구현하였다. 모의실험을 통해 사각그리드, 확장형 사각그리드, 육각그리드와 확장형 육각그리드의 개체표현지수 및 자료의 시각화 결과를 비교하였다. 또한 이 방법들을 4개의 그룹으로 구성된 게 자료에 적용하여 개체표현지수를 최소화하는 그리드의 종류를 확인하고 이를 통해 자료를 시각화한 결과를 비교하였다. 사각그리드와 육각그리드 모두 가상노드가 없는 경우보다 있는 경우가 개체표현지수가 작아 더 좋은 결과를 보였으며 육각그리드가 사각그리드보다 대체로 나은 결과를 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "지식 그래프 임베딩은 그래프의 구조적 특성을 반영하여 개체와 관계를 특성 공간에 나타내는 기술이다. 대부분의 지식 그래프 임베딩 모델은 그래프 구조 이외의 정보를 가정하지 않고 특징 벡터를 생성한다. 하지만 실생활과 밀접한 지식 그래프는 개체의 유형 정보 등 추가적인 정보를 얻을 수 있다. 본 논문에서는 개체의 유형이 클러스터의 역할을 수행할 수 있다는 점에 착안하여, 유형 정보를 반영할 수 있는 손실 함수를 통한 지식 그래프 임베딩 모델을 제시한다. 또한, 지식 그래프 내 관계의 주어/술어에 해당하는 유형이 제한적이라는 관찰을 토대로 개체 유형 제한에 특화된 네거티브 샘플링 기법을 제시한다. 본 논문에서 제시한 모델에 대한 링크 예측을 평가하기 위해 개체 유형 제한을 가진 지식 그래프인 SMC 데이터 셋을 생성하여 실험을 진행하였다. 링크 예측 결과는 본 모델이 네 개의 베이스라인 모델과 비교해서 뛰어난 성능을 보이는 것을 확인하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 하이데거와 역사주의가 어떤 관계에 있는지 살펴보는 데 주목적이 있다. 하이데거와 역사주의 사이의 관계는 양의적(兩義的)이고 복합적이다. 둘 다 서로를 밀어내는 부분도 있고, 서로 끌어당기는 부분도 있다. 한마디로 애증의 관계라고 할 수 있다. 우선 하이데거는 역사주의를 ‘역사학(Historie)’과 ‘과거’와 같은 죽어 있는 개념들로써 인간 존재의 의미와 본질을 규정하는 중요하고 살아 있는 개념인 ‘생기(生起)’로서의 ‘역사(Geschichte)’와 ‘역사적인 것’만이 아니라 더 나아가 ‘현재(적인 것)’와 ‘미래(적인 것)’까지도 압살해버리는 ‘근대적 현상’으로 규정했다. 그 때문에 정치적인 함의가 잔뜩 내포된 그러한 랑케식 역사주의는 언젠가 필연적으로 소멸할 수밖에 없고 또 소멸되어야 한다고 보았다. 그러나 하이데거는 이러한 독일 역사주의와의 비판적 대결 속에서 정교하게 만들어나간 자신의 역사사상에서 ‘현존재’와 ‘존재자’의 실존이 바로 주체의 존재와 시간의 개념을 통해서 결정된다고 주장하면서 본의 아니게 정작 그가 비판했던 역사주의의 ‘개체성 사상’과 ‘발전 개념’ 등 핵심 개념들에 가까이 다가가는 모습을 보여주었다. 하지만 하이데거의 행보는 여기서 멈추지 않았다. 그의 역사사상은 역사를 궁극적으로는 ‘미래적인 것’으로까지 포괄하는 것으로 해석함으로써 독일 역사주의를 극복하는 쪽으로 향했다. 독일 역사주의와는 확연히 구별되는 하이데거의 이러한 미래적 역사사상은 결국 ‘하이데거적 역사주의’로 불려야 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "자연언어처리 분야에서 말뭉치는 기계학습이나 심층학습을 위한 필수 자원이다. 한국어 개체명 말뭉치의 경우, 미국이나 일본이나 중국 등에 비해 잘 정제된 개체명 말뭉치가 부족한 실정이다. 현재 수행되고 있는 대부분의 개체명 말뭉치 구축 작업은 수작업이나 반자동으로 진행되고 있으며 이 경우에는 많은노력과 비용이 소요된다. 본 논문에서는 새롭게 말뭉치를 구축하는 것이 아니라 기존에 존재하는 적은 양의 말뭉치를 자동으로 확장하는 방법을 제안한다. 제안된 방법은 기존 말뭉치에 포함된 단어를 자동 편집(대체(substitution), 삽입(insertion), 삭제(deletion))을 이용해서 말뭉치를 확장한다. 단순한 단어를 편집하는 것은 확장된 말뭉치가 부자연스럽거나 다양성이 다소 부족할 수 있으므로 확률 표집을 적용하여 이 문제를 해결하였다. 본 논문에서는 확장된 말뭉치를 이용해서 개체명 인식기에서 성능이 향상됨을 확인할 수 있었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "김포시와 고양시 일대의 한강하구 지역은 우리나라에서 재두루미의 가장 중요한 월동지 및 중간기착지로 알려져 있지만, 이 지역의 조류 서식환경은 심각한 개발압력과 인간의 간섭으로 인해지속적으로 나빠지고 있다. 따라서 본 연구에서는 2007-2008년과 2011-2012년의 월동시기에 본지역에 도래하는 재두루미를 대상으로 월동 개체군 크기 변화와 월동지역 내에서 과거와 현재의취식지역 이용 현황 등을 조사하여 개발행위가 이들의 서식에 미치는 영향을 확인하였다. 본 지역에서 월동하는 재두루미 개체군은 평균 124.9개체(2007-2008년)에서 59.0개체(2011-2012년)로 감소하였으며, 주요 취식지역에서 확인된 개체수는 평균 77.7개체에서 24.1개체로 감소하여 월동개체군의 감소폭에 비해 주요 취식지역의 이용 개체수의 감소폭이 더 크게 나타났다. 유형별 분석에서는 가족군에 비해 무리군의 개체수가 많이 감소한 것으로 나타났으나, 홍도평 지역의 가족군 이용 개체수는 변화가 나타나지 않았다(Mann-Whitney test. Z＝－0.26, p＝0.979). 그리고 과거 다수의 재두루미가 주요 취식지역으로 이용하였던 송포동과 평동지역은 2012-2013년 조사에서는 거의 이용하지 않는 것으로 나타났다. 이는 위 지역의 개발행위(예: 제 2자유로 건설 등)와 깊은 연관성이 있는 것으로 생각된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "상품가치를 상실한 장기저장 개체동결 굴로부터 굴소스의 주소재용 엑스분을 추출하기 위한 열수, 잔사효소분해 및 복합추출조건을 검토하였고, 이들 엑스분들의 품질특성에 대하여 살펴보았다. 추출원료로 사용한 동결저장 18개월째의 개체동결 굴은 부분적으로 프리저번이 일어나 상품가치를 상실한 제품으로정상 개체동결 굴에 비해 수분 함량은 감소한 반면, VBN 함량은 다소 증가하였다. 특히 TBA 값은 2배이상 증가하여 지질산화가 장기저장 개체동결 굴의 가장 큰 품질저하 요인이었다. 장기저장 개체동결굴에서 추출한 열수추출, 잔사효소분해 및 이들을 혼합한 복합엑스분(Brix 20°)의 조단백질 및 아미노질소 함량은 각각 5.5, 8.5 및 6.6%, 281.7, 366.0 및 343.0 mg/100 g으로 잔사효소분해엑스분의 함량이 가장 많았다. 또한 수율은 개체동결 굴 1 kg 당 811, 359 및 1,170 mL로 복합엑스분의 경우 열수추출엑스분에 비해 약 44%의 추출수율이 증가하였다. 본 복합엑스분은 기존 열수추출엑스분에 비해 이화학적 성분조성 뿐만 아니라 관능적 품질도 전혀 손색이 없었으며, 굴소스의 주소재로 충분히 사용가능하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "현업 데이터베이스 응답 속도가 점차 느려지는 원인을 찾기 위하여 데이터 비만도가 거기에 어떤 영향을 초래할 수 있는지에 대해 연구했다. 게임정보시스템을 대상으로 게임 데이터 인프라가 어느 정도 잘 갖추어져 있는지 분석함으로써 연구를 실행했다. 데이터 인프라 수준을 측정하는 다양한 방법이 있지만 본 논문에서는 정보시스템 데이터 설계 결과물을 놓고 실물 평가를 실시하였다. 데이터 모델링의 여러 단계 중 실존하는 게임정보시스템의 논리데이터모델 설계 산출물을 기준으로 새로 모델링 한 개체관계 모형도 비교 분석하였다. 데이터 인프라의 주요 지표가 되는 데이터 비만도가 게임정보시스템 전체 평균 60%에 달하여 기준치인 15%를 무려 45% 상회하는 것으로 나타났다. 본 논문에서 데이터모델링 절차를 수행한 후의 데이터 중복률은 41%로 나타나서 기존 모델의 64%에 비하여 23%의 개선효과를 가져왔다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문에서는 일반적 의미의 창의성 개념, 언어에서 창의성 개념, 그리고 외국어 교육에서 창의성의 적용을 살펴보고, 이런 창의성의 개념이 영어교육 현장에서 어떻게 이해되고 적용되는지 살펴보았다. 특히 언어의 창의성 개념을 다루면서 새로운 조합의 가능성을 다룬 생성문법 학자들의 언어관을 살펴보았다. 이를 바탕으로 우리나라 영어교육 현장에서 사용되는 검인정 영어 교과서에서 나타난 영어 말하기 활동을 살펴보면서 영어교육 현장에서 창의성 개념이 제대로 반영되고 있지 못한 사실을 지적했다. 비록 언어의 창의성 개념은 촘스키의 언어 이론이 국내에 소개된 이후부터 꾸준히 논의되었고 영어교육에서 의사소통 중심의 영어교육이 오래 전에 도입되었지만, 현장의 영어교육은 이런 언어의 본질을 제대로 반영하고 있지 못하다. 이 논문은 일반적 의미의 창의성 개념과 언어의 창의성 개념을 언어교육과 어떻게 접목될 수 있는지 살펴보는 데 의미를 찾을 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "산업유산의 재생이 주요 선진국의 에너지 고갈된 지역 구조조정의 주요 방식의 하나로 자리 잡았다. 산업박물관은 바로 산업유산 재생의 주요 표현 형태다. 중국의 산업유산 재활용이 추진되고 있지만, 자원 고갈된 지역의 재편과 동떨어져 있다. 한국의 산업예술박물관이 좋은 성과를 거두고 있다는 점에서 중국에 시사하는 바가 크다. 한국은 비교적 완벽한 법제도 체계를 갖추었으며, 중앙정부의 조치가 명료하고 지방계획의 효율성이 뛰어나 산업예술박물관을 조성하기 위해 단단한 기반이 마련되었다. 산업예술박물관은 발전모델을 혁신적으로 발전시켜, 예술 공간에서 '사람'과 '사물', 이 새로운 속성을 부여하고 전통적 탄광지역을 현대박물관과 연계하여 한국의 산업역사를 전시하는 과정에서 지식생산을 완성하고, 개체의 국가역사와 정체성을 증진하며, 공공적 사회서비스와 시민적 사회참여의 '공공성'적 특징을 보여주며, 산업유산의 재생이 에너지 고갈 지역의 산업구조조정과 유기적으로 융합하게 하였다",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 국가장기생태연구의 일환으로 순천만 수조류의 도래현황을 조사하였다. 또한 연도별, 계절별 군집과 기상변화간의 상관관계를 분석하여 수조류의 도래실태를 파악하였다. 이를 통해 순천만 수조류의 보전·관리방안에 필요한 기초자료를 마련하고자 실시하였다. 2010년 4월부터 2014년 9월까지 순천만에서 관찰된 수조류는 맹금류를 포함하여 총 7목 16과 102종 34,969개체(최대개체수의 합)이었다. 시기별로 관찰된 수조류는 종수가 2010년 12월에 52종으로 가장 높았고, 2010년 6월에 12종으로 가장 낮았다. 계절별 종 및 개체수는 가을철이 높았고 여름철 낮은 경향을 보였다. 수조류의 생태특성으로 구분해 보면 수면성오리류(Dabbling ducks)는 14종 11,612개체, 도요물떼새류(Waders) 34종 10,642개체로 종수는 도요물떼새류가 개체수(최대개체수의 합)는 수면성오리류가 가장 높게 나타났다. 우점종은 청둥오리로 9,145개체(15.83%), 민물도요로 8,420개체(14.57%), 혹부리오리 3,211개체(5.56%), 흰뺨검둥오리 2,710개체(4.69%), 괭이갈매기 2,701개체(4.67%)의 순이었다. 분류군별 개체군과 기상정보와의 상관관계는 두루미류에서 유의성을 나타내진 않았으나 대부분 양의 상관관계를 보였고 지면온도와 음의 상관을 이루었다. 수면성오리류는 모든 조사된 기상정보와 유의성을 나타냈고, 기온, 상대습도, 지면온도와 음의 상관을 풍속과 강수와는 양의 상관을 나타냈다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 연구에서는 연세대학교 근대한국학연구소에서 수행한 1920-1930년대 《조선일보》ㆍ《동아일보》 기사의 개체명 주석 과정을 소개하고 방법론적 쟁점을 논의했다. 구체적으로는 발행된 전수 기사로부터 한국학 텍스트를 선별하고, 선별된 텍스트에서 개체명을 식별하고 분류하는 과정과 그 결과를 살펴보았다. 또한 주석 도구의 선정, 한자 및 이표기의 정규화, 주석의 방식, 자료의 분석과 해석 등 주석 과정에서 직면했던 문제를 검토하고 문제 해결을 위해 기울였던 노력을 공유하고자 했다. 이 연구에서 소개한 과업은 근대 한국학 기사를 대상으로 한 최초의 대규모 개체명 주석 작업이라는 점에서 의의를 지닌다. 소개된 주석 과정과 논의된 쟁점들이 해당 시기 데이터를 연구하는 후속 연구자들에게 실질적인 참고가 되기를 기대한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 영국, 독일, 캐나다, 일본, 중국, 호주 등 주요 국가의 운영 사례 조사를 토대로 연구 개체 및 PID 선정안과 PID 컨소시엄 구축 및 운영 전략을 제안하였다. 연구 개체 및 PID 선정 기준은 ‘연구생명주기’와 ‘PID 인프라 성숙도’ 2가지를 제시하였다. 2가지 선정 기준에 따른 연구 개체-PID 쌍은 초기 단계에는 ‘연구자-ORCID’, ‘출판물-DOI’, ‘데이터-DOI’, ‘기관-ROR’, ‘보조금-DOI’, ‘프로젝트-RAiD’를 고려하고 이후 단계에서는 PID 인프라 성숙도가 신흥 단계에 있는 다른 연구 개체와 PID로 확장해 나갈 것을 제안하였다. PID 컨소시엄 구축 및 운영 전략은 다양한 PID 이해관계자의 참여를 독려하고 국내․외 PID 기관과의 협력 네트워크를 구축하고 PID에 대한 인식 제고와 활용율 증대를 위한 교육 및 홍보 활동을 추진하고 정책적 지원과 재정적 안정성을 확보해야 함을 제안하였다. 이를 통해 국내 연구 개체들이 글로벌 차원에서 가시성과 접근성을 확보할 수 있는 기반을 마련할 수 있을 것으로 기대해 본다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The goal of this study is to propose a new method to capture the qualitative person spatial behavior. Beyond tracking or indexing the change of the location of a person, the changes in the relationships between a person and its environment are considered as the main source for the formal model of this study. Specifically, this paper focuses on the movement behavior of a person near the boundary of a region. To capture the behavior of person near the boundary of regions, a new formal approach for integrating an object’s scope of influence is described. Such an object, a spatio-temporally extended point (STEP), is considered here by addressing its scope of influence as potential events or interactions area in conjunction with its location. The formalism presented is based on a topological data model and introduces a 12-intersection model to represent the topological relations between a region and the STEP in 2-dimensional space. From the perspective of STEP concept, a prototype analysis results are provided by using GPS tracking data in real world.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "생의학 분야에서 개체명 인식은 주어진 텍스트에서 질병명, 유전자명, 화학물질명 등을 판별하는 기술이며 새로운 지식 추출, 개체간 관계 발굴에응용된다. 본 논문에서는 생의학 개체명 인식 성능을 향상시키기 위해 바이오 텍스트로 사전훈련된 BERT 계열 언어모델의 가중합, 병합, 게이트네트워크 앙상블을 수행하였다. 구체적으로 언어모델의 임베딩 단계에서 앙상블을 수행하여 개별 모델이 놓친 특정 패턴에 대한 추가 정보를 확보하고, 언어의 표현력을 강화시키며, 불균형한 데이터로 인한 오류를 줄였다. BERT 계열 언어모델 후보는 단일 모델 성능 평가를 통해 선별하였고앙상블 후 전수 탐색 기반 최적화하여 얻어진 본 앙상블 모델은 개별 모델보다 정밀도, 재현율, f1 성능이 향상되었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "센서 네트워크에서 개체 검출과 추적에 관한 기존 라우팅 프로토콜들은 사람, 동물, 차량 등과 같은 하나 또는 그 이상의 단일(individual) 개체들에 대한 검출과 추적을 하기 위한 방법에만 관심을 가질 뿐, 독가스, 생화학 물질 등과 같은 연속적인 개체들을 검출하고 추적하는 프로토콜들은 많지 않다. 이러한 연속적인 개체들은 어느 지역에 계속적으로 분산되어 있고, 광범위한 지역을 차지한다는 점에서 단일 개체들과 차이가 있다. 따라서 많은 센서 노드들에 의해 검출되고 센싱되는 데이터들은 중복적이고 서로 깊이 관련되어 있다. 그러므로 지역적으로 센싱 데이터를 수집하고 통합하여 데이터를 보고하기 위한 효율적인 방안이 필요하다. 본 논문에서 우리는 연속적인 개체들을 검출, 추적하고 모니터링(monitoring)하기 위한 동적인 직사각형 영역에 기반한 연속적인 개체 추적 방안을 제안한다. 제안된 방안은 하나의 연속된 개체가 차지한 지역이 포함된 동적인 직사각형 영역을 구성하고, 영역에서 하나의 대표 노드가 연속된 개체를 검출하는 센서 노드들로부터 센싱 데이터를 수집하고 통합한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "2001년부터 2002년까지 소나무재선충의 매개체인 솔수염하늘소 성충의 생체중과 체장, 체폭, 두폭, 더듬이의 길이 및 색깔 등을 조사하였다. 소나무재선충에 감염되어 고사된 소나무를 일정한 길이로 잘라 우화망실 안에 두고 우화하는 솔수염하늘소 성충을 채집하여 조사하였다. 분산분석결과 생체중, 체장, 체폭의 측정치는 암컷이 수컷보다 높았고, 두폭은 암수간에 차이가 없었으며, 촉각의 길이는 수컷이 더 길었다. 암컷(n = 563)과 수컷(n = 601)의 평균 생체중은 각각 0.305 g과 0.277 g, 체장은 20.97mm와 19.93 mm, 체폭은 6.52mm와 6.18 mm, 두폭은 3.78mm와 3.70 mm, 촉각의 길이는 31.19mm와 45.49mm이었다. 촉각의 길이나 체장과 촉각 길이의 비율은 암수간에 중복되는 범위가 많아서 이것을 기준으로 암수를 구분할 수는 없었다. 그러나 성충(n = 4,033) 촉각의 털 색깔을 조사한 결과, 예외 없이 암컷 촉각의 모든 편절 마디의 기부쪽 절반 정도가 회백색의 미모로 덮여 있으나, 수컷 촉각의 편절마디는 전체적으로 흑갈색의 미모로 덮여 있었기 때문에, 이 특징으로 암수를 쉽게 구분할 수 있었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이력추적관리시스템은 상품의 생산과 유통의 모든 단계에서 추적ㆍ조사ㆍ기록이 가능한 시스템을 의미한다. 국내에서는 건강과 직접적으로 관련이 있는 식품의 이력추적에 대한 관심이 높다. 본 연구에서는 전통의학분야에서 사용되어지는 한약재를 대상으로 RFID 기술을 적용하여 이력추적관리 프로세스를 제안한다. 세계적인 표준으로 채택되고 있는 RFID 코드체계 구성과 한약재의 이력관리 프로세스, 현재 진행되고 있는 한약재 이력관리시스템을 분석하였다. 우선적으로 RFID 기술에 적합한 새로운 한약재 이력추적관리 프로세스를 설계하였으며, 이 프로세스에 적합하도록 ISO 표준과 국내의 농수산물 표준코드를 활용하여 한약재 이력정보 추적을 위한 RFID 코드체계를 제안한다. 코드체계 설계는 한약재의 추적에 있어 식별자로서의 역할을 담당하기에 가장 중요한 요소이다. 제안된 코드체계는 96비트 길이 내에서 국가구분, 관리기관, 구분자, 식별번호, 일련번호로 구성되어 있다. 마지막으로 이력추적시스템내에서 코드발급프로세스를 정의하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "영월군 북면 갈골에 노출된 마차리층 상부에서 보존이 매우 좋은 11속 12종의 후기 캄브리아기 삼엽충화석이 산출되었다. 이 중 미성숙단계에서 성체에 속하는 개체가 많이 산출된 Pseudagnostus josepha (Hall, 1863)에 대한 개체발생과정과 성장에 따른 형태적 변화를 추적하였다. Pseudagnostus josepha의 개체발생과정은 10단계로 구분되었으며, 이는 다시 중간 시기의 2단계, 성체 시기의 8단계로 나누어졌다. 개체발생과정 중중간 시기에서 일어난 중요한 변화는 꼬리에서 몸통 쪽으로 마디들이 옮겨져 나가는 것이었으며, 성체 시기에서는 꼬리의 축 뒷부분이 상대적으로 길어지는 양상이었다. 이러한 꼬리 축 비율의 증가는 함께 산출되는Peratagnostus orientalis에서도 관찰되었다. 랜드마크 자료를 통한 형태학적 분석을 수행하여 검토한 결과, 꼬리의 축 뒷부분의 길이 비율이 상대적으로 증가하는 것은 꼬리 부분의 상대생장에 기인하는 것으로 해석하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "기존 보고된 귤응애 온도발육자료를 이용하여 온도발육 관련 매개변수 값을 추정하고 개체군 동태 추정에 필요한 행렬모형을 작성하였다. 귤응애 발육영점온도는 알 8.4℃, 유충 9.9℃, 제 1약충 9.2℃, 제 2약충 10.9℃ 이었으며, 발육완료에 필요한 적산온도는 각각 113.6, 29.1, 29.8,33.4일도(DD)로 추정되었다. 귤응애 각 발육단계별 비선형 발육모형을 수립하였으며 또한 산란모형 작성에 필요한 온도별 총산란수 모형, 연령별누적산란율모형, 연령별 생존율 모형의 매개변수 값을 각각 추정하였다. 귤응애 연령군을 알, 유충, 제 1약충, 제 2약충, 성충 등 5단계로 구분하여행렬모형을 작성하였다. 전환행렬의 구성요소인 다음 발육단계로 전이확률 또는 잔존확률은 각 발육단계의 발육률 함수를 이용하였다. 또한 성충의 산란계수는 해당온도에서 성충수명 완료율과 총산란수의 곱으로 추정하였다. 수립된 행렬모형의 포장적합 능력을 평가하기 위하여 실제 감귤원에서 조사된 귤응애 실측밀도와 행렬모형으로 추정한 개체군 밀도를 비교하였다(2004년). 계절 초기 저온기와 계절중후기 고온기에 모형결과를 실측치와 비교한 결과 알 및 성충 개체군은 계절초 및 중후기 모두 약 30일까지 큰 차이가 없었다. 따라서 본 개발된 행렬모형을 이용하여 30일 내외의단기간 동안 귤응애의 개체군밀도 증가를 예측할 수 있을 것으로 기대되었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "특산식물 금강초롱꽃의 국제단위 IUCN 적색목록의 평가를 시도하기 위해, GIS를 이용하여 분포도를 작성하고 분포면적과 점유면적을 계산하였다. 2011년과 2012년, 2년간 현장조사를 한 결과 성숙개체는 4개 지역에서 269개체(2011년), 3개 지역에서 216개체(2012)를 확인하였는데, 기존 알려진 20여개의 서식지를 고려한다면 전체 성숙개체는 1,000개체 이상으로 추정된다. 분포면적은 12,742 km2, 점유면적은 76 km2이고 추정되는 성숙개체 수에 근거한 평가 결과, 금강초롱꽃은 위기종(EN)으로 판정되었다. 국내 희귀식물의 보전지위 평가에 있어 IUCN 국제평가기준을 적용시키기 어려웠던 이유는 국내의 생물학적 정보 확보 노력의 부족과, IUCN 범주 및 기준의 낮은 이해도 때문인 것으로 판단한다. 개별 종의 정확한 보전지위 평가를 위해서는 개체군 생태학적 정보를 축적해야 하며, IUCN 평가 절차를 준수해야 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 한국의 대표적인 민족선각자인 도산 안창호의 사생관에 관해 분석한 것이다. 한 인물 연구에 있어서 사생관은 가장 기초적인 본원적인 세계관에 해당한다고 할 수 있다. 사생관이란 삶과 죽음에 관한 철학이다. 정치사상에서 사생관은 순수철학에서 다루는 사생관과 차별성을 지니고 있다. 정치사상에서 사생관은 전체와 부분, 전체와 개체 간의 문제를 집중해서 다룬다. 다시 말하면 전체인 민족, 국가, 인류, 세계를 어떻게 인식하느냐?는 점과 개체인 국민의 역할은 어떤 것인가?라는 점에 초점을 맞추어 논의를 전개한다. 이러한 시각에서 도산의 사생관을 정리하면 우선 공동체지향주의를 지적할 수 있다. 그는 세계의 평화를 추구한다. 더구나 사랑을 기초로 한 인류공동체를 추구한다. 둘째, 민족우선주의를 지적할 수 있다. 여기서 그의 전체와 개체 간의 인식을 엿볼 수 있다. 그가 개인의 개조론과 주인론을 설파하고 있는 것은 민족이라는 전체의 이익과 발전을 위해 개체인 개인의 역할을 강조하고 있는 것이다. 셋째, 그의 사생관은 정의돈수(情誼敦修)주의로 설명할 수 있다. 정의돈수는 도산이 스스로 규정한 것처럼 화기(和氣)가 넘치는 다정(多情)한 사회를 만들기 위한 개체들의 노력일체를 말한다. 이러한 도산의 사생관들은 그의 활동의 근거일 뿐만 아니라 오늘날 우리들에게도 우리가 취해야 할 하나의 모형으로 의미가 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "지구 온난화, 화석연료의 고갈 등이 중요한 문제로 대두됨에 따라 전기자동차가 관심을 얻고 있다. 그러나 배터리 충전 시간, 높은 배터리 제조비용 등은 전기자동차가 널리 보급되는데 장애요인이 되고 있다. 이런 기술적 문제점을 해결하기 위한 대안으로 배터리를 교체하여 운행하는 운영 방식이 개발되었다. 배터리 교체형 시스템에서는 배터리의 공급망이 복잡하기 때문에 배터리의 신뢰성 확보 및 관리의 효율화를 위해서는 배터리 이력추적 시스템의 구축도 함께 진행되어야 한다. 본 연구에서는 전기자동차 배터리 이력추적 시스템에서 배터리 식별을 위해 사용될 RFID 코드를 설계하였다. 설계된 코드는 EPCglobal의 GRAI-96 표준을 기반으로 하였으며 배터리의 외형적 특성, 화학적 특성, 제조사, 제조일 등을 반영하였다. 설계된 코드는 RFID 코드뿐만 아니라 각 배터리의 개체식별번호로도 적용이 가능하다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글에서 나는 심리학에서 뿐만 아니라 상식적인 수준에서도 ‘개체 내부의 지식의 변화 혹은 머릿속의 새로운 지식의 저장’이라고 정의하는 ‘학습’을 ‘문화적 실천’으로서 새롭게 정의하는 것을 연구목적으로 하고자 한다. ‘문화적 실천’으로서 학습을 새롭게 정의하는 것은 ‘학습’이라는 활동을 개인의 머릿속 즉 닫혀 있는 공간 내부에서의 변화라는 관점을 넘어서서 개인과 외부세계와의 부단한 상호작용의 산물로서 그것을 다루는 것을 의미한다.\n이 연구 목적을 달성하기 위해서 첫째, 일본 후쿠이 특수학교에 재학 중인 중복장애아인 ‘마리’의 요리 만들기 활동을 영상 기록한 데이터를 분석하였다. 이 데이터를 분석하기 위해서 나는 비고츠키(Vygotsky)의 관점과 후기 비고츠키 학파 연구자인 워치(Wertsch)의 관점, 그리고 상황학습론의 창시자인 레이브와 웽거(Lave & Wenger)의 관점을 채용하였다. 둘째, 개체내부의 변화로서 학습을 정의하였을 때와 문화적 실천으로서 학습을 정의하였을 때 마리의 요리 만들기 활동은 우리 눈에 어떻게 다르게 비추어지는지 비교 검토하였다. 셋째, 우리는 무엇을 암묵적인 전제로 하여 학습을 개체내부의 변화라고 정의하는지 탐색하였다. 마지막으로 내가 이 글에서 채용한 이론적 관점과 그 관점에 터한 데이터의 분석으로부터 얻은 지견에 기초해서 학교학습을 특수한 문화적 실천으로서 재조명하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "개체 추출은 원격탐사 분야의 주된 연구분야 중 하나로, 고해상도 위성영상의 활용도가 높아짐에 따라 보다 세밀하고 특정적인 개체를 추출할 수 있게 되었다. 기존의 화소 기반의 영상 처리 기법들은 고해상도 위성영상의 분광 및 기하학적인 다양성과 복잡성을 제대로 반영하기 어렵기 때문에 근래에는 영상분할 기술을 기반으로 하는 많은 연구가 진행되고 있다. 그런데 단순히 RGB 밴드 영상에 한 가지 영상분할 기법을 적용하는 것으로는 다양한 분광 특성과 형태를 갖는 여러 대상 개체들을 추출하는데 한계가 있다. 지표면의 피복의 종류를 식별하고, 상태를 모니터링 하는데 효과적인 분광지수는 개체 추출 과정에 효율적으로 이용할 수 있다. 본 연구에서는 영상분할 기술을 기반으로 하여 분광지수를 이용한 보다 효과적인 개체 추출 기술을 제안하고자 하였다. 다양한 종류의 개체를 추출하기 위하여 의사결정 트리 분류 기술을 사용하였으며 고해상도 위성인 WorldView-2의 8밴드 다중분광 영상을 이용한 실험을 통해 각 대상 개체를 추출하기에 적합한 분광지수들을 선택하고 이의 효용성을 평가해보고자 하였다. 그 결과, 건물, 도로, 나지, 식생, 수계, 그림자의 6개 클래스에 대한 개체들을 선택적으로 분류할 수 있었고, 식생지수를 비롯한 다양한 분광지수들이 각 개체의 종류를 선별해내는데 효과적으로 사용될 수 있음을 확인하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "개체명은 다양한 자연어처리 연구 및 서비스에 중요한 정보로 이용된다. 개체명 인식의 성능을향상시키기 위한 여러 연구에서 개체명 사전을 이용한 자질이 개체명 인식 성능에 큰 영향을 준다는 것을보이고 있다. 그러나 개체명 사전을 구축하는 것은 매우 시간 소모적이고, 인력 소모적인 작업이다. 이를완화하기 위해서 본 논문에서는 개체명 사전을 반자동으로 구축하는 방법을 제안한다. 제안 시스템은 능동학습을 이용하여 위키피디아 분류정보로 구성된 가상 문서를 개체명 범주 당 하나씩 생성한다. 그리고 잘알려진 정보검색 모델인 BM25를 이용하여 위키피디아 엔트리와 가상문서 사이의 유사도를 계산한다. 마지막으로 유사도를 바탕으로 각 위키피디아 엔트리를 개체명 범주로 분류한다. 서로 다른 3종류의 개체명범주 집합에서 실험한 결과, 제안 시스템은 매크로 평균 F1-점수 0.9028, 마이크로 평균 F1-점수 0.9554 이라는 높은 성능을 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "유교에는 ‘신(神)의 형상 테제’나 ‘합리성 테제’처럼 인간과 동물 사이에 ‘심원한 간극(間隙)’을 설치하는 장치가 없었다. 성리학(性理學)에서는 ‘인간과 만물은 모두 이(理)와 기(氣)의 결합으로 태어났다’고 하여 ‘인간과 만물의 평등’을 설파하고, ‘바르고 통한 기를 얻은 인간은 치우치고 막힌 기를 얻은 동물보다 우수하다’고 하여 ‘인간이 만물의 영장(靈長)임’을 설파했다. 요컨대 성리학이 형이상학적 관점에서 인물성동론(人物性同論)의 길을 열어놓았다면, 진화론(進化論)은 ‘모든 생명체는 동일한 조상(祖上)에서 다양한 종(種)으로 진화했다’는 관점에서 인물성동론의 길을 열어놓은 것이다. 이처럼 유교와 진화론은 서로 접근법이 달랐어도 ‘인간과 동물은 연속선상에 위치한다’는 결론을 공유했기 때문에, ‘인간과 만물을 일체로 여기고, 모든 동물의 생명을 애호하라’는 입장을 공유했던 것이다. 그런데 레이첼즈는 육식(肉食)을 반대했으나, 맹자는 육식을 인정했다.\n다윈의 주장처럼 진화(進化)란 생존경쟁의 과정이요 혈연선택의 과정이라면, 생존의 경쟁자인 다른 동물들을 포식(捕食)하는 것이 무슨 잘못이며, 가까운 혈연을 우대하기 위해 먼 혈연을 포식하는 것이 무슨 잘못인가? 이러한 의문을 해소하기 위해 레이첼즈의 도덕적 개체주의는 이론적으로 보완될 필요가 있다. 도덕적 개체주의를 수정하고 보완하기로 한다면, 전통 유교의 입장이 좋은 참고자료가 될 수 있다. 유교에서는 인간과 만물을 일체로 생각하면서도, 혈연선택이론에 따라 만물보다 인간을 우대했고, 인간의 삶에 꼭 필요한 범위에서는 만물을 거두어 활용하는 것을 용인하여, ‘많은 사람들이 수긍할 수 있고, 실천할 수 있는’ 내용을 제시했기 때문이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문에서는 로봇 간의 결합과 허리 관절을 이용하여 변형 가능한 다 개체 4족 로봇 플랫폼을 제안하였다. 메카넘 휠을 적용하여 다양한 각도로 주행이 가능하고, 주행으로는 이동할 수 없는 환경을 극복하기 위해 보행도 가능한 복합 이동형 로봇으로 설계하였다. 주행 및 보행을 구현하기 위해 2가지의 기구학을 사용하였으며, 보행은 일정한 패턴을 생성하여 구현하였다. 로봇의 전면부와 후면부에는 결합 모듈을 장착하였고, 두 로봇 간의 결합을 위해 결합 알고리즘을 제시하고 실험하였다. 변형을 이해 로봇의 몸 중간에 허리 관절을 적용하였고, 허리관절을 이용한 변형을 통해 물건을 옮길 수 있는 새로운 기능을 구현하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "대화형 개인 비서 시스템은 기존의 대화 시스템과 달리 앱(App)을 이용하여 사용자에게 정보를 실시간으로 제공하는 시스템이다. 대화형 개인 비서 시스템에서의 SLU(Spoken Language Understanding) 작업은 도메인, 개체명, 문장목적, 동작, 화행 인식으로 나누어진다. 본 논문은 대화형 개인 비서 시스템에서의 SLU 작업들 중 개체명과 문장목적을 동시에 인식하는 방법을 연구한다. 기존 시스템은 사전-규칙 기반 방법 이용하여 인식 작업을 수행하는데, 이 방법은 몇 가지 문제점이 존재한다. 본 논문에서는 이러한 문제를 해결하기 위해 Conditional Random Fields(CRF)를 이용하여 개체명과 문장목적을 동시에 인식하는 방법을 제안하며, 양질의 ETRI 개체명 사전을 이용해 전체적인 성능을 향상시켰다. 기존 시스템과의 비교 결과, 문장 단위 1.5%의 성능 향상을 보였고, 유의성 검정 결과 본 논문에서 제안하는 방법이 신뢰도 95%에서 통계적으로 유의하다는 결론을 얻었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "액상 잔디비료의 4종류의 제형을 가을철 한지형 잔디에서 시험하였다. 상업용 제품 개발을 위한 PS-A, PS-B, PHC및 PH-D은 필수영양원소 와 해추출액, 아미노산 및 휴믹 물질함유하고 있다. 켄터키블루그라스 혼합품종(Midnight33%, Moonlight 33%, Prosperity 33%) 과 크리핑벤트그라스 “Penn-A1” 품종에 대한 생장과 품질은 잔디색, 엽록소함량 및 뿌리길이, 뿌리생체중 및 개체수(분얼수) 밀도로평가하였다. 4종류의 제형을 2013년 가을철에 합천 뗏장농장에서 7일간 간격으로 3회 엽면살포를 하였다. 잔디 생장은 크리핑벤트그라스에서는 4종류 모드에서 처리간에통계적으로 유의적인 차이는 없었으나, 켄터키블루그라스에서는 PS-A에서 잔디생장이 증가하였다. 엽록소 함량 과잔디색은 PA-A를 2와 3회 살포한 크리핑벤트그라스와 켄터키블루그라스에서 통계적으로 유의성 있게 증가하였다.\n잔디 개체수밀도는 PA-A 와 PA-B를 살포한 처리구에서살포 후 20일에 켄터키블루그라스에서 유의 차이는 보였다. 이 결과는 개발 제형을 가을철에 뗏장잔디 생산과 골프장에서 사용 할 경우 잔디 색과 엽록소함량증대에 도움이 될 것으로 생각된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "텍스트에서의 개체명 인식은 텍스트 상에 존재하는 주요 개체명들을 인식하여 특정 목적에 맞게 분류하는 작업으로서, 개체명 간 관계 추출 및 이벤트 추출의 시작점이 된다. 개체명 인식의 정확도는 어느 정도 성능을 달성했다고 할 수 있지만, 실제 방대한 문헌에서의 체감 성능을 높이는 과제는 여전히 남아 있다. 기계학습 기반의 개체명 인식의 정확도는 개체명 인식에 사용되는 기계학습 모델의 정확도에 많은 영향을 받으며, 기계학습 모델은 학습을 위한 데이터셋을 얼마나 정교하게 구축했느냐에 절대적으로 영향을 받는다. 본 연구에서는 기계학습 기반의 개체명 인식의 정확도 향상을 위해 기존 학습 집합 태깅에 있어서의 문제점을 분석하여 해결 방안을 제시한다. 또한 기존 의사결정 트리 모델을 단순화하여 모델 자체가 직관적이어서 개체명 인식 오류에 대해서 피드백하기 쉽다는 장점이 있고, 기존 의사결정 모델들에 비해 정확하고 명확한 개체명 인식을 할 수 있을 것으로 기대할 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 제주도 한라산에 서식하는 산굴뚝나비의 분포와 개체군 동태를 알아보기 위하여 선조사법과 포획-재포획 조사법을 실시하였다. 그 결과 산굴뚝나비는 해발 1500m 이상부터 관찰되기 시작하여 정상부까지 서식하는 것으로 확인되었다. 포획-재포획 조사에서 산굴뚝나비의 포획 개체수는 1,493개체로, 이중 수컷은 978개체, 암컷 515개체가 확인되었다. 재포획된 개체수는 518개체이며, 수컷과 암컷의 비율은 284:234로 나타났다. 그리고 암컷과 수컷의 평균생존일수는 2.31로 나타났으며, 이중 수컷 2.14일, 암컷 3.47로 나타나 암컷이 수컷 보다 오래 생존한 것으로 나타났다. 포획-재포획 조사를 통한 일일 추정개체수는 수컷이 7월에 약 1000개체를 유지하다가 점차 감소하는 것으로 나타나고 있으며 8월에는 개체수가 200개체 이하로 나타났다. 그리고 암컷은 7월에 335개체를 최고로 하였다가 점차 감소하고, 이후 8월에 이르러 개체군 크기는 120개체 이하로 나타났다. 추정개체수의 크기는 암컷이 수컷의 약 1/3수준으로 나타났다. 산굴뚝나비의 평균 이동거리는 수컷 116.8±191.9m, 암컷 118.4±161.5m로 나타나 암수간의 차이는 거의 없었다. 산굴뚝나비는 한라산 백록담을 중심으로 넓게 형성된 초지공간에서 단일 개체군을 이루고 있다. 개체 밀도가 가장 높은 곳은 훼손지 복구지역으로, 이는 한라산의 훼손된 지역을 복구하는 작업과정에서 먹이식물인 김의털이 넓은 면적으로 자라고 있어 이 지역을 중심으로 많은 개체들이 서식하고 있는 것으로 나타났다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 연구는 2006년 5월부터 2010년 11월까지 제주도와 부속도서인 가파도에 서식하는 쇠살모사의 먹이원과 지역에 따른 먹이이용의 차이를 밝혀 먹이원의 차이가 쇠살모사의 생활사에 어떠한 영향을 미치는지 밝히기 위하여 이루어졌다. 연구결과, 제주도 개체군에서 확인된 먹이원은 왕지네(Scolopendra subspinipes mutilans), 제주도롱뇽(Hynobius quelpaertensis), 청개구리(Hyla japonica), 맹꽁이(Kaloula borealis), 북방산개구리(Rana dybowskii), 참개구리(Rana nigromaculata), 도마뱀(Scincella vandenburghi), 대륙유혈목이(Amphiesma vibakari), 작은땃쥐 (Crosidura shantungensis), 한라산뒤쥐(Sorex caecutiens hallamontanus), 제주등줄쥐(Apodemus chejuensis) 등으로 양서류나 파충류 및 소형포유류를 주로 포식하는 것으로 나타났다. 이중 양서류가 55.2%로 가장 높은 빈도를 보였고, 포유류 20.7%, 지네 13.8%, 파충류 10.3% 순이었다. 이와 달리 가파도 개체군에서는 지네와 도마뱀만을 먹는 것으로 나타났다. 지네나 도마뱀은 작은 크기라 1회 포식으로 얻을 수 있는 영양분이 떨어지기 때문에 제주도 개체군에 비해 생장이나 생식에 불리하게 작용할 것이다. 가파도 개체군의 경우 이용할 수 있는 먹이원의 종류는 비교적 다양함에도 불구하고 도마뱀과 지네만을 주로 포식하는 것은 다른 먹이원의 밀도가 낮아 이를 찾기 위한 노력에 소비되는 에너지를 최소화하기 위해 질은 낮지만 쉽게 구할 수 있는 먹이를 선택하는 것이라 판단된다. 뱀은 머리의 크기가 클수록 큰 먹이를 선택하는 경향이 있는데, 제주도 개체군에서도 쇠살모사의 머리의 크기와 먹이의 직경 사이에 양의 상관관계를 보였다. 제주도 개체군은 수컷이 암컷보다 머리가 크며, 이러한 결과는 먹이의 선택에도 영향을 미칠 것이라 판단된다. 반면, 지네와 도마뱀만을 포식하는 가파도 개체군에서는 머리 크기와 먹이 크기 간에 유의한 차이는 없는 것으로 나타났다. 이러한 결과는 같은 종이라도 서식장소에 따라 이용가능한 먹이원을 선택하여 각기 다른 방향으로 환경에 적응하면서 개체군을 유지하는 데 유리한 방향으로 성장해간다는 것을 직접적으로 보여주는 매우 의미 있는 자료라 판단된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문은 인터넷의 기술 특성과 이의 사회 문화적 함의를 심층 인터뷰와 이용 일지 분석을 통해 탐구하고자 했다. 이질적인 개체들이 끝없이 연결돼 있는 인터넷의 횡단적 기술 속성은 개인주의의 강화와 속도중시, 영역과 경계의 해체 등과 같은 문화와 조응, 근대성의 장애와 문제점을 극복할 수 있는 잠재력을 갖고 있는 것으로 나타났다. 그러나 연구 결과 밝혀진 이용 방식 속에는 ‘나’의 선택과 가치를 중시하는 개인주의의 강화가 집단적 개인주의와 동반해 나타났고, 탈영역화·속도 중시·경계의 넘나듦 역시물질 소비를 통한 이미지 중심의 나르시시즘으로 변모할 수 있다는 것이 동시에 드러났다. 이는 인터넷의 횡단적 가능성이 필요에 따라 유연하고 자유롭게 무엇이든 선택할 수 있는 ‘주체’를 생산하고 있는 동시에 자본의 이윤 확대를 위한 ‘소비의 객체’를 생산할 수도 있는 것으로 볼 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 2005년과 2006년 6월부터 9월까지 남산, 지리산, 월악산의 신갈나무림, 소나무림에서 유브이 버킷 라이트 트랩(22 W)을 이용하여 나방을 포획하였고 식생 및 삼림의 주요 1차 소비자인 나방류(불나방과, 자나방과, 밤나방과, 재주나방과, 명나방과)의 종다양성을 시공간적으로 비교하였다. 본 연구기간동안 국가장기생태연구지에서 포획된 나방의 종수는 435종이었다. 포획된 나방의 개체수는 월악산에서 가장 높았고, 지리산, 남산 순이었다. ANOVA 분석결과 개체수를 종속변수로 하였을때는 조사시기에 대해 유의한 차이가 나타났고 종풍부도의 경우에는 조사시기와 지역에 따른 유의한 차이가 나타났다. 다변량분석 방법인 다차원분석법을 사용하였을때, 나방의 군집구조는 각 지역별로 뚜렷이 구분되어 나타났지만, 같은 지역내의 산림유형에 따른 구분은 명확하지 않았다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "개체명 인식은 문장에서 개체명을 추출하고 추출된 개체명의 범주를 결정하는 작업이다. 기존의 개체명 인식 연구는 주로 지도 학습 기법이 사용되어 왔다. 지도 학습을 위해서는 개체명 범주가 수동으로 부착된 대용량의 학습 말뭉치가 필요하며, 대용량의 학습 말뭉치를 수동으로 구축하는 것은 시간과인력이 많이 들어가는 일이다. 본 논문에서는 학습 말뭉치 구축비용을 최소화하면서 개체명 인식 성능을빠르게 향상시키기 위한 준지도 학습 방법을 제안한다. 제안 방법은 초기 학습 말뭉치를 구축하기 위해원거리 감독법을 사용한다. 그리고 배깅과 능동 학습을 결합한 앙상블 기법의 하나인 능동 배깅을 사용하여 초기 학습 말뭉치에 포함된 노이즈 문장을 효과적으로 제거한다. 실험 결과, 15회의 능동 배깅을 통해개체명 인식 F1-점수를 67.36%에서 76.42%로 향상시켰다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "생물 종(種)의 개체 수가 서식지 안의 특정 위치에서 시간에 따라 어떻게변하는 지를 연구하는 분야인 수학적 개체 수 생태학(mathematical population ecology)에서 편미분방정식 형태의 모델들은 상미분방정식형태로 표현되었던 classical model과는 상이한 성질을 가진다는 사실이여러 면에서 연구되었으며, 현재까지도 편미분방정식 형태의 수리생물학모델에 대하여 다양한 관점에서 많은 연구가 활발히 진행되고 있다. 이논문에서는 이러한 편미분방정식 모델들에서 확산을 표현하기 위하여사용했던 다양한 수식 형태와 그 수학적 의미를 역사적으로 살펴본다.\n서식 공간에서 개체들의 이동을 묘사하기위한 수학적 방법으로 무작위적단순 확산을 가정한 반선형(semi-linear) 시스템과 이 개념을 더확장하여 확률적 단순 확산이 아닌 상호작용이 반영된 복합적인 확산을묘사하는 준선형(quasi-linear) 시스템을 고찰한다. 그리고 앞으로 이분야에서 해결되어야 할 중요한 연구 주제들 중 몇 가지를 소개한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "개체명 인식(Named Entity Recognition)시스템은 문서로부터 고유한 의미를 가질 수 있는 인명(PS), 지명(LC), 기관명(OG) 등의 개체명을 추출하고 추출된 개체명의 범주를 결정하는 시스템이다. 최근 딥러닝 방식을 이용한 개체명 인식 연구에서 입력 데이터의 앞, 뒤 방향을 고려한 LSTM 기반의 Bi-LSTM 모델로부터 출력 데이터 간의 전이 확률을 이용한 CRF를 결합한 방식의 Bi-LSTM-CRF가 우수한 성능을 보이고, 문자 및 단어 단위의 효율적인 임베딩 벡터생성에 관한 연구와 CNN, LSTM을 활용한 모델에서도 좋은 성능을 보여주고 있다. 본 연구에서는 한국어 개체명 인식시스템 성능 향상을 위해 자질을 보강한 Bi-LSTM-CNN-CRF 모델에 관해 기술하고 전통문화 말뭉치구축 방식에 대해 제안한다. 그리고 구축한 말뭉치를 한국어 개체명 인식 성능 향상을 위한 자질 보강 모델 Bi-LSTM-CNN-CRF로 학습한 결과에 대해 제안한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "시몽동과 스티글레르의 기술철학은 기술적 환경을 인간 삶의 근본 조건으로 긍정하면서도, 현대 소비자본주의가 강요하는 파편화된 개인주의와 탈-공동체화가 아닌, 개체들 간의 진정한 소통과 이에 근거한 개체초월적인 집단성의 생산 가능성을 사유한다는 점에서 주목할 필요가 있다. 시몽동이 정보기술의 등장과 더불어 인간과 기술적 대상이 전개체적 실재에 근거하여 상호 협력적으로 공진화하는 개체초월적 세계의 가능성을 제시했다면, 스티글레르는 시몽동 이후 하이퍼-산업화된 디지털 네트워크 시스템에 의해 불가능해진 심리적-집단적-기술적 개체화의 회복을 촉구했다. 노동공동체와 통제사회를 넘어서 시몽동의 개체초월적인 정신적-집단적 문화를 실현하기 위해서는 기술 매체의 독성을 치료약으로 전환시키기 위한 스티글레르의 비판적 리터러시가 필수적이다. 시몽동의 ‘기술과 개체초월성’에 대한 존재론적 사유는 스티글레르의 ‘관개체화와 기술의 파르마콘 정치학’으로 계승되면서 오늘날의 자동기계화 사회에 대항하는 실천적 대안으로 등장하고 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "해방 이후 임옥인 문학 연구는 민족국가의 자기동일성이나 남북 간 이념 갈등이라는 범주 우선성에 입각하여 주로 수행되어 왔다. 이 글은 임옥인 문학 연구에 신체성·이동성·개체성 등의 의제를 가미함으로써, 『월남전후』의 문화적 함의를 보다 풍부하게 도출하는 것을 목표로 한다. 이 글에서는 특히 해방기 개별 신체에 입각하여 전개되었던 피난민 여성들의 사적 이동성에 주목했다. 이를 통해 『월남전후』의 여성들이 공공 이동성에 입각하여 새 국가의 정주(定住) 편제 및 균질적 상(像)를 구축하고자 했던 통치 권력과 변별되는 사적 연대성을 지향했음을 밝혔다. 해방 직후는 공공 이동성의 공백기였으며, 피난민 여성 들의 사적 이동성은 통치 권력의 폭력으로부터 피신하고 생활을 도모하며, 이동 불가능한 난민들의 생존·교류까지 책임질 수 있는 수단으로 부각되었다. 이때 『월남전후』의 여성들은 전쟁으로 인해 상실된 “내 환경과 소유와 개성”을 이동을 통해 복구함으로써 개개인의 독자성을 확보하는 한편, 통치 권력의 고정된 방향성에 포획되지 않은 (피)난민들 간의 사적 연대를 구축했던 해방기의 또다른 ‘건설적 주체’로 독해될 수 있다. 이처럼 사적 연대의 건설이라는 관점에 입각하여 피난민 여성들의 신체적 이동을 포착하는 것은 해방기 주체와 통치 권력 간의 길항을 분석하기 위한 새로운 문화적 독법을 제시한다는 측면에서 의의를 지닌다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "대한민국에서 반려동물을 보유하는 국민은 점차 증가하고 있다. 그 중에서도 개는 오랜 기간 인간과 밀접한 관계를 맺는 종 중 하나이다. 이에 따라 개와 관련된 범죄가 증가하고 있는 추세이다. 본 연구에서는 국내 개(Canis lupus familiaris)의 개체식별에 보다 더 높은 과학적 신뢰도 향상을 위해 감정기법 체계화 및 데이터베이스 구축의 필요성에 부합하여, Canine genotypes panel 2.1 kit(Thermo Fisher Scientific, USA)의 18개 STR(Short tandem repeat) 마커의 다형성 분석을 수행하였다. 다섯 품종(푸들, 시츄, 말티즈, 요크셔 테리어 및 코커 스파니엘)을 비롯한 잡종견 총 300마리를 분석에 이용되었다. 분석 결과, 각각의 STR 마커에 대한 관측 이형 접합도 (Hobs)는 0.670 (0.353-0.883), 기대 이형접합도 (Hexp)는 0.774 (0.453-0.959), 그리고 다형성 정보 지수는 0.743 (0.391-0.956)으로 각각 나타났다. 부권부정율 (NE-PP)은 1.88E-15, 동일 개체 출현율 (NE-I)은 9.42E-24로 나타났다. 주성분분석을 하였을 때 18개 STR 마커는 5 품종의 개들 중 4 개의 그룹으로 분류하였다. 이 연구로 18개 마커는 개체식별을 위한 감정기법 및 데이터베이스 구축에 충분히 사용이 적합하다고 판단된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 인공지능의 하위분야인 자연어 처리(NLP)의 개체명 인식(NER)을 통하여 기록에 내재된 메타데이터 값과 기술 정보를 추출하는 방안에 대한 시험적 연구이다. 연구 대상은 1960~1970년대에 생산된 구로공단 수기 기록물(약 1,200 쪽, 8만여 단어)을 대상으로 하였다. \n디지털화를 포함하는 전처리 과정과 함께 기록 텍스트에 대해서 구글의 BERT 언어 모델에 기반하여 구현되어 공개된 언어 API를 사용하여 개체명을 인식하였다. 그 결과로 구로공단의 과거 기록에 포함된 173개의 인명과 314개의 조직 및 기관 개체명을 추출할 수 있었고, 이는 기록의 내용에 대한 직접적인 검색어로 사용될 수 있다고 기대된다.\n그리고 자연어 처리의 이론적 방법론을 반·비정형의 텍스트로 이루어진 실제 기록물에 적용할 때 발생하는 문제점을 파악하여 해결 방안과 고려해야 할 시사점을 제시했다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "플라잉 애드혹 네트워크(Flying ad-hoc network; FANET)는 독자적으로 통신이 가능한 공중 이동성 노드로 이루어진 네트워크로, 재난이나 전쟁과 같은 위기 상황에서 기존 통신망이 손상을 입었을 때 대체 네트워크로 활용될 수 있다. 통신 및 라우팅 기능을 갖는 다수의 무인항공기(Unmanned Aerial Vehicles)는 통신이 불가능한 지역으로 이동하여 FANET을 구축할 수 있다. 본 연구는 오프라인 강화학습을 통해 학습된 다수의 무인항공기가 중앙제어 없이 FANET을 구축하는 시나리오를 고려한다. 본문에서는 데이터셋 및 오프라인 강화학습 알고리즘별 다중개체의 네트워크 구축 성능 비교 실험을 수행하였으며, 데이터셋과 알고리즘의 특징에 따라 달라지는 학습 양상을분석하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "기존의 비속어 탐지 방법들은 의도적으로 변형된 비속어를 식별하는 데 한계가 있다. 이 논문에서는 자연어 처리의 한 분야인 개체명 인식에기반한 새로운 방법을 소개한다. 우리는 시퀀스 레이블링을 이용한 비속어 탐지 기법을 개발하고, 이를 위해 한국어 악성 댓글 중 일부 비속어를레이블링하여 직접 데이터셋을 구축하여 실험을 수행하였다. 또한 모델의 성능을 향상시키기 위하여 거대 언어 모델중 하나인 ChatGPT를 활용해한국어 혐오발언 데이터셋의 일부를 레이블링을 하는 방식으로 데이터셋을 증강하여 학습을 진행하였고, 이 과정에서 거대 언어 모델이 생성한데이터셋을 인간이 필터링 하는 것만으로도 성능을 향상시킬 수 있음을 확인하였다. 이를 통해 데이터셋 증강 과정에는 여전히 인간의 관리감독이필요함을 제시하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "스피노자는 자신의 철학적 사유를 근대적 개인으로부터 시작한다. 그의 대표적 저서인 『에티카』는 신적 실체에 대한 1장과 2장의 논의를 제외하고는 개체의 본질인 ‘자기보존노력(코나투스 conatus)’를 이론적 출발점으로 삼고 있다. 그에 따르면 자기보존노력은 개별적 사물들이 자신의 개체성을 유지하고자 하는 성향인데, 이러한 자기보존노력은 전체와 구분되는 개별적인 사물들의 존재를 필연적으로 전제하고 있다. 또한 그의 『신학정치론』과 『정치학논고』는 개별적인 인간들의 자연권을 정치적 논의의 토대로 삼고 있다. 그러나 스피노자는 개별적 존재 속에서 배타성과 적대성만을 간취해내는 홉즈와는 달리 개인들을 지배하는 원리인 자기보존노력과 자연권으로부터 타인과의 관계성을, 그리고 공동체적 삶의 가능성을 발견한다. 또한 정념이나 감성을 이성과 대립적인 것으로, 그리고 공동체적 규범이나 국가가 개인의 권리와 자유를 제약하는 것으로 이해했던 근대의 대부분의 사상가들과는 달리 스피노자는 자기보존노력이라는 정념 속에 내재해 있는 이성적 요소를 포착함으로써 국가나 공동체적 규범이 오히려 개인의 권리와 자유를 확장하는 것으로 이해한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "오규원의 시학은 근원적으로 동일성을 비껴가고자 한다. 언어에 내재된 형이상학적 관념과 현대 문명에 함유된 과학적 합리성을 비판하고, 이성과 관념 이전의 구체성과 실재성을 사물과 대상에 돌려주고자 기획하는 것이다. 그의 시어들은 매우 역설적이고 모순된 이미지의 나열로 비춰지지만 오히려 이러한 시도를 통해 동일성을 지향하고자 하는 현대적 헤게모니를 새롭게 재구성하고자 한다. 하지만 그는 이성으로 만물을 규합하고자 하는 동일성 지향의 규범을 정조준하고는 있지만 스스로 그러한 인식의 틀을 맹목적으로 고집하지 않고, 다시금 자신의 시학을 부정함으로써 현실적 모순 속에서 희망의 메시지를 이미지로 구축하고자 한다는 점에서 아도르노의 부정 변증법적 철학과 맥이 닿아 있다고 하겠다.\n아도르노의 자발적 역동성이 오규원의 시편들에서 어떻게 구체화되고 있는지를 본고에서는 상세히 살폈으며, 비동일성에 대한 지향성을 넘어 개체의 독자성과 다양성에 주목하고자 하는 개체 지향성도 그의 작품에서 가늠된다는 점에서 오규원 시 읽기를 위한 주요한 방법적 단서가 될 수 있음에 방점을 두고자 했다. 오규원은 대상의 비규성을 강조했던 아도르노의 관점을 자신의 미학으로 형상화하고자 했으며, 한편 개체 중심의 사유가 고착화되는 것을 경계하고 이를 다시금 해체함으로써 상황에 따라 변주되어 가는 개체의 존재성만을 용인하고자 하는 또 한번의 부정 변증법적 시도를 감행함을 엿볼 수 있었다. 이로써 본고에서 주목한 비동일성과 개체 지향성은 오규원 시 읽기의 유용한 방법적 준거가 될 수 있을 것으로 기대한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "對於形如“一大张纸”、“一整只烤鸭”这样的“数+形+量(個)+名”格式，根據其中“数+形+量(個)”层次结構劃分为“数/形//量(個)”的特點，借鉴其他学者有关该格式句法及语义的研究成果，本文重在从认知语用这一特定角度對这一格式进行研究和探讨，得出结论如下： 1. 该格式遵循会话的模糊原则和数量準则，不去精確地说出到底有多大、多重、多长等，而是用一種模糊的说法说出一個大概的估量，具有一種模糊约量功能。 2. 该格式从主观性的强弱方面、主观量上的多少方面和主观性的有無方面含有说话人“自我”的表现成分，表明说话人的立场、态度和感情，具有主观评價功能。 3. 该格式的使用可使常规下無法與名词进行搭配的量词，在形容词的修饰限制下变得临時可用，並對其後所修饰的名词起到一種定性的作用，表明名词的有生性，具有临時组合功能。 4. “数+量(個)+形+名”格式表述客观事物的情況，體现的是语言“言有所述”的表述意义；而“数+形+量(個)+名”格式表现的是说话人的一種态度，體现的是语言的“言有所为”的表现意义。 5. “数+量(個)+形+名”格式與“数+形+量(個)+名”格式应用的都是“总括扫描”的认知处理方式。前者是射體静止，界标静止的“in”式总括扫描；而後者採用的是射體有移动路径，界标静止的“into”式总括扫描。 6. 在注意力的分布上，说话人为了表达不同的语法意义可以选择使用不同的语法形式，聽话人也可以通过不同的语法形式去體会其所表达的不同的语法意义。 希望本文能促进對数量词中间插入形容词这一“数+形+量(個)+名”格式进行更深入、更全面的研究！也希望能够为以汉语为第二外语的二语教学带来一定的启发與幫助！",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 MODS 서지 레코드를 BIBFRAME 2.0으로 변환하는 과정에서 저작-인스턴스-개별자료 개체 표현과 함께 에이전트, 주제, 이벤트 개체 간 관계를 중심으로 변환 시 고려해야 할 주요 사항을 분석․정리하였다. MODS는 단일 레코드 구조로 인해 저작, 구현형, 소장 및 이용 정보뿐 아니라 책임 주체와 주제, 출판 이벤트 정보가 병렬적으로 기술되며, 이는 개체와 관계를 명확히 구분하는 BIBFRAME 모델로의 전환 과정에서 의미적 혼선을 야기할 수 있다. 이에 본 연구는 LC의 MODS 3.7-BIBFRAME 2.0 공식 매핑을 준거로 국립중앙도서관의 온라인 자료 기술 관행을 반영한 MODS 예시 레코드를 구성하고, 주요 MODS 요소를 개체 및 관계 중심으로 재정리하였다. 분석 결과, 표제정보, 역할 책임, 주제, 분류기호는 저작과 에이전트․주제 개체 간 관계로, 출판 정보는 인스턴스와 이벤트 개체 간 관계로 구조화하는 것이 타당함을 확인하였다. 본 연구는 MODS to BIBFRAME 변환을 요소 대응이 아닌 개체와 관계 판단의 문제로 재정의함으로써 국가서지 데이터 전환을 위한 실질적인 기준을 제시하고자 하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 속리산 국립공원에서 쌍곡계곡 지역과 법주사 지역 내에 위치한 지역 중에서 인간의 의한 교란이 가장 큰 도로개설지역, 교란이 중간 정도인 등산로지역 그리고 간섭이 거의 없는 출입통제지역을 선택하여 산림생태계에서 인간의 교란 정도에 따른 조류군집의 차이를 연구하였다. 번식기와 비번식기의 조사(n=12)에서 조류의 종수와 개체수, 종다양도 및 밀도에서는 세 지역 사이에 유의적인 차이가 나타나지 않았다, 그러나 번식기의 조사(n=9)에서는 조류의 종수(Kruskal Wallis, χ2=10.32, p=0.006)와 개체수(Kruskal Wallis, χ2=7.118, p=0.028) 및 종다양도(Kruskal Wallis, χ2=9.847, p=0.007)가 인간에 의한 교란이 중간정도인 등산로 지역에서 가장 높게 나타났다. 그러나 번식기 조류 군집의 영소 및 취식 길드 분석에서는 세 지역 사이에 영소 및 취식 길드 분포비율은 차이가 나타나지 않았다. 영소길드는 세 지역 모두 나무구멍 영소길드가 가장 높았고, 취식길드는 수관층 취식길드가 가장 높게 나타났다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "대용량 문서에서 정보를 추출하는 작업은 정보검색 분야 뿐 아니라 질의응답과 요약분야에서 매우 유용하다. 정보추출은 비정형 데이터로부터 정형화된 정보를 자동으로 추출하는 작업으로써, 개체명 인식,전문용어 인식,대용어 참조해소, 관계 추출 작업 등으로 구성된다. 이들 각각의 기술들은 지금까지 독립적으로 연구되어왔기 때문에,구조적으로 상이한 입출력 방식을 가지며,하부모듈인 언어처리 엔진들은 특성에 따라 개발 환경이 매우 다양하여 통합 활용이 어렵다. 과학기술문헌의경우 개체명과 전문용어가 혼재되어 있는 형태로 구성된 문서가 많으므로, 기존의 연구결과를 이용하여 접근한다면 결과물 통합과정의 불편함과 처리속도에 많은 제약이 따른다. 본 연구에서는 생의학 분야 과학기술문헌을 분석하여 전문용어 및 개체명 등을 통합 추출할 수 있는 기반 프레임워크를 개발한다. 이를 위하여,문장자동분리,품사태깅, 기저구인식 등과 같은 기반 언어 분석 모듈은 물론 이를 활용한 개체명 인식기, 전문용어 인식기를 개발하고 이들을 하나의 플랫폼으로 통합한 과학기술 핵심개체 인식 체계를 제안한다. 전체 플랫폼의 성능을 체계적으로 평가하기 위해서, KEEC 2009를 비롯한 다양한 말뭉치를 기반으로 세부 요수 모듈에 대한 성능 평가를 수행하였으며, 비교적 높은 수준의 성능을 확보하였다. 본 논문에서 개발된 핵심개체자동인식 플랫폼은 정보검색,질의응답,문서색인,사전구축 등\n다양한 정보서비스 분야에 활용될 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "인간의 감정을 인공지능 기술로 이해하고 처리하기 위한 연구가 활발하다. 감정의 이해는 언어를 이해하는 것보다 어려운 작업이며, 텍스트의 경우 맥락에 기반하여 감정을 식별하는 것이 중요하다. 이와 관련하여 최신의 언어 모델은 감정 어휘뿐 아니라 주변 어휘와의 관계성을 함께 학습하므로, 감정 데이터셋이 어떤 대상을 다루는지에 따라 학습 양상이 달라질 수 있다.\n본 연구는 인공지능 학습용 감정 데이터셋을 대상으로 개체명 인식에 기반한 텍스트마이닝을 수행하고, 어떤 개체 유형과 어휘가 감정 표현에서 나타나는지 분석한다. 공감 대화, 문학 작품, 소셜 미디어 댓글 등 서로 다른 스타일의 텍스트에서 어떤 개체 유형이 나타나는지 살펴보고, 이를 통해 감정 데이터셋의 활용 및 구축 분야에서 고려할 점에 대해 생각해본다. 이 연구는 감성 컴퓨팅 관점에서 인공지능 학습용 데이터의 분석 자료를 제공한다. 또한 연구에서 사용한 개체명 인식 분석 방법이 텍스트마이닝 연구자에게 방법론적인 도움을 줄 수 있을 것으로 기대한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구에서는 동일연결트리플들을 생성하는 대신 각 LOD마다 연결정책을 수립, 공개하고 검색 시점에서 참조하는 방식으로 개체간의 동일성을 파악하는 방안과 이러한 연결정책을 명세하기 위한 어휘를 제안하였다. 또한, 연졀정책이 운영되는 환경에서 여러LOD들에 걸친 심층검색이 실질적으로 진행되는 것을 확인하기 위하여 PISC(Policy based In-depth Searching and Cleansing)을 구현하였으며 이를 Github에 공개하였다. LOD 클라우드는 여러 LOD들의 자발적인 참여로 이루어짐에 따라 검색된 개체들의 동일성에 대한평가가 필요하다. 이에, PISC는 개체간 동일성 평가를 통하여 사용자가 요구한 동일수준 이상의 개체들로 정제된 검색결과를 제공한다. 검색결과로는 RDF로 모델링된 개체별 상세 검색내용과 이에 대한 의미적 구조인 온톨로지를 함께 제공된다. PISC에 대한 실험은DBpedia의 5개 LOD를 대상으로 진행하였으며 소스와 타겟 RDF 트리플 목적어의 유사도를 0.9 정도로 요구할 경우 검색결과가 적절한 확장률과 포함률을 가지는 것으로 확인하였다. 또한, 연결정책에는 3개 이상의 타겟LOD를 명세할 경우 동일성이 충분히 검증된개체들을 확보할 수 있는 것으로 확인하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "한국어 형태소 분석은 형태소 분석, 품사 태깅 과정으로 나뉜다. 형태소 분석 과정에서 형태소와 품사 후보 쌍을 추출하고, 품사 태깅 과정에서는 추출된 후보 중 문맥에 알맞은 형태소와 품사를 결정한다. 개체명 인식은 문장 내에서 인명, 지명, 기관명, 날짜, 시간 등과 같이 고유한 의미를 갖는 단어를 찾아 개체명을 부착하는 기술이다. 개체명 인식과 형태소 분석 연구는 주로 독립적으로 수행되며, 많은 개체명 인식 연구에서 품사 정보를 사용한다. 이 과정에서 형태소 분석의 오류가 개체명 인식에 치명적인 오류로 전파된다. 본 논문에서는 오류 전파를 최소화하기 위해 통합 모델을 제안한다. 형태소 분석기의 오류를 줄이기 위해 순차적 레이블 부착 문제에 효과적인 레이블 주의 집중 네트워크를 활용한다. 실험 결과, 개체명 인식과 형태소 분석의 단일 모델보다 통합 모델의 성능이 더 높음을 보였다. 또한 기존의 통합 모델 보다 레이블 주의 집중 네트워크를 적용한 제안 모델이 더 높은 성능을 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "그동안의 국어문법 논의에 따르면 한국어 관형절은 대개 일률적으로 정형적인 절적 구조를 가지는 것으로 간주되어 왔다. 그러나 이러한 관점은 절 구조로 환원되지 않는 관형사형 구성을 원리적으로 설명하기 어렵다. 이 글은 이들 관형사형이 축소된 비절적 구성을(이른바 ‘관형구’) 가짐을 주장한다. 이들 관형사형은 표제명사의 속성을 규정하는 것으로 표제명사에 인접하여 실현되지만, 주어와 시제소 투사를 갖는 완전한 절 구성의 관형사형은 특정 시공간에서의 사건 발생을 의미하는 것으로 표제명사로부터 보다 먼 위치에 실현된다. 이들 관형사형은 애초에 절 구조를 갖지 않으므로 절 구성으로 환원되지 않는, 수식적 의미로만 쓰이는 관형절의 존재가 더 이상 예외적인 것이 아니다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "개체명 인식은 문헌 내에 표현된 개체명을 식별하는 과정으로, 개체명 간의 관계를 통한 정보 추출 과정에 선행되어야 하는 중요 과정이다. 최근 심층학습 기술을 개체명 인식에도 적용하는 연구가 활발히 이뤄지고 있으며, 개체명 사전 정보를 모델 외부에서 추가적으로 활용하여 개체명 인식에 대한 성능 향상이 이뤄지고 있다. 그러나 개체명 사전이라는 주요 자질 정보를 심층학습 모델 내부에 적용하는 방식에 대한 연구는 찾아보기 어렵다. 이에 본 논문은 개체명 사전 정보를 심층학습 모델에 적용하는 방법론을 총 4가지로 구성하고, 이에 따라 토폴로지를 각각 구성하고 비교분석하여 가장 적합한 개체명 사전 정보 적용 심층학습 토폴로지를 도출한다. 2016년 국어정보처리대회의 개체명 인식 코퍼스를 활용한 실험결과, 합산 적용 토폴로지가 80.22%의 F1 점수를 보이며, 가장 높은 성능을 나타내었다. 이는 개체명 사전 정보를 적용하지 않은 모델에 비해 약 1.5% 높은 성능이며, 후처리 적용 방법에 비해 0.9% 높은 성능이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "순천과 보성 연안 해역에서 내륙으로 만입된 순천 학산리 부근의 협소한 내만의 퇴적환경과 이에 대한 해수의 영향을 파악하고자 이 해역의 조간대 퇴적물에 포함된 해면침골과 규편모류 등의 규질 생물유해에 대한 고생물학적 연구를 수행하였다. 이 연구에 사용된 퇴적물시료는 이 작은 내만의 좌측 연안에서 중심역까지 14 개소의 정점에서 채취하였다. 처리된 니질퇴적물 시료에서는 13 유형의 해면침골 유형과 1품종을 포함하는 6 종의 규편모류 그리고 1 종의 에브리디안이 산출되었다.\n이들 규질 생물 유해들의 산출은 주로 좌측 연안에 인접한 영역과 일부 중심영역의 정점들에서는 개체빈도와 다양도가 높았으나 연안에 인접한 영역에서 약간 떨어진 정점들에서는 매우 저조하였다. 해면침골은 주로 monaxon이 매우 우세하였으며 polyaxon과 triaxon류는 저조한 산출을 보였다. Monaxon류에서는 diactinal의 oxea와 monactinal의 style이 압도적이었으며 acanthoxea, acanthostyle, tylostyle 등도 적은 개체수이지만 지속적으로 산출되었다. 그리고 oxea와 style 유형의 형태변화에 따른 산출상을 보면 만곡된 개체들보다는 직선상의 봉상부를 보유하는 형태들이 이들 두 유형들의 산출에서 주를 이루는 것으로 나타났다.\n규편모류는 Dictyocha 속이 주를 이루고 다른 분류군으로는 Octactis pulchra만이 극소수 확인될 뿐이다. 이들 Dictyocha 속에서도 D. messanensis f. messanensis 개체들의 빈도가 지배적이고 다른 종들은 수 개체 정도만이 관찰되었다. 이처럼 높은 Dictyocha 속의 산출비는 이 내만이 온난수괴의 영향이 지배적인 해역에 해당함을 지시한다고 할 수 있다. 또한 규편모류 개체들의 산출상을 보면 일부 투명골격을 가진 개체들도 일부 확인되지만 다수는 어둡게 착색된 개체들이 대부분이고 상당수 개체들은 기저환이 개방되거나 정부구조가 변형되는 등의 비정형개체들로 출현하고 있다. 이와 같은 착색된 개체들의 산출은 퇴적물의 재동 등에 기인하고 비정형개체들이 높은 산출은 영양염류가 많고 염도가 낮은 연안을 시사하는 것으로 알려진다.\n또한 연구해역인 이 내만의 정점들에 따른 해면침골과 규편모류들의 산출이 상당한 차이를 보이는 것으로 미루어 만이 협소함에도 만내의 위치에 따라 조류(tidal current) 등의 운동에 변화가 생성될 가능성을 시사한다. 이런 결과들에서 연구해역은 온난수괴가 지배적인 환경에서 조류 등에서의 해수 운동의 변화가 일어나는 내만으로 내륙과 밀접하게 연관된 것으로 생각된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문은 김수영 시 가운데 ‘꽃’을 소재로 한 시를 중심으로 ‘꽃’의 의미가 변모해 가는 양상을 분석하고, 후기 시 「꽃잎」에 이르러 소재가 변주되거나 변용되는 모습을 통해 김수영의 현실인식과 창작방법의 변화를 살펴보려는데 그 목적을 둔다. 초기 시에 해당하는 「구라중화」, 「꽃 2」에서 ‘꽃’이 자유, 죽음과 생명의 존재로 제시된다면, 「꽃」, 「연꽃」, 「깨꽃」과 같은 중기 시에서 ‘꽃’은 현실적 삶의 조건을 표상하게 된다. 후기 시에 해당하는 「꽃잎」에 포함된 세 편의 시에서 ‘꽃잎’이 변주되는 양상을 분석한 결과, 「꽃잎 1」에서 꽃잎은 자신이 머물던 세계에서 벗어나면서, 임종과 생명, 가벼움과 무거움의 대립적 일치를 만들어낸다면, 「꽃잎 2」의 꽃잎은 생성, 변화해 가는 존재, 언어로 포착하기 어려운 존재를 표상하고 있었다. 「꽃잎 3」에서 ‘꽃잎’은 발전이나 진보의 시간에서 벗어난 과정의 독자적 시간성, 소녀의 시간을 담아내는 소재임을 살펴보았다. 「꽃잎」에서 보여주는 ‘꽃잎’의 변주 양상을 통해 사물이란 어느 순간, 어느 부분을 포착하는가에 따라 그 리얼리티가 달라질 수 있다는, 사물이 가진 진실의 다면성을 드러내고자 하는 김수영의 시도를 찾아볼 수 있었다. 이러한 변주 양상을 기반으로 ‘꽃’에서 ‘꽃잎’으로의 변용이 사물을 바라보는 방식-전체에서 부분으로, 외부에서 내부로, 표상에서 실제로-의 변화와 관련되어 있다는 점을 알 수 있었다. 이러한 관점 변화는 순간, 생성, 과정의 시간 인식에 기반을 두고 있으며, 사물에 대한 각도의 변화로 새로움을 추구하려는 의식과 관련됨을 확인하였다. 창작 방법의 측면에서 찾아볼 수 있는 주어의 생략, 문장 차원의 통시적 연결보다는 계열체적 관계 속에서 의미를 산출하는 방식, 의도적인 정보 생략 등도 의미를 이루지 않으려는 침묵의 문체를 통해 새로움을 추구하려는 시도와 연결된다는 점을 알 수 있었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문에서는 심층학습을 이용한 개체영상의 인공지능 학습데이터 구축을 제안한다. 이를위해 전이학습의 Mask R-CNN 모델을 이용하여 영상의 개체들을 각각 인스턴스 분할하고,분할된 개체를 대상으로 경계상자 좌표와 인스턴스를 이용하여 배경을 제거한 개체영역만을추출한 후 데이터베이스를 구축한다. 여기서 인스턴스 분할은 동일한 클래스 내의 개체들을분할하기 위함이고, 배경의 제거는 순수 개체영역만으로 구성된 학습데이터를 얻기 위함이다. 제안된 방법을 임의의 크기를 가진 시설작물 RGB 딸기영상 40장과 DermQuest 피부병변 영상 82장을 대상으로 잎과 병변의 개체로 구성된 학습데이터 구축에 적용하여 실험한다.\n실험의 결과, 평균 정확도와 평균 재현율에서 우수한 성능을 가진 학습데이터의 구축이 가능함을 알 수 있다. 또한 각 개체의 추출을 자동화함으로써 어노테이션에 소요되는 시간을 크게 줄일 수 있다. 특히 딸기영상의 경우 여러 개의 잎들이 중첩된 경우에도 개체의 분할성능이 우수하여 데이터의 추출이 잘 이루어짐을 확인하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 전남 여수시 소재 거문군도에 분포하는 박달목서의 개체군 분포특성과 개체군 동태, 보존생물학적 연구를 통해 박달목서 개체군의보전방안을 제시하기 위해 수행되었다. 거문군도 내 4개의 도서에 분포하는 박달목서는 고도에 31개체, 동백섬 41개체, 서도 49개체, 동도 1개체로총 122개체가 조사되었으며, 서도와 동백섬에서는 개체 수가 점차 증가할 것으로 추정되었다. 122개체 중 성숙목은 81개체였으며, 41개체는 미성숙목이었다. 성숙목 중 암나무는 39개체, 수나무 42개체로 성비는 1.08로 추정되었다. 유효집단크기는 23.0~30.9으로 성숙목 집단의 크기보다 작은것으로 나타났다. 암․수나무의 공간분포는 암나무가 수나무에 비해 집중분포하는 경향을 보였다. 박달목서의 유전적 다양성은 10개의 isozyme에서12개의 유전자좌가 산출되었고, Nei의 유전적 다양성은 평균 E=0.148로 다소 낮은 수준이었다. 그리고 아집단간 유전적 분화 정도는 Fst=0.078로서매우 낮은 수준이었으며, 유전자 이동(Nm)은 2.94로서 높은 결과를 보였다. 거문군도에 분포하는 박달목서의 분포특성과 개체군 동태 및 보존생물학적 연구결과를 종합하여 박달목서 개체군의 보전방안을 제시하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구에서는 사업체 자료에서 선택적 에디팅을 실시할 때 발생할 수 있는 현실적인 문제를 사업체패널조사(workplace panel survey) 자료를 이용하여 선택적 에디팅 방안을 제시하였다. 대부분의 사업체 자료는 패널형태의 특성을 보임에 따라 신생 사업체의 선택적 에디팅(selective editing)을 수행할 경우, 항목점수(item score)를 산출할 때 통상 사용하는 과거 값을 사용할 수 없는 문제가 발생한다. 이에 기존에는 대체 방법을 통해 예상 값을 결정하고 항목점수를 산출하는데 본 연구에서는 존속 사업체의 선택적 에디팅을 먼저 실시하고 추정영역 내 존속 사업체의 정보를 이용하여 신생 사업체의 항목점수 산출을 위한 예상 값을 결정하였다. 예상 값이 결정되면 전체 사업체 자료의 중요변수별 항목점수가 산출되고 이를 통해 선택적 에디팅 대상을 결정하기 위한 개체점수(unit score)를 산출한다. 일반적으로 개체점수에 영향을 미치는 중요변수는 동일한 중요도를 부여한다. 그런데 실제로는 자료 구성 목적, 활용 등을 고려하여 추정되는 모수의 중요도는 다르다. 본 연구에서는 로지스틱 회귀분석(logistic regression)을 통해 중요변수의 중요도를 계산해서 이를 가중치로 활용하여 사업체 자료의 최종 개체점수를 산출하는 방안을 제시하고 가중치 산출 방법과 적용 여부 결과를 비교하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "산림자원 관련정보 취득을 위한 산림자료의 조사 및 측정은 방대한 면적, 불리한 접근성 등의 요인에 의하여 많은 시간과 노력이 요구되는 항공사진분석이나 부분적인 표본조사에 의존하여 왔다. 따라서 정확한 산림자원정보 취득을 위해서는 산림의 수평적 분포에 대한 정보만을 제공하는 광학 원격탐사 기술 및 다중분광영상 보다는 밀도가 높은 산림에서도 산림지형 및 임목의 특성에 관련된 정보의 직접 취득이 가능한 항공라이다와 같은 기술적 접근이 필요한 실정이다. 본 연구에서는 항공라이다 자료를 이용하여 수목의 개체수 및 높이와 같은 산림정보를 자동으로 추출하기 위한 알고리즘을 제시하였다. 특히 불규칙 점군자료에서 식생점을 추출하기 위한 방법으로 영역확장법을 적용하였고 수목의 수관 모양에 대한 형태학적 특징을 이용하여 수목의 개체수 및 높이를 추출하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문에서는 급격히 증가하는 생의학 분야 비정형 텍스트에서 핵심적 내용을 추출할 수 있는 기계학습 기반 정보 추출 시스템을 구축하기 위한 언어자원 수집 및 통합적 구조화 방안을 제안한다. 제안된 방법은 정보 추출 시스템을 크게 개체명 인식과 개체명 간 관계 추출 시스템으로 구분하고, 각각의 시스템에 적합한 학습데이터를 구성하기 위해 생의학 분야 개체명 사전과 학습 집합을 수집한다. 그리고 수집된 해당 자원들의 특성을 분석하여 개체 구별을 위해 필수적으로 포함시켜야 할 항목들을 도출하고 이를 통해 시스템 학습과정에서 사용될 학습 데이터를 구성하기 위한 항목을 선정한다. 이와 같이 선정된 학습데이터의 구성 내용에 따라 수집된 자원들을 가공하여 학습 데이터를 구축한다. 본 연구에서는 생의학 분야의 하위 분야인 유전자, 단백질, 질병, 약물 4개 분야에 대한 개체명 사전과 학습 집합을 수집하여 각각을 학습 데이터로 구축하였으며, 개체명 사전을 통해 구축된 개체명 인식용 학습 데이터를 대상으로 개체명 수용 범위를 측정하기 위한 검증 과정을 수행하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "컴퓨터 사용의 일반화는 매일 수많은 문서 파일을 생산해냈고 이들은 인터넷으로 전송되고 있다. 이러한 문서 파일은 개인의 기록, 기업 활동 내역 등을 포함하고 있으므로 디지털 포렌식 수사에서 증거능력을 가지는 경우가 있다. 현재까지 디지털 포렌식 조사였고, 파일의 작성 과정에 대한 정보를 획득할 수 없었다. 문서 파일의 작성 과정을 파악하기 위해서 해당 파일이 완성되기 이전의 작업 내역을 추적하거나 서로 다른 문서파일 간의 관련성을 분석하는 방법에 대한 연구가 전무했기 때문이다. 본 논문에서는 MS 파워포인트 파일의 이전 작업 내역 및 문서 간의 관련성 추적을 통해 용의자의 의도를 파악할 수 있는 새로운 문서 파일 조사 방법을 제시한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "부산 범어사 등나무군락지에 대한 개체군생태학 연구가 이루어졌다. 연구지역은 1966년에 천연기념물 제176호로 지정되어 보호되고있는데, 국내에서 자생적 기원을 가지며 등나무가 대규모의 군락을 이루고 있는 경우는 매우 희귀하여 높은 학술적 가치를 지닌다.\n그러나 범어사 등나무군락은 군락지 내의 등나무 분포 현황 및 생태에 대한 해상도 높은 연구는 이루어지지 않았다. 본 연구는 등나무군락내의 개체 분포 현황과 개체군 특성을 확인하고, 보존방안을 논의하는데 그 목적이 있다.\n현장 조사를 통해 범어사 등나무군락과 그 일대를 대상으로 등나무의 분포, 근원직경, 감고 올라가는 방향 및 식물종과 연구지역 내 식물상에 대한 현황을 파악하였다. 그 결과, 연구지역 내 등나무 개체 수는 총 1,158개체가 확인되었고, 등나무의 근원직경은평균 69.0 ㎜ (±45.5), 최대 365 ㎜로 나타났다. 감는 방향은 시계방향으로 감는 등나무뿐만 아니라 반시계방향으로 감는 등나무40개체가 확인되었다. 등나무의 등반식물종은 28분류군으로 확인되었고, 그 중 동종(同種)인 등나무를 가장 선호하는 것으로 나타났다.\n등나무군락은 계곡부에 인접하여 분포하고 있는 것으로 확인되었으며, 지속적인 교란에 의해 유지 발달하고 있는 군락으로 파악되었다.\n현존식생도를 통해 계곡림에 76.6%의 개체가 분포하는 것으로 확인되었으며, 개서어나무-이대우점림, 칡군락, 소나무우점림 등에서는상대적으로 분포가 배제되는 것으로 밝혀졌다.\n본 연구는 확산되어가고 있는 등나무개체군과 최대 근원직경을 가지는 등나무의 보호, 지역 서식처 보존 등을 위하여 지속적인모니터링을 통한 후속 연구를 진행함과 동시에 천연기념물 제176호 보호 지역의 수정과 서식처에 대한 간섭을 최소화하기 위한방안의 마련 등을 제안하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "한국어 개체명 인식에 다양한 연구가 있었지만, 영어 개체명 인식에 비해 자질이 부족한 문제를 가지고 있다. 본 논문에서는 한국어 개체명 인식의 자질 부족 문제를 해결하기 위해 word embedding 자질을 개체명 인식에 사용하는 방법을 제안한다. CBOW(Continuous Bag-of-Words) 모델을 이용하여word vector를 생성하고, word vector로부터 K-means 알고리즘을 이용하여 군집 정보를 생성한다.\nword vector와 군집 정보를 word embedding 자질로써 CRFs(Conditional Random Fields)에 사용한다.\n실험 결과 TV 도메인과 Sports 도메인, IT 도메인에서 기본 시스템보다 각각 1.17%, 0.61%, 1.19% 성능이 향상되었다. 또한 제안 방법이 다른 개체명 인식 및 분류 시스템보다 성능이 향상되는 것을 보여 그효용성을 입증했다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 선체부착생물 정보의 관리와 활용을 위한 데이터모델링으로써 항만정보, 해양환경정보, 선박입출항정보와 선체부착생물정보와의 효과적 연계 및 항만해역 공간정보기반의 데이터모델 작성을 목적으로 하고 있다. 데이터모델링은 참조정보, 이력정보, 핵심정보의 세가지 영역으로 나누어 수행하였으며 각각의 세부 구성데이터 객체와 속성 및 객체간 관계를 정의하였다. 연구사업의 생산정보를 보존함과 동시에 선체부착생물정보를 지속적으로 관리 활용할 수 있도록 함으로써 효용성과 활용성이 높은 데이터모델을 만들고자 하였다. 국내 최초로 수행한 선체부착생물정보의 데이터모델링은 선체부착생물정보에 의한 항만환경위해성 관리 및 평가를 위한 프로토타입 데이터모델로써의 역할을 할 것으로 기대된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문에서는 새로운 구조의 개체명 인식 DeNERT 모델을 제안한다. 최근 자연어처리 분야는 방대한양의 말뭉치로 사전 학습된 언어 표현 모델을 활용하는 연구가 활발하다. 특히 자연어처리 분야 중 하나인개체명인식은 대부분 지도학습 방식을 사용하는데, 충분히 많은 양의 학습 데이터 세트와 학습 연산량이필요하다는 단점이 있다. 강화학습은 초기 데이터 없이 시행착오 경험을 통해 학습하는 방식으로 다른 기계학습방법론보다 조금 더 사람이 학습하는 과정에 가까운 알고리즘으로 아직 자연어처리 분야에는 많이 적용되지않은 분야이다. 아타리 게임이나 알파고 등 시뮬레이션 가능한 게임 환경에서 많이 사용된다. BERT는 대량의말뭉치와 연산량으로 학습된 구글에서 개발한 범용 언어 모델이다. 최근 자연어 처리 연구 분야에서 높은성능을 보이고 있는 언어 모델이며 많은 자연어처리 하위분야에서도 높은 정확도를 나타낸다. 본 논문에서는이러한 DQN, BERT 두가지 딥러닝 모델을 이용한 새로운 구조의 개체명 인식 DeNERT 모델을 제안한다.\n제안하는 모델은 범용 언어 모델의 장점인 언어 표현력을 기반으로 강화학습 모델의 학습 환경을 만드는방법으로 학습된다. 이러한 방식으로 학습된 DeNERT 모델은 적은 양의 학습 데이터세트로 더욱 빠른 추론시간과높은 성능을 갖는 모델이다. 마지막으로 제안하는 모델의 개체명 인식 성능평가를 위해 실험을 통해서 검증한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 천연기념물로 지정하여 보호하고 있는 큰고니의 국내 최대 월동지인 낙동강하구일대 중 낙동강하류부를 대상으로교량구간별 큰고니 월동개체의 서식처 선호도 차이를 살펴보고자 진행하였다. 2018~2019년 월동기 동안 6개 시계열로구분하여 조사를 진행하여 분석한 결과 낙동강하류에서 최대 500여 마리의 큰고니가 월동하고 있었다. 하천을 가로지르는교량을 기준으로 총 7개 구간을 설정하여 조사한 결과 큰고니는 교량과 교량사이가 2㎞ 이내로 협소한 5개 구간에서는거의 관찰되지 않았고 4㎞이상의 2개 구간에서만 안정적 개체군이 관찰되었다. 이러한 특징은 인위적 간섭이 상대적으로적어 큰고니의 주 서식지가 되고 있는 낙동강 하구로부터의 거리와는 관련이 없었다. 멸종위기종인 큰고니 월동에 있어안정적 경계공간 확보는 중요한 요소로 판단되었다. 이에 멸종위기종인 큰고니 서식을 위해서는 교량과 교량 사이가 최소4㎞ 이상 이격되어야만 하는 것으로 나타났다. 이러한 결과는 향후 교량건설과 같은 하천생태계의 단절로 직결되는 개발또는 복원에 있어 하나의 참고가 될 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "스피노자는 특별히 교육이나 아동 발달에 관한 이론을 제시한 바 없고, 아이 역시 그저 무지하고 정념에 지배되는 우중과 같은 존재로 취급할 뿐이다. 그러나 그는 인간의 전 생애를 ‘유아기 신체를 다른 신체로 바꾸려는 노력’에 비유하면서 끝없는 성장의 전망과 교육의 과제 역시 시사한다. 이 글은 스피노자 철학으로부터 인간주의적 가상을 탈피한 교육의 상을 도출할 수 있다고 보고, 특히 그의 기계론적 신체론을 중심으로 다음 세 가지를 보여준다. 첫째, 개체는 내외부에 수립되는 관계들의 조합이며, 개체의 역량은 이 관계의 풍부함과 변이가능성으로 가늠된다. 둘째, 교육은 학생의 역량 강화를 돕는 활동으로, 교육자는 학생의 내면을 읽거나 선의를 베풀려 하기보다는 개체 안에 작동 중인 변용들이 다르게 발휘될 수 있도록 관계롤 조정하고 기회를 제공하는 편이 좋다. 끝으로, 교육자와 학생 사이의 인간적 관계는 거기서 가동될 수 있는 정서모방 메커니즘으로 인해 위험할 수 있으며 다른 것을 통해 매개되는 편이 낫다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "타동성은 전통적으로 동사의 특성으로서 자동사와 타동사의 양분적 개념으로 알려져 있다. 이러한 관점에 의하면 목적어의 존재 여부는 자동사와 타동사를 나누는 기준이다. 그러나 타동성은 동작이 행위자에게서 수동자에게로 전달됨을 나타내는 문장 전체의 특성이다. 이는 연속적인 개념이므로 문장은 더 타동적이거나 덜 타동적인 특징을 가질 수 있다. 원형적인 타동성에 의해 정의되는 문장 유형은 여타 이항문 유형(two-participant clause type)에 비해 유표적인 문장유형이다. 중국어에서 SVO문은 무표적인 문장유형이다. 그러나 주어와 목적어가 각각 행위자와 수동자에 국한되지 않고 목적어의 개체성이 낮다는 점에서 이항문일 뿐 전형적인 타동문 유형은 아니다. ‘把’구문은 중국어에서 전형적인 타동문으로 볼 수 있다. 행위자와 수동자, 동작 그리고 동작의 결과로 이루어지는 ‘把’구문은 원형적인 타동문이다. ‘把’구문은 다양한 용법이 있는데, 이러한 다양한 용법의 ‘把’구문은 원형적인 타동문과의 유사성의 정도에 따라 타동문의 더 좋은 구성원이거나 덜 좋은 구성원으로 볼 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "1974년의 자유실천문인협의회로부터 현재에 이르기까지 50년에 이른 한국작가회의의 여러 활동과 위상을 살펴보고 미래의 조직적 구성과 양상을 제안해 보려는 시도로 작성된 논문이다. 특히 집중한 것은 현재의 한국작가회의가 처한 조직적 곤경의 이유를 살펴보고 그 곤경을 해결하기 위한 대안을 원론적인 차원에서 논의해보는 작업이다. 이를 위해 한국작가회의 본회와 지역 작가회의의 상호 관계가 어떻게 조직되어야 할지에 대해 심층적으로 분석했다. 이를 위해 우리에게 민주주의란 무엇인지 살펴보았다. 또 한국문학과 민주주의의 관계를 실체화하는 지역문학의 위상에 대해서도 논의했다. 한국사회가 1960년대부터 최근에 이르기까지 경험한 갈등과 세대론적 에너지가 지금 도달한 모습을 고려해야만 한국문학의 미래가 있다는 사실도 살폈다. 그 결론은 문인들의 조직이 이제는 개체들의 공동체로 나아가야 한다는 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "수 있을 것이다 나는 나의 미래를 포함하여 총체적 미래를 전망. “하면서 나의 과거 환경 전체를 토대로 나를 구성하고 있는 존재이다 나는 나에게.영향을 미치는 모든 것인 동시에 내가 영향을 미치는 모든 것이다 따라서 나에게.관심을 가진다는 것은 나에게 영향을 미치고 내가 영향을 미치는 모든 것에 관심을 가진다는 것이다 이런 시사가 얼마만큼 설득력이 있는지는 사람마다 를 수.”있다 하지만 적어도 우리는 화이트헤드가 말하는 철학 일반의 역할에 대한 평가.기준 즉 지성에 의한 정서의 순화, “ ”31)라는 기준에 비추어 비교적 객관적으로 평가해볼 수 있을 것이다.하지만 진정한 문제는 우리가 모두 화이트헤드의 환경윤리적 이념에 공감한다고 하더라도 현실의 환경문제가 당장 해결될 수 있는 것처럼 보이지 않는다는 데있다고 해야 할지 모른다 이념 이상적인 것에 대한 지적 인식만으로는 충분할. ,것 같지 않기 때문이다 그것은 다시 본능과 협력하는 정서적 힘 욕구와 의도의. ,선 의식적 배경을 필요로 할 것이다 의식적으로 정식화된 윤리적 이념이 본능( ) .先적이고 정서적인 깊이에 의해 단히 고정되는 데에는 다시 말해 이념이 습관과,행위로 정착하는 데에는 장구한 시간이 필요할 수도 있다 화이트헤드는 이미 인.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "박지원은 청의 선진문물을 통해 상공업의 발달과 백성들의 삶의 향상을 주장한다. 청에 대한 적개심이 주류를 이루던 양반사회에서 북학의 주장은 합리적 설명이 요구된다. 이 논고는 시공간이라는 인식의 틀을 통해 박지원에게서 북학이 형성되는 과정을 규명한다. 박지원의 양반사회에 대한 회의는 새로운 인식의 출발점이다. 이 회의는 객관적 인식의 방법론이다. 그는 지구를 우주 공간의 시각에서 되돌아봄으로써 전통적 중화주의로부터 벗어난다. 또한 그는 ‘옛것’을 그 당시의 시각에서 재조명함으로써, 상고주의를 극복한다. ‘지금’, ‘여기’에 대한 재인식은 전통적 주자학에서 매몰되었던 개체를 발견하는 계기이다. 새로운 인식틀은 그동안 하찮게 여겨졌던 사람과 사물들을 재발견하는 토대가 된다. 만물 평등의 사회에서 개개의 존재는 자신의 본분과 기능을 십분 발휘할 때, 그 존재가 의미를 가진다. 결론적으로 선비의 본분은 실학을 하는 것이다. 다시 말하면, 실학을 통해 상공업이 발달하고 백성들의 삶이 향상될 때, 비로소 선비는 그 존재를 실현하게 된다. 이와 같은 이유로 기만적인 대의명분과 북벌을 비판하면서, 박지원은 북학을 주장한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 XML이 웹 상에서 문서 교환의 표준으로 자리잡고 있으며 그 수요가 나날이 증가하고 있다. 그에 따라 XML 데이터나 문서 구조를 모델링하는 XML Schema(W3C XML Schema Spec) 또한 수요가 증가하고 있다. 그러나 XML Schema는 다양한 자료형과 풍부한 표현력을 제공하지만 그 복잡성으로 인해 모델링하기가 어려운 단점이 있다. 본 논문에서는 관계형 데이터베이스 설계의 기본적인 도구인 개체-관계 모델을 이용하여 XML Schema를 간단하게 생성하는 방법을 제시한다. 개체-관계 모델과 변환될 XML Schema의 구조는 서로 일대일로 매핑되지 않아 직접 변환할 수는 없다. 그래서 몇 가지 알고리즘을 이용하여 개체-관계 모델을 계층적 구조모델로 변환을 한다. 이렇게 변환된 계층적 구조 모델을 이용하여 최종적으로 XML Schema를 생성한다. 기존의 XML Schema 생성 방법은 개체 간의 애트리뷰트가 상위 혹은 하위로 이동하면서 최초 설계시의 개체가 사라지므로 XML Schema의 중요한 특성인 재사용을 이용할 수 없다는 단점을 가진다. 여기서 제시한 알고리즘은 XML Schema의 중요한 특성들인 재사용성, 전역 및 로컬 기능 등을 가진 문서를 생성한다는 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본고는 한국 전통춤 안에 자생적으로 발현된 근대성 양상을 도출함으로써 전통춤의 현재성 획득에 일익을 도모코자 진행되었다. 현재까지의 전통춤 논의 관점은 과거 연구 일세대가 규정하였던 시각에서 크게 벗어나지 못하고 있다. 그래서 전통춤의 창작성이나 예술성에 관한 인식은 제한되어 왔고 이로 인해 전통춤을 독립적 양식으로서 정립시키지 못하는 등의 문제를 낳았다. 그리고 이러한 문제점은 전통춤이 현재성을 획득함에 있어 걸림돌로 작용하고 있다. 이를 해결하기 위해서 본 연구는 전통춤을 대하는 관점의 전환을 큰 목표로 설정하였으며 이러한 목표설정 아래 근대성의 측면에서 전통춤을 새롭게 조명한 것이다. 논의방식은 근대성의 근원개념인 개인, 개체인식 등이 드러나는 양상을 조선후기 문화변화상과 연관하여 전통춤 기록을 중심으로 추출할 수 있는 타당성을 규명한 것이다.\n연구의 내용은 먼저, 기존 한국춤의 근대성 연구가 한국 근대기 춤 고찰에 머물러 개화기 서구적 변화상에 집중하고, 전통춤을 대상에서 제외시키는 서구적 관점의 헤게모니(Hegemonie)에 경도(傾倒)되어 있음을 비판하였다. 그리고 한국춤 근대성에 필요한 핵심적 개념은 춤 주체의 대두와 관련한 변화상, 춤을 연행하는 이의 개인의식의 대두 등이라는 것을 밝혔다. 그리고 한국 전통춤과 근대성의 접점이 가능함을 주장했다. 이어 중인계급의 대두와 연관된 조선후기의 문화변화상을 살피고 이와 연관하여 당시의 춤 기록인 순조(純祖) 무자년(戊子年) 『진작의궤(進爵儀軌)』 등에서 근대성을 추출할 수 있음을 근거로 마련하여 제시하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "36명의 여대생을 대상으로 체지방 감소효과에 대한 실험을 실시하였다. 이 실험에서 처리는 매일 섭취하는 식사종류 및 양에 대한 식사일지 작성과 카메라폰으로 찍어 실험관리자에게 전송하여 매주 상담을 받는 것이다. 실험관리자는 체지방 및 관련된 자료를 일주일마다 측정하여 8주간의 반복측정 자료를 얻었다. 이 실험자료를 이용하여 혼합모형의 일종인 변량계수모형을 이용하여 추정 및 유의성 검정을 실시한 결과, 유의한 고정인자들은 처리전 체지방값, 비만지수, 확장기혈압, 총콜레스테롤 및 시간이다. 처리 후 시간에 따른 체지방감소는 2차함수의 관계가 성립된다. 변량인자인 개체효과와 개체와 시간과의 교호작용에서 1차함수의 관계가 존재한다. 처리 후 시간이 지남에 따라 체지방량은 점점 감소하였으며, 실험실시 8주 후에는 평균 2.1kg 감소한 효과가 있음을 보여주었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "2004년 10월에서 2007년 3월까지 한강하구 오두산전망대 남측 갯벌지역, 곡릉천, 대동리 등의지역의 조류와 그의 서식지를 모니터링한 결과 갯벌 및 새섬매자기 식생지역의 소실을 확인하였다. 뿐만 아니라 육지부의 갈대, 피 등이 서식면적이 확대되어 새섬매자기의 식생지역이 감소하였다. 이에따라 개리와 재두루미의 서식개체수의 급격한 감소를 관찰하였다. 2005~2006년에 걸친급격한 갯벌지역 소실은 2006년말에 안정화 되었으나 개리와 재두루미는 2006~2007년 월동기에도 극소수가 도래하였다. 갯벌 및 새섬매자기 식생지역의 소실 이후 개리와 재두루미는 인근의 대동리 갯벌에 존재하는 새섬매자기 식생지역으로 서식지를 옮긴 것으로 보였다. 이러한 변화는 하천주변 습지의 자연적인 천이 보다는 교량건설에 의한 수류변화로 발생한 것으로 판단되었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "울릉분지 제4기 코어퇴적물 UBGH1-04와 UBGH1-10에서 산출된 규조군집과 규조 개체수농도, 환경지시종(Actinocyclas curvatulus, Neodenticula seminae, Fragilrariopsis doliolus, Hemidiscus cuneiformis 와 Thalassiosira oestrupii)를 이용하여 규조 군집대를 구분하고 고기후 변화를 연구하였다. 2개의 연구 코어퇴적물로부터 산출된 규조분석에 의하여 각각 2개의 규조 군집대를 설정하였다: 규조 군집대 4-I (18,559 cm -5,860 cm), 4-II (2,089 cm - 543 cm), 규조군집대 10-I (20,490 cm - 12,800 cm), 10-II (12,267 cm - 789 cm).\n또한, UBGH1-04 코어 퇴적물이 퇴적되는 동안 하부에서 상부로 갈수록 temperate - cold - warm - temperate 로의 기후변화를 겪었음을 알 수 있었으며, UBGH1-10 코어퇴적물은 cold - warm - temperate로 세 번의 기후변화를 보여준다. 대마난류 유입의 지시종인 Fragilariopsis doliolus와 Hemidiscus cuneiformis의 산출로 보아 UBGH1-04 코어퇴적물에서는 18,559 cm 와 543 cm시기, UBGH1-10 코어퇴적물에서는 20,490 cm와17,671 cm 시기에 대마난류가 유입되었음을 알 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 연구는 텍스트마이닝 기술을 이용한 개체계량학적 분석을 인문학 분야 인물 연구에 적용하기 위해 수행하였다. 연구 대상으로 한 인물은 작품뿐만 아니라 종교, 생애에 대해 많은 연구가 이루어진 윤동주를 선정하였다. 본 논문에서는 윤동주 관련 연구 1,076건을 수집하여 이중에서 초록 정보를 가지고 있었던 220건의 논문을 대상으로 LDA(Latent Dirichlet Allocation) 방식의 토픽모델링 분석을 수행하였으며, 참고문헌 정보를 추출할 수 있었던 121건의 논문을 대상으로 저자동시인용 분석을 통해 연구의 동향을 살펴보았다. 또한 초록에서 인명, 작품명의 개체를 추출하여 이들의 관계를 살펴보았다. 이 연구를 통해 윤동주에 관련한 연구 동향은 생애, 시, 실존의식, 비교문학, 번역문학, 종교적 신념에 대한 연구로 다양한 분야에 걸쳐 이루어졌다는 것을 데이터를 기반으로 보다 객관적으로 분석해 볼 수 있었으며, 윤동주와 함께 연구되는 다른 인물이 어떤 작품을 매개로 하여 연구되어 왔는지에 대해서도 알 수 있었다. 이러한 결과는 인문학 분야의 지적구조를 밝히는데 개체계량학적 방법이 유용함을 증명하는 한편 인문학 연구의 새로운 시각적 접근을 제안했다는 데에 의의가 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 2007년 9월부터 2009년 2월까지 1년 6개월 동안 충남 공주시를 가로지르는 금강에위치한 소학섬을 중심으로 이루어졌다. 조사는 수면성 오리류(청둥오리 Anas platyrhynchos, 흰뺨검둥오리 Anas poecilorhyncha, 원앙 Aix galericulata, 쇠오리 Anas crecca)와 잠수성 오리류(흰죽지 Aythya ferina, 댕기흰죽지 Aythya fuligula, 흰뺨오리 Bucephala clangula, 비오리 Mergus merganser)를 대상으로 하였다. 2007년 조사지역의 평균수위는 장마와 태풍 등에 의한 급격한 수위변동을 제외하면 1m 이하로 나타났으며, 2008년 6월 이전까지도 평균수위는 1m 이하를 유지하였다. 그러나 2008년 6월 돌보를 쌓은 이후로는 평균수위가 약 3m 정도로 높아졌다. 돌보를 쌓기이전인 2007년 11월의 겨울철 수면성 오리류는 최대 2,059개체였으나 돌보가 완성된 2008년 11월에는 585개체로 개체수가 약 1/4(25%) 감소하였으며, 12월에는 420개체가 관찰되었다. 이러한원인은 2008년 동계에 실시된 공주지역의 수렵허가 등의 원인도 있으나 가장 큰 원인으로는 높아진 수위라 판단된다. 예비조사 기간인 2006년과 2007년 동절기에 월동하는 수면성 오리류의 총 개체수에는 거의 변동이 없었으나, 2008년 돌보를 쌓은 후에는 동절기에 도래하는 수면성 오리류가 급격히 감소하였다. 이는 돌보를 쌓음으로써 높아진 수위가 소학섬 인근의 많은 사구들을 유실시켰고, 또한 수면성 오리류가 휴식을 취하는 강변의 둔치 역시 높아진 수위로 인하여 소실되었기때문으로 생각된다. 이에 반하여 깊은 수심을 선호하는 잠수성 오리류 및 일부 기타 조류들은 증가하는 경향을 관찰할 수 있었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "종에 대한 생태적 특성과 서식지에 대한 이해는 종의 보전에 매우 중요하다. 본 연구는 멸종위기에 처해있는 붉은점모시나비의 생태적 특성을 바탕으로 서식지 패치네트워크를 분석하였다. 그 결과 포획 개체수는 188개체, 재포획은 220회 되었다. 그리고 암수의 비율은 42:146개체로 암컷보다는 수컷이 약 4배 많은 것으로 나타났다. 또한 개체의 평균생존일수는 3.93±3.93일(수컷: 4.0±3.9, 암컷: 2.5±1.0), 암컷과 수컷의 최대 생존일수는 각각 13, 14일 나타났고, 수컷이 암컷에 비하여 오래 생존하는 개체가 많은 것으로 나타났다. 종의 평균이동거리는 377 m을 보였으며 최대 1550 m까지 이동하는 것으로 나타났다. 패치연결성과 개체생존이주율의 추정에서 패치간의 거리가 약 300 m 이내가 종의 이주에 적합하며600 m 이상 떨어질 경우 개체생존이주율이 급격하게 감소하는 것으로 나타났다. 또한 종의 이주 빈도는 근접한 거리에서 다수의 패치가 있는 곳에서 활발하게 일어나고 있어 종의 보전을 위해서는 근접한 거리에 다수의 패치가 필요함을 알 수 있었다. 이번 연구 결과는 붉은점모시나비의 서식지 특성이 분석되어 종 보전을 위한 서식지 디자인 및 설계에 유용하게 사용될 수 있을 것으로 본다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 오대산국립공원 상왕봉, 두로봉, 노인봉지역의 아고산대에 분포하는 분비나무군락의 군락구조와 종조성, 개체군동태, 연륜생장을 조사, 분석하였다. 각 조사지별 계층구조는 4층구조이나 노인봉조사구는 두로봉과 상왕봉조사구에 비하여 교목층의 식피율이 빈약하게 분포하였다. 중요치를 통한 주요 분포 수종은 분비나무를 비롯하여 신갈나무, 잣나무, 사스래나무, 당단풍나무, 피나무 등으로 나타났다. 분비나무의 개체밀도는 두로봉조사구에서 가장 높게 나타났으며, 흉고직경급 빈도 분포는 상왕봉조사구에서 대경목의 개체들이 주로 분포하였다. 유묘와 치수의 개체수는 노인봉조사구에서 가장 높게 나타났으나 후계목의 공급원으로서 유목의 분포는 전체적으로 매우 낮은 상태이다. 연평균 연륜생장은 두로봉, 상왕봉, 노인봉조사구에서 1.79mm/year, 1.55mm/year, 1.20mm/year의 순으로 각각 나타났다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 인간중심적인 것도 기술결정론적인 것도 아닌 새로운 기술이해의 가능성을 보여준 시몽동의 기술철학에 대해서 살펴보고 그 의의와 한계를 가늠해보고자 한다. 시몽동은 시스템의 준안정성과 상전이에 따른 발생적 생성이라는 독특한 관점에서 기술적 대상들과 기술성의 존재론적 본성을 고찰한다. 그는 인공물과 자연물 사이에서 구체화하는 기술적 대상들의 존재 양식, 기술발달의 정도에 따라 기술적 대상들과 인간이 맺는 상이한 상호협력적 관계와 공진화, 기술적 발명의 개체초월적 역량과 문화상전이에 따른 기술성의 발생 등 독창적인 기술에 대한 사유를 보여준다. 그에 따르면 기술의 발전은 반-인간화나 반-자연화를 촉진하지 않는다. 기술은 본성상 인간과 자연, 인간과 인간의 관계를 매개하는 소통의 역량이며, 기술적 앙상블이 구축된 정보네트워크 시대는 기술을 매개로 실현된 개체초월적 관계를 통해 집단적 공명과 소통이 가능할 수 있다. 하이데거와 마르크스의 기술론에 필적할만한 비판적 대안으로 유력한 시몽동의 기술철학은 노동과 사용도구의 관점이 아닌 기술적 본질과 기술적 활동의 관점에서 인간과 기술의 앙상블을 강조하며 정보기술문화 속에 살아가는 현대 인간의 삶을 이해할 수 있는 새로운 가능성을 열어주었다. 그러나 문화상전이론에 전제되어 있는 존재론적 가설의 정당화 문제, 그리고 기술적 본질의 존재론적 탐구로 인해 소홀해진 기술과 사회ㆍ정치ㆍ경제의 관계 문제는 좀 더 검토해 볼 필요가 있는 한계지점들로 지적할 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 멸종위기식물인 단양쑥부쟁이(Aster altaicus var. uchiyamae)의 개체군을 대상으로 유전다양성을 유지하는데 필요한 최소개체수를 산정하기 위하여 수행되었다. 단양쑥부쟁이가 분포하고 있는 네 지역에서 각각 유전다양성 및 유전적 분화도를 분석하였다. AFLP(amplified fragment length polymorphism) 마커를 이용한 유전적 변이의 분석 결과, 총 4개의 프라이머 조합에 대해서 936개의 밴드가 확인되었으며, 그 중 934개의 밴드(99.8%)가 다형성을 보여주었다. 단양쑥부쟁이 개체군 내에서 유전다양성(PPB = 45.3%, h = 0.104, I = 0.168, hs = 0.108)은 높은 수준으로 나타났으며, 개체군 간 유전적 분화도(GST = 0.075, θ^B = 0.079)는 낮은 수준이었다. AMOVA(Analysis of molecular variance)분석 결과에서도 전체 유전적 변이 중 91%가 개체군 내에서 보이는 반면, 9%는 개체군 간 변이에 기인한 것으로 나타났다. 단양쑥부쟁이 개체군에서 보이는 유전적 특성은 개체군 간의 빈번한 유전자 이동에 기인한 것으로 사료된다. 최대화 전략법에 의하여 경기도 여주일대의 3개 개체군을 대상으로(굴암, 도리섬, 삼합) 개체군 내 최소개체수를 산정한 결과 도리섬개체군에서는 17개체, 삼합개체군에서는 16개체, 굴암개체군에서는 11개체로 파악되었다. 단양쑥부쟁이 개체군의 최소개체수에 대한 정보는 효율적인 현지 외 보전을 위한 가이드라인을 제시해 줄 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 학술 논문이나 특허 등과 같은 과학기술 문헌에 내재된 기술 지식을 추출하고 체계적으로 관리할 수 있는 통합 워크벤치인 SINDI-WALKS를 소개한다. 이 시스템은 기본적으로 PLOT, 즉 인명, 지명, 기관명 그리고 기술용어를 텍스트에서 식별하고 이들 간의 의미적 관계를 추출하는 기술 지식 추출 엔진과 이들 엔진들에 대한 모니터링 및 오류 분석을 위한 테스트 베드 기능을 포함한다. 또한 기술 지식 추출 엔진이 활용할 수 있는 학습 집합을 효율적으로 구축할 수 있는 테스트컬렉션 구축 기능을 지원한다. 추가적으로 추출된 기술 지식에 대한 가시적 관리를 위한 시맨틱 트리플 통합 관리 기능이 지원된다. 본 논문에서 소개하는 워크벤치를 기반으로 기술 지식 추출 성능 개선과 함께 추출된 지식의 효율적 관리 및 분석이 가능하다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "2002년 리처드 플로리다에 의해 ‘창조적 계층(Creative Class)’이라는 용어가 국내에 소개되면서 창조산업(Creative Industry)의 핵심 직업군인 과학자, 예술가, 디자이너, 영화인 등 창조적 계층이 국가 경쟁력 강화 뿐만 아니라 국격의 향상에까지 미치는 막대한 영향력에 대한 각계의 비상한 관심이 일어났다. 창조적 계층은 이전의 근로자들과는 다른 사고 및 삶의 방식을 지니고 있기에 조직에서도 그들의 역량을 최대한으로 발휘할 수 있도록 지원하는 방식을 달리하고 있다. 특히 작업환경(work environment)은 직업만족도와 업무능률에 직접적인 영향을 미치고 있어서 조직(organizational)의 차원에서 중요한 창조성 관리 방법 가운데 하나로 사용되고 있으나 이들의 특성에 대한 체계적 이해없이 단순히 구글 따라하기 식의 접근법으로 인한 문제점도 야기되고 있다. 본 연구는 창조적 계층의 특성과 그에 따른 작업환경 특성에 관해 이론적으로 정리하고 이를 통해 국내의 대표적인 창조적 기업이라고 일컬어지는 NHN 사옥의 작업환경의 특성을 이해하고자 한다. 이는 창조적 계층에 대한 이론의 틀을 도출하고 이들을 위해 특별하게 조성된 실제 공간의 구체적 사례를 분석함으로써 각 기업의 특성에 맞는 창조적 작업환경의 조성을 위한 기초적 개념과 적용방법에 대한 가능성을 제시하고 논의하기 위한 목적을 지닌다.\n연구 결과로 창조적 계층의 작업환경으로는 개체중심적 환경, 사회관계적 환경, 그리고 경험 유발적 환경의 유형으로 구분될 수 있었고 하위 유형들도 도출되었다. 이러한 이론적 틀을 가지고 NHN사옥을 분석한 결과 사회관계적 환경이 가장 큰 유형으로 분류되었으며 세부유형에는 개인적 차원과 조직적 차원 모두 나타났으며 구체적인 방법으로는 공간의 개방성과 영역성과 프로그램의 중첩이 사용되었다. 이외에도 부분적으로 연령을 고려한 개체중심적 환경, 사운드마크를 활용한 직관적인 경험 유발적 환경도 나타났다. 본 연구를 통해 각 조직 특성에 적합한 유형과 방법을 선택하여 계획적이고 효율적인 창조적 작업환경이 국내에도 활성화되기를 기대해본다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "낙동강 하구의 생태적 역할과 서식하는 조류종을 바탕으로 한 체계적이고 지속가능한 하구 관리를 위해서는 이곳을 이용하는 조류현황에 대한 이해가 필요하다. 따라서 본 연구에서는 부산발전연구원 조류모니터링 자료(2003-2011)를 활용하여 4대강 사업 이전의 낙동강 하구의 조류 현황을 파악하고자 하였다. 낙동강 하구에서 관찰된 조류 중 겨울새의비중이 종수에서는 38.36%, 개체수에서는 63.14%로 가장 많은 비율을 차지하여, 낙동강하구가 겨울철새의 도래지임을 보여주었다. 조사권역별로는 명지(208,651개체), 서낙동강(202,444개체), 을숙도(153,232개체), 백합‧도요등(150,595개체) 순으로 누적개체수가 많았으며, 을숙도(171종), 서낙동강(141종), 일웅도(124종), 명지(123종), 삼락둔치(121종) 순으로 종수가 많은 것으로 나타났다. 낙동강하구에서 기록된 232종 중 청둥오리가 197,870개체, 전체의17.71%로 가장 많이 관찰되었으며, 다음으로 흰뺨검둥오리(8.85%), 괭이갈매기(6.48%), 큰기러기(6.09%), 홍머리오리(5.16%), 민물도요(4.22%) 순으로 우점하고 있는 것으로 조사되었다. 혹부리오리류를 제외한 대부분의 분류군들이연간 변동은 보였지만 조사 기간 중 점차 증가하는 추세를 보였다. 가마우지류, 고니류, 갈매기류 등은 다른 분류군의조류 보다 조사 기간 동안의 연간 변동 폭이 큰 것으로 나타났는데, 특히 고니류의 경우 5차년도(2007-2008)와 7차년도(2009-2010)에 개체수가 전년도에 비해 크게 감소하였으며, 또한 8차년도(2010-2011)에는 도요·물떼새류, 갈매기류, 할미새류, 기타 새류에서 개체수의 감소가 관찰되어 이들 분류군의 서식에 영향을 줄 수 있는 환경변화가 있었던것으로 보인다. 전체적으로는 서식지의 특성이 우점종의 분포와 연관성이 있는 것으로 조사되었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문은 ‘자율과 연대’의 의미를 동아시아 사유에 나타난 존재론적 각도에서 접근한다. 당초 ‘자율’과 ‘연대’가 현대적으로 두드러지게 이슈가 된 것은 프랑스 68혁명에서 기원한다. 그 이후 중앙정부 차원에서 획일적으로 금지하는 모든 것을 금지한다는 모토 하에 개인의 자율을 확보하고 그 자율을 위한 연대의 문제가 부각된다.\n주로, 칸트가 말하는 도덕적 자율과 달리 개별자의 자치를 의미하는 자율과 내부적 결속이나 외부와의 연대의 시선에서는 중심 권력, 중앙 정부, 당국자의 일변도의 정책에서 벗어나려 한다. 주변성이나 로컬적인 것이 중요한 것이 된다. 거기에서 개별자적 가치, 자기 운동성, 자기 이익을 접근하고 그것을 효율적으로 보장받기 위한 연대는 매우 중요한 것이 된다.\n동아시아 사유, 특히 도가철학의 자연주의에서는 이 같은 문제를 한층 존재론적으로 접근한다. 정체성이나 국가와 사회의 획일화된 정책 속에 ‘자기’ 본질을 매몰하지 않고 조화로운 공동체를 이루는 것을 매우 자연스럽고 의미 있는 것이 된다.\n사물의 존재를 유기적으로 보려는 ‘만물일체’도 그렇거니와, 자연공간에서 자기 소리를 내는 가운데 결과적으로 ‘화음’을 이루는 일종 ‘연대’를 기대한다. 이런 의미에서 개별자가 갖는 자기특성이 말살되거나 억압되어서는 안 되는데, 최한기 같은 사람은 그 같은 제약 공간을 넘어 역동적인 합리성, 사물의 운동성이 펼쳐 질 수 있는 근대적 합리성의 공동체 정신을 지향한다.\n현재 우리 사회를 볼 때 어디를 가도 공동체요, 자율이니 연대니 하는 용어가 유행한다. 이 논문은 이 같은 상황에 비추어 자율과 연대의 의미에 대하여 보다 연원적이면서 존재론적인 접근을 시도한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 다개체 로봇을 위한 랭크 기반의 포메이션을 다룬다. 여기서 제안되는 방법은 이웃한 두 대 로봇의 지역 위치를이용한다. 전통적인 다개체 로봇의 포메이션을 위한 연구는 모든 로봇의 위치를 파악하기 위해 로봇과 중앙 컴퓨터사이의통신을 필요로 한다. 그리고 전역좌표에서 모든 로봇의 위치를 참조하여 포메이션 형성 및 로봇 경로가 만들어 진다.\n기존의 연구들과는 다르게 제안된 포메이션 형성 방법은 지역좌표에서 이웃한 두 대의 로봇 위치를 사용 한다. 따라서제안된 방법은 여러 모양의 포메이션을 형성할 때 모든 로봇의 협력 관계는 필요하지 않고 주변의 이웃 로봇 위치를개별적으로 이용한다. 시뮬레이션 결과는 제안된 방법이 효과적으로 포메이션을 형성할 수 있음을 보여준다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "주어진 데이터의 개체들을 비슷한 특징을 가지는 소그룹으로 나누어 그 그룹들의 특징이나 대표성을 찾는 분석 과정을 군집분석이라고 한다. 군집분석은 크게 분리 군집방법과 계층적 군집방법으로 구분할 수 있다. 본 연구에서는 계층적 군집방법을 이용하여 군집의 수를 정하고, 분리 군집방법 중 하나인 k-중앙개체 군집방법을 적용하여 한국 프로농구선수들의 군집화를 시도해 보았다. 프로농구선수들의 데이터는 몇몇 변수들에 있어 특이치가 존재하기 쉽다. 따라서 이런 경우에는 특이치에 영향을 크게 받는 k-평균 군집방법을 적용하는 것보다는 특이치에 덜 민감한 k-중앙개체 군집방법의 활용이 좋은 결과를 줄 수 있다. k-중앙개체 군집방법의 구현을 위해 PAM(partitioning around medoids) 알고리즘을 이용하였다. 군집분석결과 3개의 군집으로 선수들을 군집화하였고, 각 군집의 특징을 파악하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "최근 많은 관심을 가지고 있는 기계학습이나 인공지능 시스템들은 많은 학습 자료가 필요하다. 이런 학습 자료는 일반적으로 수동으로 구축되며 많은 시간과 노력이 필요할 뿐 아니라 수동으로 구축된 학습 자료의 일관성을 유지하는 것이 매우 어려운 일이다. 이런 문제를 완화하려고 본 논문에서는 대량의 학습 자료를 구축하기 위한 언어 정보 부착 시스템을 개발한다. 이 시스템은 자동 부착(automatic tagging), 오류 수정(error correction), 확률 검수(sample examination), 사전 확장(dictionary expansion) 및 점진 학습(incremental learning) 등의 과정을 반복하면서 학습 자료(언어 정보 부착 말뭉치)를 확장한다. 자동 부착은 사전과 기계학습 시스템을 이용해서 원문에 개체명, 구묶음, 전문용어 등과 같은 언어 정보를 부착한다. 오류 수정은 자동 부착된 언어 정보의 오류를 수정한다. 확률 검수는 오류 수정된 언어 정보로부터 확률적으로 일부의 문장을 추출하여 검수한다. 사전 확장 및 점진 학습은 검수된 문서를 학습 자료에 포함하여 사전을 확장하고 기계학습 시스템의 성능을 확장한다. 이 시스템은 서버-클라이언트 모델로 구현되어 여러 사람이 협업을 통해서 더욱 효과적으로 언어 정보를 부착할 수 있었으며 많은 시간과 노력을 절약할 수 있었다. 결과적으로 대량의 학습 자료를 효과적으로 구축하는 데 크게 기여하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본고는 서구 중심의 새로움을 추구하는 무에서 한국춤 창작에 있어서 가져야 할 덕목이 무엇일까 에 한 의구심에서 시작되었다. 그리고 이는 이내 한국춤 창작에 한 전면적 재고의 필요함으로 이어 졌다. 그래서 무용사 관점에서 한국춤 창작에 해 재고하고 이를 근거로 창작의 준거틀을 제시했다. 우선, 기존 무용사에서 한국춤 창작연구를 살폈다. 이를 통해, 기존연구들의 문제점을 도출했다. 이 는 첫째, 개체적 특수성이 결여된 창작요소가 제시되어 있다는 점이며 둘째, 서구 중심의 창작개념이 유입되었다는 점이다. 이 두 가지 문제점은 현재까지의 무용연구에서 이렇다 할 자기성찰과 반성 없이 받아들여지고 있다. 이러한 문제점의 해결책을 모색하고자, 동서양 예술개념의 차이를 바탕으로 동양예술의 특징인 전승 안의 창작개념에 해 논의하고, 이 점이 한국춤에도 동일하게 입됨을 서술하다. 그리고 무용연구 와 창작춤에 새롭게 개진되어야 할, 전통춤 창작의 준거틀을 제시했다. 순환원리를 통한 면과 선의 형 성, 전통호흡법을 근간으로 한 춤사위 형성, 장단해석 방식과 디딤의 사용이 그것이다. 마지막으로 위 내용을 바탕으로, 무용사 중 전통춤 창작이 발현되는 예를 전통사회 기록 안에서 추출 하여 제시하다. 이상의 내용을 통해 전통춤이 주체적 창작개념을 함유하고 있음을 주장하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본고는 칸트 이후 칸트주의자들 가운데서 일반화된 선험철학중심적인 판단을 지양하여, 라이프니츠의 사상의 고유성과 차별성을 밝히고, 라이프니츠의 철학사적 업적을 재평가하는 계기를 마련하고 하며, 이러한 문제의식 하에 칸트와 라이프니츠에서 자아 개념을 비교, 분석하고자 한다. 칸트에서 자아는 선험적 활동에 근거하여 인식과 실천을 수행하는 자의식적 존재이다. 자아는 이성적 존재로서 지성의 논리를 통해 자연의 진리를 발견하고 도덕적이고 가치지향적으로 행위하는 이성적 주체이다. 그러나 칸트가 말하는 이성적 주체로서의 자아 개념은 사실 라이프니츠의 이성적 실체로서의 자아 개념을 그대로 계승한 것이다. 그러나 라이프니츠에서 자아는 이성성의 의미를 넘어 개체성, 주체성, 실존성을 특징으로 하는 포괄적 개념이다. 그것은 육신과 의지를 가지고 자신의 관점에서 세계와 관계를 맺고, 자신을 세계 안으로 투기하는 주체적 개인, 즉 실존이다. 라이프니츠와 칸트의 차이는 근본적으로 지향 점의 차이에 기인하고 있다. 칸트는 과학적 합리성의 시대에 세계를 논리적으로 인식하고 실천적으로 통제할 수 있는 이성적 주체로서의 자아를 확인하고자 했다면, 라이프니츠는 세계 속에서 의지하고 행동하며, 자신을 주체로 세우는 실존적 개체를 이상적 인간상으로 제시하고자 한 것이다. 개체성과 신체성 그리고 실존성을 함의하는 라이프니츠의 자아는 칸트에서 선험적 전회를 통해 이성적 틀에 준하여 자연을 규정하는 선험적 주체로 환원되었고, 결과적으로 인간에 대한 이해 지평은 축소되었다고도 말할 수 있다. 라이프니츠가 제시하는 자아 개념은 오늘날 가치다원적인 관점에서 다시 한번 음미할 가치가 있다고 생각된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "피터즈와 허스트의 ‘지식의 형식으로의 입문’으로서의 교육은 대표적 자유교육론으로 간주되어 왔다. 최근에 허스트는 전기 자유교육론의 한계를 비판하고 ‘사회적 실제로의 입문’으로서의 교육을, 화이트는 개인의 욕구를 만족시키는 가치있는 활동으로서의 교육을 자유교육의 대안으로서 제시한다. 그러나 ‘지식의 형식에의 입문’으로 대표되는 자유교육뿐만 아니라 그것에 대한 허스트와 화이트의 대안적 논의는 공통적으로 ‘실재’에 대한 심각한 논의를 결여하고 있다. 본 논문은 현대 자유교육론이 배제한 실재의 의미와 그것을 토대로 실현되는 자유교육의 참된 의미를 토미스트인 자끄 마리땡의 철학적-종교적 관점에 비추어 드러낸다. 마리땡의 존재론적 관점으로부터 드러나는 인격과 개체성, 인식론적 관점으로부터 드러나는 통찰이나 직관의 근원으로서의 전의식과 정의적 공통 본성 등의 개념은 현대 자유교육론이 배제한 실재의 의미와 자유교육의 참된 의미를 조명해 준다. 또한 철학적-종교적 자유교육론은 실재하는 인간 존재자의 신성한 측면을 분명하게 드러냄으로써 인간의 형이상학적이고 종교적 측면을 무시하고 있는 포스트모던 교육 사태에 올바른 인간상이 무엇이 되어야 하는가에 대해 성찰하도록 해준다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "깡귀옘은 『정상적인 것과 병리적인 것』에서 유기체의 규범을 이야기했다. 그에 따르면 정상적인 것과 병리적인 것의 기준이 되는 것은 유기체 차원에서 작동하는 규범으로, 생명체는 규범성과 개체성을 특징으로 한다. 한편, 바흐찐은 『도스또옙스끼 시학의 제문제』에서 도스또옙스끼의 소설을 ‘폴리포니(다성음악)’라는 비유를 통해 집대성했다. 도스또옙스끼에게 작중인물은 스스로 완벽한 권리와 목소리를 지닌 주관적 사상의 보유자다. 폴리포니라고 하는 도스또옙스끼 시학에서 작중인물의 자의식과 대화성은 그 핵심을 이룬다. 깡귀옘의 의철학을 대변하는 생명체의 규범성과 개체성은 도스또옙스끼의 작중인물이 가지는 독자성, 주체성, 자율성 등과 상통하는 측면이 있다. 요컨대 자의식이라는 독자적인 작동 원리에 따라 움직이는 도스또옙스끼의 작중인물은 깡귀옘 식의 개체성, 내적 규범을 가진 인물이라 할 수 있다. 도스또옙스끼는 작자가 작중인물의 창조자라 하더라도 작중인물의 의식이나 말까지 완결하여 제시할 수 없음을 소설이라는 형식을 통해 보여 주려 했다. 19세기 말 베르나르는 생명 현상이 물리화학적 현상들과 동일한 법칙을 따른다고 주장하는 실험의학방법론을 정초했다. 베르나르의 실험의학이 초래한 기계론적 생명관에 반대하여 깡귀옘과 도스또옙스끼는 각각 생기론과 폴리포니 소설이라고 하는 방식으로 기계적 유물론, 대상적 사고법을 극복하려 했다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "최윤, 2018. 한국어 복수표지 ‘들’에 대한 고찰, 어문연구, 180 : 91~117 한국어 복수표지 ‘들’은 그 문법적․의미적 위치가 명확히 규명되지 않았다. 본 논의의 최종 목표는 복수표지 ‘들’을 일관된 시각으로 조망하여 그 활용과 의미 기능을 명확하게 이해할 수 있는 타당한 기준을 마련하는 데에 있으며 이번 논의에서는 그 첫 번째 시도로서 의존명사로 활용되는 ‘들’의 활용과 의미 기능을 고찰하였다. 논의의 결과, 현재 의존명사로 분류되어 있는 ‘들’은 접사나 보조사가 아닌 의존명사로 분류하는 것이 타당함을 확인하였다. 또한 의존명사 ‘들’이 선행 명사군을 하나의 무리로 묶어 집단성을 강조한다는 사실과 단수의 명사군과 통합의 제약이 있음을 확인하였다. 의존명사 ‘들’의 이러한 특징은 모두 ‘들’의 복수성에 의한 것으로 볼 수 있으며 ‘복수성’이야말로 복수표지 ‘들’을 이해하는 가장 중요한 의미 기능이라는 것을 보였다. 이상의 연구 결과를 바탕으로, 앞으로 접사 ‘들’과 보조사 ‘들’의 의미 기능과 활용 양상을 종합하면 ‘들’의 문법적․의미적 위치를 보다 명확히 파악할 수 있을 것으로 기대한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "자연 언어 처리에 딥러닝 모델이 적용되면서 딥러닝 모델을 구축하기 위해 많은 양의 데이터가 필요해졌다. 그러나 개체명 인식과 같이 레이블링된 학습 데이터 구축은 어려워 데이터 부족 문제가 발생한다. 이러한 데이터 부족 문제를 해결하기 위해 데이터 확장이 필요하다. 따라서 본 연구에서는 텍스트 채우기와 생성적 적대 신경망을 이용해 레이블링된 개체명 인식 데이터 확장모델을 제안한다. 제안한 모델은 개체명 정보를 변경하지 않고 부분 문장을 생성해 새로운 데이터를 생성할 수 있다. 제안한 모델은 다른 비교 모델들에 비해 자연스럽고 내용적 일관성이 있는 부분 문장을 생성할 수 있다. 또한 제안한 모델로 확장한 개체명 인식 데이터로 개체명 인식 모델을 학습할 경우 성능을 향상될 수 있음을 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "개체명 인식이란 주어진 문서에서 개체명의 범위를 찾고 개체명을 분류하는 것이다. 많은 개체명은 하나 이상의 단어로 구성되므로 대부분의 개체명 학습말뭉치는 BIO 표기법으로 표현된다. BIO 표기법은 개체명이 시작되는 단어의 표지에 “B-”를 붙이고, 개체명에 포함된 그 외의 단어의 표지에는 “I-”를 붙이며, 개체명과 개체명 사이의 모든 단어의 표지를 “O”로 간주하는 방법이다. 이 방법은 약 90% 이상의 단어가 “O” 표지를 가지므로 “O” 표지에 대한 혼잡도가 높아지는 문제와 불균형학습 문제가 야기된다. 본 논문에서는 BIO 표기법 대신에 BIT 표기법을 제안한다. BIT 표기법이란 BIO 표기법에서 “O” 표지를 “T” 표지로 변환하는 방법이며 본 논문에서 “T” 표지는 품사 표지를 나타낸다. 실험을 통해서 단어 표상의 의미 투영도가 높지 않을 경우, 즉 상대적으로 적은 양의 학습자료로 단어 표상을 학습했을 경우에는 BIT 표기법이 BIO 표기법보다 좋은 성능을 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "우리나라 남서해안에서 무안과 함평 사이의 남동방향 방향으로 만입한 함해만 연안의 퇴적환경과 해수의 수괴 특성을 살펴보고자 함해만 연안의 해제반도에 인접한 해역의 13개소 정점에서 표층퇴적물 시료들을 채취하여 규질 생물유해들의 산출상을 연구하였다. 이들 시료들에서는 총 13 유형의 해면침골과 1품종을 포함하는 4 종의 규편모류 그리고 식물규소체로 생각되는 규질 생물 유해들이 관찰되었다. 이 규질 생물유해들은 해안에 약간 떨어진 정점들과 만 내측 방향의 정점들에서는 차이는 있었으나 산출 빈도가 상대적으로 높은 반면, 해안에 인접한 해빈 정점들과 만의 남동쪽으로 만입한 해역의 정점들에서는 그 산출이 매우 희소하거나 산출되지 않았다.\n산출된 해면침골은 주로 monaxon류가 지배적인 산출빈도를 보이고 이중에서도 diactinal 유형의 oxea가 가장 우세한 유형이고 다음으로는 monactinal 유형의 style도 많이 관찰되는 유형이었다. Monaxon의 다른 유형들인 diactinal 유형의 acanthoxea, strongyle, tylostrongyle 등과 monactinal 유형의 acanthostyle, tylostyle 등은 소수의 개체가 비교적 여러 정점들에서 산출되었다. 이에 반하여 다축성 가지를 보유하는 tetraxon과 polyaxon 유형의 침골들은 극소수 개체들만이 확인되었다. 그리고 형태상의 다양성을 보이는 oxea와 style의 경우는 각각 세 변이형과 두 변이형으로 세분하여 형태적 변이에 다른 개체빈도를 조사하였다. Oxea는 정상형이 가장 빈도가 높고 큰 봉상축을 가지는 대형 개체들은 빈도상 다음으로 나타났다. Style은 거의 대부분이 직선상의 정상형에 해당하였다. 그리고 tylostyle을 비롯한 일부 유형 등에서는 경부가 분지되어 봉상의 주 축에 나란히 전개되거나 일부 해면침골들의 봉상형 축의 중심부 부근이 편평한 타원체상으로 팽대되는 모습들이 출현하기도 하였다. 이들 변이형들이 해면 침골의 변이인지는 형태적 특성에 따른 고찰이 필요한 것으로 생각된다.\n연구해역인 함해만의 퇴적물에서 규편모류는 Distephanus crux(?)로 추정되는 한 개체를 제외하고는 모두 Dictyocha 속에 해당하는 분류군들이 산출되었다. 이들도 수 개체만 확인된 D. pentagona를 제외하고는 산출된 규편모류는 D. fibula와 D. messanensis f. messanensis 두 분류군에 집중되었다. 이처럼 규편모류의 산출이 Dictyocha 속에 한정되고 북서태평양을 비롯한 온난해역에서 산출되는 대표적 분류군인 D. messanensis f. messanensis의 산출상은 함해만이 온난수괴의 영향이 강하게 작용하는 해역임을 지시한다. 이와 함께 규편모류 개체들의 대다수가 어둡게 착색된 개체들로 구성되며 일부 비정형 개체들의 산출은 연구해역에서 조류 둥에 의한 퇴적물의 재동과 영양염류의 공급을 시사한다. 이와 같은 결과들에서 연구해역인 함해만은 온난수괴가 지배적인 반 폐쇄적인 만으로서 조류 등에 의한 해수의 운동이 활발하고 주위 내륙에서 영양염류가 공급되는 환경으로 해석된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "경제학 지식은 조직이 좀 더 데이터 기반의 의사 결정하도록 지원하는 분석, 데이터 마이닝, 데이터 시각화, 데이터 도구, 모델링, 인프라를 모두 포함한다. 빠르게 변해가는 사회에서 좀 더 과학적 방법으로 해답을 제시해줄 수 있다. 본 논문에서는 경제학 논문 텍스트에서 키워드 개체 추출 시스템과 관계 정보를 학습하고 예측할 수 있는 관계 기반 BERT 모델을 제안한다. 관계 기반 BERT 모델을 실험을 통해 검증한 후에 지식 그래프 추출 및 지식 그래프 기반 의미론적 추론을 제시한다. 그래프의 연결성은 직접 연결된 관계 정보뿐 아니라 간접적으로 관련된 개체들을 통해 개념이 연결되어 문서 간의 잠재적인 숨겨진 관계를 드러낼 수 있다. 본 논문은 간접적인 관계 정보의 추출을 통해 새로운 의미 정보, 관계 정보를 추론하는 데 나아가는 연구의 방향성을 제시한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 깨다시꽃게의 mtDNA COI 영역을 분석하여 이들의 계군을 파악하고 계군별 관리단위를 설정하기 위해 수행되었다. 한국산 O. punctatus의 clade는 2개로 분리되었으며, clade간 mtDNA COI 영역의 유전적 거리는 0.17-2.08%로 유의한 차이가 없었다. 해역 간의 유전적 분화도를 나타내는 Pairwise FST 값에는 유의한 차이가 없었으며, 유전자형의 분포와 네트워크 결과에서 뚜렷한 지리적 분화가 나타나지 않았다. 이러한 결과는 깨다시꽃게가 유생기에 약 1달 간의 부유유생기를 겪기 때문에 해류에 의해 장기간 분산되고 성체가 되면서 유영지가 발달하여 이동성의 상승으로 인한 유전자 흐름이 증가했음을 시사한다. 따라서 한국의 동해, 서해, 남해 및 동중국해(이어도)에 서식하는 깨다시꽃게의 mtDNA COI 영역 분석 결과 명확한 종내 분화는 발견되지 않았다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "도시현상의 해석을 위해 공간정보는 필수적이다. 위치정보가 부족한 도시정보를 공간정보로 변환하기 위한 공간정보화 방법론이 꾸준히 개발되어왔다. 정형화된 주소정보나 지명 등을 이용한 Geocoding이나 이미 위치정보가 있는 공간정보와의 공간결합, 참조데이터를 활용한 수작업 형태 등이 대표적이다. 그러나 아직도 행정기관에서 작성되는 수많은 문서정보들은 비정형화된 문서형태로 인해 공간정보화의 수요가 있음에도 그동안 깊이 있게 다루어지지 못하였다. 본 연구는 자연어 처리 모델인 BERT를 활용하여 도시계획과 관련된 공개문서의 공간정보화를 진행한다. 주소가 포함된 문장 요소를 문서로부터 추출하고, 이를 정형화된 데이터로 변환하는 과정을 중점적으로 다룬다. 18년 동안의 도시계획 고시공고문을 학습 데이터로 사용하여 BERT 모델을 학습시켰으며, 모델의 하이퍼파라미터를 직접 조정하여 성능을 향상시켰다. 모델 학습 후의 테스트 결과, 도시계획시설의 유형을 분류하는 모델은 96.6%, 주소 인식 모델은 98.5%, 주소 정제 모델은 93.1%의 정확도를 보였다. 결과 데이터를 GIS 상에 맵핑하였을 때, 특정 지점의 도시계획시설에 관한 변경 이력을 효과적으로 표출할 수 있었다. 본 연구로 도시계획 문서의 공간적 맥락에 대한 깊은 이해를 제공하며, 이를 통해 이해관계자들이 더욱 효과적인 의사결정을 할 수 있게 지원하기를 기대한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "좁은가슴잎벌레는 십자화과작물을 가해하는 해충으로 알려져 있다. 본 연구는 온도가 좁은가슴잎벌레의 발육단계별 발육기간, 성충의 수명과 산란특성에 미치는 영향을 파악하고자 성충 전 발육단계는 15, 20, 25, 27.5°C에서, 성충은 10, 15, 20, 25, 27.5°C 항온조건에서 조사하였다. 알과 유충은 항온조건에서 다음 발육 단계로 성공적으로 발육하였다. 알, 유충, 번데기의 발육기간은 온도가 상승할수록 짧아지는 경향을 보였다. 좁은가슴잎벌레의 발육영점온도, 유효적산온일도는 선형회귀분석을 통해 추정하였으며 알에서 성충출현까지 발육영점온도와 유효적산온 일도는 8.7°C와 344.73DD였다. 좁은가슴잎벌레 발육단계별 최저, 최고 온도의 한계는 Briere함수를 이용하여 추정하였으며 알에서 성충출현 까지 최저, 최고한계는 5.3°C와 40.4°C였다. 성충은 10°C와 27.5°C 범위에서 산란이 가능하였고 21.7°C에서 최대 약 627.5개의 알을 낳는 것으로 추정되었다. 노화율, 나이별 생존율, 나이별 누적산란율, 온도의존 산란수와 관련된 성충모델들을 작성하였다. 본 연구에서 제시한 온도발육 모형과 성충산란모형은 좁은가슴잎벌레 개체군동태를 이해하는데 유용할 것이며 십자화과작물의 종합적 해충군관리체계를 마련하는데 기초자 료로 활용될것으로 기대된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "최근 안전사고를 예방하기 위해 다양한 연구가 진행되고 있으며, 기존 연구는 주로 안전사고사례를 기반으로 안전사고 유형을 예측하기 때문에 안전사고의 발생을 근본적으로 방지하기위한 안전사고의 원인 분석에 활용하기 어렵다. 이를 해결하기 위해 본 연구에서는 사고의환경정보와 인과관계를 분석하는 자연어처리 기반 안전사고 분석 모델을 제안하였다. 이를위해 안전사고 분야 데이터셋을 구축하여 KoELECTRA 기반 개체명 인식 및 인과관계 추출 모델을 파인튜닝 하였으며, 파인튜닝 전과 후를 비교하여 성능 향상을 확인하였다. 따라서, 제안된 모델을 활용하여 안전사고 사례 속 환경 정보 및 인과관계를 분석하고 이를 안전관리자에게 제공하여 안전사고 감소에 기여할 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This paper examines how giho (嗜好, a special liking for something) and byeok (癖, a mania for something) were associated with an individual's temperament in the Joseon Dynasty, paying attention to how giho based on temperamental differences, was used to define the self-identity of Joseon intellectuals. In Joseon literature, giho was seen as something that everyone possessed and that varied from person to person. Furthermore, the tendency to like certain objects is considered to be inherent in one’s temperament, and it is discussed that giho also varied according to differences in temperamental nature.\nIt was here that Joseon intellectuals emphasized differences in giho and established a grade system for it. Furthermore, giho which could vary according to innate disposition, was used in defining individual dignity, and items of giho became a symbolic tactic that demonstrated individual’s predisposition within the culturally stratified society of the Joseon Dynasty.\nAs a result, within the discourse that intellectuals liked objects that were similar to their own temperamental nature, the giho was used to define oneself as belonging to the elegant class, which was possible within the framework in which the high class dominated culture. In this way, giho became closely associated with the self-identification of Joseon Intellectuals, being enjoyed and used in a direction where they were normalized and displayed as symbolic strategies revealing individual dignity and sense of belonging.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "한 세대와 그 다음 세대를 겹치지 않는 시간 단위로 나눌 수 있는 곤충이나 어류에 대하여 시간에따른 개체 수의 역학적인 변화를 한 세대를 단위시간으로 하는 이산적 모델로 표현할 수 있다. 이논문에는 시기적으로 다양하게 제시된 여러 가지 이산적 모델을 고찰한다. 1798년 제안된 Malthus의 모델을 시작으로, 이산적 로지스틱 모델(Verhulst 모델), Ricker 모델, Beverton-Holt 개체수 보충모델, Shepherd 모델, Hassell 모델, S자형 Beverton-Holt 모델 등에 대하여 각 모델의 의미와 성질을분석한다. 그리고 각 모델의 고정점 즉 상수해의 안정성에 대한 이론적 분석과 함께 GSP 프로그램을이용하여 해의 시간에 따른 변화를 시각적으로 나타내는 방법을 제시하고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "我们把现代汉语中名词与“一”结合的结构分为“一_1＋N_1＋X_1”(如：一杯水)和“一_2＋N_2＋X_2”(如：一地水)｡ 大部分的研究者在探讨这一结构时多在“一_1”表达数的含义, “一_2”表达“满”的含义的前提下对“N_1”和“N_2”的语义特征进行了分析｡ 但我们发现“N_2”在符合语义特征的条件下仍然有很多不合法的句子产生, 而且在语料库中可以找到很多“一_2”与“满”共用或者两者无法替换的语言现象｡ 这说明“一_2”与“满”存在互不相同的语义功能｡ 本文试图从认知语言学的角度探寻形式相似的两个结构中的“一”在语义特征上是否有相似点｡ 结果发现虽然“一_1＋N_1＋X_1”表达的是个体量, “一_2＋N_2＋X_2”表达的是整体量, 但是“一”在两个结构中都承担着量化的语义功能｡ “一_1”是对个体的量化, “一_2”是对整体范围的测定｡ 因为量化的对象和量化的方式都不一样, 因此“一_1”与“一_2”在结构中所表现出来的语义也有一定的差异｡ 这种差异来自人们在把握客观事物时的观察角度, 当我们把注意力集中于事物的边界时, “一”表达的是个体的数量；当我们把注意力集中于因具有同质性而能形成一个整体的构成成员时, “一”表达的是整体的量｡ 在我们确定构成成员是否能形成一个整体的过程中, 由于视线的发散会在知觉上产生强密度的感觉, 因此“一_2”还会衍生出“满”的语义特征｡",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The historians of the late nineteenth and the twentieth centuries echoed and exalted the modernity of St. Francis of Assisi as the initiator of the Renaissance and the modern world. So was he a Renaissance man? What did he have these factors? Through this thesis I want to compare St. Francis's world view with Leonardo da Vinci's one. What kind of connection with them? Or difference? At first, I found that they have several things in common.\nThe first, they recognized new natural world views. The distinctive features of St. Francis, freedom of spirit, love, pity, joyful serenity and familiarity were long to form the originality of Italian Christianity. Also Leonardo was the first artist who, by demanding a synthesis of nature and intellect, established a fundamentally new creative principle. St. Francis and Leonardo were filled with compassion toward animals and other creatures.\nThe second, they moved to more popular people. St. Francis as an imitation of Jesus Christ went to the poor and the marginalized, whereas monks stayed in the cloisters. Furthermore Leonardo should have quarreled with the classical and literary Renaissance in which he was brought up and should have turned to a more popular and naturalistic Renaissance.\nThe third, they did not train enough formal education. Though they knew a little Latin or nothing classics, they used mother tongue. Through these they could represent their own world ideas.\nThe fourth, moreover St. Francis and Leonardo's understandings were based on four factors of Aristotelian nature view. And they believed in God's creation of the universe and nature. It seems that such thinking way had continued to Renaissance time.\nHowever, they had very different world views.\nThe first, St. Francis discerned the hidden things of nature in his sensitive heart, whereas Leonardo da Vinci, who is scientist and artist, analysed the nature and light through his eyes.\nThe second, they had different life goals. The former tried to achieve imitation of Christ, while the latter attempted to attain new style and way of thinking by experiment and analyse.\nIn conclusion, even though they lived in different ages and life style, they are really Renaissance men as well as moderns",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "노장사상은 중국 고대사상으로서 오랜 기간 동안 중국은 물론 동아시아 국가들의 사상적 발전에 큰 기여를 했다. 노장사상 인식론의 특성들, 즉 개체성과 자연성 및 상대주의적 관점은 봉건적 차별질서 하에서 억압받는 인간 및 자연계 개체의 자유와 평등, 그리고 개체간 상호공존의 공동체적 발전을 요구하는 이론적 토대로서 작용했다. 사상적 특성 상 동아시아 전통의 유학사상이나 묵학사상과 같이 적극적 정치방법론을 제시하지 못했고, 시대적 제약에 의해 봉건성을 탈피하지 못했던 한계에도 불구하고 노장사상이 제시한 무위무욕(無爲無欲)의 정치적 이상은 지배욕구와 차별적 태도가 여전한 우리 사회에 자기반성의 계기를 삼게 하는 가치를 지닌 것이었다. 특히 노장사상에 나타난 공동체적 정치의식은 중요한 현재적 의미를 담고 있다. 구체적으로 노장은 공동체적 발전을 위해서는 무엇보다 정치지도자의 솔선수범과 자기욕구의 억제가 중요함을 역설했다. 그러한 지도층의 이기욕 억제가 국민 모두의 평화와 행복을 담보할 수 있는 가장 중요한 실천적 태도임을 강조했다. 동시에 노장은 자비를 통한 용기, 검소를 통한 베풂, 그리고 국민의 위에 군림하지 않고 국민을 섬기려는 자세가 정치지도자의 필수적 덕목임을 밝혔다. 이와 같은 노장사상 에 나타난 정치의식의 내용들은 정치인들의 특권의식과 국민 위에 군림하려는 태도가 팽배한 한국의 정치현실을 극복하여 자기절제, 조화와 섬김을 토대로 한 공동체적 정치의식의 필요성을 제시한 것이라는 점에서 의미를 지닌 것이라 할 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "최근 인간 뇌 오가노이드로부터 뇌파가 측정되었다는 연구결과가 발표되면서, 이 연구 모델이 야기하는 윤리적, 법적 문제에 대한 논의가 활발하게 진행되고 있다. 필자는 인간 뇌 오가노이드 연구를 규율하는 국제 지침이 있는지 검토하고 국내 법제에서는 어떤 규정이 존재하는지 살펴본다. 배아줄기세포를 이용한 인간 뇌 오가노이드는 생명윤리법의 규율 범위에 포함된다. 하지만 유도 전분화능 줄기세포를 이용한 인간 뇌 오가노이드 연구는 첨단재생바이오법의 규제 범위 밖에 있으며, 인체유래물연구에 대한 유권해석을 토대로 생명윤리법의 인체유래물연구에 해당한다. 그러나 인간 뇌 오가노이드 연구를 심의하는 경우 어떤 기준으로 어느 시점까지 인간 뇌 오가노이드 연구를 허용해야 하는지에 대한 지침은 없다. 심의를 통한 연구의 승인 여부는 전적으로 기관생명윤리위원회의 재량에 해당한다. 윤리적 쟁점과 관련해서 인간 뇌 오가노이드 연구는 인간 뇌 오가노이드의 도덕적 지위에 대한 문제를 초래한다. 필자는 잔여배아 연구의 허용 시점에 대한 논의에서 축적된 개념들을 바탕으로 인간 뇌 오가노이드의 연구 시점에 제한이 있어야 한다고 주장한다. 필자는 인간 뇌 오가노이드가 쾌고 감수능력을 지니거나 쾌고 감수능력이 아예 없는 뇌 오가노이드 개발시에는 학습능력을 지닌 시점 이전까지만 연구를 허용할 수 있다고 주장한다. 왜냐하면, 쾌고 감수능력을 지녔거나 학습능력을 지닌 인간 뇌 오가노이드는 인간 개체로서의 주체성이 확립된 인간 존재자로 보아야 하기 때문이다. 이런 능력을 지닌 뇌 오가노이드의 생산은 새로운 방식의 실험실 생식이라고 볼 수 있다. 따라서 인체유래물연구와는 별도로 잔여배아연구를 규율하고 있는 것처럼, 인간 뇌 오가노이드 연구는 인체유래물연구와는 별도로 이 연구의 특수성을 고려한 규정이 마련될 필요가 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "개혁개방 이후 중국경제의 시장경제로의 전환과 성장은 매우 빠른 속도로 이뤄졌다. 이러한 경제성장의 한 축에는 민간 창업 활동이 큰 역할을 했다. 개인의 경제적 자유가 확대되고 요소시장이 단계적으로 형성되면서 이전에는 계획경제체제에서 공공부문이 담당하던 생산활동이 민간 창업가들에 의해 대체되고 새로운 시장이 창출되었다. 민간 창업 활동은 전환하는 중국경제에서 시기별로 다른 역할을 하며 발전해 오고 있다. 본 논문은 이러한 민간 창업 활동의 발전 양상을 분석함으로써 그 위상을 탐구한다. 이 과정에서 중국의 민간 창업 활동의 지역별 다양한 모습을 드러내 비교 분석한다. 중국 시장경제의 발전은 중앙 정부의 방침과 지방정부의 여건에 따른 대응에 따라 지역별로 다양한 모습을 띠고 있다. 본 논문은 이를 구분해 분석함으로써 민간 창업 활동이 지역별로 가지는 다른 위상과 중국 지방정부의 정책접근을 조명한다. 다음으로 본 논문은 최근 중국 민영 창업 활동이 직면한 위기를 조명하고 이에 대처하기 위한 중국 정부 차원의 정책 전환 노력을 소개한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "환경영향평가의 훼손수목량은 온실가스 배출량, 임목폐기물 산정 등 다양한 부분에 활용되는 환경 지표이다. 지금까지 훼손수목량은 식생조사표의 임목밀도에 의존하였고, 이에 따른 표본편향으로 훼손수목량 추정의 불확실성이 가중되었다. 훼손수목량 추정의 정확성을 높이려면 전수조사를 대안으로 제시할 수 있으나 불가능한 것이 현실이다. 대안으로 드론영상을 이용한 개별 수목 탐지 방법이 있으며, 이 연구는 개별 수목 탐지 방법론으로 표본조사(방형구법)와 드론영상 분석법으로 추정된 훼손수목량을 전수조사 결과와 비교하였다. 연구 결과 전수조사 기준으로 드론 영상 분석법은 25주 과대추정 하였고 방형구법(평균)은 58주 과대 추정하였다. 그러나 기존 환경영향평가에서 시행하는 방형구법은 방형구의 개수, 방형구의 위치에 따른 표본편향의 영향을 많이 받을 것으로 예상된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "시몽동은 생성과 존재를 결합하는 존재론적 기획 속에서 인간과학의 기초를 세우고자 한다. 선험적 주관을 거부하는 생성적 존재론에서 인간과학의 정당성근거를 도출하는 것은 특이하고도 모험적인 시도이다. 시몽동은 우선에너지학과 정보이론의 기초 위에서 인간과 사회의 역동적 과정을 설명하는 ‘인간적 에너지학’이라는 개념을 확립한다. 그에게 인식은 존재의 발생과 동시적이고 따라서 인간과학의 정초의 정당성근거는 발생적 근거로 연결된다. 시몽동은기술철학 저서에서 인간이 마술적 세계로부터 기술성을 통해 점차 스스로를 객관화해 온 과정을 서술한다. 이는 기술공학을 통한 인간과학의 통일성의 재조직화라는 문제로 이어진다. 오늘날 인간의 거부할 수 없는 존재조건이 된 기술적우주에서 우리는 기술, 자연, 인간의 새로운 관계맺음을 시도할 수밖에 없다. 시몽동에 의하면 기술적 대상이 개체와 사회를 넘어서는 인간집단의 개체초월적관계를 통해 이러한 소통과 관계맺음을 가능하게 할 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "산성배수 비탈면의 중화층 종류에 따른 녹화 효과를 알아보고자 9개의 실험구 [대조구: “무처리층+식생층 3 cm”, 실험1구: “무처리층+식생층 5 cm”, 실험2구: “무처리층+식생층 7 cm”, 실험3구: “중화층(cement 3 %)+식생층(cement 1 %) 3 cm”, 실험4구: “중화층(cement 3 %)+식생층(cement 1 %) 5 cm”, 실험5구: “중화층(cement 3 %) + 식생층(cement 1 %) 7cm”, 실험6구: “중화층[(Ca·Mg)CO3]+식생층 3 cm”, 실험7구: “중화층[(Ca·Mg)CO3]+식생층 5 cm”, 실험8구: “중화층[(Ca·Mg)CO3]+식생층 7 cm”]를 조성하였다. 중화층 종류에 따른 표면경도 및 함수율의 유의차이는 없었으나 두께에 따른 함수율의 차이는 있었다. 토양산도(pH)는 중화제를 처리하지 않은 실험구(대조구, 실험1구, 실험2구)에서 높게 나타났고, 시멘트를 배합한 실험구(실험3구, 실험4구, 실험5구)와 석회고토를 배합한 실험구(실험6구, 실험7구, 실험8구)에서 중화효과가 크게 나타났다. 식물생육 특성은 지면피복율, 목본류 발아개체수 및 수고, 식물 뿌리상태 등이 시멘트를 배합한 실험구 및 석회고토를 배합한 실험구에서 우수했으나 시멘트를 배합한 실험구는 초기 식물 뿌리생장에 좋지 못한 결과가 나타나 주의가 요구된다. 또한, 산성배수 비탈면의 중화층 두께에 따른 차이는 없었으며 경제성을 고려할 때 3~5 cm가 적정할 것으로 판단된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "다중작업학습(Multi-Task Learning, MTL) 기법은 하나의 신경망을 통해 다양한 작업을 동시에 수행하고 각 작업 간에 상호적으로 영향을 미치면서 학습하는 방식을 말한다. 본 연구에서는 전통문화 말뭉치를 직접 구축 및 학습데이터로 활용하여 다중작업학습 기법을 적용한 개체명 인식 모델에 대해 성능 비교 분석을 진행한다. 학습 과정에서 각각의 품사 태깅(Part-of-Speech tagging, POS-tagging) 과 개체명 인식(Named Entity Recognition, NER) 학습 파라미터에 대해 Bi-LSTM 계층을 통과시킨 후 각각의 Bi-LSTM을 계층을 통해 최종적으로 두 loss의 joint loss를 구한다. 결과적으로, Bi-LSTM 모델을 활용하여 단일 Bi-LSTM 모델보다 MTL 기법을 적용한 모델에서 1.1%~4.6%의 성능 향상이 있음을 보인다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "왕후이의 루쉰 연구는 루쉰 연구사에서 특별한 위치를 점하고 있다. 선배 연구자들이 루쉰을 반봉건 계몽의 기수(리쩌허우), 반봉건의 거울(왕푸런) 등 변증법적 통일의 구현체로 본 반면, 왕후이는 루쉰을 역설의 관점에서 보고 있다는 점에서 큰 차이가 있다. 왕후이는 자신의 박사논문인 『절망에 반항하라』에서 루쉰의 사상과 문학 작품을 세 부분으로 나누어 연구했다. 첫째, 루쉰 사상의 역설, 둘째, 절망에 반항하는 역사적 중간물로서의 루쉰의 문학세계, 셋째 루쉰 소설의 서사 원칙과 서사 방법이 그것이다. 이 글에서는 다음 두 가지에 초점을 맞춰 왕후이의 루쉰 연구를 검토하고자 한다. 첫째, 왕후이 학술 연구의 핵심어의 하나인 ‘근현대성의 역설’에 초점을 맞춰, 개체성의 원칙에 기초한 루쉰 사상의 역설을 검토한 후, 둘째, 왕후이 루쉰 연구의 핵심어인 ‘역사적 중간물’의 내함을 고찰하고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 연구는 한국무형문화재 춤 DB로 구축된 텍스트 데이터를 바탕으로 춤 발생사에 내재된 지역적 특수성을 밝히는데 목적이 있다. 이를 위해 표층연구로 수행된 ‘발생 및 연원’ 부분을 활용하여 총 166종목(169개의 춤)의 데이터를 텍스트 마이닝과 개체명 인식분석 방법으로 분석하였다. 빈도분석 결과 첫째, 지역에 관계없이 한국무형문화재 춤 종목에서는 ‘농악’이라는 키워드가 가장 많이 출현하였고, 중요도도 높은 키워드로 나타났다. 둘째, 중부지역과 호남지역에서 ‘농악’ 다음으로 비중이 높은 키워드로서 교방계열의 홀춤을 지칭하는 키워드가 뒤를 이었다. 셋째, 지역과 관계없이 놀이춤과 예술춤에 비해 의식춤에 대한 키워드 빈도와 중요도가 낮은 것으로 나타났다. 개채명 인식분석 결과 첫째, 전 권역의 데이터 중 사람에서는 ‘한성준’, 예술양식에서는 ‘무용극’, 기관에서는 ‘재인청’, 날짜에서는 ‘조선시대’, 시간에서는 ‘밤’이 의미있는 키워드로 추출되었다. 둘째, 중부권에서는 사람에서 ‘한성준’, 예술양식에서 ‘음악’, 기관에서는 ‘재인청’, 연행형태에서는 ‘기우제’, 날짜에서는 ‘조선시대’, 시간에서는 ‘밤’이 의미있는 키워드로 추출되었다. 셋째, 호남권에서는 사람에서 ‘이매방’, 예술양식에서 ‘좌도농악’, 기관에서는 ‘유네스코’, 연행형태에서는 ‘전국민속예술경연대회’, 날짜에서는 ‘2014년’, 시간에서는 ‘밤’ 이 의미있는 키워드로 추출되었다. 넷째, 영남권 데이터에서는 사람에서 ‘송석하’, 예술양식에서 ‘무용극’, 기관에서는 ‘통제영’, 연행형태에서는 ‘별신굿’, 날짜에서는 ‘조선시대’, 시간에서는 ‘밤’이 의미있는 키워드로 추출되었다. 즉, 키워드 빈도분석에서는 지역적 차이가 크게 나타나지 않았으나 객체명 인식분석에서는 사람, 기관, 연행형태 부분에서 권역별 특징을 찾을 수 있는 근거가 발견되었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "실재나 사물을 네트워크로부터 구성된 것으로 기술하라는 요청은 포스트휴머니즘의 사상적 기류에서나 사물인터넷과 같은 초연결 사회의 기술적, 문화적 환경의 조건 안에서도 급박한 것으로 받아들여지고 있다. 이를테면, 철학에서는 행위자 연결망 이론이 그러한 임무를 수행해왔고, 미학이나 예술론에서는 관계 미학이나 래디컨트 미학 등에서 일부 표출되었다. 조슬릿은 『예술 이후After Art』에서 명시적으로 ‘네트워크 미학’을 제시하며, 동시대 이미지를 이종적 네트워크를 순환하며, 새로운 네트워크 안에서 연결 재구성되는 역동적 메커니즘으로 기술한다. 조슬릿은 이 연결의 메커니즘을 포맷으로 정의하고, 동시대의 예술적 실천이 포맷팅을 주요한 실천 전략으로 채택하고 있다고 분석한다. 포맷 개념은 기존의 매체 개념을 대체하며, 이미지의 네트워크 기반 생산방식이자 실천 전략으로 특화된 개념으로 제시된다. 이 사례는 이미지의 네트워크 기반 기술 체계의 한 방식으로 충분히 분석될 가치가 있다. 이에 본 논문은 조슬릿의 네트워크 미학을 포맷 개념을 통해 분석하고, 그 개념을 네트워크-이미지의 형식성으로 전유한다. 이러한 분석적 재기술은 포맷 개념을 특정한 이미지 생산방식에만 국한하여 사용하기보다 이미지의 생산, 소비, 순환의 미적 절차를 네트워크의 관점에서 기술하려는 미학을 위한 개념으로 사용할 수 있게 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글의 목적은 민족역량, 민족공통성 등의 개념들을 스피노자의 개체론을 중심으로 스피노자 사유의 틀 속에서 살펴보는데 있다. 스피노자는 공동체(민족, 국가)를 개체로 간주한다. 개체의 역량이 개체의 복잡성의 정도, 통합성의 정도, 운동과 정지의 최적 비율에 따라 차이가 나듯이, 민족의 역량도 그러한 척도에 따라 평가될 수 있다는 것이 필자의 생각이다.\n그리고 최초의 적합한 관념으로 스피노자가 제시하는 공통관념은 둘 또는 그 이상의 서로 다른 개체가 만나 형성된 공통의 것에 대한 관념이다. 이 공통의 것은 이미 존재하는 것이 아니라 획득해야 할 것이며 인지되기에 앞서 느껴지는 것이다. 이러한 공통의 것이 갖는 특성들로부터 오랜 기간 이질적인 삶을 살아온 민족구성원들 사이의 신체적 만남과 서로가 서로를 변용시키는 과정에서 생성되는 공통의 것을 기반으로 민족공통성을 확보하고 확대해 감으로써 진정한 민족통합을 이뤄낼 수 있을 것이라는 것이 논자의 생각이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "장기저장 개체동결 굴 Crassostrea gigas에서 추출한 복합엑스분의 굴소스 소재화를 목적으로 향미를개선하기 위한 reaction flavoring의 최적 반응조건, 그리고 reaction flavoring 전후의 성분조성 및 관능특성의 변화에 대하여 살펴보았다. Reaction flavoring은 중심합성계획에 의해 반응온도는 120℃로고정하여두고 반응시간 및 반응액의 pH를 독립변수로, 반응 후 발현되는 구수한 향, 어패취 차폐능 및삶은 쇠고기향을 종속변수로 설정하여 Maillard 반응을 진행하였다. 개체동결 굴 복합엑스분의 풍미를개선시키기 위한 Maillard 반응의 기질은 복합엑스분(Brix 30°)-0.4 M glucose-0.4 M glycine-0.4M cysteine (4:2:2:1) 혼합용액이 적합하였고, 반응시간과 반응액의 pH 등 독립변수를 달리하여 120℃에서 Maillard 반응시킨 결과, multiple response optimization 반응조건은 반응온도 120℃에서 반응시간 120.6분, pH 7.33이 가장 적합하였다. 본 reaction flavoring을 통해 복합엑스분의 풍미가 상당히 개선되었으며, 복합엑스분의 염도, 점도 및 휘발성염기질소 함량은 다소 감소한 반면 아미노질소 함량은 약간 증가하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문에서는 모든 색을 커버하는 최소 두께를 갖는 축에 평행한 직사각형 고리를 계산하는 알고리즘을 최초로 제안한다. 직사각형 고리란 임의의 직사각형과 그 오프셋 사이의 닫힌 영역을 말하며, 따라서 두 개의 직사각형으로 정해진다. 이 때, 두 직사각형을 각각 외부 및 내부 직사각형이라 부른다.\n직사각형 고리의 두께는 그것을 결정하는 외부 및 내부 직사각형 사이의 거리로 정의된다. 평면 위에 k개의 색깔을 가지는 n개의 점이 주어질 때에, 임의의 직사각형 고리가 각 색깔 별 점을 적어도 하나 이상 포함하게 되면, 그것이 모든 색을 커버한다고 말한다. 이전에는 모든 색을 커버하는 최소 두께 직사각형고리를 계산하는 알고리즘이 알려진 바 없다. 따라서 우리는 이 문제에 대한 최초의 알고리즘을 제시한다.\n시간 복잡도는 Ο((ｎ-ｋ)³ ｎlogｎ)이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This study looks into sense of separation called history—caste system, religion and moral views, problem of ethnicity, Marxism—which stands out in The God of Small Things written by Arundhati Roy and suggests nature as its alternative. Complete unity of Velutha and Ammu is accomplished within the bounds of nature and this study intends to read the view on ecology unique to this novel exposed in this scene from Confucian perspective on ecology. Various colors which each entity possesses as a special being rooted in a specific region emphasized by Confucian perspective on ecology coincide with the points of emphasis in this novel which takes note of ‘entity.’ Futhermore, cyclic link formed by interchanging Velutha and nature is not different from the Unity of Heaven and Humanity (天人合一) in Confucian perspective on ecology. Velutha discovers ‘ontological and cosmological value’ in each minute natural thing and the forms it creates while changing incessantly and dynamically and at the same time, undergoes expansive experience in which he finds out the value of footprints he has left as an untouchable.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 이산시간 장주기모델로 구성된 다개체시스템의 타카기-수게노(Takagi-Sugeno: T-S) 퍼지 군집제어 기법을제안한다. 이산시간 모델은 오일러(Euler) 방법을 이용하여 유도한다. 이에 대한 T-S 퍼지 모델은 피드백 선형화 기법을통해 구성하며, 이를 점근적으로 안정화하기 위한 퍼지제어기를 설계한다. 제어기 설계조건은 선형행렬부등식의 형태로표현된다",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "생태계는 다양한 환경 내에 다양한 생물종이 서로 상호작용하고 있는 복잡계이다. 이들 상호작용은 계층적 먹이그물 구조를 이루고 있는데, 많은 경우, 포식자-피식자-식물의 관계를 보여준다. 포식자-피식자 경쟁관계는 시공간적으로 일어나는 현상이기 때문에, 초기시점에서의 개체들 분포와 밀도가 어떠한가는 매우 중요한 정보를 담고 있다. 본 연구에서는, 이들 세 단계 계층구조의 생태계를 간단한 격자 모델로 구성하고 이 모델을 사용하여 각 종의 초기 개체군 밀도가 변함에 따라 생태계 안정성이 어떻게 변하는지를 연구하였다. 격자공간은  × 크기의 (=100) 사각격자로 구성되었다. 식물의 초기 밀도는 0.2로 고정하였다. 시뮬레이션 결과는, 포식자의 밀도가 0.4이하, 피식자의 밀도가 0.5이하일 때 두 종이 공존하는 것을 보여 주었으며, 포식자 밀도가 0.5이상, 피식자 밀도가 0.6 이상의 조건에서는 두 종이 멸종하는 것을 보여 주었다. 공존과 멸종의 두 상태가 접하는 영역의 조건에서는 확률적으로 공존하기도하고 멸종하기도 하는 비선형성이 강한 행동을 보여 주었다. 본 연구를 통해 초기 종의 밀도가 생태계 안정성에 매우 중요한 역할을 한다는 것을 알 수 있었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The decades after the French Revolution witnessed the prolific production and consumption of apocalyptic literature, tinged with the optimistic vision of political progress and human perfectibility. However, the Romantic writers were cautious to embrace the idea of the end of history, even though it promised an aesthetic space relieved of historical determinants. Mary Shelley’s The Last Man joined this line of Romantic literature which skeptically questions the millenarian desires of political apocalypse by representing apocalypse without millenium.\nUsing the theme of apocalypse as a tool to investigate the place of human beings in the universe and to test diverse political reform ideas to their fullest potential, the novel diagnoses the ideas of representative political subject as the most problematic aspect of political structure. The notion of subjecthood presupposes a political decision as to who can be counted as subject and this decision, according to the novel, assumed a subject that is“ active, free, conscious and willful sovereign,”which Raymond embodies in his exemplary body. Against the sovereignty of Raymond is juxtaposed the subaltern subject such as Sybil. The resistance of Sybil to Apollo, another exemplary subject, is the subtext of the novel, which guides the way out of the grim future of humanity. While the plague exemplifies the universalizing ideal with its principle of sovereignty, Sybil and her descendent Lionel practice the unconditional hospitality so that they can renew the community in a way to embrace singularities of individuals.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 백두대간 향로봉에서 깃대배기봉 구간에 있는 신갈나무군락을 대상으로 2개의 권역(Ⅰ, Ⅱ)으로 나누어 고도에 따른 군락 특성을 살펴보았다. 조사는 신갈나무군락 총 63개를 대상으로 하였다. TWINSPAN에 의한 classification 분석 결과 총 5개 군락(A~E)으로 분류되었다. 군락의 지역적 분포는 A군락의 경우 해발고도 1,300m 이상의 태백산 일대에서(Ⅱ권역) 주로 나타났으며 B, C군락은 해발고도 700~1,500m 사이의 설악산과 오대산 지역(Ⅰ권역)에서 D, E군락은 1,100m 이하의 청옥산과 금대봉 지역(Ⅱ권역)에 밀집해 있었으며 그 외 설악산과 오대산 지역(Ⅰ권역)에서도 나타났다. 각 군락의 교목과 관목 개체수, 최대종다양도, 교목의 수고는 고도가 높아짐에 따라 차츰 낮아지는 특성을 보였다. 그리고 40년까지의 수목 생장량을 살펴본 결과 해발고도 1,100m 이하 지점까지는 특별한 경향을 보이지 않았지만 1,100m 이상에서는 수목 생장량이 급격히 낮아지는 특성을 보였다. 연구대상지에 출현한 수종들 간의 상관관계 분석 결과는 고도 1,000m 이상에서는 거제수나무와 신갈나무가 –0.53으로 음(-)의 상관관계를 보였으며 고도 1,000m 이하에서는 신갈나무와 산딸기가 0.59로 양(+)의 상관관계를 보였다. 결과를 종합해 볼 때 고도에 따른 환경 변화가 신갈나무군락의 종조성, 개체수, 생장량 등에 영향을 미치는 것으로 조사되었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "In this study, we built an annotated corpus of city names and analyzed it for types of metonymy. We laid out guidelines for the metonymy analysis and calculated the interrater reliability using the metonymy-tagged corpus. To build a raw corpus, we selected three newspapers (Chosun, Joongang, and Hangyeore) and collected news articles from 6 days of each month from January 2018 to November 2019 (total 23 months) using the Big Kinds service. The total size of the raw corpus is about 7.4 million words. Then, we annotated the raw corpus using the Open API service of the Electronics and Telecommunications Research Institute (ETRI) and built a POS-tagged and Named-Entity-tagged corpus. We converted the annotated corpus into the input format of the “Malsseum 2017” Concordancer and generated KWIC data of city and capital names. On the KWIC data, we added annotations of major types and subtypes of metonymy and calculated the interrater reliability. Because different methods of calculating interrater reliability emphasize slightly different parameters, we adopted the two most commonly used methods – Cohen’s Kappa coefficient and Krippendorff’s Alpha coefficient. We confirmed that these two methods yield almost identical coefficient scores above 0.7, which indicates strong reliability between the two raters. Throughout this entire process, we verified that our method of building an annotated corpus of city names and our guidelines for metonymy annotation are consistent and reliable. In this way, we assure that the metonymy-annotated corpus of city names is of high enough quality to be used in future related research.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "‘모성’은 여성과는 분리될 수 없는 여성의 특질 중 하나이다. 그러나 ‘모성’이라는 용어는 가부장제적 사고에의해 여성을 억압하는 기제로서 작용해 왔다. 모성을 가진 여성은 가정을 보조하는 수단으로 여겨지고 이로인해 그 개체성을 손상당한다. 김남조 시의 모성은 그것이 내재하고 있는 가부장주의적 사고의 위험성을 극복하는 방향으로 시적 상상력을 전개시킨다. 김남조에서 나타나는 이러한 ‘모성’에 대한 상상력은 그의 시적 상상력의 일면을 드러낸다.\n김남조 시에서의 ‘어머니’는 모성의 주체이자 스스로 그 모성의 대상이다. 김남조 시의 ‘어머니’에게 있어 자녀와 어머니 스스로는 모성의 대상이라는 점에서 동등하다. 이러한 동등한 관계를 통해 어머니와 자녀는 서로돕고 보살피며 길을 걷는 ‘동행자’의 관계를 형성한다. ‘동행자’ 관계는 김남조 시에서 ‘모성’을 통해 ‘모든 존재’ 간의 관계로 확장된다. 김남조 시의 ‘모성’은 타인을 사랑하는 마음을 태어나게 하는 것이다. 이는 ‘모성’의 기반이 되는 육체적 잉태와 해산에서 더 나아간 정신적인 잉태와 해산, ‘정신적 창조’이다.\n김남조 시의 모성 예찬이 가부장제적 사고를 정당화할 위험성을 내포하고 있다는 점은 충분히 지적되어 왔다. 그러나 김남조는 이러한 위험성을 ‘모성’의 대상과 주체를 확장시켜 그 의미를 재정의함으로써 그러한 위험성에서 벗어나고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "디지털 가상세계는 새로운 지각 양식과 집단 지성을 형성하며 첨단의 기술적 미디어 환경을 구축하고 있다. 그러나 여전히 중요한 쟁점은 디지 털 가상세계에서 일어나는 인간의 존재론적 변형 ontological transformation에 관한 성찰이다. 현실세계와 가상세계의 넘나듦은 전통적 인간과 미래 인간의 양가적 혹은 복수적 자아-정체성의 문제들을 끊임없 이 소환하고 있기 때문이다. 이에 본 연구는 새로운 방식으로 기술적 상 상력을 추동하는 디지털 가상세계를 재검토하기 위하여, 그 공간의 (비)물 질성을 경유하며 디지털 개체의 존재론적 특성과 커뮤니케이션에 나타난 탈경계성을 살펴볼 것이다. 따라서 본고는 첨단기술 기반의 ‘신(新)생태계’ 와 ‘신(新)인류’에 대한 실천적 성과들로 나아가기 위한 인문학적 탐색이 라 할 수 있다. 본론에서 다룰 탈경계적 디지털 개체는 사이보그와 사이 보그 자아의 개념을 통해 사이버자아로 귀결되는 기계화・탈육화된 존재로 조명한다. 덧붙여 개별적 독립체이자 집단적 정체성을 욕망하는 혼종성을 함께 검토한다. 디지털 개체의 독립성이 가상 공동체의 집단성으로 확장 되는현상에주목해야하는이유는, 개체간상호작용을넘어모든개체 를 위한 ‘디지털 공생 digital coexistence’의 시대를 시사하기 때문이다. 다음으로 탈육화된 사이버자아들의 커뮤니케이션에 관해서는, 탈텍스트 화・탈이미지화된 기호로 이루어지는 비선형적・불안정적 서사를 중심으로 고찰할 것이다. 기실 미래사회의 인간 신체와 거주 공간의 변화를 예측하 기란 쉽지 않다. 인간은 편리성을 추구하기 위해 기술적 매개체를 생산하 지만, 기술은 인간을 배려하지 않고 새로운 행위자로서 존립하려 한다. 주체로서의 인간과 대상으로서의 기술이라는 이분법은 이미 담론의 바깥 으로 던져졌으며, 양자의 지위가 역전되는 특이점 Singularity의 시대가 도래하지 않으리라는 보장도 없다. 이러한 미래의 불확실성에도 불구하고 우리가 해야 할 일은, 과거의 경험과 현재의 현상을 탐구하며 차이를 수 렴해가는 보편성을 찾아가는 노력일 것이다. 디지털 가상세계의 탈경계적 개체와 커뮤니케이션을 논구하는 본 연구도 그러한 여정과 다를 바 없다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구에서는 RDA의 LRM 수용방식을 분석하여 도서관 관련 다양한 표준 및 시스템에서 LRM 적용시 고려사항을 제안하고자 한다. 이를 위해 LRM과 RDA 2020을 개체, 관계, 속성, 인코딩스킴 측면에서 분석하였다. 우선, 개체, 관계, 속성의 매핑을 위해 RDA의 개체별로 속성과 관계를 모두 추출하여, 각 속성과 관계별로 해당하는 LRM 요소를 찾아 매핑하였고, 추가적으로 인코딩스킴도 함께 비교하였다. 결과적으로 LRM을 적용하려는 표준 및 시스템에서 고려할 사항은 첫째, LRM의 계층구조를 고려한 개체 개발, 둘째, 새로운 관계나 지름길 관계 개발, 셋째, 계층구조를 고려하여 개체에 맞는 속성의 세분화, 넷째, 다양한 인코딩스킴의 개발이다. 본 연구는 LRM을 수용하려는 표준이나 시스템에서 자체적인 LRM 적용방안을 모색하는데 활용될 수 있을 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구의 목적은 의미 있는 대상의 선호도 판단에 영향을 미치는 것으로 알려진 원리인 내적 편향 원리와 규범적관점 간의 상호작용 양상을 연구하는 데에 있다. 개별 개체의 친숙도가 규범적 관점에 영향을 미친다는 점 또한 고려하여 친숙도 수준에 따른 두 선호도 원리의 작용 양상을 검증하고자 하였다. 이를 위하여 이중 대안 선택 과제를활용한 행동 반응 실험을 진행하였으며, 친숙도 수준(높음/낮음)에 따라 각 8개의 단일 개체를 실험 재료로 하여 내적 편향 원리 준수 여부와 규범적 관점 준수 여부를 조작하였다. 실험 결과, 내적 편향 원리를 준수한 상태에서 개체가 제시된 경우가 내적 편향 원리가 위배된 상태로 개체가 제시된 경우보다 더 선호되었다. 선호 판단에 걸리는 반응시간 또한 더 짧은 것으로 나타났다. 그러나 규범적 관점 준수 여부는 선택 빈도 및 반응 시간에 영향을 미치지 않는것으로 나타났다. 더불어, 개체의 친숙도는 선호도 판단과 관련된 의사 결정에 간섭 요인으로 작용하는 것으로 나타났다. 이와 같은 결과는 개체 선호도 원리 중 내적 편향의 강도가 규범적 관점에 비해 더 우세하며, 단일 개체가제시될 때 그에 대한 선호 판단에 있어서 그 개체가 가진 속성보다 시각적 문맥과의 상호작용이 중요하게 작용한다는 것을 시사한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이군집 응집현상은 수자원환경에서 점착성 유사가 결합-해체의 과정을 통해 응집핵-응집체의 이군집 입자크기분포(Biomodal Floc Size Distribution)를 형성하는 일련의 과정을 의미한다. 본 연구는 저난류 및 고난류 두 가지 조건에서 수행한 응집-침전관 실험결과를 바탕으로 이군집 응집모형(TCPBE: Two Class Population Balance Equation)의 적용성을 단일군집 응집모형(SCPBE: Single Class Population Balance Equation) 및 다군집 응집모형(MCPBE: Multi Class Population Balance Equation)과 비교·평가하였다. 기존 SCPBE에 비하여, TCPBE는 응집핵-응집체의 상호작용 및 침강속도차에 따른 응집 기작을 모의할 수 있었다. 또한, 3개의 연립미분방정식을 가진 TCPBE는 30개 미분방정식을 가진 다군집 응집모형(MCPBE: Multi Class Population Balance Equation)과 대등한 모의 결과를 나타내었다. 따라서 TCPBE는 이군집 응집현상을 모의 할 수 있는 가장 단순한 모델로 검증되었고, 향후 수자원환경이나 수처리 공정에 다양하게 적용할 수 있으리라 판단된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "세계적인 분포에 있어서 가장자리 개체군은 높은 고립의 영향으로 절멸의 위험이 높다고 평가된다. 따라서 대부분이 멸종위기종으로보전 대상이 된다. 참기생꽃은 한반도가 세계적인 분포의 후방가장자리 개체군으로 평가된다. 본 연구는 참기생꽃의 분포특성 및 생활사 특성을 조사하여 평가하였다. 참기생꽃은 크게 산지 능선에 분포하는 유형과 이탄습지에 분포하는 유형으로 구분되었다. 산지 능선의 생육지는교목, 아교목 및 관목이 존재하였지만 울폐도는 높지 않았다. 또한 초본층에 분포하는 식물피도가 높지 않았다. 이탄습지의 생육지는 상층식생이 존재하지 않은 반면에 함께 분포하는 초본식물의 피도가 높았다. 각각의 분포지에서 상층식생 및 함께 분포하는 초본식물은 참기생꽃의생육에 적합한 공간을 형성한다고 평가되었다. 산지 능선의 참기생꽃 분포지는 토양의 깊이가 평균 10.3(±1.34)cm로 얕았다. 생육지의 토양깊이는 중부 이북의 분포지와 중부 이남의 분포지 사이에 차이가 있었다. 이러한 차이는 지역적인 기상조건과 연관이 있다고 판단되었다. 이탄습지와 산지습지의 분포지는 수위가 참기생꽃의 생육에 있어서 제한요인으로 작용한다고 평가되었다. 참기생꽃의 분포지는 크게 산지 능선과이탄습지로 구분되지만 모두 참기생꽃의 정착과 개체군의 지속이 가능한 공간을 제공하고 있다고 판단되었다. 즉, 얕은 토양의 깊이와 수위변화에 대한 반응으로 형성되는 사초기둥은 경쟁종의 침입을 방지하여 개체군의 지속을 가능하도록 기능하였다. 참기생꽃의 보전은 생활사특성에 따른 동태가 유지될 수 있는 공간이 확보되어야 할 것으로 판단되었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 시쓰기에 화자가 얼마나 중요한가를 밝힌다. 기존 연구는 대부분, 화자가 작가와 일치하느냐 아니냐의 연장선에 있다. 하지만 그 사실은 별로 중요하지 않다. 화자는 달을 가리키는 손가락이기 때문이다. 도구는 목적 달성 후 폐기해야 할 방편이다. 여기에 얽매여서는 본말이 전도되어, 화자가 구사하는 논리, 언어의 통발에 걸려들어 시 자체를 놓치고 만다.\n화자는 지향성의 층위다. 1차원에서 4차원 중 특별히 한 층을 선호하는 인식의 틀이다. 그 틀이 ‘나 – 가족 – 사회 – 세계’로 굳어진다. 화자는 그런 틀로 사유하는 사람이다. 그 양상은 홀로서기, 내가 중심이 된 우리, 우리가 중심인 나, 우주와의 교감으로 나타난다. 이를 각각 개체적 화자, 가문적 화자, 사회적 화자, 우주적 화자로 명명한다. 개체적 화자는 내면세계 심화, 가문적 화자는 사조직 강화, 사회적 화자는 공익 추구, 우주적 화자는 조화로움에 관한 이야기를 특별히 잘 한다. 이런 점들은 작품에서 개성과 타성으로 나타난다.\n각 화자는 자신의 틀로 상상하고, 합당한 대상을 포착한다. 또 거기에 맞는 언어를 골라 시간과 공간을 얽고, 은유와 환유를 만든다. 마지막으로 시적 미장 공사를 거쳐 언어의 집을 완성한다. 그래서 같은 화자끼리는 사유와 어법이 비슷하다. 이 말은 시도, 시인도 결코 다양하지 않다는 사실이다. 좋은 시인은 작품마다, 시집마다 다르게 하려고 애쓰는 사람이다. 그것은 개별 작품의 화자를 잘 살리는 일에서 시작한다. 화자가 시인의 손에서 탄생한 만큼 text는 인간적이다. 인간적인 장단점을 지니기에 전지전능한 해석소가 될 수 없다. 이런 시적 특성을 김동명의 첫시집 『나의 거문고』로 살핀다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "속성 이론들 중 하나인 개체 유명론은 굿맨의 두 난점들에 직면한다는 점에서 성공적이지 않은 입장으로 평가된다. 반면, 트롭주의는 닮음의 관계항들이 복합적 개체들이 아니라 단순한 트롭들이라는 점 덕분에 굿맨의 난점들을 피할 수 있는 것으로 간주된다. 이에 맨리는 그의 논문(2002)에서 트롭주의 역시 개체 유명론과 마찬가지로 성공적이지 않다고 주장한다. 그에 따르면 트롭주의는 변형된 버전의 굿맨의 난점들에 직면하게 되는데, 이를 피하기 위한 어떤 전략들도 트롭주의자에게 유효하지 않다. 그러나 트롭들로부터 속성을 구성하려 할 적에 변형된 굿맨의 난점에 직면하게 된다는 그의 주장은 의심스럽다. 이 논문에서는 맨리가 제시하는 변형된 굿맨의 난점이 트롭주의 관점에서 충분히 방어할 수 있기에, 이 경우 여전히 트롭주의는 적어도 개체 유명론에 비해 우세한 입장일 수 있음을 보일 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "잣나무솔잎벌(Diprion hani Smith and Cho)은 2007년 최초 발생이 보고되었으며 신종으로 기재되었다. 2007년 9월초 대발생 후 밀도가 극히 낮아져 2008년 야외조사에서 잣나무솔잎벌 개체는 거의 채집되지 않았다. 본 연구는 잣나무솔잎 벌 대발생 지역 특성 구명을 위해 피해지 위치정보, 우점 수종, 온도, 강우 등 환경 인자들이 조사되었다. 발생지역은 경기도 양평, 강원도 횡성, 충북 제천 3지역 모두 중부내륙지역 반경 25 ㎞에 모여있었다. 피해수종은 잣나무(Pinus koraiensis Sieb. & Zucc.)였으며, 발생지역 모두 인공 조림지였다. 2007년도 3지역의 잣나무조림지의 온도는 지난 30년간 월 평균 평균온도보다 1.3℃ 높았고 연간강우량은 384 mm 높았다. 또한 솔잎벌과 종들의 고치에 다기생하는 것으로 알려진 가시꼬리좀벌(Monodontomerus dentipes (Dalman))이 잣나무솔잎벌에 기생함이 밝혀졌다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "방법론적 개체주의를 접근방법으로 채택하고 있는 공공선택론은 경험적인 측면과 규범적인 측면을 동시에 내포하고 있다. 경험적인 공공선택론은 자기이익 추구적인 국민․정치가․관료의 세 주체 간 상호 작용에 의해 재정적자가 발생한다는 점을 규명하고, 규범적인 공공선택론은 제한 정부론에 근거하여 이기적인 예산행태와 재정적자를 통제하기 위한 제도개혁을 제안하고 있다. 균형예산 확보 방안으로서 재정 주체들의 자기이익 추구 성향과 대의민주주의 정치체제를 주어진 상황으로 받아들이면서, 재정적자를 통제할 수 있는 방안을 모색한다. \n 부캐넌을 중심으로 한 공공선택론자들은 헌법을 정치가들의 입법활동과 관료들의 정책운용을 제약할 수 있는 상위규범으로 상정하고, 균형예산을 내용으로 하는 헌법 개정을 제안하고 있다(재정헌정주의). 이들은 균형예산을 위한 헌법개정과 관련된 논거를 제시하고 그 당위성을 역설하고 있다. 이는 현대 국가에 있어 재정적자를 방치할 경우 국가채무의 누적에 따른 재정파탄과 미래세대의 납세 거부운동이 전개될 가능성을 방지하기 위한 조치로 평가될 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문은 현대 생물학의 기반에 놓인 존재론을 비판적으로 고찰한다. 이러한 기반 존재론은 구체적인 연구의 모체(matrix) 역할을 하는 패러다임의 중심 성분인 동시에 연구의 시야와 방법론을 제약하는 요소다. 진화론 종합설의 정착 이후 현대 생물학은 최근의 인간유전체연구에 이르기까지 환원주의적 존재론의 토대 위에서 발달해왔는데, 특히 현대 생물학의 기반 존재론은 미시환원주의와 개체중심주의라는 두 가지 요소의 결합을 근간으로 한다. 그러나 미시환원주의-개체중심주의 존재론은 환경의 힘과 관계의 힘에 대한 고려라는 두 측면에서 생물학의 기반 존재론으로서 부적합한 면모를 드러낸다. 유기체주의는 오래전부터 거론되어 온 대안이지만, 그것이 생명현상을 적절히 포괄하는 존재론이 되기 위해서는 창발성에 대한 존재론적 분석과 더불어 문제의 각 맥락에 적합한 창발성 개념의 적용이 필요하다. 필자들은 창발성의 존재론을 공시적 관계로서의 수반, 개별 요소들 간의 비선형적 상호작용에 기인하는 전체 수준 속성의 창발, 인과적-동역학적 창발, 그리고 융합에 기인하는 창발 이렇게 네 가지로 분석한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "스캔 기반 한국어 법률 문서는 복잡한 레이아웃과 OCR 오류로 인해 구조화 정보 추출이 어렵다. 본 연구는 Vision-Language 기반 OCR(Qwen-VL), Begin-Inside-Outside (B-I-O) 태깅 기반 학습 데이터셋, 그리고BERT-BiLSTM-CRF 아키텍처를 결합한 한국어 법률 문서용 자동 개체명 인식(NER) 파이프라인을 제안한다. mBERT, KLUE-RoBERTa-Large, XLM-RoBERTa-Large를 Pure 구조와 BiLSTM-조건부 랜덤 필드(CRF) 구조로 미세조정하고, 약 30% OCR 노이즈를 포함한 데이터로 학습한 뒤 5-폴드 교차검증을 수행하였다. 실험 결과, CRF 결합 모델이 시퀀스 일관성과 엔티티 경계 인식에서 더 안정적인 성능을 보였으며, 특히XLM-RoBERTa-Large-CRF는 평균 F1 0.9641을 기록했다. 본 연구는 OCR 노이즈 환경에서도 견고한 한국어 법률 NER 설계를 위한 실용적 방향을 제시한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "자유주의의 유연한 본질과 그 포괄적 지향은 한국 사회에서 제대로 이해되지 않고 있다. 이는 냉전반공주의로 타락한 한국자유주의의 행로를 반영한다. 그러나 자유주의는 결코 단일한 실체가 아니며, 역사적 자유주의는 완료된 프로젝트로 간주될 수도 없다. 복합적이며 모순적인 자유주의의 중층적 지평은 모더니티를 추동한 자본주의와 시민권, 또는 사적 자율권과 공공적 자율권 이념사이의 혼재와 길항이 자유주의 그 자체의 도정과 뗄 수 없이 결합되어 있다는 사실로부터 비롯된다. 한국자유주의를 옹호하는 쪽이나 그걸 경멸하는 편 모두 자유주의를 단순화시키는 경향이 있다. 이런 한국적 맥락에서 우파적 자유주의관과 좌파적 자유주의관의 치명적 한계가 차례로 비판된다. 이어 자유주의의 급진적 재구성을 지향하는데 있어, 시장과 자생적 질서, 개체와 공동체의 변증법, 좋음에 대한 옳음의 선차성과 담론적 법치 등이 논의된다. 급진자유주의는 자유주의적 민주주의가 민주주의적 자유주의보다 선차적이며 더 중요하다고 주장한다. 본 논고는 이 명제의 보편사적 유효성과 한국적 적실성을 논변한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문에서는 유전자 알고리즘의 일반적인 문제점인 과도한 저장공간의 소모와 탐색의 비효율성을 줄이기 위해 PBIL을 이용한 단순한 스테레오 정합 기법을 제안한다. PBIL은 확률벡터에 기반해서 통계적 탐색과 경쟁학습을 이용하는 변종 유전자 알고리즘이며 확률벡터의 사용으로 인해 직렬 및 병렬 유전자 알고리즘군에 비해 단순한 구조를 가진다. 본 논문에서는 이 PBIL을 스테레오 정합 환경에 맞게 변형 및 단순화시켜 정합 알고리즘을 개발한다. 높은 적응성을 갖는 염색체는 생존 확률 또한 높다는 진화 법칙을 보존하면서 유전자 풀, 염색체 교차 및 유전자 돌연변이를 제거할 수 있으며 그 결과 저장공간을 줄이고 정합 규칙을 간소화하여 계산 비용을 감소시킬 수 있다. 추가적으로 다해상도 정합 기법처럼 넓은 영역의 변이 일관성을 획득하기 위해 변이 연속성에 대한 이웃들의 거리를 제어하는 방식을 추가하여 고정된 작은 정합창을 사용하면서 안정된 결과를 얻을 수 있게 한다. 마지막으로 단순한 시스템에 적용될 수 있게 하기 위해서 확률벡터를 사용하지 않는 제안한 알고리즘의 소형 대안 기법을 제시한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 안토니오 네그리의 스피노자 해석에 나타난 수직적 존재론을 분석한다. 네그리의 ‘다중' 개념은 흔히 수평적이고 내재적인 것으로 이해되지만, 본 연구는 그 의 후기 저작들을 중심으로 이 개념의 수직적 차원을 조명한다. 스피노자의 윤리학에 대한 네그리의 해석을 통해, 개체화의 두 가지 양상 - 외재화와 내재화 - 을 탐구 하고, 이를 통해 '다중'의 존재론적 우위성을 논증한다. 이 과정에서 네그리가 관개체 론적 해석을 비판하는 근거를 밝히고, 그의 ‘이성의 관점'을 통한 다중 해석의 의미를 규명한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문에서 나는 촘스키가 제시하는 ‘일상언어와 과학이론 이분법’을 체계적으로 재구성하고 비판적으로 검토한다. 촘스키의 이와 같은 이분법은 일상언어만을 사용할 수 있던어린아이가 오랜 시간의 학습과 교육 과정을 통해 과학자 공동체에 포함되어 과학적 활동을 수행하는, 우리 주변에서 빈번히 살펴볼 수 있는 명백한 현상을 제대로 설명해 내지 못한다. 또한 촘스키의 이분법에 근거해서는 전문적이고 과학적인 용어들의 의미에 대한 설명을 제대로 해낼 수 없을 뿐만 아니라, 이 이분법은 이에 대한 적합한 설명을 부당하게배제한다. 또한 만일 촘스키가 이른바 ‘과학형성능력(Science Forming Faculty)’을 가정할 경우 위의 사항들에 대한 적합한 설명을 할 수 있다고 하더라도, 이러한 설명의 힘은그다지 크지 않다. 뒤이어 나는 버지(Tyler Burge)가 주장하고 있는 ‘비개체주의’의 관점이 인간의 과학 습득과 과학적 용어들의 의미에 대한 적합한 설명을 제공해 줄 수 있음을주장한다. 내가 생각할 때 촘스키의 이분법이 지닌 문제들은 이 이분법이 너무 강하기 때문에 발생한다. 촘스키의 이분법은 언어와 마음에 대한 경험과학적 탐구를 할 때 방법론적으로 유용할지는 모르겠으나, 이러한 방법론적 이분법은 인간의 언어 및 마음과 관련된 다수의 문제를 신비한 것으로 남겨놓는 한계를 갖는다. 하지만 이러한 문제들에 대해 언어학적 설명이 아닌 철학적 해명이 가능하며, 버지의 ‘비개체주의’가 제시하는 철학적 해명 또한 이에 속한다. 언어학이 메울 수 없는 언어학적 신비를 철학적 해명이 메울 수 있는 까닭에 여전히 마음에 대한 ‘철학적’ 설명이 가능하고 필요하다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "인도로 가는 길은 현대소설임에도 불구하고 기존의 연구에서 에피퍼니라는 서술기법의 측면에서는 조명된 적이 없으며, 에피퍼니는 그동안 단지 제임스 조이스의 전유물로 간주되어 왔다. 인도로 가는 길에서 가장 중요한 장면 중 하나인 동굴 장면에서 무어 부인은 동굴이 내는 메아리인 “부-움, 우-붐”이란 소리를 듣고 극단적인 회의주의에 빠지게 된다. “부-움, 우-붐”이라는 상징에 극단적 회의주의로 일관하는 무어 부인의 태도나, 이를 인간 간의 고립과 단절이라는 의미로 해석하는 기존의 비평이 모두, 상징의 간접성, 다의성, 그리고 모순성 내지는 이율 배반성을 간과하는 환원론적 태도는 아닌지 검토해 볼 필요가 있다. 이 논문은 인도로 가는 길에 나타난 “부-움, 우-붐”이라는 동굴의 메아리를 에피퍼니로 읽어냄으로써, 인도와 영국의 제국주의의 문제, 통합과 분리의 문제 등에 얽혀 있는 개체의 중요성의 문제가 에피퍼니를 통해 어떻게 드러나는지를 살펴보고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The purpose of this paper is to examine Whitman's principles of democracy and ethical socialism. Whitman set the principle of equality and the principle of individuality obtained through the transcendence of the phenomenal world as two principles that constitute his democracy.\nApparently at the time of Whitman, democracy tended to be used either synonymously with socialism, or to denote an overarching category which included not only socialism but other movements which worked towards creating a more equal society. The significance of Whitman to ethical socialism has very long been recognized: 『Leaves of Grass』 and 『Democratic Vistas』 were advertised and recommended to ethical socialist readers alongside economic and political publications. The periodicals 『Seed-Time』, 『The Labour Prophet』, and 『The Labour Leader』 were representative publications of ethical socialism. These gave a sense of progression, showing how socialism developed and how this development had an impact on the way that socialist periodicals treated Whitman and literature more generally. Alongside Emerson and Thoreau, Whitman’s philosophy lent itself to being interpreted in a way that both inspired and supported by ethical socialism.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 개체양사의 기능을 담당하면서 무표적인 ‘个’의 사용범위가 향후 더욱 확대될 것이라고 보고, ‘个’의 사용 범위가 상이한 방언별 고찰을 통하여 그 변화 움직임을 확인해 보고자 한다. 또한 ‘个’의 사용 범주 확대가 어휘 확산성이라는 특징을 보이는 것에 주목하고, 어휘 확산 이론(lexical diffusion)을 적용하여 방언별 사용 양상을 어휘별로 고찰할 것이다. 이처럼 두 가지 다른 시각에서 접근함으로써 과거 연구에서 예외로 간주되었던 현상들을 어휘 확산 과정 중에 나타나는 현상임을 설명할 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 한우 개체식별 및 친자감별에 있어 기존의 di-nucleotide repeat microsatellite marker 사용 시 발생했던 stutter로 인한 대립유전자판별 오류 등의 문제들을 극복하고, 분석결과의 신뢰도와 정확도를 높이기 위해 tri-, tetra-, penta-, hexa-nucleotide repeat microsatellite 좌위들로이루어진 새로운 개체식별 마커 13 종(BTRC6_01, BTRC19_02, BTRC11_03, BTRC16_05, BTRC9_07, BPC19_08, BTEC17_09, BPC21_10, BTEC4_11, BPC7_12, BPC1_13, BHXC29_14, BPC1_15)을 개발하였다. 선발된 13개의 좌위를 가지고 소 1,530두에 microsatellite typing을실시한 결과, 총 61개에 대립유전자가 발견되었으며, 좌위별로 평균 4.69개의 대립유전자를 가지는 것으로 확인되었다. 마커의 다형성과 정보력의척도인 PIC (Polymorphism Information Contents)값은 0.25(BTRC9_07)~0.59(BTEC17_09)로 나타났으며 BHXC29_14, BPC1_13, BTEC17_09, BTRC16_05, BTRC19_02, BTRC6_01 좌위들은 PIC 0.5 이상 그리고 나머지 좌위들 모두 PIC 0.25 이상의 값을 가지는 것으로 확인되어마커로서 다형성이 있음이 검증되었다. 개발한 마커를 활용하여 한우(영암, 장흥)와 유럽우 7종 (Brown Swiss, Limousin, Angus, Simmental, Hereford, Charolais, Holstein)의 유전적 특성을 분석하였으며, 총 9개 집단의 Heterozygosity와 FIS (inbreeding coefficient) 값을 측정하였다.\n기대이형접합율은 0.451(BS)~0.605(AG) 범위 내로, 한우는 0.532(영암), 0.545(장흥)의 값을 가지는 것으로 나타났다. 한우(영암, 한우)와 7종의유럽우들 간의 유연관계 분석은 특정 대립유전자 빈도를 근거로 한 유전적 거리의 추정으로 이루어졌다. 한우집단과 Simmental 간의 유전적거리(0.1848)가 가장 가깝고 비교적으로 Brown Swiss와의 유전적 분포(0.3352)가 가장 먼 것으로 나타났으며, 계통발생학적으로 유전적 분화양상을 확인함으로써 본 마커의 한우 유전적 다양성 및 유연관계 분석에 활용 가능성을 제시하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "개느삼은 한반도의 일부 지역에 제한적으로 분포하는 특산식물이며, IUCN Red List의 ‘Endangered’로 지정된 희귀식물 이다. 본 연구는 자생지의 환경변화로 쇠퇴 위협이 있는 개느삼의 분포 패턴과 개체군 구조를 조사 분석하여 향후 개느삼 개체군의 동태 및 지속성 파악을 위한 기초 자료 활용에 목적이 있다. 개느삼 개체군의 특성을 파악하기 위해 양구, 춘천, 홍천 3개 지역에 각각 2~3개의 방형구(20m×30m)를 능선을 기준으로 설정하고, 방형구 안에 4~7개 Transect상의 소방형구(1m×1m)를 2m 간격으로 각각 10개씩 총 530개를 설정하여 출현 개체 수 및 결실 개체 수, 개체 높이 등을 측정하였 다. 확보된 종발생정보를 IUCN Red List ver 3.1의 평가기준 B를 적용하여 기존 IUCN에 평가된 범주와 비교분석하였다. 조사된 세 개 지역의 평균 개체 밀도는 3.47본/㎡로 나타났으며, 지역별로 양구 3.95본/㎡, 춘천 3.37본/㎡, 홍천 2.87본/㎡ 이었다. 한편, 개체군의 결실률(결실 수/개체 수)은 0.0038으로 전체 출현 개체 1,837본 중에 7본만이 결실된 것으로 나타나 생식생장(sexual reproductive) 보다는 영양생장(vegetative reproduction) 비율이 매우 높을 것으로 추정된다. 조사된 세 지역의 소방형구 개체 밀도의 분포 경향을 분석한 결과, 개느삼은 수관 열림이 높은 산지 능선을 중심으로 수관 열림이 낮은 숲 중심부로 갈수록 개체 밀도가 감소하는 경향을 보여줌으로써, 광량이 개느삼 개체의 생육에 매우 중요한 요소일 것으로 추정된다. 한편, 방형구내 출현하는 전체 개체의 높이를 분석한 결과 2.3~68.5cm로 나타났으며, 평균 20.1cm로 조사되었다. 개체 높이를 바탕으로 개느삼 개체군의 stage-structure를 분석한 결과 15~20cm를 기점으로 개체 높이가 높아질 수록 점차 출현빈도가 감소하는 경향을 보여주었으며, seedling으로 추정되는 10cm 이하의 개체들의 비율도 매우 낮게 나타남으로써 향후 모니터링 자료를 바탕으로 개체군의 지속성에 한 분석이 필요할 것으로 보인다. 한편, 확보한 종발생정보 를 바탕으로 산출된 점유면적은 200㎢로 나타나 IUCN Red List 기준(criteria) B 적용 시 EN 범주를 충족하는 것으로 나타났다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "세계 대부분의 국가는 헌법에 경제질서에 관한 규정을 두고 있으며, 헌법에 규정된 경제질서를 기초로해서 구체적 법을 제정하거나 정책을 시행하게 된다. 중국은 사회주의 국가로서 사회주의 공유제를 기본 경제제도로 유지하면서 개체경제나 사영경제와 같은 비공유제 경제를 허용하는 자본주의 국가와는 다른 경제제도를 운영하고 있다. 그러나 중국은 개혁개방 이후 경제에 커다란 변화를 맞이하게 되었고, 이러한 현실을 받아들여 사회주의 국가의 전형적인 경제제도인 사회주의 계획경제를 포기하고 사회주의 시장경제를 도입하게 되었다.\n따라서 이 논문은 사회주의 공유제 경제를 기본경제제도로 하는 중국에 있어서 개체경제나 사영경제 등 비공유제 경제를 어떻게 인식하고 어떠한 정책을 취하고 있는지, 또한 어떠한 법적지위를 차지하고 있는지에 관해서 고찰하였다. 그 중 중국의 정책결정에 주도적 역할을 하는 중국공산당의 비공유제 경제에 대한 인식과 정책의 변화의 전개과정을 단계적으로 검토하였고, 동시에 그 나라의 최고의 법규범인 헌법에서 비공유제 경제를 어떻게 규범하여 왔는지 건국헌법부터 현행헌법까지 검토하였다. 그리고 마지막으로 헌법이 보호하고 있는 비공유제 경제에 대한 구체적 실현과정에서 나타난 정책적 법률체계적 문제점에 관해서 검토하고 이를 해결하기 위한 방법을 제시하였다.\n이 글을 통해서 사회주의 국가인 중국이 사회주의 공유제 경제이외의 다른 경제요소 즉, 개체경제나 사영경제 등 비공유제 경제가 어떠한 방향으로 전개될 것인가를 대략적으로 예측할 수 있을 것으로 생각한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "독성을 가진 종속영양 와편모조류인 Pfiesteria piscicida는, 크기가 매우 작고, Pfiesteria-like dinoflagellate(PLD)와 같은 형태학적으로 매우 유사한 종들로 인해, 현미경 관찰만으로는 이들을 정확하게 동정하는 것은 불가능하다. 따라서, 본 연구에서는 이러한 한계점을 극복하기 위해 EvaGreen을 기반으로 하는 정량적 real-time PCR기법을 이용하여 P. piscicida의 한국에서의 지리적 분포 및 개체군 변동을 조사하였다. 이를 위해, P. piscicida 종특이적 primer를 리보조말 RNA 유전자 영역중 ITS를 대상으로 제작하였으며, primer의 특이성을 검증하기 위해, BLAST 검색과 목표종과 DNA와 competitive PCR을 통해 제작된 primer의 종특이성을 검증하였다. 이들 primer를 사용하여 real-time PCR기법에 적용한 결과, P. piscicida의 세포수와 Ct값 사이에 유의성이 매우 높은 표준 곡선을 도출하였으며(r2 ≥ 0.998), 융해곡선 역시 하나의 피크(88 oC)를 나타탬으로써, P. piscicida의 ITS 1 영역만을 선택적으로 증폴하는 것을 알 수 있었다. 따라서, 본 연구에서 개발된 real-time PCR기법을 통해, P. piscicida의 정성 및 정량 분석이 가능하다는 것을 알 수 있었다. 개발된 real-time PCR 기법을 이용하여, 2008년 여름 한국근해에서 P. piscicida의 지리적 분포를 조사한 결과, 총 35개의 정점중 서해에 위치한 목포(1,209 cells L-1)와 김제(21,840 cells L-1), 동해에 위치한 강릉(3 cells L-1)에서 이들의 분포가 확인되었다. P. piscicida의 개체군 동태를 연구하기 위해, 2007년 5월부터 6개월동안 시화호 내 3개의 정점을 조사하였다. 그 결과 상류 기수역인 St. 1에서만 P. piscicida가 탐지되었으며, 이들의 밀도는 여름철에 세차례 피크(peak)를 나타냈다. 이들이 출현하였을때, 염분도는 대체로 낮게 나타났으며(≤ 15 psu), 영양염 농도 조사결과, P. piscicida와 영양염류 사이의 유의적인 상관관계는 관찰되지 않았으나, P. piscicida의 먹이원으로 알려진 미소편모충류의 경우, St. 1에서 이들의 현존량이 높았을때, P. piscicida 밀도가 순차적으로 증가하였으며, 또한 P. piscicida가 증가함에 따라 미소편모충류의 현존량이 급격히 감소하였다. 따라서, 시화호에서의 P. piscicida는 염분도가 낮은 환경을 선호하였으며, 무기 영양염류의 농도보다는 먹이원인 미소편모충류의 현존량의 영향을 받는 것을 알 수 있었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 다원화 사회의 정치적 갈등이 초래되는 가치관의 차이를 환원론적 방법을 통해 분석한다. 정치적 갈등의 근본 원인은 무엇보다 바람직한 사회에 대한 가치관의 무게 추가 개인에 맞추어져 있느냐 아니면 공동체 쪽으로 기우느냐에 따라 첨예한 대립적 이념구도가 형성된다. 우선 개인을 우선적 가치로 삼을 경우 정치, 사회 시스템의 구성은 개체주의 형태로 나타나며 이런 형태는 전형적으로 자유주의 모형이라고 볼 수 있다. 반면 전체 집단이 개인보다 중시되면 이는 집단주의적인 성향을 띠는 공동체주의나 사회주의 형태가 된다. 따라서 본 논문은 이러한 구도를 준거틀로 삼아 정치 이념의 차이와 갈등이라는 거대 담론에 대해 집합론적 요소로 환원시켜 그 갈등의 심층구조를 드러내고자 한다. 다시 말해 이는 세계나 사회와 같은 거대-현상을 단위 요소로 환원하여 이를 미시적으로 분석하는 것을 뜻한다. 분석 결과 부분과 전체 담론에 대한 환원 방식에 있어 동양과 서양이 차이를 보이고 있으며, 서양철학 내에서도 이념에 따라 차이가 발생하는 것을 보여줄 것이다. 또한 이러한 분석을 통해 가치관의 무게 중심축이 전체에서 개체로 이동하고 있음을 밝히고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "최근 인공지능과 자연어 처리 기술의 급속한 발전에 따라, 사람과 기계 간의 질의응답(QA) 시스템의 중요성이 증가하고 있다. 이러한 맥락에서, 지식 베이스 질의응답(KBQA) 시스템은 사용자의 다양한 정보 요구를 충족시키는 핵심 역할을 하고 있다. KBQA 시스템은 지식 베이스(knowledge base)에 저장된 정보를 기반으로 사용자의 질문에 대한 답변을 제공하는 시스템을 의미한다. 이런 일반적인 KBQA 시스템의 파이프라인은 자연어가 입력되면 개체 링킹을 수행해 Entity를 식별 후 Knowledge Base내의 관련 entity에 연결하고 logical form을 생성한다. 그러나 KBQA의 확장 분야인 지리 정보 기반의 질의응답 시스템(GeoKBQA)은 입력된 공간 관련 질문을 개체 링킹 과정 없이 Logical Form으로 변환한다. 본 연구는 이러한 한계점을 극복하기 위해 GeoKBQA에 개체 링킹을 적용하는 새로운 방법론을 제안한다. 이를 위해 딥러닝 모델인 BERT, RoBERTa 그리고 ChatGPT를 사용하여 개체 링킹의 첫번째 과정인 멘션 탐지(mention detection)을 수행하였다. 특히, BERT와 RoBERTa 모델은 지리 질문에 특화된 멘션 탐지 작업을 위해 지리 질문으로 구성된 NLMAPS 데이터셋으로 fine-tuning을 진행하였으며, ChatGPT는 few-shot prompting 방식을 사용하여 멘션 탐지를 수행하였다. 실험 결과, fine-tuning된 BERT와 RoBERTa 모델의 F1 스코어는 각 0.96, 0.97으로 측정되었으며, ChatGPT 모델의 F1 스코어는 0.99로 확인되었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "도시화와 기후위기 속에서 시민의 삶의 질과 직·간접적으로 연결된 도시공원의 생태계 서비스를 정량적으로 평가하고 이를 활성화하기 위한 방안 연구가 시급한 실정이다. 본 연구에서는 경기도 화성시 동탄2 신도시의 도시공원을 대상으로 수목이 제공하는 다양한 생태계 조절서비스를 평가하고 이를 증진하는데 있어 중요한 수목특성 요소를 도출하고자 하였다. 또한, 개체목 단위와 공원 단위에서의 수목특성과 생태계 서비스 간 상관관계를 분석하였다. 연구결과, 공원유형에 따라 생태계 서비스 차이가 있었는데, 수목 개체수가 가장 많은 근린공원에서 전체 생태계 서비스 양이 가장 높았다. 개체목 수준에서는 흉고직경과 수고 등 수목특성값이 높았던 소공원에서 생태계 서비스 양이 높게 나타났다. 공원의 개체목 단위 특성보다 공원 단위에서의 수목특성이 생태계 서비스와 연관성이 더 높은 것으로 확인되었다. 특히, 수목 개체수와 다양도 지수들은 연구대상인 모든 생태계 조절서비스와 통계적으로 유의한 상관관계를 보였다. 이러한 결과들은 생태계 서비스 증진을 위해 우선적으로 도시공원 환경에 적합한 수목의 식재수를 늘리고, 잎 면적이 넓고 건중량이 큰 다양한 수종의 나무를 식재하는 것이 중요하다는 것을 시사한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "고추 재배지에서 꽃노랑총채벌레는 고추의 과실에 직접적인 피해를 줄 뿐만 아니라 바이러스병을 유발시키는 피해를 주고 있다 . 꽃노랑총채벌레 방제를 위해 다양한 살충제들이 사용되고 있으나 약제에 대한 저항성 문제들이 발생하고 있다 . 따라서 본 연구에서는 우리나라의 최대 고추 생산지역인 경상북도 북부지역 시설 고추 재배지(안동 , 봉화 , 영양 )에서 채집된 꽃노랑총채벌레에 대한 11종 살충제 (acrinathrin, acetamiprid, dinotefuran, spinetoram, emamectin benzoate, abamectin, Chlorfluazuron, chlorfenapyr, cyclaniliprole, fluxametamide, flometoquin)에 대한약제반응을 조사하였다 . 살충제별에 따라 약제반응의 차이를 보였으며 지역 개체군 간에도 약제반응의 차이가 있었다. Flometoquin계인 flometoquin과 Isoxazoline계 fluxametamide의 저항성비가 가장 낮았다 . 반면 acrinathrin에서는높은 저항성 비가 나타났다 . Spinosyne계인 spinetoram은 영양지역 개체군에서 높은 저항성비를 보였다 . Cyclanili- prole은 안동지역 개체군에서 높은 저항성비를 보였다 . 지역개체군들에 대한 약제반응 자료들을 기반으로 지역별 꽃노랑총채벌레 관리 전략에 효과적으로 이용될 수 있는 방안 마련이 필요할 것으로 생각된다 .",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본고는 기술 문명이 만들어낸 자연재해를 다루는 김초엽의 소설 『지구 끝의 온실』을 통해 자연재해 아포칼립스 세계를 살아가는 인간의 권리 박탈의 의미와 공동체의 해체 원리, 이 특수한 상황 속에서 공동체의 재건을 위한 주체는 누구인지를 연구하였다. 우선 아포칼랍스 상황 속에서 인간의 권리는 철저히 말소되었으며, 이를 통해 인권이나 기본권 등의 자연권은 집단을 통해서만 성취될 수 있다는 점이 드러났다. 또한 상징적 공동체는 근본적으로 ‘적대’라는 한계를 지니고 있는데 아포칼립스 상황 속에서의 공동체는 한정된 자원 때문에 자신을 봉합하는데 실패할 수밖에 없다는 점을 밝혔다. 마지막으로 기술적 대상은 사회의 불일치나 대립, 긴장이나 갈등을 봉합할 수 있는 특별한 존재이기도 해서 환경으로 인한 문제를 해소할 수 있고, 녹색 주체는 지구에서의 거주 적합성을 꾸려가는 존재로서 자신과 비인간의 존속과 접속을 동시에 사유하는 존재임을 나타냈다. 이 모든 것은 물론 지구라는 행성의 환경 문제에 직면한 인류세 시대의 우리와 밀접한 관계가 있다. 『지구 끝의 온실』은 인류세 시대를 사는 우리에게 삶의 한 방법을 알려준다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 합동M&S(Modeling & Simulation) 체계 임무공간 개념모델의 온톨로지 적용을 위한 구조적 특성에 관한 연구이다. 합동M&S 체계는 다수의 훈련용 모델과 분석용 모델로 구성된다. 이들 모델은 합동훈련과 다양한 분석업무에 적용되어 군령 최고기관인 합동참모본부의 의사결정을 위한 주요수단으로 활용되고 있다. 새로운 무기체계의 전력화와 안보환경의 변화에 따라 합동M&S 체계는 신규 소요의 증가가 예상되며, 이와 더불어 현재 운용중인 M&S체계의 성능개량도 병행하여 추진이 요구된다. 합동M&S 체계는 합동성에 기반하여 부대구조, 무기체계 구성 및 운용 등이 타 체계에 비해 상대적으로 복잡한 구조를 가진다. 따라서 내실있는 합동M&S 체계 구축을 위해서는 합동M&S 체계의 구조적 특성에 대한 정밀 분석이 요구된다. 이를 위해 본 연구는 합동M&S 체계가 갖는 개체와 과업에 대한 구조적 특성을 분석하여 임무공간 개념모델의 온톨로지 적용을 위한 방안을 제시한다. 연구결과는 향후 신규모델 개발 및 성능개량을 위한 기술자료로 유용하게 활용될 것으로 기대된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "개체명 인식은 주어진 문장 내의 고유한 의미가 있는 단어들을 미리 정의된 개체의 범주로 분류하는 작업이다. 최근 딥러닝 네트워크 혹은 언어 모델을 이용한 개체명 인식 연구들이 높은 성능을 보였지만 이러한 모델은 고성능의 컴퓨팅 파워가 요구되며 학습 모델의 속도가 느려 아직은 실용성이 낮다는 문제가 있다. 본 논문에서는 실용성을 목적으로 처리 속도와 정확률을 모두 고려하여 기계학습 방식의 CRF를 기반으로 하여 의미 자질과 구문적 자질을 추가한 개체명 인식 시스템을 제안한다. 한국어 어휘 의미망(UWordMap)을 활용하여 사람의 지식을 기반으로 하여 의미 자질인 상위어, 최상위어 정보와 구문적 자질인 의존관계와 격조사 정보를 학습 자질로 추가하고 평가하였다. 실험 결과, F1 score 기준 90.54% 포인트의 성능과 초당 약 1,461 문장을 처리하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "최근 성숙기에 접어든 소셜 미디어 시장 성장률이 코로나 19를 기점으로 다시금 상승 추세로 돌아섰다. 그 수치는 2022년 1월 기준 45억 2천만 명이나 되고, 이에 따라 생산되는 데이터의 양도 급속도로 증가하고 이를 분석하기 위한 기술도 발전하고 있다. 이러한 소셜 미디어 데이터를 다양한 관점에서 분석하고 활용하기 위해서는 기존의 공간 정형데이터와 융합 분석이 필요하다. 소셜 미디어의 특성상 데이터를 실시간으로 분석할 수 있어야하고, 융합 분석을 위해 공간 정보 추출 할 수 있어야 한다. 이에 따라, 본 논문에서는 실시간 분석 프레임워크인 스톰을 활용하여 공간 정보를 실시간으로 추출하는 시스템을 제안한다. 실험 결과, 15개의 익스큐터를 사용할 경우 377.59ms, 25.03ms의 지연시간이 발생하였으나, 34개의 익스큐터를 사용한 결과 39.54ms, 0.8ms로 338.05ms, 24.23ms의 지연시간이 감소됨을 확인하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "다개체 시스템은 개체라 불리는 여러 서브 시스템들이 상호작용을 통하여 단일 시스템에서는 수행할 수 없는 임무를 수행할 수 있어 많은 연구가 진행되고 있다. 본 논문에서는 다수의 리더 개체들과 추종 개체들로 구성된 다개체 시스템을 고려하여 군집을 달성하기 위한 봉쇄제어 문제를 연구한다. 봉쇄제어는 추종 개체들을 리더 개체들에 의해 생성되는 볼록 껍질(convex hull) 안으로 수렴시킴으로써 군집 현상을 달성하는 것이 목표이다. 한편, 다개체 시스템의 안정적인 운용을 위해서는 실제 환경에서 발생하는 제약조건을 고려해야 한다. 실제 환경에서는 네트워크의 안전성 또는 정보 손실 등의 이유로 위치와 속도 정보의 통신 네트워크가 다르게 구성될 수 있다. 또한, 구동기의 출력에는 제약이 존재하고, 이로 인하여 시스템의 성능 저하 및 불안정성이 야기될 수 있다. 따라서, 본 논문에서는 서로 다른 위치 및 속도 정보 네트워크 토폴로지와 구동기 포화를 고려하여 봉쇄제어의 목표를 달성하기 위한 PID(Proportional-Integral-Derivative) 기반의 알고리즘을 제안한다. 봉쇄 오차 시스템의 안정성 판별을 기반으로 목표를 달성하기 위한 제어이득과 네트워크 연결성에 대한 조건을 분석하고, 모의실험을 통하여 해석의 타당성을 검증하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 연구는 Badiou의 진리론이 현재의 교육과정이론 및 교육과정 구성에 주는 시사점을 탐색하고자 수행되었다. 연구의 결과, 기존의 지식체가 결여하고 있는 다수의 진리가 존재한다는Badiou의 진리론은 보편성을 강조하는 객관적 진리론과 개체성을 강조하는 구성적 진리론을보완적으로 결합할 수 있음을 알 수 있었다. 또한 불안정하지만 공백의 일자화된 지식이 교육내용이 되어야 할뿐 아니라 주체가 확신을 가지고 해석적 개입과 충실한 탐색을 통해 진리가면모를 갖추게 해야 한다는 Badiou의 관점은 내용지향적 교육과정이론과 과정지향적 교육과정이론을 통합할 수 있음도 알 수 있었다. 나아가 교육과정 구성에 있어서는 다음과 같은 시사점을 얻을 수 있었다. 먼저 교육목적은 충실한 진리생성의 주체를 양성하는 것에 두어야 한다. 다음으로 학습자들이 기존의 지식체계인 백과사전적 지식을 풍부하게 학습할 수 있도록, 그러나예술, 과학, 정치, 사랑 등 사유 대상을 모두 포함할 수 있도록 교과목을 재편성하고 교육내용을 선정해야 한다. 나아가 학습자들이 새로운 진리를 생성할 수 있는 충실한 탐색활동을 할 수있도록 지식을 비교ㆍ분석ㆍ평가ㆍ종합할 수 있는 능력을 갖게 해야 하는데, 이는 학습자의 존재 자체의 변용에까지 이르러야 하고 이해관계에 휘둘리지 않는 무심한 태도를 지니도록 도와야 한다. 그러나 Badiou 진리론의 교육과정에의 적용을 위해서는 학습자의 진리생성과정을 지지하고 돕는 또 다른 주체인 교사의 역할에 대한 보완적 논의가 필요함을 제언하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 2010년도에 노왁, 타니타, 윌슨에 의해 촉발된 포괄적합도 이론(inclusive fitness theory)에 대한 논쟁을 다룬다. 이 논쟁의 특별한 점은 당사자들이 하나의 수학적 모델을 놓고 서로 다른 평가를 내린다는데 있다. 우리는 논란의 원인이 포괄적합도 이론이라는 용어에 대한 ‘의미론적 문제(semantic problem)’에 있다고 생각한다. 이 혼란은 포괄적합도 이론이 가지는 복잡성을 인지하지 못했기 때문에 발생한다. 문제의 해소를 위해 우리는 포괄적합도 이론에 대한 이해방식을 4가지 해석으로 구별하고 비판의 타당성을 각각 평가한다. 분석을 통해 결과적으로 최근 제기된 비판은 완전하지 않다는 결론이 도출될 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "고속 비상체에 의한 충격을 받는 시멘트 복합체는 표면관입, 배면박리 및 관통 등 국부적인 파괴거동을 보이며, 섬유혼입에 의한 휨인성의 향상으로 인해 배면파괴를 억제할 수 있다. 이에 섬유보강 시멘트 복합체의 내충격 성능에 관한 연구가 진행되고 있으며, 다양한 종류의 섬유보강재가 개발되고 있다. 섬유보강재의 종류에 따라 섬유와 매트릭스의 부착성능, 비표면적, 혼입개체수 등이 다르기 때문에 섬유보강 시멘트 복합체의 역학특성 및 고속 충격에 의한 내충격 성능의 향상에 미치는 효과에 대하여 검토할 필요가 있다. 본 연구에서는 성상 및 물성이 다른 강섬유(Steel fiber), 폴리아미드(Polyamide), 나일론(Nylon) 및 폴리에틸렌(Polyethylene)섬유를 혼입하여 섬유 종류에 따른 휨인성의 향상과 고속 비상체 충돌에 대한 파괴저감효과에 대하여 평가하였다. 그 결과, 혼입섬유의 가교작용에 의한 응력의 재분배 및 균열발생의 억제로 인해 휨인성이 향상되었으며, 고속충격에 의한 배면파괴를 억제할 수 있었다. 또한, 동일 충격에너지에서의 배면파괴한계두께를 감소시킬 수 있어 방호시설물에 적용할 경우 부재두께의 저감이 가능할 것으로 판단된다. 한편, 강섬유보강 시멘트복합체의 경우 배면박리가 발생하였으나, 섬유와 매트릭스의 부착에 의한 일부 파편의 박리가 억제되었으며, 합성섬유보강 시멘트복합체는 섬유의 혼입개체수가 많아, 고속충격에 의한 충격파의 상쇄작용 및 에너지 분산에 의한 미세균열이 발생해 배면파괴억제효과가 큰 것으로 판단된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This study investigates some of swarm intelligence algorithms to tackle a traditional damage detection problem having stiffness degradation or damage in mechanical structures. Particle swarm(PSO) and ant colony optimization(ACO) methods have been exploited for localizing and estimating the location and extent damages in a structure. Both PSO and ACO are population-based, stochastic algorithms that have been developed from the underlying concept of swarm intelligence and search heuristic. A finite element (FE) model updating is implemented to minimize the difference in a set of natural frequencies between measured and baseline vibration data. Stiffness loss of certain elements is considered to simulate structural damages in the FE model. It is numerically shown that PSO and ACO algorithms successfully completed the optimization process of model updating in locating unknown damages in a truss structure.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "과거 중학교 국어교과서에서도 민요에 대해 여러 측면에서 잘못 기술하고 있는데, 제7차 개정 중학교 1학년 국어 교과서 중 일부 교과서에서도 여러 오류가 발견된다.\n우선 대다수 교과서들이 각 개체요들이 학년별, 교과별, 단원별로 적합하게 선정되었는지를 심도 있게 고려하지 않은 채 과거 교과서의 민요 선정을 그대로 답습하는 모습을 보인다. 중학교 1학년 아이들의 정서와 맞지 않는, 어른들이 주로 부르던 민요를 수록하거나, 1920년대 전후에 창작된 민요풍 유행가를 민요라고 소개하는 등의 오류를 보인다.\n또한, 일부 교과서에서는 민요의 운율적 특성과 음악적 특성을 혼동하는 오류를 범하고 있다. 나아가 사설 자체에 대한 이해는 물론, 개체요 내지는 장르 자체에 대한 오류를 범하고 있다.\n이처럼 여러 국어 교과서에서 오류가 발견되는데, 이는 무엇보다도 교과서 집필자들의 민요에 대한 무지 때문이라고 생각한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구에서는 온라인 정보가 소셜커머스 구매자의 구매결정에 미치는 영향을 조사하였다. 일반적으로 소셜커머스 소비자들이 구매과정에서 이용하는 정보는 사용자 생성 콘텐츠와 판매자 생성 콘텐츠로 나뉜다. 이들 정보유형별로 소비자구매 의도에 미치는 영향력에 차이가 있을 것으로 예상되며, 이 문제의 해결안은 소셜커머스 사이트 운영자가 어떤 정보 제공원에 보다 관리 초점을 두어야 하는지에 대한 방향을 알려줄 수 있다. 분석을 위하여 온라인 공간에 대한 불확실성의 대책으로 이용되는 신뢰를 매개변수로 활용하였다. 신뢰 유형은 판매자 측면과 정보 측면으로 나누어서 개체 신뢰와 콘텐츠 신뢰로 세분하였다. 분석결과에 의하면, 판매자 생성 콘텐츠(일반 거래 정보와 안전 거래 정보)는 모두 개체 신뢰에 유의한 영향을 미쳤다. 하지만 사용자 생성 콘텐츠는 명성만이 개체신뢰에 유의한 영향을 미쳤다. 그리고 소셜커머스 소비자의 구매 의도는 개체 신뢰로부터만 유의한 영향을 받는 것으로 나타났다. 따라서단기적으로는 소셜커머스 사이트 운영자가 통제가능한 정보 유형인 판매자 생성 콘텐츠(일반 거래 정보와 안전 거래 정보)를 중심으로 소비자의 구매 의도를 높일 수 있는 방안을 모색할 필요가 있다. 장기적으로는 소셜커머스 사이트 운영자의 통제가 어렵고, 형성에 시간이많이 소요되는 사용자 생성 콘텐츠인 명성을 중심으로 소비자의 구매 의도를 높일 수 있는 방안의 모색이 필요하다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This paper intends to interpret the syntactic differences and theoretical constraint conditions between the scope adverb ‘dou(都)’ and ‘quan(全)'. To understand the syntactic differences, I investigated the objects and their features each adverb oriented. Through the linguistic concepts of cognitive model, like ‘individual cognition’, ‘whole cognition’, ‘sequential scanning’, and ‘summary scanning’, I tried to explain the syntactical and distributional differences two adverbs oriented.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은, 남북한 관계에 대한 이론들을 분류비판하고, 대안적 이론화를 위한 출발점을 제시하고자 한다. 남북한 관계의 이론들은 남북한 관계에 대한 존재론적 가정에 따라 남북한 관계를 국가 대 국가의 관계로 보는 입장과 남북한 관계를 특수관계로 보는 입장으로 나눌 수 있다. 전자가 사회과학의 이론화 경향이라면, 후자는 역사학의 이론화 경향이다. 이 글은, 이 두 범주의 이론이 가지는 한계를 지적하면서, “역사적 구조”의 개념을 도입하게 될 때, 보다 적실성을 가지는 분단국가의 성격과 형태에 기초한 남북한 관계의 이론화가 가능하다고 주장한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문에서는 대형 언어 모델(Large Language Model)을 활용한 민감 정보 탐지 및 자동 마스킹 기법에 대해 연구한다. 제안된 시스템은 입력된 텍스트에서 이름, 전화번호, 주민번호 등의 민감 정보를 NER(Named Entity Recognition) 알고리즘을 통해 추출하고, LLM을 사용하여 이를 자동으로 마스킹하는 방법을 제시한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "AI 기반 개인정보 침해평가 시스템은 개체명인식, 인텐트분류, 문서분류, 문서요약 등 다양한 자연어처리 기법을 사용하여 정부입법 제·개정령안과 의원입법안에 대하여 평가인력의 침해평가 업무를 지원하도록 개발되었다. 기존 한 단락으로 작성되었던 침해평가안은 신규 개인정보 침해평가 양식에서 제·개정내용, 검토내용, 검토의견으로 세분화하여 더 구체적으로 변경되었다. 신규 양식의 제·개정내용은 4종의 개인정보(일반개인정보, 고유식별정보, 민감정보, 영상정보), 정보주체, 개인정보처리자, 개인정보처리 목적으로 나누어지며 모두 학습된 개체명 인식기를 통해서 추출되었다. 개체명 인식기는 xlm-roberta-large 사전언어 모델로 부터 Fine-tuning되었으며 8종 개체명에 대하여 micro F1-score는 0.707였으며 4종의 개인정보의 micro F1-score는 0.737였다. 신규 양식의 검토내용(법적합성, 개인정보처리 필요성, 업무처리 불가피성, 정보관리 안정성)은 챗봇에서 널리 사용되고 있는 인텐트분류 기법을 활용하고 슬롯 태깅기법으로 140여개의 검토의견을 생성하여 제공한다. 신규 양식의 검토의견은 개인정보별 침해여부를 판단하는 것으로 시작된다. 침해여부 분류기는 CNN + Fasttext 분류 모델로 학습되었으며 모델의 micro F1-score는 0.91였다. 이러한 AI 시스템의 도입을 통해 새로 세분화되어 양식이 변경되었음에도 불구하고 업무 효율성을 크게 향상시킬 수 있었으며 신속하게 침해평가를 진행할 수 있도록 평가업무를 지원할 수 있었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "기존 개체명 인식 연구는 지도학습에 기반한 개체명인식이 주를 이루고 있다. 지도학습에 기반한 개체명인식이 좋은 성능을 보이고 있지만, 대량의 정답 말뭉치를 구축하기 위해 많은 시간과 비용을 필요로 한다는 문제점이 있다. 본 논문에서는 이러한 문제를 해결하기 위해, 대량의 말뭉치에 수동으로 정답을 부여하기 위한 노력 없이, 개체명 인식 모델이 자동 생성한 정답을 학습에 사용하는 개체명 인식 모델 학습 기법을 제안한다. 제안 방법은 소량의 개체명 정답 말뭉치만으로 대량의 개체명 정답을 자동 생성하여 학습에 사용하므로, 대량의 정답 말뭉치를 생성하기 위해 필요한 시간과 비용을 크게 절감시킨다.\n추가적으로 배깅 기법을 사용하여 자동 생성한 정답들 중 오류를 제거한다. 부트스트래핑 기법과 배깅 기법을 추가하였을때, F1 점수 최고 70.67%를 기록하였다. 비교를 위한 기본 CRF 개체명 인식 모델의 F1 점수는 65.59%를 기록하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "시화호 환경변화에 따른 흰뺨검둥오리의 개체수 변화를 확인하기 위해 2008년 1월부터 2014년 12월까지 매월 1회씩 조사하였다. 흰뺨검둥오리의 평균 개체수는 12,204개체이었고 점차적으로 감소하는 경향을 보였다. 변동지수(Fi)는 2010년에 2.16로 가장 높았다. 개체군 변화경향은 겨울철은 급격한 감소, 가을철과 봄철에는 보통감소, 여름철은 보통 증가경향을 보였다. 주요 서식지로는 북측간척지, 방수제, 탄도수로, 인공습지 이었다. 기온과의 상관관계는 봄, 여름, 가을은 음의 상관관계를 보였고, 겨울은 양의 상관관계를 보였다. 간척지 환경변화에 따라 흰뺨검둥오리의 군집에 영향을 미치고 있어 본 연구와 같은 자료를 토대로 효과적인 관리방안이 필요하다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "설악산 분비나무 개체군의 쇠퇴징후에 대한 요인과 군락의 변화 양상을 파악하기 위하여 귀때기청봉, 관모능선, 설악폭포지역에 고정조사구를 설치하였으며, 군락구조, 개체군동태, 비대생장 및 활력도 등을 2009년부터 모니터링 하였다. 설악폭포지를 제외한 3개 조사지는 아교목층이 수관층을 형성하는 3층구조를 보였다. 목본수종의 중요치에서는 분비나무, 눈측백, 신갈나무, 사스래나무, 당단풍나무 등이 주요 종으로 분포하였으며, 설악폭포지에 분포하는 분비나무의 중요치는 2009년45.3%에서 2018년 36.8%로 가장 크게 감소하였다. 생육목의 개체수(DBH≥5cm)는 귀때기청봉2와 관모능선에서 각각1,800개체/ha와 1,700개체/ha로 가장 많았으며, 지난 10년 동안 고사율은 귀때기청봉1과 설악폭포지에서 각각 38.3%와35.3%로 매우 높게 나타났다. 분비나무 개체군의 흉고직경급 분포에서는 귀때기청봉1 지역에서 가장 안정적인 역 J자형의분포를 보였다. 분비나무의 연평균 비대생장은 0.96∼1.73mm/year 였으며, 활력도가 감소 추세를 보인 귀때기청봉2, 관모능선, 설악폭포 지역에서 비대생장은 대체로 생장이 저하되는 추세를 나타내었다. 향후 모니터링 과정이 지속적으로 이루어진다면, 아고산 식생의 보전과 관리를 위한 기초자료 확보가 가능할 것으로 생각된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "태안해안국립공원 바람아래해변에 서식하는 표범장지뱀의 개체군 크기 변화를 파악하기 위하여 2009년부터 2023년까지 매년 5월, 8월, 10월에 모니터링을 하였다. 그 결과, 이 지역의 표범장지뱀은 최소 48개체에서 최대 80개체 수준으로 개체수가 유지되는 것으로 나타났고 봄, 여름, 가을인 5월, 8월, 10월에 발견된 개체수의 차이는 없었다. 향후 5년 동안 개체수 변동을 예측하기 위하여 이동평균법과 ARIMA 분석을 수행하였는데 바람아래해변에 서식하는 표범장지뱀의 개체수는 거의 일정하게 유지되다가 감소되는 것으로 예측되었다. 따라서 바람아래해변에 서식하는 표범장지뱀의 개체수를 유지하기 위해 서식지에 침입한 초본류 관리, 모래 유실 방지 등 지속적인 서식지 관리 노력이필요하다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구의 목적은 다산콜 데이터와 같이 시민의 정책 수요 및 효능감을 높일 수 있는 민원 데이터의 활용 가능성을 제고할수 있는 방법으로, 텍스트 데이터 기반의 세부 공간정보 추출이 가능한 새로운 개체명 인식 모델을 개발하는 것이다. 이 모델의 개발과정은 다산콜뿐만 아니라 민원을 비롯한 여러 지자체와 기관의텍스트 데이터의 활용도를 높이기 위해 상세히 서술되었다. 이를활용한다면 NYC OpenData 플랫폼에서 제공하는 311 콜센터 데이터와 같이 좌표 단위의 민원위치정보를 추출할 수 있다. 이러한 고해상도의 민원위치정보 식별 및 추출 성과는 민원 맵핑 서비스의 품질을 개선하고 다양한 민원활용연구의 가능성이 커진다는것을 시사한다.\n본 논문의 구성은 다음과 같다. 2장에서 개체명 인식 모델의 학문적 배경인 자연어 처리의 개념과 분석기법을 검토하고, 민원데이터를 활용한 텍스트마이닝 선행연구를 정리하였다. 그리고 이론 및 선행연구 검토 내용을 바탕으로 연구의 차별성을 도출하였다. 3장에서 세부 공간정보 추출이 가능한 새로운 개체명 인식 모델의 개발 및 데이터 전처리 과정을 상세히 공개하였다. 4장과 5 장에 걸쳐 새로운 모델의 성능 평가와 해당 모델링으로 추출된 민원데이터를 활용한 시범적 연구의 기초 분석 및 시각화 결과를 보고하고 결론을 작성하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "일치기법은 이웃한 개체 간의 정보교환을 통하여 개체들의 상태를 동일한 상태로 수렴시키는 것이 목적이며 다개체시스템의 제어를 위해 많은 연구가 진행되고 있다. 실제 시스템에서는 각 개체의 측정 변수가 서로 다르거나 통신상의 정보 손실이 발생할 수 있고, 통신상의 안정성을 위하여 각 상태에 대한 서로 다른 네트워크를 구성해야 할 수 있다. 또한, 시스템에존재하는 입력 포화 및 외란으로 인하여 그룹의 불안정성을 야기할 수도 있다. 따라서 본 논문에서는 이종 상태 정보와 입력포화 및 외란을 고려하여 다개체 시스템의 군집을 위한 PID(Proportional-Integral-Derivative) 기반의 일치 제어 기술을 연구한다. 구체적으로 2차 시스템으로 모델링된 다중 추종 개체들과 단일 리더 개체를 고려하였고, 오차 시스템의 안정성 판별을 통하여일치를 달성하기 위한 조건을 분석하였다. 제안된 알고리즘은 위치 그래프의 연결성만 보장된다면 일치를 달성할 수 있음을 확인하였고, 일치 알고리즘을 확장하여 다개체 시스템에 대한 편대 제어 문제를 연구하였다. 마지막으로 모의실험을 통하여 제안된 알고리즘의 유효성을 검증하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "구별불가능자 동일성의 원리에 대한 블랙의 공격은 기체 이론과 다발 이론 사이의 논쟁에서 핵심이 되었다. 블랙의 논변으로 인해 다발 이론은 큰 타격을 받은 것으로 평가되었으며, 그로 인해 형이상학자들은 다발 이론보다는 기체 이론을 선호하게 되었다. 본 논문은 블랙의 논변이 결정적이지 않음을 보이고자 한다. 이를 위해 본 논문은 두 가지 사실을 증명할 것이다. 첫째, 블랙의 논변은 관찰자가 전제되면 깨지게 된다. 둘째, 블랙의 논변은 선결문제 가정의 오류를 지니고 있다. 이것을 증명함으로써 본 논문은 다발 이론이 여전히 건전한 이론임을 보이도록 할 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "정보시스템의 발전과 함께 현실업무가 더욱 복잡해지면서, 정보시스템 개발 초기단계에서 사용자의 요구사항이 누락되거나 중복되는 경우가 자주 발생하고, 차후에 이를 수정하기 위한 노력이 증대되면서, 전체개발비용과 기간이 증가하게 된다. 이 문제를 해결하기 위해서 업무 프로세스를 표현하기 위한 다양한 방법론이 제안되어왔지만, 각 방법론의 우열을 어떻게 가릴지에 대한 체계적인 항목별 연구는 이제까지 없었다. 이 연구에서는 사용자가 직관적으로 이해할 수 있고, 분석가가 업무 프로세스를 충분히 표현할 수 있으며 동시에 시스템구축 비용을 최소화할 수 있는 방법론이 가장 이상적이라는 점을 고려해서, 누락도, 중복도, 명확도, 표현력 등의 방법론 평가기준을 제안하며, 이 지표를 은행의 자산건전성 평가업무라는 표준 업무에 적용해서 각 방법론의 우위내지는 문제점들을 살펴본다. 프로세스 중심 기법인 자료흐름도와 유즈케이스 다이어그램과 비교할 때, 데이터 중심 기법인 개체관계도가 상대적으로 낮은 함축성과 높은 복잡성에도 불구하고 낮은 누락도와 명확한 표현력을 가지고 있으며, 업무기술서와 병행될 때 프로세스 함축과 누락에 대한 부담을 크게 감소시킬 수 있을 것으로 나타난다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 칠면초의 분포역을 결정짓는 개체수의 변화와 성장 변화를 분석하고자 6개 조사역 18 Site에서 2006~2008년의 3년간 개체수 변화, 지상부길이 생장변화, 토양요인의 변화를 조사하였다. 칠면초의 개체수 변화는 간척으로 인한 해수유입의 급격한 감소가 저위 염습지의 수분공급이 원활하지 못한 환경을 조성하여 2008년도 8월 이후에 급격히 감소하는 영향을 나타냈다. 길이 생장변화 역시 강수, 해수유입 감소 등에 의한 탈염이 큰 영향을 미친 것으로 조사되었다. 특히 토양요인의 변화에서 칠면초의 개체수 및 길이생장에 EC1：5dS/m가 가장 큰 영향을 미친 것으로 나타났다.\n새만금 만경강 하구역 갯벌 염습지는 새만금 간척사업으로 인한 해수유입의 급격한 감소와 담수의 유량변화에 따른 수위변동 등의 환경요인에 의하여 간척사업이전 우점종인 칠면초의 분포역과 생장에 큰 영향을 미쳤다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 개체군 변환 유전자 알고리즘을 (GAVaPS) 이용하여 k-nearest neighbor (k-NN) 분류기에서 사용되는 특징들\n을 선정하는 방법을 제시한다. 우리는 다수의 k-NN 분류기들을 사용하기 때문에 사용되는 특징들을 선정하는 문제는 매\n우 탐색 영역이 크고 해결하기 어려운 문제이다. 따라서 우리는 효과적인 특징들의 선정을 위해 일반적인 유전자 알고리즘\n(GA) 보다 효율적이라고 알려진 개체군 변환 유전자 알고리즘을 사용한다. 또한 다수 k-NN 분류기를 개체군 변환 유전자\n알고리즘으로 효과적으로 결합하는 방법을 제시한다. 제안하는 알고리즘의 우수성을 여러 실험을 통해 보여준다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "다중 레이블 특징 선별은 다중 레이블 데이터, 예를 들어 인문 데이터의 분류 정확도를 개선하기 위한 유망한 전처리방법이다. 그중 진화 탐색 기반 다중 개체군 유전 알고리즘은 기존 유전 알고리즘보다 개체군의 다양성을 보존하고 최적 해를 찾을 때까지 조기 수렴을 방지할 수 있으므로 적합한 특징 부분 집합을 찾는 데 유용함이 입증되었다. 그러나 종래의 방법은 해를 찾는 과정에서 다중 레이블과 관련성이 높은 특징을 유입시키는 것에 한계가 있다. 본 논문에서는 다중 레이블 특징 선별을 위한 효과적인 다중 개체군 유전 알고리즘을 제안한다. 제안하는 방법은 이주 개체 정제 연산을 통해 개체군의 다양성을 보존하면서 다중 레이블과 관련성이 높은 특징을 유입시켜 탐색 성능을 향상한다. 실험을 통해 제안하는 방법이 비교 대상 다중 개체군 알고리즘보다 좋은 성능을 보여줌을 확인하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "정보 추출은 비정형 텍스트로부터 정형 데이터를 자동으로 추출하는 기술이다. 최근 대용량의 비정형 텍스트가 급격히 증가함에 따라 정보 추출에 대한 많은 연구가 이루어지고 있다. 정보 추출은 크게 개체 연결과 관계 추출 두 가지 기술로 구성되며 관계 추출은 정보 추출에 있어 가장 핵심이 되는 기술이다. 최근까지 대부분의 관계 추출 연구는 문장에 한 쌍의 개체만 존재한다고 가정하며 단일 개체 쌍 간의 관계를 추출하는데 초점이 맞춰져 있다. 그러나 실제로 문장에는 한 쌍 이상의 개체가 존재할 수 있다. 본 논문은 주어진 문장에서 가능한 모든 개체 쌍 간의 관계를 추출할 수 있는 듀얼 포인터 네트워크 기반 관계 추출 모델을 제안한다. 제안 모델은 관계 추출에 대표적으로 사용되는 영문 데이터 셋인 ACE-2005 데이터 셋과 NYT 데이터 셋으로 실험을 진행했으며, ACE-2005에서 F1 점수 0.8050, NYT 데이터 셋에서 F1 점수 0.7834로 가장 높은 성능을 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 1990년 전반기(1989년 5월~1993년 4월)의 자료와 2000년 중반기 (2002년 5월~2006년 4월)의 자료를 분석하여 주변 환경이 급변하는 낙동강 하구에서 민물가마우지(Phalacrocorax carbo)의 장기적 도래 현황을 파악하고자 하였다. 조사기간(1989년 5월~1993년 4월, 2002년 5월 ~2006년 4월, 총 8차년도)에 낙동강하구에서 관찰된 가마우지류(Phalacrocoracidae)는 민물가마우지(Phalacrocorax carbo) 30,706개체, 가마우지(Phalacrocorax capillatus) 1,627개체, 미동정 가마우지류 1개체 등 총 3종 32,334개체이었다. 1990년대 전반기와 2000년대 중반기까지 조사한 평균을 살펴보면, 1990년대 전반기 5월에서 9월까지는 도래하지 않았고, 10월에 많은 개체가 도래11월부터 점진적으로 감소 2월에 약간 증가하였으며, 2000년대 중반기 8월부터 소수 개체가 도래하기 시작하여 10월에 개체수가 급속하게 증가하여 11월에 가장 많은 개체수가 관찰되었고, 12월부터 점진적으로 감소하다가 2월에 약간 증가를 보이다 감소하였다. 평균을 살펴보면 1990년대전반기보다 2000년대 중반기에서 약 2배 많이 관찰되었다. 월별 개체수에 있어서는 1990년대 전반기와 2000년대 중반기의 5월에서 익년 4월까지 두 집단 사이에 유의한 차이가 없는 것으로 나타났다(P＜0.343). 2000년대 중반기(2002년 5월~2006년 4월)에 관찰된 민물가마우지의 지역별개체수의 변동에서 평균 개체수는 1,107.79개체이었으며, 대마등(DMD)에서 846.75개체, 장자 · 신자도(JJ.SJD) 495.00개체, 사자 · 도요등(SJ.DY) 1,500.50개체, 을숙도남단(LUD) 2,102.50개체, 을숙도(USD) 441.00개체로 지역 간의 유의한 차이가 있는 것으로 나타났다(P＜0.05). 본류대의 하구언 하단부는 수심이 깊어 먹이활동이 용이한 을숙도남단(LUD)과 사자 · 도요등(SJ.DY)에서 민물가마우지가 많이 관찰되는 것으로 판단된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "근대 이후에는 과학주의의 위력으로 인해 생명이 철학적 사유의 진지한 대상이 되지 못했다. 세계를 의식과 기계로 양분한 데까르뜨에서 생명은 기계의 일부로 다루어지고 그 범주적 고유성을 잃는다. 19세기에는 꽁뜨의 실증주의 생명관이 생기론을 제압하면서 생명과학은 물리화학적 패러다임에 종속된다. 오늘날 이런 환원주의적 태도 역시 경계의 대상이며 생명이 나타내는 복잡성 앞에서 좀 더 유연하고 포괄적인 관점이 요구되고 있다. 철학은 생명에 대한 사유를 단지 물리화학의 일부로 취급되는 한에서의 생물학에 맡겨놓을 것이 아니라 적극적으로 심화하고 확대해야 한다는 생각은 베르그손과 깡길렘의 공통적인 태도이다. 베르그손은 생명에 대한 거대서사를 썼고 깡길렘은 그를 이어받으면서도 거대서사로서의 생명 형이상학이 빠질 수 있는 아포리아들을 피해가면서 생명의 세부적인 문제들에 천착하여 실증주의의 난점을 지적하고 자신의 고유한 관점을 제시한다. 이 두 생명철학자들을 비교하기 위해 우리는 생명원리와 개체성, 정상과 병리, 생성과 로고스라는 세 가지 주제를 다루고 거기서 그들이 관점이 수렴되는 지점들과 분기되는 지점들을 살펴본다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 2016년 10월 24일부터 2017년 3월 19일까지의 촛불집회 기간 동안 촛불집회와 태극기집회에 대한 온라인 뉴스들에 나타난 정국 인식을 개체명 인식기 분석을 통해 고찰하였다. 이것은 궁극적으로 탄핵 정국과 이후 한국 사회의 주요 정치 갈등을 알아보기 위함이다. 주요 분석 항목은 박근혜 정권의 실정에 대한 원인(탄핵의 책임 소재), 정국 해결의 주체와 방법이며, 그밖에 탄핵 이외의 주요 이슈들에 대해서도 살펴보았다. 분석 결과, 촛불집회는 박근혜-최순실 게이트의 책임 소재로 정당, 청와대, 재벌 등을 지목하며 시민과 정당에 의한 평화적 방식을 선호하고 탄핵 이후 정권 교체를 목표로 한다는 것이 밝혀졌다. 반면 태극기집회는 정당을 핵심 원인으로 지목하며 박근혜 지지 단체들을 중심으로 하는 애국 시민을 강조하면서 탄핵 이후보다는 탄핵 기각에 집중하는 것으로 나타났다. 이는 탄핵 정국 이후에도 탄핵을 둘러싼 정치 갈등이 그 강도와는 무관하게 일정하게 지속될 수 있음을 시사한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구에서는 멸종위기식물인 큰바늘꽃(Epilobium hirsutum L.)의 효과적인 보전 및 복원을 위한 기초자료를 얻기 위해토양의 수분함량과 유기물함량이 번식계절과 생리 반응에 어떠한 영향을 주는지에 대하여 알아보았다. 큰바늘꽃은 다년생식물이지만 모든 구배에서 한 해에 생식생장을 하였다. 꽃봉오리, 꽃 그리고 열매주머니는 수분구배와 영양소구배에서 각각 높은수분 조건과 높은 유기물 조건에서 가장 이른 시기에 성숙하였다. 그리고 꽃 수와 열매주머니 수는 높은 수분 조건과 높은유기물 조건에서 더 빨리 증가하였다. 엽록소 함량은 수분구배에서 높은 중간 수분 조건과 높은 수분 조건에서 가장 많았고, 영양소구배에서는 차이가 없었다. 최소엽록소형광 값은 수분구배와 영양소구배 모두 차이가 없었고, 최대엽록소형광 값은높은 수분 조건과 높은 유기물 조건에서 가장 높았다. 광계 Ⅱ의 광화학적 효율 값은 모든 수분구배에서 0.75로 차이가없었고, 영양소구배에서의 경우 높은 유기물 조건에서 0.78로 가장 높았다. 큰바늘꽃은 수분이 증가할수록 엽록소 함량이많아지고, 유기물이 증가할수록 Fv/Fm 값이 높아졌다. 이상의 연구결과는 토양의 충분한 수분과 유기물 함량은 큰바늘꽃의번식계절을 앞당겨 주고 생식생장을 촉진한다는 것을 보여준다. 추후 멸종위기종인 큰바늘꽃의 개체군 유지와 서식지를관리하는데 중요한 정보가 될 것으로 판단된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구에서는 헬스케어 분야에 특화된 개체명 사전을 구축하기 위해 기존 N-Gram 방식의 한계를 극복하고 성능을 향상하게 시키기 위해 새로운 역 N-Gram 방식을 제안하였다. 제안된 역 N-Gram 방식은 헬스케어 관련 빅데이터의 복잡한 언어적 특성을 더 정밀하게 분석하고 처리할 수 있다. 제안된 방식의 효율성 검증을 위해 매년 1월에 개최되는 소비자 가전 전시회(Consumer Electronics Show: CES) 기간 동안 발표된 헬스케어 및 디지털 헬스케어 관련 빅데이터를 수집하기 위하여 뉴스를 대상으로 2010년 1월 1일부터 31일, 그리고 2024년 1월 1일부터 31일까지 언급된 2,185건의 뉴스 제목 및 요약문을 파이썬 프로그래밍언어로 새로운 역 N-Gram 방식을 구현하여 전처리한 결과, 헬스케어 분야에서의 자연어 처리를 위한 사전이 안정적으로 구축되었음을 확인할 수 있었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 연구는 현대 생물학의 기본 인식론인 ‘개체군 사고(population thinking)’가 종교와 문화의 진화인지적 연구에 시사하는 이론적 중요성을 검토한다. ‘개체군 사고’란 개체군 내 상이한 변이들의 빈도와 분포를 통해 대상 집단의 특성을 파악하는 사고방식이다. 이는 ‘유형론적 사고’에 기반해 대상의 특성, 차이, 다양성을 인식하는 일상의 직관과 상식에 반한다. 그러나 과학의 미덕은 직관과 상식을 넘어 세계를 보다 체계적으로 설명하는 데 있다. 오늘날 개체군 사고는 종교와 문화를 진화인지적 관점에서 설명하려는 다양한 시도(밈이론, 표상역학, 유전자-문화 공진화이론, 인지종교학 등)에도 큰 영향을 미치고 있다. 우리의 직관과 상식은 종종 특정 종교와 문화의 고유하고 본질적인 특성을 떠올리기 쉽다. 그러나 실제 현실의 모든 종교와 문화는 한 인구집단 내 상이한 개인들의 다양한 사고 및 행동의 변이들 그리고 그 상호작용의 결과다. 따라서, 변이의 통계적 빈도와 분포에 주목하는 개체군 사고를 적극적으로 도입하여 종교와 문화의 과학적 탐구를 더 발전시킬 필요가 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문은 ‘자본주의 경제학’(혹은, ‘한계주의 경제학/접근법’)의 특징을(1) 개체주의, (2) 개인의 합리성, (3) 가치중립성, (4) 자기이해 추구, (5) 사회적 효율성, (6) 경제활동에 대한 일방향적 이해로 정리하고, 이특징 간의 연결고리와 그것들이 지니는 한계를 논한다. 자본주의 경제학이 지니는 궁극적인 한계는 경제의 ‘효율성’을 강조하는 가운데 사회전체의 ‘합리성’(공정성, 사회정의)를 담보하지 못한다는 데에 있다. 이논문은 이런 한계가 경제적 문제의 근원을 ‘희소성’에서 찾는 한계주의박만섭_ 자본주의 경제학의 특징과 한계 87 『불교철학』 (Journal for the study of Buddhist Philosophy) 제8집, pp.87~119. 서울 : 동국대 세불연, 2021.04.30 연구 논문자본주의 경제학의 특징과 한계* 박만섭(고려대 경제학과 교수) 1) * 이 논문은 2021년 3월 20일 동국대학교 세계불교학연구소의 제19차 학술대회 “불교학과 경제학의 만남과 대화”에서 발표되었다. 지정 논평자와 학회 참여자의 평에 감사를 드린다. 유감스럽게도 불교에 문외한인 저자이기에 논문에서는 불교에 관한 내용이 전무하다. 그러나 자본주의 경제체계를 분석하는 대표적 경제학 접근법의 특징을 소개하고 그 한계를 비판적으로 밝히는 이 논문을 통해 불교와 불교학에 정통한독자들이 불교학과 경제학 사이의 연결고리(그것이 긍정적이건 비판적이건)를 찾아낼 수 있기를 바란다.88 불교철학_ 제8집(2021.04.30) 접근법의 특징에서 기원한다고 주장한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구에서는 사용자 경험을 증가시키는 액션 게임을 설계하는 것을 목표로 한다. 게임의 몰입감을 높이기 위해, 사용자가 이용하는 게임의 특징을 분석, 각 특징을 참고하여 게임의 시스템적, 시각적 특징을 설계한 것이 특징이다. 제안 방법은 유니티 3D를 이용하여 게임 개체 간 상호작용 시스템을 구현하였고, 사용자가 게임에 몰입할 수 있는 방향으로 설계하였다. 게임의 시각적 요소를 통한몰입을 유도하기 위해 2차원 오브젝트 및 플레이어를 3차원 공간에 배치하였고, 공간 내 개체와 사물이 광원에 실시간으로 반응할 수 있도록 2차원 동적 광원 셰이더를 추가하여 몬스터와 플레이어간 전투 규칙과 몬스터의 행동 패턴 충돌 감지, 이벤트 감지로 구성하였다. 제안 방법은 구현 논문으로 사용자 경험을 반영하였고, 사용자의 행동 유도성을 이끌 가능성을 보여주었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "남한지역 청동기시대 매장유구에서 화장된 인골 및 화장과 관련된 것으로 추정되는 피열흔, 소토, 목탄, 재 등의 검출 사례가 증가됨에 따라 화장묘에 대한 보다 구체적인 접근이 시도되고 있다. 그러나 기존 연구는 유사한 구조의 화장묘에서 관찰되는 화장 잔존물의 차이에 소홀해 당시 화장관행의 다양성과 특수성 이해에 한계를 지닌다. 이에 본고에서는 우선 기존의 화장묘 형식분류안을 재검토하여 당시 화장관행 이해에 보다 적합한 형식분류안을 제시하였다. 다음 각 형식의 시공간적 분포상을 검토하고, 초기 집약적 농경사회에서의 매장 및 화장 관행에 대한 기존 연구 성과를 참조하여 당시 화장관행의 다양성 및 특수성에 접근하였다.\n남한지역 청동기시대 화장묘는 석관이나 토광 안에서 피열흔이 확인된 A형식, 화장흔이 있는 수혈 위에 매장주체부형 구조물이 마련된 B형식, 화장흔이 있는 수혈 옆에 매장주체부형 구조물이 축조된 C형식, 석관이나 토광 안에서 피열흔 없이 골편이나 목탄 등이 검출된 D형식으로 분류된다. 남한지역에서 화장묘는 기원 전 10세기를 전후하여 유행하기 시작하는데, 지석묘와의 높은 상관성을 보인다. 당시는 인적, 물적 자원에 대한 공동 투자와 관리가 필수적으로 요구되었던 집약적 농경사회로의 변화가 가속화된 시기로서, 화장관행에서 사자의 개인적 정체성보다 관계적 정체성이 중요하게 여겨졌을 수 있다. 이러한 상황에서 지석묘 축조나 기념을 위해 대규모 인원이 모였을 때 노천에서 이루어진 화장은 몸의 물리적 변형과정에 대한 강렬한 집단적 기억을 형성했을 것이다. 그 잔존물 중 일부는 친연, 협업, 동맹 관계의 형성이나 재확인 또는 재협상 과정의 일환으로 배분하고, 다른 일부는 지석묘 안 또는 인근에 매장함으로써 개체적 존재의 일시성이 지석묘를 통해 표상되는 집단성 및 영속성과 대조되어 양자가 더욱 부각되는 효과를 낳았을 수 있다. 같은 맥락에서 B형식과 C형식 화장묘의 화장수혈 위나 옆에 마련된 매장주체부형 구조물은 육화된 개체로서의 시신이 원래놓여 있어야 할 자리에 ‘없고’ 그 아래나 옆에 재로 변해 묻혀 ‘있는’ 상태를 대조적으로 강조하기 위한 장치로 이해된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "정보추출은 문헌 내에 존재하는 개체명을 인식함과 동시에 이들 간의 의미적 관계까지도 식별하여 최종적으로 문헌 내에 포함된 의미적 트리플을 자동으로 추출하여 활용할 수 있으므로 문헌에 대한 심층적인 분석과 이해에 많은 도움을 줄 수 있다. 그러나 지금까지 대부분의 정보추출에 대한 연구는 개체명 인식과 관계추출이 개별 연구로 각각 분리되어 진행되었으며, 그 결과 입력 문헌에 대한 정보추출의 최종 출력인 의미적 트리플 추출 성능에 대한 객관적이고 정확한 평가가 제대로 이루어지지 않았다. 이에 본 논문에서는 진료 기록 문헌에 나타나는 개체명과 그들 간의 관계를 트리플 형태로 직접 추출할 수 있는 종단형 정보추출의 2가지 모델인 파이프라인 및 결합형 모델을 구축하는 구체적인 방법론을 제시하고 성능 비교 실험을 진행하였다. 우선 파이프라인 모델은 양방향 GRU-CRFs를 활용한 개체명 인식 모듈과 다중 인코딩 기반 관계추출 모듈로 구현되었고, 결합형 모델을 위해서는 다중 헤드 레이블링 기반의 양방향 GRU-CRFs이 적용되었다. 두 가지 시스템을 바탕으로 진료기록 문헌 내의 개체명과 관계를 모두 태깅하여 구축된 i2b2/VA 2010 데이터셋을 활용한 비교 실험에서 파이프라인 모델의 성능이 5.5%(F-measure) 더 높게 나타났다. 추가적으로, 대규모 신경망 언어모델과 수작업으로 구축된 자질 정보를 활용한 최고 수준의 기존 시스템과의 비교 실험을 통해, 본 논문에서 구현한 종단형 모델의 객관적인 성능 수준을 파악할 수 있었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 지리산국립공원 서부지역 일원의 구상나무 개체군 생육동태를 파악하기 위하여 군락 내 종조성, 개체군 동태, 비대생장, 활력도 및 피압도 등을 분석하였다. 2011년 봄철 가뭄, 2012년 볼라벤과 산바의 역대급 태풍 등이 2014년 이후 구상나무의 고사, 생육 쇠퇴, 활력도, 그리고 군락의 종조성 변화 등에 직⋅간접적인 영향을 미치는 것으로 관찰되었다. 또한 덩굴성 식물인 미역줄나무의 피압 또한 구상나무 쇠퇴에 영향을 미치는 것으로 나타났다. 특히 서부지역 내에서도 미소 지역별 고사 정도는 다르게 나타났으며, 수령이 어린 구상나무 집단에서는 안정적으로 개체군이 유지되는 특성을 보였다. 고사율이 높은 지역들은 신갈나무, 사스래나무 등과 같은 활엽수종으로의 천이 양상을나타냈고, 이와 같은 활엽수종의 경우 동일한 환경 이벤트에 쇠퇴하는 경향을 보이지 않아 차이를 보였다. 본 연구 결과를 통해 구상나무 고사에 직⋅간접적으로 영향을 미쳤던 환경 이벤트를 추정할 수 있었고, 구상나무 생활사가 이와 같은 환경 이벤트에 견딜 수 있는 내성을 결정하는데 중요함을 파악할 수 있었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "개별적으로 이동하는 노드들과 그룹으로 이동하는 노드들로 함께 구성된 에드 혹 네트워크에서 멀티캐스트 어플리케이션을 수행하는 노드들은 비슷한 이동 특성을 갖는 그룹에 속하는 경우가 많다. 그룹 이동성은 확장성을 향상시키고, 프로토콜 오버헤드를 줄이는 좋은 방법 중 하나이다. 본 논문에서는 이질적 그룹 이동성을 갖는 네트워크에서 동일한 그룹 이동성을 갖는 노드들을 다중 인터페이스의 단일 개체로 간주하여 멀티캐스트 트리를 구성하는 멀티캐스트 구조를 제안한다. 논리적 협업 개체 기반 멀티캐스트 구조의 적용은 비계층적 멀티캐스트 구조를 유지하면서 계층적 멀티캐스트 구조로부터 얻을 수 있는 확장성, 멀티캐스트 트리 단순화, 프로토콜 오버헤드 감소 등을 수용하며, 임의의 노드가 입출력 인터페이스 역할을 함으로서 데이터 포워딩 부하를 여러 노드로 분산시켜 전력 소비의 집중현상을 막을 수 있다. 시뮬레이션을 통하여 다중 인터페이스를 갖는 논리적 협업 개체 기반의 멀티캐스트 프로토콜이 효율적인 데이터 전송과 프로토콜의 확장성을 제공하는 것을 볼 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본고는 한국 근대소설에 대한 진화론적 접근이라는 측면에서 염상섭의 「만세전」을 살핀다. 진화론을 수용한 염상섭은 생물모델에 근거하여 자신과 사회를 인식한다. 개체선택의 관점에서 「만세전」은 인지경쟁을 펼치는 동종 개체들 사이의 이기적 생존전략을 보여준다. 그러나 집단선택의 관점에서 「만세전」은 민족구성원의 이익을 위해 이타적으로 희생하는 인물을 보여주지 못한다. 주인공 이인화는 가족윤리를 결여하며 도덕적 선악보다 호오가치에 집착하는 심리적 이기주의자임이 밝혀진다. 작품 결말부의 편지는 정자와의 관계를 청산하려는 이인화의 계산된 진술이며, 이인화가 추구하는 자기구원 혹은 신생은 몸과 세계의 상실이라는 역설에 이른다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 글은 도덕공동체의 확장에 따른 인간 이외의 자연적 존재들에 대한 인간의 도덕적 의무에 대해 논의한 것이다. 필자는 도덕공동체에 대한 인간중심주의적 접근방식과 인간 이외의 자연적 존재들을 둘러싼 도덕적 의무에 관한 세 가지 논변을 검토한다. 이러한 검토를 통해 도덕적 의무 없음의 논변은 이성적인 인간만을 도덕적 의무의 대상으로 간주하며, 간접적인 도덕적 의무의 논변은 인간성에 대한 의무를 다하기 위해 자연적 존재들에 대해 도덕적 의무를 가질 것을 주장하고 있음이 드러난다. 그리고 직접적 의무의 논변은 크게 개체론적 접근방식과 전체론적 접근방식으로 나뉘는데, 개체론적 접근방식은 감각능력, 권리, 생명체의 선에 입각하여 자연적 개체들이 도덕적 의무의 대상임을 주장하며, 전체론적 접근방식은 생명공동체의 통합성, 안정성, 아름다움의 보전이라는 대원칙에 입각하여 전체로서의 자연에 대한 도덕적 의무를 역설하고 있다. 필자는 ‘부분적으로 전체론적인’ 접근방식이 도덕공동체의 확장에 따른 자연적 존재들에 대한 인간의 도덕적 의무에 대하여 보다 타당한 논변이 될 수 있음을 밝히고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "以前的学者从英语等印欧语的观点考察汉语的数范畴, 结果认为汉语缺乏数范畴｡ 本论文从语言类型学的观点分析汉语的数范畴, 这种分析可以客观地描述汉语数范畴的普遍性和个别性｡ \n汉语的数标志‘们’只能附加在人称代词和指人名词的后面｡ 这不是汉语的独特现象, 是遵守语言类型学的一条规则 - 有生性阶层(Animacy Hierarchy) - 的现象, 是世界语言普遍的现象｡ 汉语的名词指一个集体, 这个集体是由一个或多个个体构成的｡ 汉语的‘NP们’则指由不定数的个体构成的集体, 需要个体性的前提｡ \n汉语的数范畴和有定性(definiteness)也有密切关系, 加‘们’的名词具有有定性｡ 这也不是汉语的独特现象, 世界上不少语言也呈现出相同现象｡ \n从语言类型学的观点观察可以知道, 汉语有关数范畴的现象是世界语言普遍的现象｡",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 개체의 합리성이 전체에서는 비합리성으로 나타날 수 있다는 복지모순의 관점에서 복지사업 정책설계, 복지급여 전달체계 그리고 복지사업 급여기준과 관련된 주요 문제점을 사례로 들어 살펴보았다. 복지사업 운용상에 나타나는 복지모순은 복지정책 간 연계 및 조정이 결여되어 정책목표와 집행과정에서 나타나는 괴리로서 복지사업의 복잡성과 특수성으로 인해 다른 정책영역보다 해결이 쉽지 않다. 하지만 복지자원의 효율적인 활용과 대국민복지체감도의 증진을 위해 복지모순에 대한 개선이 무엇보다 필요하다. 이를 위해 본 연구에서는 복지정책 간 통합설계 및 전달체계 개선을 위해 유사･중복 복지사업의 정책조정과 복지사업 관련 정보의 효율적인 연계, Welfare Cap(복지상한선) 제도의 도입, 급여기준의 완화 및 조정의 필요성을 제시하였다. 그리고 맞춤형 복지서비스를 제공하기 위해 공공-민간부문의 통합사례관리의 역할강화에 대한 정책적 대안을 제시하였다. 이와 같이 본 연구는 복지정책의 설계와 운영의 관점에서 복지모순을 설명하고 이에 대한 정책적 대안을 제시하였다는 점에서 의의를 찾을 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 도산의 인간관에 관한 글이다. 도산의 인간관은 도산사상의 출발점을 이룰 정도로 도산연구에 있어서 중요성을 지니고 있다. 도산의 인간관을 모르고 도산사상을 이해하는 것은 불가능하다. 그만큼 한 인물의 사상 연구에 있어서 인간관은 가장 본원적이고 기초적인 인식이라고 할 수 있다. 도산의 인간관은 크게 세 가지 차원으로 나누어 파악할 수 있다. 첫째, 도산의 인간관은 자유에 의한 주체적 인간을 그 내용으로 하고 있다. 자유는 도산사상의 근간을 형성한다. 자유에 의해 주체적 인간이 표출된다. 자유가 없는 곳에 주체적인 인간의 성립은 불가하다. 둘째, 도산의 인간관은 개체를 전제한 민주적 인간을 그 주요 내용으로 하고 있다. 개체를 중시하면서 전체를 강조하는 것이 바로 민주주의이고 이를 기반으로 성립된 인간이 바로 민주적 인간이다. 이런 점에서 도산의 인간관은 민주주의에 대한 도산의 투철한 신념을 기반한 것이다. 마지막으로 그의 인간관은 국가에 책임지는 주인적 인간을 그 내용으로 한다. 주인적 인간은 그의 핵심적 인간관을 구성하는 인간이다. 주인과 여객의 차이를 그는 책임에 있다고 언급하고 있다. 단순히 독립적인 인간만을 추구하고 있는 것이 아니라 국가사회에 대한 책임을 지는 주인의식을 가진 인간을 도산은 추구하고 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문의 목적은 라이프니츠 철학 체계 내에서 식별 불가능자 동일성의 원리와 우연 속성의 개체성의 원리가 어떻게 모순 없이 이해될 수 있는가를 고찰하는 것이다. 이 두 원리는 속성의 존재론적 지위에 관해 서로 모순된 주장을 하는 것으로 보인다. 그러나 필자는 이 두 원리가 서로 모순 없이 라이프니츠 철학 체계 내에 포함될 수 있음을 보이고자 한다. 이를 위해 필자는 다음과 같은 점을 증명하고자 한다. 즉 라이프니츠에 있어 식별 불가능자 동일성의 원리는 존재론적인 원리가 아니라 인식론적인 원리이다. 이러한 사실은 우리로 하여금 왜 이 원리가 창조된 개체에 “간접적으로” 적용될 수 있으며, 또 왜 이 원리가 우연 속성의 개체성의 원리와 모순을 일으키지 않는지를 이해할 수 있게 해 준다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The purpose of this paper is to investigate the comparative constructions in English and Korean in terms of two basic semantic distinctions. First the distinction between individual comparison and degree comparison is reviewed. It is claimed that the distinction is useful for the explanation of English comparatives. For Korean comparatives, however, the notion of individual comparison plays an important role in explaining phrasal and clausal comparatives, but sometimes the notion of degree comparison is also needed. Second, the distinction between implicit and explicit comparison is reviewed, and it is claimed that the distinction is useful in explaining the syntactic, semantic, and pragmatic differences in the two types of comparison, while for Korean comparatives the distinction is not so useful for the syntactic analysis as well as for the explanation for semantic and pragmatic differences. To conclude, there are common properties in the formation of comparatives in English and Korean, but there are also some differences in the use of some semantic distinctions for English and Korean comparatives",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구의 목적은 새마을운동 기록물을 위한 개체기반 온톨로지 검색시스템의 설계와 그 성능평가이다. 개체기반 온톨로지 설계를 위하여 Protege editor4.1을 사용하였고, 새롭게 구현된 검색시스템의 성능은 단문5개, 장문10개의 질의유형으로 기존 나라기록의 키워드 기반 검색시스템과 정확률과 재현율을 비교하여 분석하였다. 분석결과 개체기반 온톨로지 검색시스템이 정확률과 재현율 모두 키워드 기반 시스템보다 우수한 성능을 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 보다 근본적인 차원에서 동양미학과 서양미학과의 소통지점을 찾음으로써 동서양 미학 공동의 학술적 발판을 마련하는 것에 그 궁극적 목적이 있으며, 그 소통지점을 ‘정(情)’ 개념에서 찾고자 한다. 그레이엄(A. C. Graham)을 비롯한 적지 않은 국제 한학자들은 고대 중국의 ‘정’개념에 대해서 꾸준한 관심을 보여 왔으며 이를 서양사상에서의 감정(emotion) 개념과 연계시키려는 시도를 해 왔다. 그러나 대다수의 해외 한학자들의 ‘정’에 관한 이해는 행위의 결정과 직접적 관계가 있는 ‘도덕감정’의 범주에 머물러 있어, 개체감정이 윤리적 목적성에 귀속되는 한계를 지닐 수밖에 없다. 이에 본 논문은 『성자명출』을 중심으로 한 중국 고대 ‘정’ 개념의 연원과 의미의 분립 및 전환과정에 관한 고증을 통해, 중국 고대의 ‘정’ 개념이 실제로는 표상적으로 드러나는 인간의 희노애락 감정을 넘어, 진리인식과 도덕행위의 문제, 즉 진과 선의 문제에 직접 관여하고 있음을 밝힌다. 이를 통해 동양의 ‘정’ 개념과 감성학에서의 인간감정에 관한 논의가 진·선·미 3자 간의 합일이라는 측면에서 서로 소통될 수 있다는 가능성을 제시한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "동학의 인내천관은 인간이 처음부터 전체아로서 태어나면서 지속적으로 변화해가는 무궁자임을 말한다. 이는 근대처럼 본유적으로 주어지는 실체적인 자아를 부정하는 동시에 개체와 전체, 객관과 주관, 마음과 몸의 통일을 이루고 있다. 동학은 인간이 한울이고 인간의 마음이 곧 세계이며 성․심․신의 결합체이기 때문이다. 흔히 우리는 근대사유처럼 세계와 마음을 분리시키고 전체와 개체, 주관과 객관을 대립시켜 분리된 허상에 고착하여 끊임없이 자아를 확산하지만 동학은 이러한 이원론을 거부한다. 이러한 이원론의 거부는 탈근대적 맥락에 서있다 할 것이다. 그러나 한편 동학은 탈근대가 갖는 극단적 상대성이나 몰주체성과는 또 다른 입장을 지닌다. \n교육은 이제 이원론적 근대교육의 담론에서 만물일체의 교육담론으로 전환시켜야 한다. 자아를 타인과 자연에 대하여 무한히 확장시키고자 하는 분리된 개체적 삶과 이성주체로서의 삶보다 한울 전체로서의 본래아를 발현시키는 ‘자유롭고도 더불어 함께 창조하는 삶’을 전망해 주어야 한다. 즉 개체위주의 분리담론이 아닌 모두의 생명이 하나로 연결된 한울담론으로 바뀌어져야 한다. 동학의 탈근대성과 연관한 교육의 전망은 한울공동체 속에서 개체의 무한한 성장과 한울 전체의 성장이 분리될 수 없다는 자각아래 세상을 생성시키고 자신을 끊임없이 해방시키는 데서 찾아질 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "정보통신기술이 발달함에 따라 전투공간에서 생산·공유되는 정보 및 체계 내 저장·관리되는 정보의 양이 폭발적으로 증가하였다.\n이는 지휘관이 전장상황 인식 및 지휘결심을 수행하는 데에 활용할 수 있는 정보의 양이 증가하였음을 의미하지만, 한편으로는 지휘관의 정보 부담을 증가시킴으로써 신속한 지휘결심을 저해하는 요인이 되기도 한다. 이러한 한계를 극복하기 위해, 본 연구에서는지휘관이 전장상황 보고 문서를 수신하였을 때, 체계 내 보유 문서 중에서 이를 해석하는 데에 도움을 줄 수 있는 문서들을 자동적으로 탐색 및 선별하고 요약하는 기법을 제안하였다. 첫째로, 개체명 인식 방법을 활용하여 수신된 전장상황 보고 문서로부터 개체들을식별한다. 둘째로, 각 개체와 관련된 체계 내 보유 문서들을 탐색한다. 셋째로, 언어모델과 협업 필터링을 활용하여 이러한 문서들을선별한다. 이때 언어모델은 수신된 보고 문서와 탐색된 문서 간의 유사도를 산출하기 위해 활용되고, 협업 필터링은 지휘관의 문서열람 히스토리를 반영하기 위해 활용된다. 마지막으로, 선별된 문서들로부터 각 개체가 포함된 문장을 선별하고 이를 정렬한다. 실험은 군 문서와 비슷한 특성을 지니는 학술논문들을 활용하여 수행하였고, 제안된 방법의 타당성을 검증하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "생명윤리와 환경윤리는 동시대, 동공간을 배경으로 현실적인 사회문제를 해결하고자 등장한 학문들이었지만 현재는 그 거리가 아주 멀게 느껴지는 학문이 되고 말았다. 생명윤리, 환경윤리 각자가 서로 간의 학문적 교류 없이 자신들의 길만을 걸어갔기 때문이다. 양 학문이 서로 간의 교류를 통하여 상호보완해 나간다면 더욱더 생산적인 연구 성과를 거둘 수 있을 텐데도 여전히 양측은 독립독행하고 있는 것이 현 상황이다. 이러한 상황에 대한 문제의식 하에 양측이 상호보완해 나갈 수 있는 길을 모색할 수 있도록 양 학문을 비교 검토하고, 거기서 파악된 차이와 대립을 통일할 수 있는 절충점을 찾는 것이 이 글의 목적이다. 양 학문을 비교 검토한 결과 ①생명윤리는 인간중심적 경향이 강한 반면, 환경윤리는 탈인간중심적 경향이 강하고, ②생명윤리는 개인에게 자기결정권이라는 형식으로 어떤 의미에서의 절대적 권한을 부여하는 반면, 환경윤리는 개인의 자기결정권을 부인해서라도 지구 전체의 이익을 지키려 한다는 큰 차이점이 있었다. 필자는 전자의 입장 차이를 해소할 수 있는 절충점으로는 ‘수정된 인간중심주의’를, 후자의 입장 차이를 해소할 수 있는 절충점으로는 ‘포섭기준과 비교기준의 융통성 있는 적용 방식’을 제시하고 그 근거를 밝히고자 하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 인공지능의 몇 가지 문제들을 비판적으로 스케치한다. 비판의 영역은 크게 세 가지인데, 그것들은 각기 기계 학습과 통계적 학습이론, 인공지능의 윤리적문제들, 그리고 인공지능을 둘러싼 정치경제학적 문제들이다. 이 글은 현재 성취된인공지능 기술을 존중하고 감안한다는 취지에서 ‘약한 인공지능’과 ‘사회적으로 신체화된 인지’를 전제하며, 또 부르주아적 방법론적 개인주의에 대해서 비판적 입장을 취한다.\n기계 학습 및 통계적 학습 이론은 그 이론적 전제인 베이지언 확률이 주관주의적이라는 점에서 철학적으로 취약한 토대 위에 서 있다. 또 비즈니스 인텔리전스에의해서 추동되는 데이터 마이닝은 인구의 상당수를 배제하거나 차별하고 있는 데이터에 의존하고 있다는 점에서 큰 문제를 안고 있다.\n인공지능의 윤리에 있어서는 만약 인공지능 에이전트가 인간과 같거나 그 이상의지적 능력을 갖춘다면 인간과 같은 윤리적 지위를 지녀야 한다. 그런데, 정작 경계해야 할 것은 군사적으로 이용되는 지능적 에이전트가 아니라 자본가 역할을 할수도 있는 지능적 에이전트다. 현재의 지배-종속 구조가 타파되지 않은 채 인공지능기술이 지배하는 사회가 도래하는 것이야말로 윤리적으로 큰 문제다.\n정치경제학적 문제 영역에 있어서 인공지능 기술의 도래에도 불구하고 인간에게고유한 것으로 남아 있을 가능성이 큰 분야들은 주로 구조화된 데이터나 알고리즘으로 처리되기 힘든 지식과 관련된 노동, 육체적 숙련을 요하는 노동, 감정적 접촉이 중요한 노동이다. 인공지능 기술 등이 마르크스주의에 대해 제기하는 도전적 과제들은 크게 한편으로 가치론, 그리고 다른 한편으로 자본주의의 구조적 위기론으로 나뉠 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "‘비교’는 하나의 대상을 다른 대상과 연결하여 인식하는 행위라고 정의할 수 있다. 이러한 비교가 문장으로 표현될 때는 일정한 형식을 갖추어야 한다. ‘오늘 날씨가 어제만큼 춥다’에서 ‘오늘 날씨’, ‘어제’, ‘춥다’ 등은 비교를 나타내는 요소라고 할 수 있다. 그런데 보통의 경우 비교의 대상이 되는 두 개체는 ‘오늘 날씨’와 ‘어제 날씨’처럼 서로 다른 것이 일반적이다.\n이러한 전형적인 비교 구문은 아니지만 ‘내가 지금 웃는 게 웃는 게 아니다’와 같은 경우 ‘비교’의 행위가 나타난다. 첫 번째 ‘웃는’은 ‘대상’이고 두 번째 ‘웃는’은 ‘비교 대상’이며 ‘웃는 게 아니다’는 ‘비교 결과’를 지시하는 언어 표현이다. 이러한 비교는 대상과 비교 대상이 동일한 개체라는 점에서 일반적인 비교 구문과는 차이가 있다. 이러한 비교가 가능한 것은 이러한 표현에서는 개체를 비교하는 것이 아니라 속성을 비교하기 때문이다. ‘웃는’의 경우, 첫 번째와 두 번째가 서로 속성에서 차이가 있으며 그 속성이 비교가 된다고 설명할 수 있다.\n개체의 속성을 비교하는 구문에서는 주로 문맥이나 상황에 의해서 의미의 해석이 결정된다는 특징이 나타난다. 즉 개체의 어휘적 의미가 그대로 해석되기보다는 문맥에서 부여되는 상황에 따라 의미가 해석된다는 것이 특징이다. 예컨대 ‘노래가 노래 같지 않다’와 같은 문장 구조에서 대상인 ‘노래’는 화자가 어떠한 등급도 부여하지 않은 무표적인 것으로, 비교 대상인 ‘노래’는 ‘노래 같다’와 같은 언어 표현에서 최선의 속성을 가진 것으로 표시될 수 있다. 또한 다른 요소의 한정이나 수식을 받는 경우와 그렇지 않은 경우의 의미 해석이 달라지는 일이 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 딥러닝 기법을 활용하여 범죄 수사 도메인에 특화된 개체명 인식 모델을 개발하는 연구이다. 본 연구를 통해 비정형의 형사 판결문·수사 문서와 같은 텍스트 기반의 데이터에서 자동으로 범죄 수법과 범죄 관련 정보를 추출하고 유형화하여, 향후 데이터 분석기법을 활용한 범죄 예방 분석과 수사에 기여할 수 있는 시스템을 제안한다. 본 연구에서는 범죄 수사 도메인 텍스트를 수집하고 범죄 분석의 관점에서 필요한 개체명 분류를 새로 정의하였다. 또한 최근 자연어 처리에서 높은 성능을 보이고 있는 사전학습 언어모델인 KoELECTRA를 적용한 제안 모델은 본 연구에서 정의한 범죄 도메인 개체명 실험 데이터의 9종의 메인 카테고리 분류에서 micro average(이하 micro avg) F1-score 99%, macro average(이하 macro avg) F1-score 96%의 성능을 보이고, 56종의 서브 카테고리 분류에서 micro avg F1-score 98%, macro avg F1-score 62%의 성능을 보인다. 제안한 모델을 통해 향후 개선 가능성과 활용 가능성의 관점에서 분석한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문에서는 약물의 시판 후 이상 반응을 모니터링하기 위해 약물 리뷰 데이터로부터 약물 이상 반응을 탐지할 수 있는 방법을 제시하였다.\n부정적인 약물 리뷰는 주로 약물 이상 반응을 언급하고 있다는 점을 고려하여 약물 리뷰들을 감성 분석하여 부정 리뷰를 추출하고, 부정 리뷰에사전 기반 추출과 개체명 인식 기법을 적용하여 약물 이상 반응을 탐지하였다. 제안하는 BERT+ 알고리즘으로 부정 리뷰를 판별한 다음, MedDRA표준 의학 용어 사전을 활용해 이상 반응 단어를 찾고, 개체명 인식 기법을 사용하여 구로 표현된 이상 반응 표현을 탐지하였다. 실험을 위해비스테로이드성 소염진통제 세 종류의 약물 리뷰를 약물 리뷰 사이트로부터 수집하여 테스트하였으며, 실험 결과는 약물 리뷰를 통한 약물 이상반응 탐지가 현재의 약물 감시 체계의 한계점을 보완할 수 있음을 보여준다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "현대사회를 지배하는 디지털 패러다임은 학문의 영역에도 커다란 영향을 미치고 있으며, 분과학문 간 경계를 넘나드는 통합연구를 요청하고 있다. 이러한 현상은 융합학문이라는 특성을 지닌 문화콘텐츠학의 정체성에 관한 질문을 제기하며, 디지털 매체와 연동된 문화콘텐츠의 생산⋅전달⋅향유 방식에 주목하게 한다. 이에 본 연구는 매체에 담긴 문화적 내용 물을 의미하는 문화콘텐츠의 보편적 정의를 구체화하여, 디지털 매체를 기반으로 하는 문화콘텐츠 연구의 필요성과 구체 적인 내용을 제안한다. 본고에서 제안하는 연구내용은 디지털 생태계의 세 가지 구성요소로 설정한 ‘디지털 인터페이스’, ‘디지털 기술이미지’, 그리고 ‘탈경계적 디지털 개체’이다. 첫째로 디지털 인터페이스는 단순한 장치로서의 디지털 매개 체뿐 아니라 사용자에게 영향을 미치는 디지털 행위자로 간주하는 관점이며, 둘째는 시뮬라크르의 위상을 넘어선 디지털 기술이미지의 새로운 존재론적 위상에 관한 내용이며, 셋째는 디지털 가상세계에서 활동하는 디지털 개체들의 내부적 상호작용을 기술할 것이다. 전술한 내용을 통해 본 연구는 P. 레비의 표현대로, 문화콘텐츠학이 ‘살아있는 현존의 학’으로 서 자연 생태계와 디지털 생태계가 얽혀있는 세계의 ‘모든 것’을 탐구하는학문으로 나아가야 함을 논구한 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "제주 선인장군락지는 동아시아 지역에서 식물지리학적으로 특이적인 분포를 보이고 있으며, 국내 유일한 자생지로 특유의 고유경관을 형성하고 있다. 그럼에도 불구하고 자생지 일대의 선인장 분포 현황에 관한 정밀조사가 이루어진 바 없으며, 서식지 내 혼생식물의 다양성 및 선인장 개체군 분포와의 상호 관계에 관한 조사가 이루어진 바 없다.\n본 연구는 월령리 선인장군락지 내 관속식물의 다양성을 파악하고 선인장의 분포 실태 및 출현 경향을 기록하고자 하였다. 선인장의분포 특성과 함께 혼생 식물종 가운데 서식처의 특성을 반영하는 종의 특성과 선인장 개체군의 유지에 위협이 되거나, 선인장 보존에있어서 관리의 대상이 되는 생물 및 환경 요소에 관하여 논의하고자 한다. 식물상 확인을 위한 현장조사는 2015년 6월부터 2017년9월까지 식물계절을 고려하여 총 6회에 걸쳐 이루어졌다. 식물에 대한 배열순서와 학명의 기재는 Engler 분류체계에 따라 정리하였으며, 종의 한글명은 한국표준식물목록을 채택하였다.\n연구결과 제주 월령리 선인장군락지는 선인장이 우점하는 지역 고유의 특징적인 상관을 형성하고 있었다. 관속식물상은 53과104속 109종 15변종 1품종으로 총 125분류군을 확인하였다. 환경부 지정 멸종위기식물은 분포하지 않았다. 양치식물은 꼬리고사리, 도깨비쇠고비로 2종이 확인하였으며, 나자식물은 서식하지 않았다. 피자식물이 총 123분류군이 나타났으며, 쌍자엽식물이 91분류군, 단자엽식물이 32분류군으로 밝혀졌다.\n선인장 보호지역 내 전체 487개 격자 중 59.3%에 해당하는 289개 격자에서 선인장 분포를 확인하였으며, 5-95%의 다양한 피도분포를보였다. 미출현 격자의 대부분은 현무암 암반이 노출된 해안지역으로, 반복적인 파도의 영향을 받아 토심이 발달하지 못하거나 극히제한적인 지역과 인위적 시설물 또는 초지, 관찰로 등이 조성된 지역이었다. 반면 선인장이 70% 이상 높은 우점도를 보이는 구간은총 71개 격자 지점으로 전체의 14.5%를 차지하고 있었다.\n선인장은 보호 지역 내에서 무작위분포를 나타내며, 미소서식처 환경에 적응되어 생육가능입지를 따라 기회주의적으로 분포하고있는 것으로 확인되었다. 군락지 내 선인장은 대부분 단위생식(parthenogenesis)에 의존되어 있음을 고려할 때 현재의 분포는 군락지내 선인장의 잠재분포가능 영역을 투영하는 결과로 판단된다. 현장조사결과를 바탕으로 보호지역 보존 및 보호를 위한 관리방안을제안하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문의 목적은 호굉(胡宏, 1105-1161)의 성론(性論)의 본의를 고찰하는 데 있다. 호굉의 성에는 ‘우주 본체로서의 성’과 ‘개체에 구비된 본성’이라는 두 가지 함의가 있다. 성은 천지 수립의 근거이며, 만물에 내재되어 각기 다른 모습으로 나타난다. 또한 호굉에게 도는 성과 마찬가지로 본체의 의미를 지니며 본성 외부에 있는 것이 아니다.\n 호굉의 성은 상대적 선악 개념을 넘어선 것이며, 지선의 의미를 갖는다. 또한 호굉에게 현실의 선악 개념은 성의 실현 여부에 따른 중절 및 부중절과 관련된다. 성인은 성을 이룰 수 있으므로 다가오는 사물을 사물로 대응하여 그 상황에 중절한다. 반면 범인은 그렇지 못하므로 중절하지 못한다. 이러한 중절과 부중절을 호굉은 각각 선과 악으로 규정한다. \n 호굉은 성을 지선이라고 분명히 말하지 않고서 성은 선악으로 규정할 수 없는 것이라 언급한다. 이는 후대의 논란을 발생시켰으며, 불교에서 세간의 선악을 바라보는 시각과 유사한 주장으로 보일 수 있다. 불교를 배척하고자 하였던 주희에게 성의 지선함을 명시하지 않은 호굉의 성론은 비판의 대상이 될 수밖에 없었다. 호굉에 대한 주희의 비판은 단지 그의 이론적 관심 때문만은 아니었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "Die vorliegende Arbeit behandelt das Verhältnis zwischen Tragödie und ästhetischer Bildung, das G. W. F. Hegel in seiner Ästhetik ausgehend von dem Begriff ‘Pathos’ begründet hat. Es wird untersucht, welche Wirkung die ethische Berechtigung des tragischen Handelns nicht nur auf dessen Subjekt sondern auch auf den Leser der tragischen Werke hat, in denen sich solches Handeln darstellt.\nDas tragische Handeln erweckt die Sympathie mit der sittlichen Berechtigung des Leidenden, indem sie uns diese Art des Mitleidens einflösst. Aus diesem Mitleiden ist, so Hegel, “das Prinzip der individuellen Freiheit und Selbstständigkeit erwacht [...], für die eigene Tat und deren Folgen frei aus sich selbst einstehen zu wollen.” Aber diese Kulturfähigkeit kann nicht von Hause aus gewonnen werden, sondern wird erst als Resultat von langem Lernen, Durchbildung und Übung erlangt.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 질베르 시몽동(Gilbert Simondon)의 기술 철학을 바탕으로 현대 조각의 개념이 어떻게 확장되고 있는지를 탐구하는 데 목적이 있다. 특히, 인간과 기술적 대상 사이에서 발생하는 다양한 현상을 조각과 예술 생명체의 가변적 형상을 통해 분석하고자 한다. 본 연구에서는 기술적 개체가 존재하는 환경에 따라 끊임없이 변화하고 적응할 수 있다는 점을 전제로 하며, 이러한 개념을 필립 파레노(Philippe Parreno)의 작품을 중심으로 고찰한다. 파레노의 작업을 통해 조각이 단순한 물리적 오브제가 아니라, 주변 조건에 따라 변화하는 기술적 개체로 기능함을 살펴본다.\n질베르 시몽동은 기술적 개체가 고정된 형태로 존재하는 것이 아니라, 개체화(individuation) 과정을 거치며 지속적으로 변화하는 존재임을 강조하였다. 그의 이론은 현대 조각이 전통적인 조형성과 물질성을 넘어 기술과 결합하여 보다 유동적이고 반응적인 특성을 지니게 되는 방향으로 발전하고 있음을 시사한다. 본 연구에서는 파레노의 《Voices》 전시에 등장하는 주요 작품들을 분석하여, 조각이 기술적 개체로서 다양한 요소와 결합하고 변화하는 과정을 고찰한다. 또한, 그의 작업에서 나타나는 조각의 가변성, 관람자의 개입에 따른 작품의 변화, 그리고 기술적 요소와의 융합이 조각 개념을 어떻게 확장하는지 논의한다.\n현대 사회에서 '휴먼이미지'는 인간과 기술적 개체 간의 관계를 시각적으로 재현하고 탐구하는 중요한 개념으로 자리 잡고 있다. ‘기술적 대상’은 AI나 ChatGPT와 같은 통제 불가능한 영역으로서의 대상이 아니라, 인간의 움직임, 감각, 경험이 기술적 매체와 융합하면서, 조각 또한 기존의 물질성을 넘어 보다 유기적이고 반응적인 형태로 진화하고 있다. 본 연구는 이러한 조각의 변화가 현대 조형예술에서 기술적 개체의 개념을 새롭게 정의하는 데 기여할 수 있음을 밝히고자 한다.\n궁극적으로, 본 연구는 현대 조각이 기술과 결합하면서 보다 역동적이고 변형 가능한 존재로 재구성되는 가능성을 조명하며, 조각이 기술적 개체로 기능할 수 있는 새로운 방향성을 모색하는 데 기여하고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문은 메타버스를 중심으로 디지털 가상세계가 야기하는 자아정체성의 변화와 그 의미를 해명한다. 먼저, 메타버스의 정의와 현황을 살펴보고, 자아정체성의 전통적 이해와 기술적 조건을 해명한 다음, 메타버스는 탈신체화된 다중정체성보다 확장된 현실세계의 체화되고 확장되고 분산된 자아성을 강화하고 나아가 인격적 개체로 특권화된 휴먼 자아를 인간-비인간 네트워크에 기반한 정보적 가분체의 포스트휴먼 자아로 변환하는데 기여함을 밝힌다. 결론적으로 이러한 포스트휴먼 자아의 존재 역량을 강화하기 위해서는 디지털 네트워크에서 관계 맺고 있는 비인간 존재자들에 대한 돌봄과 테크네(기예)를 갖추는 것이 필수적임을 논증한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글의 목적은 동인지   시와 시론  을 중심으로 하여 1950년대 초기 유치환의 시 세계의 변모 양상을 고찰하는 데 있다. 그간 유치환이 1930년대부터 1960년대에 이르는 한국 문단에서 활발한 시작 활동을 전개할 수 있었던 동력 중 하나로서 동인 활동에 주목한 바 있으나, 아직 그가 발행인으로서 주도적인 역할을 감행했던   시와 시론  에 관해서는 제대로 논의되지 못했다. 실제로 이 동인지는 외적인 측면에서 긴밀한 인적 네트워크를 바탕으로 실천적인 시 정신을 표방하고 있었으며, 내적인 측면에서 1950년대 초기 유치환의 시적 전환에 있어 일종의 가교역할을 하고 있었다는 점에서 중요하게 살펴볼 필요가 있다. 이를 고려하여 이 글에서는   시와 시론  에 수록된 유치환의 텍스트를 이전의 시집   보병과 더부러  (1951)와 이후의 시집   예루살렘의 닭  (1953)의 경계에 놓인 변증법적 산물로 바라보고자 했다. 보다 구체적으로, 유치환은   보병과 더부러  에서 이전의 시에 농후한 원시적 생명력을 반공 이데올로기의 기제로서 합리화하고자 했다면,   시와 시론   소재의 텍스트에서는 현대 문명 전반에 관한 비판적인 정신을 가지고 인간 본연의 자세를 회복하기 위한 의욕을 내비치고 있다. 그리고 그는   시와 시론   소재의 텍스트에서 개체의 존재 방식과 신의 존재 원리에 관한 인식의 맹아를 보여주고 있는데, 이러한 인식은   예루살렘의 닭  에서 독특한 신관을 바탕으로 우주 자연의 운행 방식을 모색하는 것으로 구체화 된다. 따라서   시와 시론  은 1950년대 유치환의 동인 활동 공백을 메울 뿐만 아니라 그의 시적 전환을 예고하는 과도기에 놓여 있다는 점에서 중요한 위상을 지닌다고 할 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 민주화와 시장화 속에서 발전해 온 한국 사회가 제도적, 절차적 민주주의에 머무르며 실질적 민주주의로 나아가지 못한 원인을 ‘적극적 자유’ 실현의 좌절에서 찾는다. 특히 청년 세대를 중심으로, 경쟁주의와 능력주의에 기초한 엘리트주의 교육이 한국 사회 내 불평등을 정당화하고 민주적 시민성 형성을 저해하고 있음을 사회학적으로 분석하였다. 이에 대한 기독교교육적 대안으로, 본 연구는 에리히 프롬이 사회학 및 정치철학적 개념으로 제시한 ‘도피의 메커니즘’을 비판적으로 수용하여, 소극적 자유를 극복하고 적극적 자유를 지향하는 ‘주체적 자아의 실현을 위한 프락시스 기반 기독교교육 접근’을 제안한다. 이 접근은 비지시적이며 관계 중심의 교육을 통해 학습자가하나님 나라와 세상 속에서의 이중적 책임을 통합적으로 자각하고, 기독교진리에 기반한 자유와 평등의 가치를 일상에서 실천하는 민주 시민으로 성숙하는 것을 목표로 한다. 또한 본 연구는 데이빗 트레이시의 비판적 상관관계 방법을 적용하여, 학습자가 하나님 형상을 닮은 존재로서 주어진 자유를 삶 속에서 ‘적극적 자유’로 실현해 가도록 돕는다. 이러한 기독교교육적 접근은 한국 사회에 만연한 일상의 파시즘을 극복하고, 나아가 실질적 민주주의의 회복과 한국교회의 공적 신앙 갱신에 기여할 수 있는 신학적, 사회적 대안을 제시한다는 데 그 의의가 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The topic of Intergovernmental external cooperation relations is significant one. It is a topic that will receive considerable attention from the outside management of local government. Because the reformative role of local government has shifted from the inside management to the outside management in these days. The impact on local government as a result of these shifts has increased. Another important aspect of these changes has been the greatly increased role of private providers. Many nonprofit providers have dominant positions in their locales.In relation to the base of these changes, the necessity of interdependence on intergovernmental relations has affected a way of problem-solving to cope with internal management. Thus, this study aims to suggest reformative approach and guidelines solving external cooperation on the basis of IGR methodology. Major finding is that intergovernmental external cooperation relations should be perceived in view of relationship approach, not individual approach.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "혈연관계가 없는 한국인 100명의 혈액 및 협점막 상피세포에서 추출한 DNA 표본에서 D1S1171 (GDB : 312934) 유전좌위를 분석하여 대립형질과 유전자형의 빈도, 이형접합도, 개체식별력 및 부권배제력 등의 통계량을 조사하여 다음과 같은 결과를 얻었다. \n\n1. 한국인 100명에서 D1S1171 의 대립형질은 8가지(대립형질 11-19), 유전자형은 모두 25개였고, 가장 높은 빈도를 보인 대립형질과 유전자형은 각각 15 와 15-16 이었다. \n2. D1S1171 유전좌위의 이형접합도는 0.800, 개체식별력은 0.915, 부권배제력은 0.599이었다. \n\n 위의 결과를 종합할 때 D1S1171 유전좌위는 현재 널리 이용되고 있는 다른 여러 STR 유전좌위들에 비하여 다소 높은 이형접합도와 개체 식별력 및 부권배제력을 나타내었다. 따라서 한국인에서 한국인을 대상으로 하는 감정실무에 다른 유전좌위와 함께 적용하여 개인식별 및 친부권배제력을 높일 수 있는 효과적인 유전좌위라 사료된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 도가·도교의 생명주체주의를 기초로 도교의 환경윤리를 고찰한다. 동아시아 전통사상 가운데 생명 개념을 가장 포괄적이고 심도 있게 발전시킨 것은 도교이다. 도교에서 모든 개체생명은 도성을 갖기 때문에 인간의 가치평가와 무관하게 내재적 가치를 갖는다. 그런데 도교에서 인간은 다른 개체생명과 달리 생명주체성을 갖는다. 도교에서 인간은 자신의 생명을 타율적 자연의 흐름에 맡기는 것이 아니라, 자기의식 아래 자율적으로 조정할 수 있는 주체적 능동적 존재이다. 자신의 요절과 장수는 하늘에 의해 결정되는 것이 아니라 개체자아의 의지에 따라 결정된다. 그런데 인간의 생명주체성은 두 가지 상이한 의미를 내포한다. 하나는 인간이 다른 개체생명을 자신의 불로장생의 도구로 이용할 수 있다는 것이고, 다른 하나는 인간이 우주생명의 내재적 가치 즉 각 개체생명간의 조화로움을 실현하는 주체라는 것이다. 그런데 도교는 우주생명의 조화로움을 상위가치로 본다. 따라서 개체생명으로서 인간의 가치 실현은 우주생명의 조화로운 질서 유지와 다른 개체생명의 가치 실현이 전제되어야 한다. 도교의 환경윤리는 생명중심주의가 아니다. 생명중심주의는 존재의 선과 생명의 목적론적 중심이라는 측면에서 인간과 다른 생명체를 동등하게 취급함으로써 인간이 해야 할 역할과 책임을 축소시킨다. 그러나 도교는 우주생명의 조화 실현에 대한 인간의 역할과 책임을 강조한다. 그러므로 도교의 환경윤리는 생명중심주의가 아니라 생명주체주의이다. 도교의 생명주체환경윤리는 인간이 다른 개체생명과의 관계에서 책임적 존재가 되어야할 것을 강조한다는 점에서 생태환경회복의 하나의 대안이 될 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 인간배아복제의 법적 규제에 관한 주요 국제기구, 정부간 조직, 국제줄기세포연구회 및 각국의 상황 내지 논의를 검토함으로써 우리에게 주는 함의를 구하고자 하였는데, 다음과 같은 결론을 얻을 수 있었다. 인간배아복제를 법령으로 규제하고 있는 국가는 대체로 인간개체복제와 치료복제를 구별하여 그 취급을 달리하고 있다. 인간개체복제의 금지에 대하여는 국제적 차원의 합의가 존재하지만, 치료복제의 허용 여부에 관하여는 논란이 계속되고 있다. 각국의 법질서는 치료복제의 허용 여부와 관련하여 ‘인간의 존엄’을 상이하게 해석하고 있으며, 이와 같은 다원주의적 국제사회에서 이 문제에 관하여 모든 국가가 수긍할 수 있는 정답을 찾기란 쉽지 않은 것처럼 보인다. 따라서 현재의 상황에서는 각국이 자신의 책임 아래 치료복제의 허용 여부를 독자적으로 판단할 수밖에 없을 것이고, 이는 우리의 경우에도 다를 바 없다. 다만 일부 주요국은 최근 치료복제연구에 대한 규제를 완화하는 방향으로 나아가고 있다. 영국, 프랑스, 일본 및 호주의 경우가 그러하다. 아직 치료복제를 엄격히 규제하고 있는 독일도 조만간 그 규제를 완화할 것으로 전망된다. 이와 같은 국제적 환경의 변화 속에서 치료복제연구를 제한적으로 허용하고 있는 우리의 생명윤리법은 생명과학기술의 발전과 인간의 존엄성 확보를 위한 타협의 산물로서 나름대로 정당성을 가지고 있다고 하겠다. 다만 향후의 규제에 있어서도 국제적 차원의 논의와 주요국의 입법례를 시야에서 놓쳐서는 안 될 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "최근 소재 및 화학분야의 급속한 발전으로 해당 분야 관련 학술 문헌이 기하급수적으로 늘어나고 있다. 이에 기존의 축적된 방대한 데이터에서 유의미한 정보를 추출하기 위한 연구들이 진행되고 있으며, 그 방법론 중 하나로 개체명 인식이 활용되고 있다. 소재 및 화학분야 개체명 인식은 학술 문헌에서 소재, 물성 정보, 실험 조건 등과 같은 정형화된 개체를 추출하고, 그 종류를 분류하는 작업이다. 본 논문에서는 신경망 언어 모델의 사전 훈련 없이 기존의 공개된 언어 모델을 임베딩 조합과 Bi-direction LSTM-CRF 모델을 사용하여 소재 및 화학분야 개체명 인식을 연구하였다. 그 결과 가장 성능이 좋은 조합을 도출하였고 그 이유를 분석하였다. 추가적으로 사전 학습 언어 모델 자체를 개체명 인식 모델로 사용하여 미세조정을 통해 성능을 비교하였다. 이를 통해 기존의 공개된 사전 학습 언어 모델들로 구성한 다중 임베딩 조합이 소재 및 화학분야 개체명 인식에서 유의미한 결과를 도출할 수 있음을 증명하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 19세기 조선의 천관 변천이라는 장기 지성사적 맥락 속에서 최제우 천관의 독자적 위상과 천-인 관계의 존재론적 전환이 지니는 의미를 규명하고자 하였다. 동아시아 천관의 역사는 천-인 거리의 점진적 축소와 인간 능동성의 증대라는 진전을 보였으나, 매개와 자격이라는 제약은 결코 극복되지 않았다. 1860년 최제우의 동학은 바로 이 최후의 제약—매개와 차등—을 근본적으로 전복하는 지점에서 출현했다.\n최제우의 천관은 신비체험 직후의 인격적 ‘하늘님’에서 고경 궁구를 통한 기화(氣化) 원리의 발견을 거쳐, 수행 완성기의 ‘조물자⋅무궁한 나’로 존재론적 심화를 이루었다. 특히 “시천주 내유신령 외유기화(侍天主 內有神靈 外有氣化)”라는 명제는 천과 인간 사이의 존재론적 거리를 소멸시키고, 신분⋅학식⋅성별⋅나이⋅도덕을 초월한 무매개적 직접성과 보편적 평등성을 확립했다. 이러한 사유의 전환은 괴질 창궐이라는 생존의 위기와 외세 침탈이라는 역사적 격변 속에서, 개체가 스스로 신성을 각성하고 현실을 변혁하는 주체적 실천으로 이어졌다.\n결론적으로 최제우가 제시한 ‘신성내재적 개체’ 개념은 한국 사상사에서 전례 없는 인간 이해의 전환이었다. 이는 모든 개인이 궁극자와 직접 대면할 수 있는 신성한 주체임을 선언하면서 그 과정에서 현실의 권력문제와 공동체성을 방기하지 않는다는 것을 그 핵심으로 한다. 이 존재론적 평등 선언은 1894년 동학농민혁명의 사상적 토대를 이루었으며, 나아가 현대 사회의 원자적 개인주의와 전체주의적 집단주의 양자를 동시에 넘어설 수 있는 대안적 개체 정립의 가능성을 제시한다는 점에서 여전히 현재적이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 설악산 아고산대인 귀떼기청봉(1,510m)과 관모능선(1,660m), 설악폭포(1,060m)지역을 대상으로 분비나무림의 군집구조, 개체군구조, 연륜 및 생육 상태를 조사하여 분석하였다. 귀떼기청봉과 관모능선 지점의 분비나무림은 교목층이 없는 3층 구조이고, 설악폭포지에서는 4층 구조가 발달하였다. 분비나무의 개체군 구조는 귀떼기청봉 지점에서는 역 J자형이며, 관모능선 지점에서는 J자형으로 중경목 개체의 분포비가 높다. 그리고 설악폭포 지점에서는 흉고 직경의 분포가 다양한 안정된 종형이다. 수령은 귀떼기청봉과 관모능선 지점에서 20~60년생의 성숙목 개체가 주축인 반면, 설악폭포 지점의 경우 치수집단과 성숙목 집단을 중심으로 쌍봉형의 안정된 군락 양상을 나타내었다. 각 조사지점의 연륜생장 연 편차변화는 최근 20~30년 동안에 20~40% 범위의 생장 감소 추세를 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 헤르더(J. G. Herder)의 개체성 개념을 중심으로, 유네스코 ‘무형문화유산보호협약(2003)’이 강조하는 공동체 개념을 철학적으로 재조명하는 것을 목적으로 한다. 헤르더는 개체성 개념을 통해 공동체의 본질을 문화 다양성과 인간 존엄에 대한 존중, 자유, 협력의 가치로 설명하는데, 이러한 관점은 유네스코 ‘무형문화유산’이 강조하는 공동체 유지의 당위성과도 긴밀히 연결된다. 헤르더의 개체성(Nationality)은 단순한 민족주의가 아닌, 각 민족과 문화의 고유성과 자연적 발전을 강조하는 개념으로, 개인이 아닌 사회문화적 공동체의 존재 방식으로 이해된다. 이러한 관점은 오늘날 다문화주의의 문화 다양성 존중과 맞닿아 있다. 유네스코 ‘유산보호협약’은 무형문화유산을 공동체의 정체성과 지속성을 지탱하는 문화적 요소로 정의하며, 문화적 다양성과 인류 창조성 존중을 핵심 가치로 삼는다. 조지프 헨릭이 말하듯 인류 발전은 문화적 교류와 다양성에 기반하며, 공동체 해체는 문화와 정체성의 상실로 이어질 수 있다. 따라서 공동체의 지속 가능성은 인류의 공존을 위해 필수적이다. 헤르더는 “인간은 사회 속에서 태어난다”라는 전제에서 출발하여, 누구도 공동체 없이 인간이 될 수 없다고 본다. 그는 개체성을 개인주의가 아닌 공동체적 존재 방식으로 이해하며, 이는 공동체 해체로 인한 현대 사회의 갈등을 해결할 철학적 실마리를 제공한다. 이러한 그의 사유는 계몽주의와 낭만주의를 넘나들며, 현대의 무형문화유산 논의에 이론적 기초를 제공할 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "베르터의 죽음이 지니는 의미를 밝히기 위해서는 18세기를 전후하여 진행된 사회분화유형의 변화에 주목할 필요가 있다. 루만에 따르면 서구에서는 근대가 시작되면서 사회분화 유형이 계층적으로 분화된 사회에서 기능적으로 분화된 사회로 이행한다. 이 이행의 과정을 통해 개인과 사회의 관계도 변하게 되는데, 사회로 포함됨을 통해서 개인에게 정체성이 부여되던 것이 분화유형의 변화로 인해 사회로부터의 배제 통해 개별자의개체성이 비사회적인 것으로 규정된다. 이 글은 젊은 베르터의 슬픔이 바로 이러한사회분화 유형의 변화가 일어나는 시기에 집필되었음에 주목한다. 베르터는 자신의 전존재의 원천을 자신의 마음에서 찾는다. 그는 비사회적 특성을 지닌 개인에 대한 자신의 견해를 점차로 강화하다가 결국에는 사회로부터 자신을 완전히 격리한다. 이 글은이러한 과정을 기능적으로 분화된 사회로의 이행이 가져온 개인과 사회의 관계 변화라는 맥락 속에서 분석한다. 이 분석을 통해 루만의 이론의 도움으로 베르터의 개체성 이해와 작가 괴테의 개체성 이해 사이에 분명한 차이가 있음을 밝힌다. 그리고 개인에 대한 베르터와 괴테의 견해 사이에서 드러나는 차이는 베르터의 죽음이 지닌 역설적 의미를 암시한다. 그의 죽음은 새로운 개인의 탄생을 알리기 때문이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 2016년 10월 24일부터 2017년 3월 19일까지 촛불 집회 기간 포털사이트 정치 섹션에 등록된 촛불 집회와 태극기 집회 관련 뉴스의 댓글을 대상으로 주요 이슈를 개체명 인식기를 이용해 분석하여 두 집회에 대한 정국 인식을 살펴보았다. 주요 분석 항목은 탄핵의 책임 소재, 정국 해결의 주체와 방법, 그 외 주요 이슈를 중심으로 분석하였다. 분석 결과, 촛불 집회 기사의 댓글에서는 탄핵 지지와 정권 부역자의 법적 처벌에 대해 집중하고 있었으며, 탄핵 후 차기 대선을 통한 정국 해결을 주장했다. 태극기 집회 기사의 댓글에서는 정권 유지를 위한 탄핵 기각에 대해 집중하고 있었고, 헌법재판소의 탄핵 기각을 주장하였다. 이를 통해 볼 때, 촛불 집회나 태극기 집회의 각 입장을 지지했던 집단들 간의 갈등은 대선 이후 적어도 당분간(박근혜 재판 기간) 지속할 것으로 보인다. 이 갈등은 탄핵과 정권 교체 후 청산과 새 정치를 추구하는 입장과 박근혜 대통령 재판에 영향을 미치려는 입장의 대립으로 전개될 것이다. 따라서 이후 정국에서는 사회 통합을 위한 노력이 필요하다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "한국의 공공선택론 연구들이 정작 이 학문 분야의 핵심 주제인 ‘헌법적 정치경제론’을 다루는 것은 매우 희소하다. 공공선택론 연구 주제들이 불균형적이고, 동시에 핵심 주제가 누락되어 있는 상황을 바로잡고, 핵심 주제를 회복하기 위해 뷰캐넌의 가장 큰 학문적 업적인 헌법적 정치경제론을 집중적으로 정확히 성찰할 필요가 있다. 이를 위해 방법론적 전제들, 헌법 규칙의 합의 논리 및 나아가 그의 정치 철학을 규명하였다.\n방법론적 전제들은 그의 헌법 규칙의 합의 논리와 긴밀히 연계되어 있다. 정치의 근본 규칙인 헌법이 집합체가 아니라 결국 개인들의 의사로 결정된다는 국면은 ‘방법론적 개체주의’에 관련되며, 이 정치과정 또한 시장에서처럼 교환이 본질이란 점은 ‘교환으로서의 정치’라는 전제와 관련되고, 합의에 임하는 모든 개인은 주관적으로 이익과 비용에 대한 합리적 계산을 하는 이기적 주체라는 점은 ‘경제인’이란 전제와 관련이 있다. 그런데 뷰캐넌의 헌법적 정치경제론을 주도적으로 전개해 간 요소는 ‘교환으로서의 정치’이다. 나아가 헌법 규칙 합의 논리를 상술하였다.\n나아가 그의 정치철학의 몇 가지 특성을 발굴하였다. 그는 맨체스터 자유주의 국가론을 지향하며, 제한된 의미의 철학적 무정부주의를 따르며, 인식론상으로는 오스트리아 학파의 인식론인 주관주의를 따르는데 오스트리아 학파보다는 완화된 수준이다. 도덕철학에서는 ‘상대적으로 절대적인 절대성’이란 독특한 내용을 견지하며, 계약주의자이면서도 그 계약 실행 이전에 상당히 엄격한 요건을 요구하는 상황의존적 계약주의이다.\n그의 헌법적 정치경제론은 헌법 등의 정치 제도 역시 경제현상의 외적 조건이 아니라 경제학의 ‘설명대상’(explanandum)임을 보여 주었고, 정치학·행정학이 견지해 온 ‘선한 독재자’(good dictator) 모형을 붕괴했으며, 고전경제학이 본래부터 가지고 있었지만 그 후 사회주의 및 전체주의에 의해 기형적 내용으로 오도되어버린 ‘정치경제학’(political economy)을 진정한 모습으로 회복한 의미가 있다. 끝으로 그의 헌정 이론이 한국의 개헌 논의에 주는 몇 가지 중요한 시사점들을 도출하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "AI (인공지능)의 오작동 내지 잘못된 행위에 대한 책임이 어디에 있는가의 문제를 다룸에 있어서 동아시아의 관계론은 새로운 접근방식을 제공한다. 흔히 자신의 행동에 대한 책임은 자신이 다르게 행동할 수 있을 때에만 물을 수 있다고 말해진다. 그래서 책임은 개체 행위자의 자율성과 밀접한 연관이 있다고 할 수 있다. 동아시아의 관계론은 이런 통념에 도전한다. 동아시아의 관계론은 개체 행위자의 실체성을 말하지 않고, 그렇다고 개인의 자율적 영역을 완전히 부정하지도 않는다. 따라서 동아시아 관계론은 적절한 책임은 주변 환경과 개체 행위자 둘 중의 어느 일방적인 한쪽에 치우쳐서 물어져서는 안 되고, 이들 간의 적절한 관계 설정을 통해 물어야 한다고 주장한다. 동아시아 관계론에서의 전체와 부분의 적절한 관계는 신유학의 이일분수 개념과 순자의 공명과 별명의 개념들로부터 시사점을 얻을 수 있다",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문에서는 지능형 전장인식 서비스를 위한 자연어처리 기반 지식베이스 구축 방안에 대해연구한다. 현재의 지휘통제체계는 수집된 전장정보와 전술데이터를 등록, 저장, 공유 등의 기본적인 수준에서 관리 및 활용하고 있으며, 분석관에 의한 정보/데이터 융합 및 상황 분석/판단이 수행되고 있다. 이는 분석가의 시간적 제약과 인지적 한계로 일반적으로 하나의 해석만이 도출되며편향된 사고가 반영될 수 있다. 따라서 지휘통제체계의 전장상황인식 및 지휘결심지원 지능화가필수적이다. 이를 위해서는 지휘통제체계에 특화된 지식베이스를 구축하고 이를 기반으로 하는지능형 전장인식 서비스 개발이 선행되어야 한다. 본 논문에서는, 민간 데이터인 엑소브레인 말뭉치에서 제시된 개체명 중 의미 있는 상위 250개 타입을 적용하고 전장정보를 적절히 표현하기 위해 무기체계 개체명 타입을 추가 식별하였다. 이를 바탕으로 멘션 추출, 상호참조해결 및 관계 추출 과정을 거치는 전장인식 지식베이스 구축 방안을 제시하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "초위성체 표지인자는 가축에서 유전자 다양성, 개체식별 연구를 위한 유전자 마커로 활용되고 있지만 가축의 가금류에서는 이러한 연구가 미비한 실정이다. 이러한 문제를 해결하기 위해 닭에서의 초위성체 마커에 대한 유전정보를 확보하고 보다 정확하고 신속한 유전자 분석 방법의 개발이 필요하다. 본 연구의 목적은 12개의 초위성체 표지인자(MS Marker)를 1세트로 구성된 다중중합효소연쇄반응(Multiplex PCR)을 이용하여 닭의 대립유전자와 대립유전자 빈도 및 이형접합도을 결정하는 마커를 개발하는 것이다. 닭 96수를 이용하여 12개 MS marker를 분석한 결과, MS marker에 대한 대립유전자수는 평균 3.08개로 관찰되었다. 12개 초위성체 마커의 이형접합도은 평균 0.563이고 다형정보도(Polymrphism information content : PIC)는 0.482로 계산되었다. 이 결과는 전국적으로 닭의 유전자를 이용한 개체식별 및 친자감별에 이용하기 위한 기초자료 뿐만아니라 닭 이력제를 정착시킬 수 있는 중요한 기술로 활용 될 수 있을 것이라 사료된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 칸트의 ‘자연미론’이 핵심적으로 다루는 ‘미적 자연’의 상 유형을 성격 짓고, 그 이론의 경향성을 뒷받침하는 철학적 토를 그의 판 단력비판안에서 찾아보려는 데 목적을 둔다. 알렌 칼슨이 잘 지적했듯이, 미 적 자연을 지각하는 전통적인 습관은 한편으로 ‘개체-지향적’, 다른 한편으로는 ‘경관-지향적’으로 나뉠 수 있다. 전자에서 지각 상의 유형은 개별적 ‘자연물’ 이며[개체 모델], 후자에서는 주관의 시야 안으로 들어오는 경관적 ‘현상’이다[풍 경 모델]. 칼슨의 구별을 칸트에게까지 적용할 경우, 우리는 이른바 그의 취미 이론, 즉 자연미론이 ‘개체적’ 자연미를 염두에 두고 구성되었음을 짐작하게 된 다. 하지만 한낱 이러한 ‘구별 짓기’만으로는 충분치 않다. 한걸음 더 나아가, 우 리가 ‘왜’ 그리고 ‘어떻게’ 칸트가 자신의 취미 이론을 ‘개체 모델적’ 방향으로 세워놓았는지를 그의 미론 안에서 해명해 보이기까지 한다면, ‘하나의 미학 이 론’으로서 그의 취미 이론의 적용 ‘범위’가 확인될 수 있을 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "특허제도는 당해 특허발명의 모든 구성요소(클레임)를 실시하여야 특허침해가 성립한다는 ‘구성요소완비의 원칙(all elements rule)’을 채용하고 있다. 그런데 방법발명의 경우 복수주체가 특허발명의 구성요소를 일부씩 분담하여 실시하지만, 이들 각각의 실시를 합하면 당해 발명의 모든 구성요소를 실시하게 되는 경우 누구에게 어떠한 책임을 물어야 할 것인지가 문제되었다. 특히 미국에서는‘구성요소완비의 원칙’에서 파생된 특허의 클레임된 모든 요소가 단일주체에 의해 실시되어야 한다는 단일개체이론에 따라, 각 복수 주체간의 관계성에 주목하여 직접침해의 하나의 형태로서 공동침해의 성립요건이 논의되어 왔다.\n특히 최근 미국은 복수 주체에 의한 공동침해에 관한 다양한 판례와 학설이 전개되고 있었으나, 일련의 Akamai Technologies, Inc. v. Limelight Networks, Inc. 사건을 통해서 어느 정도 정리되었다. 이글은 미국 특허권 침해의 적용법리인 보통법상의 불법행위책임과 특허법상의 침해책임 법리를 개관해 보고, Akamai Technologies, Inc. v. Limelight Networks, Inc. 사건을 분석하였다. 이를 통해 미국의 특허법상 공동침해법리의 전개방향을 살펴, 현행 미국에서의 특허권 공동침해에 대한 적용법리 및 해석 기준을 고찰하였다.\n결론적으로 미국에서 복수 주체에 의한 특허권 침해책임에 대한 규율 법리는 유형적으로 첫째 복수 주체 중 특정 주체가 ‘지시 또는 통제’라는 지배력을 가지고 있는 경우, 둘째 ‘공동사업’ 관계와 같이 복수 주체 상호간에 서로 대등한 관계에 있는 경우로 나누어 판단되고 있음을 알 수 있다. 결국 미국의 특허침해책임의 법원인 불법행위법상 대위책임과 공동사업책임 법리가 미국 특허법 제271조(a)의 특허권 직접침해책임의 적용에 있어서 하나의 해석기준이 되고 있다고 할 것이다.\n여기서 미국의 논의는 우리에게 다음과 같은 시사를 준다고 할 수 있다. 첫째, 특허법의 제원칙인 구성요소완비의 원칙은 단일한 자에 의해 클레임의 모든 구성요소가 실시되어야 하는 것은 아니라 클레임의 모든 구성요소가 실시되는 것으로 충분하다는 점, 둘째, 미국과 마찬가지로 우리나라에서도 특허법상의 침해책임법리만으로는 해결하기 어려운 복수 주체에 의한 공동침해책임에 있어 전통적인 불법행위법을 책임의 근거로 삼을 수 있다는 점이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "뒷흰가는줄무늬밤나방은 열대거세미나방 성페로몬 트랩에 지속적으로 상당수 유인되는 있는 비래해충이지만, 국내에서 뒷흰가는줄무늬 밤나방에 대한 정보는 매우 미흡한 실정이다. 향후 뒷흰가는줄무늬밤나방에 대한 다양한 연구 진행을 위해서는 대량사육에 관한 선행연구가 요구 된다. 본 연구에서는 뒷흰가는줄무늬밤나방 대량사육을 위한 인공사료 2종의 개별 및 조합 공급과, 집단 또는 개체사육이 발육 및 산란에 미치는 영향을 분석하였다. 기존 나방류 사육용 2종의 인공사료에 대한 발육특성을 비교한 결과, 검거세미나방 인공사료 제공시 유충은 높은 생존율과 빠른 발육을 보였으나, 번데기 무게는 감소하였다. 2종 인공사료 간 산란수에는 유의한(P < 0.05) 차이가 없었다. 집단사육은 개체사육에 비해 유충의 빠른 발육과 번데기 무게 및 생존율 감소를 야기하였다. 또한, 먹이와 사육 방법에 따라 암컷과 수컷에 미치는 영향이 달랐다. 뒷흰가는줄무 늬밤나방의 대량 사육을 위해서는 부화 직후 검거세미밤나방 인공사료를 이용해서 집단 사육한 후, 2령 혹은 3령 이후에는 개체사육하는 것이 효율적일 것으로 판단되었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "As the subject of this study, dance is the structural dance in which the dance is its purpose. In other words, for the representation of individuality, the subjectivity of dance is the dance in which the self of wholeness is participating in the attention, mental state, and direction of thought. And the dance is perceived in the representation structure of individuality.\nIn the dance structure of self-understanding, the attention, mental state, and direction of thought aim for self-awareness as wholeness that recognizes oneself and unconsciousness as they are.\nWhen the recognition structure of individuality is explained as the introspection in a group of different individualities, the dance structure of introspection shall be the dance act process in which the gap between individualities could be realized (self-understood) in a group composed of individuals with individuality.\nThe contemporary dance with insight and sufficient good will suggested the community dance sharing the structure of dance that would pay attention to one’s own spirit, rather than presenting the best dance for directing the direction of thought or having the advanced mental state.\nCommunity dance is presented as the dance sharing system, instead of distorted and misused word for a long time, and the method to realize the structure had to be flexible according to the consciousness of times, region, and object.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The technological advances in natural language processing is ushering in a new era of augmented interpreting where human interpreters perform their tasks more easily and better with the support of technology. Against this backdrop, the current study is aimed at developing and presenting the prototype of an AI-based computer-assisted interpreting (CAI) tool to support interpreters in processing numbers in real time by the automated recognition and extraction of number information from the source speech. The prototype system was built by using Google Speech-to-Text API and spaCy for automatic speech recognition (ASR) and named entity recognition (NER), respectively, as main components. During a pilot run, the system performed with the precision of 0.82 and recall of 0.90. The prototype system was configured so that its output was presented in three different layouts: only numbers presented in a dialogue box; sentences with number visualization; and real-time transcription followed immediately by fully visualized sentences. It was expected that presenting the full sentences with number visualization would be the optimal option for interpreters due to the avthe context and easy location of numbers in a given speech segment.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "동물의 서식지 및 먹이 이용 패턴, 이동경로 등 행동특성에 대한 ‘개체별 정보’는 그 종의 개체군 역학 관계 또는 생태적 상호작용에 대한 이해의 폭을 넓히고, 효과적인 보전 전략수립을 용이하게 한다. 우리는 국제적 멸종위기종 뿔제비갈매기(Thalasseus bernsteini)에 대한 9년간 개체 수준의 모니터링에서 수집된 성조 사진을 분석하여, 부리의 외형적 특징을 기반으로 개체 식별을 시도했다. 그 결과, 부리의 약 35%를 차지하는 부리 끝 검은 팁의 경계선 형태가 개체별로 다르며, 이 특징은 시기별, 연도별로 변하지 않는 고유의 자연적 표식임을 확인했다. 이를 바탕으로 2016년부터 2024년까지 9년간 총 뿔제비갈매기 10개체가 번식지에 도래했고, 이 중 7개체는 최소 6년에서 최대 9년간 매년 도래한 것을 확인함으로써 번식지에 대한 높은 충실도(site fidelity)를 확인했다. 본 연구결과는 조류에서 개체를 식별하기 위해 이용하던 전통적인 방법인 가락지, 태그 등을 부착하지 않고도 고유의 외형적 특징을 활용하여 개체 식별이 가능하다는 사실을 보여준 첫 번째 사례이다. 우리의 연구 방법은 포획하기 어렵거나, 개체수가 적은 멸종위기종이나 민감한 종의 생태연구에 활용할 수 있을 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구에서는 함정 전투체계용 모의훈련 시스템에서 활용할 수상함 지능형 모의개체 모델 학습을 위한 강화학습 환경 구축 연구를 수행하였다. 강화학습 환경 구축을 위해 지능형 모의개체 학습을 위한 학습 프레임워크를 제안하였고, 모의개체의 자율적인 기동과 무장발사 이벤트가 생성 가능하도록 보상함수 설계를 수행하였다. 제안된 프레임워크와 시나리오 기반 교육훈련을 위해 개발된 레거시 시뮬레이터를 활용해서 학습 환경을 구축하였다. 개발된 환경에서 대표적인 강화학습 알고리즘인 DQN과 PPO 알고리즘으로 지능형 모의개체 학습을 수행하였다. 학습 결과와 시나리오에 대한 지능형 모의개체의 기동 분석을 통해 지능형 모의개체의 적용 가능성을 확인하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문은 성경 텍스트와 같은 종교 언어 텍스트에 관한 인지언어학적 연구의 가능성을 탐색하는 논문이다. 이를 위한 첫 단계로 본 연구는 레이코프와 존슨의 개념적 은유 이론과 그래디의 일차적 은유와 복합 은유라는 개념을 기반으로 종교 언어에서 발견되는 일차적 은유들과 복합 은유들을 탐색할 뿐만 아니라, 종교 언어에 사용되는 복합 은유들과 문화의 연관성을 밝히고자 한다.\n종교 언어는 초월적 존재를 하나의 개체로 개념화하는데, 이것을「초월적 존재는 개체」은유라고 부른다. 인간이면 누구나 어린 시절부터 초월적 존재가 있다는 것을 체험하게 되는데, 융은 이것을 누미노줌(Numinosum)이라고 부른다. 인간은 이러한 초월적이고 추상적인 체험을 통해 자신 밖에 하나의 초월적 개체가 있다고 인지하고 개념화하는데, 이것이 바로 종교 언어에서 발견되는 원초적인 체험을 기반으로 한 일차적 은유다. 이러한 일차적 은유는 인간의 신체 경험을 기반으로 하고 있기 때문에, 신체를 가지고 있는 모든 이가 가지는 개념적 은유이므로 대부분의 종교에서 발견되는 일차적 은유라고 말할 수 있다.\n이 논문은 또한 초월적 존재와 관련된 인간의 종교 체험을 은유적으로 개념화하는 다양한 복합 은유들이 있음을 밝히고 있다. 예를 들면,「초월자는 아버지」,「초월자는 태양」,「초월자는 파견자」,「초월자는 임금」등이다. 이러한 복합 은유들은 일차적 은유와 달리 많은 문화에서 보편적으로 발견되면서도, 동시에 문화에 따라 달리 나타나기도 한다. 이 논문은 커베체쉬의 이론을 바탕으로 종교 언어의 복합 은유들에게서 나타나는 보편성과 다양성에 관해서도 논의한다. 특히, 이 논문은 동일한 유다계 그리스도교 문화에 속해 있는 마태오와 요한복음 사가가 동일한 은유를 다른 방식으로 사용한다는 점을 지적한다. 이와 같이 동일한 문화에 속해 있는 이들에게서도 은유가 달리 사용되는 이유는 그들이 속한 하위문화의 차이, 개인적인 체험과 인지적 선호도의 차이에 기인한다고 본다.\n마지막으로 종교 언어는 해당 종교에 속한 구성원들의 신념, 곧 그들의 은유 안에 내포되어 있는 신념을 구체적 삶과 문화 속에 구현하도록 만들기 때문에 모든 복합 은유들이 문화에 영향을 받지만, 어떤 종교 은유들은 그 문화에 영향을 미치기도 한다는 점을 지적하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 시몽동 기술철학의 정치적 함축들과 현대적 유효성을 살펴보고자 한다. 개체들에 내재하는 전(前)개체적인 퍼텐셜, 양립불가능한 것들 사이의 소통과 공명을 가능하게 하는 개체초월적 관계의 발명, 그리고 전(前)개체적인 것과 개체초월적인 것을 매개하는 기술적 대상들의 변환 역량과 같은 독창적인 개념들에 의거해서, 시몽동은 기술적 대상들을 매개로 사회적 시스템의내적 문제들을 개체초월적 집단화 과정으로 해결할 수 있는 정치적 주체로 기술적 주체를 긍정한다. 기술적 대상과 기술적 주체의 앙상블은 경제적 코드와마케팅 전략에 통제된 소비 공동체를 위한 수단에 불과한 것이 아니다. 그것은우리 안에 내재하는 진정한 존재론적 퍼텐셜을 발굴하고 소통시키며 사회적 구조의 해체와 발명을 가능하게 하는 정치적 역량을 갖는다. 시몽동의 노동 비판과 기술 문화 프로그램은 기술과 인간의 관계에 대한 이데올로기적 반작용을제거함으로써 이러한 역량을 회복하려는 전략이다. 디지털 네트워크 시대의 양극단(부의 축적을 겨냥하는 기술낙관주의, 소외와 고립에 주목하는 기술비관주의)을 가로지르면서, 시몽동의 기술-정치학은 인간과 기계의 공생을 단지 경제적 풍요의 수단이 아니라 소외 극복을 위한 진정한 소통의 필수불가결한 조건으로 사유하는 탈인간중심적인 휴머니즘의 가능성을 보여준다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "하이에크의 경제학 방법론은 크게「주관주의」,「방법론적 개체론」,「가설-연역적 체계」,「원리에 관한 설명」, 으로 구성된다. 우리는 이와 같은 하이에크의 경제학 방법론의 내용을 개관해보고, 그 방법론에 대한 평가를 시도하였다. 「주관주의」는 분석 대상의 속성과 연관되며,「방법론적 개체론」은 사회현상에 관한 분석이 구성요소로부터 출발해야 한다는 주장이고,「가설-연역적 체계」는 이론의 구성 방식에 관한 모색이며,「원리에 관한 설명」은 설명의 방식과 관련되어진다.경제학을 연구하기 위해서 우리는 기본적으로 개개인이 보유한 주관적 지식의 형성과 변화 및 그에 따른 행동을 분석해야한다. 이것이 바로 주관주의의 모체이다. 그런데 우리는 그런 지식의 형성과 변화를 직접적으로 관찰할 수는 없는 것이다. 오로지 우리는 그들이 수행하는 행동으로부터 그런 지식의 형성과 변화를 추적할 수 있을 뿐이다. 우리 스스로가 그들과 유사한 심리 구조를 가졌다는 이유로 인하여, 하이에크는 심리학의 분석 대상인「내성」(introspection)을 사회과학의 분석 방법으로 활용하고 있다. 방법론적 개체론의 일반적 정의는 사회적 과정과 사건들이, (a) 거기에 참여하는 개개인의 행동을 규제하는 원리들과 (b) 그 개개인의 위치 묘사로부터 연역됨에 의해서 설명되어야한다는 것이다. 특히 하이에크는 밀(Mill)과 맹거(Menger)의 방법론적 개체론을 원용하는데 그 방법론은 주관주의와 밀접하게 연관된다.사회과학은 왜 개개인에 대한 분석으로부터 출발해야하는가에 대해, 하이에크는 사회과학에서「논쟁의 여지없이」알려진 것은「복합적 현상의 요소」들이기 때문에 개개인에 대한 분석으로부터 출발해야 한다고 보았다. 즉, 사회과학의 궁극적인 설명대상은「복합적 현상」또는 맹거의 용어로는「의도되지 않은 결과」이지만, 우리는 복합적 현상을 직접적으로 관찰할 수 없다. 그렇기 때문에 우리에게 익숙한 요소들인「복합적 현상의 요소」들에 대한 분석으로부터 출발해야한다는 것이다. 하이에크는「가설-연역적 체계」가 물리학을 제외한 다른 응용자연과학의 해당분야와 사회과학에 적용될 수 있다고 보았다. 이런 체계의 채택 이유로 그는 첫째 이론과학은 모두가 연역적이며, 둘째 사실에 관한 관찰로부터「일반적 규율의 형성」으로 귀결하는 귀납적 일반화와 같은 논리적 절차가 존재할 수 없고, 셋째 일반적 규율의 형성 즉, 이론의 구성은 사실상「인간 심리의 창조적 활동의 산물」이라는 포퍼(Popper)의 주장을 원용하였다. 하이에크의 관점에서 설명과 예측은 세 가지의 성격을 갖는다. 우선 과학적 설명과 예측의 대상은「복합적 대상」이기 때문에 설명과 예측은 개별적인 사건들을 언급하는 것이 아니라 항상 어떤 종류 또는 어떤 집단의 현상들을 언급한다. 둘째, 연역의 전제인 가설의 불완전성에 기인한 이론의 불완전성과 불확실성 때문에 설명과 예측은 어떤 특별한 현상의 모든 성질들을 전부 언급할 수는 없다. 또한 특정한 현상에 영향을 미치는 독립변수들을 모두 알 수 없다는 인간의 무지 때문에 언급된 성질들은 유일한 크기로 표현되는 것이 아니라, 그 성질이 속하게 되는 범위로서만 표현된다. 하이에크의「방법론적일원론」(methodological monism)은 이론의 구성방식, 설명방식 등에서 자연과학과 사회과학의 방법론이 동일하다는 것이다. 그런데 하이에크가 그렇게도 비판하는「과학주의」는 사회과학에서 자연과학의 방법을 무비판적으로 모방하는 현상인데, 이런 현상은 자연과학의 연구대상과 사회과학의 연구대상간의 본질적인 차이를 제대로 인식하지 못했기 때문에 나타난 현상이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 장서각 디지털 자료관에 마련된 정보서비스 기능의 다양성 수준이 국내외 가상 디지털 도서관의 수준에 미치지 못함을 양적인 측면에서 분석하였다. 그렇지만 수준 높은 한국학 지식 정보를 제공할 수 있도록 장서각 디지털 자료관의 데이터베이스 설계가 논리적이고 확장이 용이한 구조로 설계되어 있음을 밝혔다. 데이터베이스 설계의 이같은 체계적인 구조를 바탕으로 수준 높은 한국학 지식 정보를 제공하는 정보서비스 기능에 대한 발전 방안을 제안하였다. 데이터베이스 설계의 확장 측면에서 연관 개체를 설정할 것을 제안하였다. 이를 바탕으로 지식 정보 강화 측면에서 저렴한 비용으로 개발할 수 있는 문맥 기반 관련어 사전 기능, 관련 항목 제시 기능(참고문헌, 자료 이용빈도, 참조연계), 이용자가 작성한 SQL 지원 기능 등의 개발 방안을 제안하였다. 정보서비스 이용 환경의 개선 측면에서 이용자 참여를 위한 육성책 추진, 접근점의 다양화 정책 추진, 개인화서비스 기능 개발, 전문가 상담 서비스 정책 추진 등을 시급히 마련 할 것을 제안하였다.특히 지식 정보 강화 측면에서 제안된 정보서비스 기능 발전 방안은 디지털 자료관으로서의 장점을 살리는 것임을 강조하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구에서는 UV-자유반사 반응조가 장착된 절삭장치와 단독 절삭장치 및 Biocide투입 절삭장치의 각각의 절삭유에 대해서 23주 동안 미생물 개체수와 pH변화, 유분농도 등을 분석하여 절삭유의 장기사용을 위한 각 절삭장치의 효율성에 대한 비교검토를 하였다. 미생물의 개체수를 조사한 결과 UV 반응조 절삭유가 나머지 2기의 절삭유와 비교해 현저히 낮은 개체수를 보였으며 pH 또한 UV 반응조에서는 9～8.5를 유지하였으나 단독 절삭장치와 Biocide투입 절삭장치에서는 pH가 현저히 감소하는 경향을 나타내었다. 유분?량의 경우 역시 절삭기 단독장치와 Biocide투입 절삭장치의 절삭유는 시간의 경과에 따라 유분함량이 거의 없는 상태로 나타나 절삭유로서의 기능을 상실한 것으로 판단되었다. 하지만 UV 반응조의 절삭유의 경우는 4～3.5 Brix를 유지한 것으로 나타났다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문은 죽음에 대한 인식은 사회적 참여와 개체의 단독성 사이의 적응과 부적응의 낙차에서 발생한다는 관점에서, 오정희의 「옛우물」(1994), 김훈의 「火葬」,(2004), 배수아의 「시취」(2006) 들에 나타난 죽음의 표상과 죽음에의 참여 방식을 분석하였다.\n오정희의 「옛우물」은 옛우물의 회상과 연당집의 관조를 통해 ‘부재의 부재’라는 죽음의 난제를 해결하고, 개체의 죽음을 자연의 회생과 순환의 서곡으로 상상하는 불멸의 신화에 참여함으로써 죽음에 적응해 간다. 김훈의 「화장」은 죽어가는 자의 고통과 현대 사회가 죽음을 처리하는 방식에 대한 부적응을 통해 不淨의 공포를 보여준다. 주검과 시취에 대한 이미지를 생명=미에 대한 상상과 병치시킴으로써 부정의 공포를 극복하고자 한다. 배수아의 「시취」(2006)는 외적 세계와 자발적으로 소통을 단절한 폐쇄적 자아가 성찰하는 육체적 노쇠와 의식의 불안을 통해 죽음에 참여하는 실존 상태를 묘사해 나간다.\n세 편의 텍스트를 분석한 결과 죽음에의 참여는 종과 사회가 길들이는 죽음에 대한 부적응에서 출발하여 죽음에 대한 사회적 이해에 대한 개인적 공감의 접점을 발견하는 과정으로 이어진다는 것을 알 수 있었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This study aims at clarifying aspects of use of suffixes and grasping the coinage ability in terms of productivity in sixth grade children after extracting derivatives using suffixes from the origin Korean appeared in their diary corpus. Since 6th grade, the development of formal operation starts. Their diary corpus, therefore, are good at identifying their vocabulary ability manifesting their thought with glossary. With the reason, this study trys to extract derivatives using suffixes from the origin Korean appeared in the diary corpus of 6th grade with analysis of meta-quantitative research. This article formulates the “Using productivity\" to “GP=n1(T)/)N(only if N≧2)\" after existing methods of measuring productivity by examining the advantages and disadvantages of them. The result of assignment to the formula is that the order of productivity of suffixs is “-meori, -thusʌŋi >-ki > -tuŋi > -k'urʌki > -k'un > -kæ> -tsæŋi > -tsil > -s'i > -i > -(ɨ)m > -po, -i1, -tsaŋi, -tsiki, -ts'ak, -putshi, -ts'ɨki, -atshi”. I analyze use patterns of derivatives of the sixth grade students in elementary school based on these statistic results. The result is, the firstly, that the suffix of the index number of 1 are “-meori, -thusʌŋi\". There are comparatively many hapax legomena compared with the total tokens. The second is that the large tokens ones among suffixes are “-ki, -kæ. -i, -(ɨ)m\". These occupied most amount to 93% among the total sum of tokens of suffixes. The “-(ɨ)m” among four are the lowest productivity. The reason is that the body of combination of -(ɨ)m with V(verb) become base, and then, the base generates the structure of compound word while the suffix of ‘-ki' occupied to high rank exponent of productivity make the structure of derivative word. The third, there are many temporal derivatives using suffix “-ki, -kæ\" appeared in syntactic environment in which the category of the combination become temporally derivatives one. The fourth, the features of the components of hapax legomena of derivatives included in ‘-i' is that there are many dependant bases and the forms such as k'ɔtsi, s'ɨri, kʌri, matsi'. The standard form of sætshimduŋi is sætshimt'ki but the latter form appeared in their diary corpus as the new coinage. The sixth is that ‘-k'urʌki, -k'un, -tsæŋi' occupy high rank position, that reason is also that there are comparatively many hapax legomena compared with the total tokens below average. The seventh is the productivity of index of ‘-tsaŋi, '-tsiki, -atshi, -ts'ɨki, -putshi' is zero. The reason is that the productivity is related with diachrone, low frequency, and the limitation of size of diary corpus. The ninth is the index of productivity of ‘-sæ, -sari, -pæŋi, -k'al have no meaningless because there is no comparing words with them.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "시몽동의 기술미학에서 ‘개체발생론’과 ‘변환’은 기술 융합을 추구하는 동시대 예술을 설명하는 중요한 철학 개념이다. 연구자들은 시몽동의 기술미학으로부터 기계-인간-환경 사이의 관계 맺음 속에서 제기되는 기술 중심 예술작품의 존재론적 문제를 살펴보고자 목적하였다. 하지만, 시몽동의 철학적 관점은 오늘날 기술과학의 문제들 특히 ‘생명체’에 관한 발전된 담론들을 모두 포섭하지 못한다는 한계를 가지고 있다. 이것은 동시대 기술융합예술을 대표하는 테오 얀센의 <해변동물>과 비교하여 볼 때 뚜렷하게 드러난다. 이에 따라 이 연구의 특수성은 시몽동의 철학과 테오 얀센의 예술작품이 기술과 예술의 관계 맺음을 생성의 원리로 본다는 공통점을 제시하는 것에 그치지 않고, 테오 얀센의 <해변동물>을 탄생시킨 근본 개념 시몽동이 제거한 진화생물학적 ‘우연’의 법칙에 있다는 차이점을 밝혀낸다. 연구자들은 기술적 대상들의 존재론적 문제와 관련한 두 가지의 중요한 철학적 입장을 교차해 다루는 이 연구가 동시대 예술의 기술 융합 현상의 근본적 가치에 관한 유의미한 통찰이 될 것으로 생각한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "목적 본 연구는 들뢰즈의 배움-주체론을 통해 배움 행위가 배우는 자의 의식 차원이 아니라 무의식 차원에서 발생함을 드러내기 위한 것이다.\n방법 이를 위해 첫째, 들뢰즈의 주체론 및 무의식에 대한 사유의 지적 배경이 되는 라이프니츠의 모나드론을 살펴보고, 둘째, 주름, 라이프니츠와 바로크4를 중심으로 전개되는 들뢰즈의 개체론을 분석하였다. 셋째, 라이프니츠의 아이디어를 창조적으로 해체한 들 뢰즈의 고유한 주체론을 구체화 하였으며, 넷째, 이러한 주체론에 비추어 들뢰즈의 배움론을 재해석함으로써 이로부터 ‘배움-주체 의 무의식성’에 대해 탐색하였다.\n결과 본 연구는 들뢰즈의 개체론/주체론에 가정된 ‘무의식적 표현 주체로서 배움-주체’의 성격을 밝혀냈다. 우리는 이런 배움-주체 가 표현자로서 ‘발산하는 모나드’와 표현 지대로서 ‘강도적 신체’를 표현 구조로 가지고 있으며, 세계의 변동, 곧 ‘사건/특이성’을 가능 세계로 개체화하는 주체라는 점을 밝혔다. 배우는 자의 모나드가 의미화 이전의 ‘무의미의 사건-특이성/이념 체계’를 표현한다 는 점으로부터, 그리고 그의 모나드에 귀속된 강도적 신체가 ‘의식 이하 또는 개체화 이전의 배아-유충적 표현 지대’라는 점으로부터 배움-주체의 무의식성을 추론했다.\n결론 들뢰즈의 배움-주체론에 의하면 배움은 배우는 자의 의식 차원이 아니라 의식 이하의 차원, 즉 무의식 차원에서 일어난다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This article examines the organic relationship between Tom Brangwen’s family members in D. H. Lawrence’s The Rainbow from an ecocritical perspective. Lawrence emphasizes that there must be both a wholeness of humanity and separate individuality in his essay “Love.” This duality can be found in Tom’s attitude toward his wife Lydia and daughter Anna. Tom and Lydia undergo repeated cycles of severe conflicts and reconciliations. Tom comes to respect Lydia’s individuality by keeping his distance from her when it is necessary. He also realizes that Anna is an independent human being when she falls in love with Will and gets married to him. Although the interaction between human beings is mainly described in this novel, it is accompanied by Tom’s expanded perception of the vastness of nature and the universe. The “blood consciousness” of Lydia can be developed in her relationship with not only Tom but also nature and the universe. Lawrence suggests a way to overcome anthropocentrism by portraying “spirituality” in nature.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "충생태 분야에서 생명표와 관련된 연구는 곤충연구자들에게 많은 관심을 받는 주제중 하나이다. 보통 두 가지 방법으로 생명표 통계량중 내적자연증가율을 추정하고 있는데, 첫 번째 하나는 순증가율(R 0 )에 자연로그를 취하고 평균세대기간(T )으로 나누어 근사치를 계산하는 방법이다(세대기간-기반 추정법). 다른 하나는 로트카-볼테라 개체군 생장 방정식에서 유도하여 최대우도법으로 정확한 내적자연증가율을 추정하는 방법이다(로트카-오일러식-기반 추정법). 후자의 경우 대상 집단의 초기 연령등급을 “0” 또는 “1”로 설정함에 따라 추정값에 차이가 발생하여 적용에 혼란이 제기되었다. 본 고찰에서는 생명표 통계량 계산과정의 역사를 간단히 정리하고, 로트카-오일러식-기반 추정법에서 최초 연령등급을 1로설정한 경우             의 형식, 반면 최초 연령등급을 0으로 설정한 경우     검색어: 생명표, 로트카-오일러식, 연령등급, 개체군 인구통계학, 안정 연령분포            의 형식을 적용해야 함을 재확인하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문은 대상의 본질 개념에 관한 것이다. 분석적 형이상학에서 본질은 양상적 표현으로 이해된다. 파인(Kit Fine)은 본질 개념을 이해하는데 양상적 방법보다는 정의적 방법이 더 적절하다고 주장한다. 이와 다르게 플란팅가(Alvin Plantinga)는 본질 개념을 이해하기 위해서는 필연, 가능과 같은 양상적 표현이 필요하며, 특히 대상의 본질을 파악하기 위해 ‘개체적 본질’이 필요하다고 말한다. 그에 따르면 대상의 본질적 속성과 개체적 본질은 구분되는 것이다. 필자는 파인이 주장하는 정의적 방법이 양상적 표현을 배제하면서 이루어질 수 없음을 지적하고, 나아가 일반적으로 본질적 속성이라고 할 수 있는 기원과 자연종만으로는 대상을 개별화하기에 부족하기 때문에 플란팅가의 개체적 본질 개념을 옹호할 필요가 있음을 보이고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "‘COVID 19’는 인간 중심의 세계 운용에 경고장을 던지며, 모든 일상을 급격히 변화시키고 있다. 작금의 이러한 상황은 기술 중심의 매체 정경(media landscape)에 관한 사유를 재요청한다. 이에 본 연구는 대표적인 디지털 플랫폼인 유튜브를 이끌어가는 상호주관적 주체로 유튜버와 구독자를 설정하고, 양자를 디지털 가상세계에서 활동하는 수행적 개체들로 바라보고자 한다. 연구내용은 크게 두 가지로 구분되는데, 먼저 1인 미디어 유형에 속하는 유튜브 채널의 유튜버를 ‘다중적 역할 수행성(multiple role performativity)’으로 고찰하고, 이후 그곳에서 이루어지는 상호작용을 ‘인트라-액션(intra-action)’이라는 개념을 차용하여 기술할 것이다.\n상술한 논의를 위하여 제2장에서는 유튜브 채널의 생산자인 유튜버(youtuber/user)와 향유자인 구독자(subscriber/follower)를 각각 ‘포스트크리에이터(post-creator)’와 ‘디지털 플라뇌르(digital flâneur)’라 칭하고, 탈경계적으로 넘나드는 유튜버와 구독자의 양상을 다양한 용어로 규정한다. 전자는 유튜버의 다중적 역할 수행성을 대변하는 용어로서 최근 여러 캐릭터로 분화하는 현상과 연결한 것이며, 후자는 향유자로서 디지털 가상세계를 부유하는 특성을 반영한 것이다. 이를 바탕으로 제3장에서는 탈경계적 디지털 개체로서의 유튜버와 구독자의 역할 수행성을 다루고, 이후 또 다른 행위 주체로 바라본 유튜브 플랫폼에서 이루어지는 상호작용에 관한 논의를 이어가고자 한다.\n앞으로 온라인 중심의 일상은 디지털 매체의 발전을 가속화할 것이며, 인간의 삶은 이를 기반으로 재편될 것이다. 기존의 매체를 통합하면서 새로운 매체 환경을 창안해 나가는 유튜브야말로, 모든 것이 얽혀있는 세계를 표상하기에 적합한 디지털 플랫폼이라 할 수 있다. 유튜브 채널에서 활동하는 디지털 개체들의 수행성과 상호작용을 논구한 본 연구도, 모든 것이 얽혀있는 세계를 탐색하는 시도에 다름 아니다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The purpose of this study is to provide a cognitive explanation for Korean numerical expressions. First, two contrasting theories on the referential meaning of bare NP and NP-tul were introduced and examined from viewpoint of quantitative iconicity-markedness. In addition, main claim of Sauerland(2003), which is that plurals are semantically unmarked, was refuted and typological evidences were presented. This confirmed that in Korean numeral expressions also, it is valid that singular and plural are unmarked and marked, respectively. Finally, semantic relation of singular individual and group is explained based on schematicity and categorization.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "비디오 개체 분할은 비디오를 구성하는 영상 프레임 각각에 대해 관심 개체 분할을 수행해야 할 뿐만 아니라, 해당 비디오를 구성하는 프레임시퀀스 전체에 걸쳐 개체들에 대한 정확한 트래킹을 요구하기 때문에 난이도가 높은 기술이다. 특히 드라마 비디오에서 인물 개체 분할은 다양한장소와 시간대에서 상호 작용하는 복수의 주요 등장인물들에 대한 정확한 트래킹을 요구하는 특징을 가지고 있다. 또한, 드라마 비디오 인물 개체분할은 주연 인물들과 조연 혹은 보조 출연 인물들 간의 등장 빈도에 상당한 차이가 있어 일종의 클래스 불균형 문제도 있다. 본 논문에서는 미생드라마 비디오들을 토대로 구축한 인물 개체 분할 데이터 집합인 MHIS를 소개하고, 등장인물 클래스 간의 심각한 데이터 불균형 문제를 효과적으로해결하기 위한 새로운 비디오 데이터 보강 기법인 CDVA를 제안한다. 기존의 비디오 데이터 보강 기법들과는 달리, 새로운 CDVA 보강 기법은 비디오들의시-공간적 맥락을 충분히 고려해서 목표 인물이 삽입되어야 할 배경 클립 내의 위치를 결정함으로써, 보다 더 현실적인 보강 비디오들을 생성한다.\n따라서 본 논문에서 제안하는 새로운 비디오 데이터 보강 기법인 CDVA는 비디오 개체 분할을 위한 심층 신경망 모델의 성능을 효과적으로 향상시킬수 있다. 본 논문에서는 MHIS 데이터 집합을 이용한 다양한 정량 및 정성 실험들을 통해, 제안 비디오 데이터 보강 기법의 유용성과 효과를 입증한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "제주도는 바람 많고 돌 많은 화산섬이다. 제주의 신화들은 이런 제주의 독특한 자연환경에 적응하면서 만들어진 제주사회의 특정한 사고방식과 생활양식을 드러내는 맥락이자 문화 산물이다. 이 글의 목적은 이런 제주의 조건을 반영하면서 맥락적으로 형성된, 제주신화에 내재된 다문화적 요소들을 찾아보고 다문화, 다문화교육의 방안과 시사점을 제시하는 글이다. 밭농사를 하게 한 척박한 ‘뜬땅’, 죽음과도 같은 바다를 헤치며 살아가야 했던 빈약한 생산성, 분산된 소유와 평등하고 개체적인 삶을 만들어 준 조각 조각난 토지들은 제주만의 고유성을 만들어냈다. 빈약한 생산성은 자립과 경쟁을 필수적으로 요구했다. 여성이든, 남성이든, 어른이든, 아이든 모두 직접 생산에 참여하면서 경쟁과 다양성, 개체적인 삶을 존중하는 문화가 형성되었다. 또한 내 밭을 살리고, 나이가 들어서도 생산에 참여하기 위해서는 공동체의 협조가 필수적이었다. 개체의 존중과 공동체에 대한 신뢰는 제주의 문화, 제주신화가 보여주는 중요한 테마이다. 협력, 공존, 차이에 대한 인정, 비차별, 소통, 공감, 공정, 나눔, 배려, 관용, 연대, 절약, 정의, 비판, 저항, 자율, 위로, 치유 등과 같은 다문화 요소들을 제주신화는 끊임없이 보여준다. 제주신화는 그 오래됨에도 불구하고, 나날이 달라지는 사회에 맞는 새로운 관계와 담론을 재구성해낸다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "협력은 우리 시대의 중요한 담론으로 자리 잡고 있다. 협력을 논의함에 있어서 사회구조(structure)에 대한 강조로 개인(agency)의 특성에 대해서는 많은 관심을 받지 못했다. Agency에 대한 강조는 구조가 지속성이 없더라도 개인의 특성에 의해 달라질 수 있다는 점을 찾는 데 있다. 특히 개인의 자기점검(Self-monitoring) 성향에 대한 논의는 사회적 협력에서 개인 특성을 고려해야 하는 이론적 근거를 제시하고 있다. 본 연구는 대학의 교양수업 과정에서 학생들의 친구관계 형성을 통해 공통의 과제를 해결하는 과정을 분석하고 있다. 이 연구의 목적은 자기점검 행동이 난감한 문제해결에 미치는 영향력을 설명함에 있어서 사회자본의 매개효과를 고찰하는 것이다. 연구결과에 의하면 개인의 자기점검 성향은 연계형(bridging) 사회자본 형성을 촉진하고 난감한 문제해결에 직접적 영향을 주는 것으로 나타났으나 연계형 사회자본의 매개효과는 나타나지 않았다. 반면에 집단(팀)의 자기점검 성향 수준은 결속형(bonding) 사회자본 형성을 촉진하고 이 사회자본 형성을 매개로 난감한 문제해결에 영향을 주는 것으로 나타났다. 또한 개인의 자기점검 성향은 결속형 사회자본 형성에 이바지하며 이를 매개로 난감한 문제해결에 영향을 미치는 것으로 나타났다. 이러한 결과에 대해서 타인과 공감하기 위해 자기감정을 누그러뜨리는 것이 요구되는 상황에서 자기점검 성향이 높은 사람은 상황적 여건에 맞추어 자신의 표현적인 행동을 조절할 능력을 소유하고 있고 자기감정의 절제로 팀 구성원 간의 의사소통과 상호작용이 확대되어 문제해결에 도움이 되는 사회자본을 형성한다고 해석할 수 있다. 연구 결과는 팀의 존속이 지속적이지 않은 상황에서도 사회자본 형성을 통한 집단과제 해결에 팀원이 노력과 시간을 투자하는 메커니즘을 보여준다는 측면에서 의미가 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "우리는 뇌가 사고를 위해 진화했다고 여겨왔지만 최근 연구에 따르면 뇌는 생존을 위해 진화된 예측 도구다. 뇌는 이 과정에서 신체에 대한 표상을 구성하고, 자아라는 관념을 포함하여 각종 다양한 관념들을 만들어낸다. 구성된 감정 이론은 이러한 학문적 맥락에서 우리의 지각, 사고뿐만 아니라 감정도 구성된다고 주장한다. 우리는 오랫동안 감정은 선천적이고 따라서 누구에게나 보편적인 방식으로 표현된다고 생각해 왔지만 Barrett의 연구에 따르면 이러한 감정에 대한 고전적 견해는 틀렸으며 다양성이 표준이다. 그녀의 이 새로운 감정 이론에 결정적인 영향을 준 것은 다윈의 개체군 사고인데, 다양한 개체들이 개체군을 구성하듯이 감정 또한 다양한 감정 사례들로 구성되어 있으며 이렇게 만들어지는 사회적 실재는 계속해서 변화한다. 구성된 감정 이론은 또한 우리 각자가 이 다양한 감정 세계를 만드는 능동적 참여자라는 사실을 강조하는데 이 과정에서 핵심적인 역할을 하는 것이 신체 예산(생존을 위한 에너지)과 언어(개념)다. 우리는 개념을 사용해 사회적 실재를 구축하며 이 사회적 실재를 통해 뇌가 다시 배선된다. 감정은 이러한 사회적 실재의 매우 실제적인 창조물인데, 이것이 가능한 까닭은 인간의 뇌가 다른 인간의 뇌와 협조하기 때문이다.\n이 연구는 이런 입장에서 구성된 감정 이론이 교육에 주는 시사점으로 자리이타의 교육문화를 제안하였다. 지금과 같은 상황에서 자리이타 교육문화 구현이 그저 이상적으로 여겨질 수도 있겠지만, 구성된 감정 이론의 관점에서 생각해 보면 우리는 새로운 감정 개념을 통해 새로운 감정 사례를 만들어 낼 수 있으며 이렇게 재구성되고 창조되는 또 다른 사회적 실재의 가능성은 무한하다. 다시 말해, 자리이타 교육문화는 가능하다. 자리이타라는 개념을 갖고 더 넓게 서로 공유하는 것이 필요할 따름이다. 또한 신체 예산 차원에서 생각해보면, 자리이타 행위가 나의(또 상대방의) 신체 예산 운영상 가장 에너지 효율이 높다. 왜냐하면 이것이 내가(또 상대방이) 타인의 도움을 가장 잘 받는 방법일 것이고 따라서 나의(또 상대방의) 신체 예산 운영에 도움이 될 것이기 때문이다. 따라서 학교는 학생들이 자신의 감정 입자도를 향상시키고 이와 함께 보다 풍부한 감정 개념을 배우고 더 다양한 감정 사례를 구성할 수 있도록 노력해야 할 것이며, 이 연구에서 제안한 자리이타 교육문화는 이러한 실천의 방향성 제시에 해당된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The C-command relationship between negative polarity items (NPIs) and negation is generally unrestricted in English, except when an island intervenes. This paper observes that in Korean, the relationship between NPIs and negation remains similarly unrestricted, except when an island or tense is involved. NPIs receive long-distance licensing across the complementizer ‘-ko’ only when the non-finite embedded predicate is both individual-level and non-finite. However, NPIs receive long-distance licensing across the complementizer ‘-ki’ regardless of whether the non-finite embedded predicate is individual-level or stage-level. NPIs are not licensed across the embedded clauses containing the predicate ‘–ess’, which denotes a foreseeable future tense. A bi-clausal structure is deemed unacceptable because the NPI within the finite embedded clause fails to meet the licensing conditions, although a higher NPI satisfies the clause-mate condition. The NPI ‘-pakkey’ also receives long-distance licensing across a non-finite embedded clause. Additionally, the paper argues that NPIs of the ‘amwuto’ type are licensed by the adverbial subordinator ‘-ceney’, whereas the NPI ‘-pakkey’ is not. Finally, the paper contends that the NPI ‘-pakkey’ cannot be licensed from an adverbial clause.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "오늘날 우리는 가치혼란의 상황, 물질주의의 만연, 각종 아노미 현상 등등을 경험하며 삶을 영위한다. 아울러 우리는 사회의 도처에서 공동체(사회) 해체현상에 직면하고 있다. 이런 사회적 상황에서 개인과 사회 간의 바람직한 관계 설정은 우리 시대의 중요한 과제라 할 수 있다. \n인간은 이중적 본성을 띠고 살아간다. 한편에서 인간은 개체적 존재이며, 다른 한편에서 인간은 공동체적 존재이기도 하다. 인간존재에 대한 이런 이중적 파악은 다음의 두 가지 잘못된 생각, 곧 극단적 집단주의와 개인주의에서 벗어나게 해준다. 인간은 자신만의 고유한 삶을 살아가는 것을 보장받음으로써 집단주의에서 벗어날 수 있으며, 동시에 공동체 안에서 자기정돈의 필요성과 타인을 위한 공동책임을 수용함으로써 개인주의에서 벗어날 수 있다.\n이 논문은 사회윤리학의 근본토대로써 인간존재의 이중성을 다룬다. 우리는 인간존재의 이중성에 초점을 두어 사회윤리학의 출발과 성격 그리고 근본전제에 대해 살펴본다. 나아가 사회윤리학 성립의 핵심내용에 해당되는 사회윤리의 기초적 인간관, 곧 인간 삶의 공동체적 속성과 그의 인격성(개체성)에 대해서 검토한다. 마지막으로, 사회적 존재로서 공동체적 삶을 살아갈 수밖에 없는 인간존재의 불가피성에 대해서 다각도로 논의하여 개인과 공동체 간의 조화로운 관계를 설정하려 한다. 이런 논의를 통해 우리는 점증하는 유동적이며 불확실한 사회적 상황에서 윤리적 연대 공동체의 실현이 중요함을 제시하고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "화이트헤드가 생각하는 종교적 경험은 고독의 경험 속에서 자신의 개체성을 자각한 인간이 사물의 본성에 있는 궁극적인 어떤 것, 영속하는 어떤 것과 관계 맺는 방식이다. 그래서 화이트헤드는 “종교는 개인이 그의 고독을 가지고 행하는 것”(RM 17, 47)이라고 말한다. 하지만 단순한 고독 그 자체는 전종교적(pre-religious)인 것이다. 종교에는 고독 가운데 잠재되어 있으나 우리 자신의 개체성에 대한 자기 의식적 평가에서 발전하게 되는 궁극적인 것을 지향하는 합목적적 의식이 들어있기 때문이다. 삶 자체의 가치를 묻는 물음에서 시작되는 이 자기 의식적 평가는 개인들 간의 상호 조정된 가치를 포함하는 객관적 가치세계로 확대되어 공유 가능한 보편적 원리를 산출해내고 이어서 이 자기의식은 스스로 이 보편 원리에 굴복한다. 화이트헤드가 생각하는 종교적 경험의 본질은 여기에 있다. 그리고 진정한 의미의 종교는 이런 고독의 경험 내용을 정합적 체계로 합리화하면서 탄생한다. 화이트헤드는 합리화가 없을 때 종교는 퇴락하여 단순한 사회성으로 되돌아갈 것이라고 주장한다. 합리적 종교는 우리의 직관에 주어지는 특수한 가치경험에서 출발하지만 궁극적으로는 이들을 합리적 범주로 정식화함으로써, 가치의 근원이 되는 것들을 명료하게 표현하고 또 규정한다. 이런 의미에서 화이트헤드가 생각하는 종교는 개체로서의 인간 내면의 근본정서와 인간이성 간의 화해의 산물이다. 그리고 이 화해를 이끄는 것은 형이상학이다. 형이상학은 합리적 종교가 그 기본 개념들을 결정하고 그 특유의 통찰들을 일반적 진리로 표현해내는 데 필요한 보편적 범주들을 제공하고. 종교는 인간 존재가 단순한 사실들의 계기(succession) 이상이라는 통찰, 우리에게 삶의 단순한 사실들을 넘어서서 삶의 질이 있다는 통찰을 형이상학에 제공함으로써 형이상학을 풍부하게 한다. 이 양자는 정신사의 현장에서 끊임없이 상호 작용하는 역동적 관계 속에 있다. 이것은 화이트헤드가 종교를 ‘형성과정상에 있는’(in the making) 것으로 생각하는 이유이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 조선후기 관료 제도 및 인사 제도를 정밀하게 분석할 수 있는 기초자료를 구축하기 위해 언어모델 기반 개체명 인식(Named Entity Recognition, NER)과 관계 추출(Relation Extraction, RE) 기법을 적용하여 『승정원일기』에 수록된 방대한 관인(官人) 및 관직(官職) 정보를 체계적으로 구조화하는 방법론을 제시한다. 먼저 기존에 구축된 『일성록』의 개체명 정보를 학습 데이터로 활용하여 사전학습 언어모델(RoBERTa)을 파인튜닝(fine-tuning)하였으며, 『승정원일기』 내 인물명과 관직명을 자동 식별하였다. 이후 인물명과 관직명이 동시에 등장하는 문단을 대상으로 관계 추출을 진행하여 관원이 특정 관직과 맺는 인사 관계를 의미 단위로 재구성하였다. 관계 유형은 근무, 재직, 임명, 상환, 전직, 추증, 사망의 7가지로 유형화하였으며 각 관계는 문장 구조와 핵심 어휘에 기반한 규칙을 통해 추출되었다. 인물-관직-인사 행위를 중심으로 한 관인-관직 데이터베이스를 구축하고 날짜·기사 식별자·원문 위치 정보 등을 함께 저장함으로써 검색, 검증, 시각화 등 다양한 활용이 가능하도록 설계하였다. 본 연구는 대규모 관찬 사료에 포함된 인사 정보를 체계적으로 구조화함으로써 조선후기 관료제 연구와 디지털 인문학적 시각의 형성을 위한 기초자료를 제공한다는 점에서 의의를 지닌다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "다중개체를 제어하기 위해서 해결해야 되는 문제들 중 하나는 위치제어다. 위치와 속도를 제어하기 위한 모델로 augmented Cucker-Smale 모델이 존재했다. 하지만 기존 모델은 모든 개체에 동일한 시스템을 적용함에 따라서 개별개체의 특성을 살리지 못했다는 특징이 있다. 본 논문에서는 그 점을 보안하고 적절한 형태로 변형하기 위해서 초기 위치와 분포를 이용한 마할라노비스 거리를 계수와 통계학적 자유도를 적용해서, 모델의 수렴시간과 소모에너지를 동시에 줄이고자 한다. 모델의 성능 검증을 위해서 몬테카를로 시뮬레이션을 통해서 전체적인 경향성을 판단했고, 추가적으로 개별 개체의 움직임을 분석하여서 마할라노비스 거리 계수가 적절한 역할을 수행하고 있는지 확인했다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The legislative system revolution is at the peak in china. Including the labor law which came into effect at the last Jan. 1. 2008 and Anti-monopoly law which will come into effect at the next Aug. 1. 2008, Too many lawmaking, specially in a economic law area, add more fuel to the opening market and revolution of China. It is almost caused by the acception to the WTO entrance conditions. Most of these kind legislation has the will of opening market, participation and it's revolution of China. This paper would analyse the social benefit standard of chinese economic law which is serve to the decisive factor of economic law's legislation direction. but it must pay attention to that social benefit standard is not the sole law-philosophical factor to decide the legislation direction of chinese economic law. \nToo many scientific research paper for the human benefit standard in a recent could explain this academic circumstance in china. From building the notion of social benefit, I will consider the circulative history of individualism and totalism which was appeared in the change of law system. And through analysing the development history and the reason of problem that china is faced with now, I will make a close investigation into the decision factor and direction of china economic law. Chinese economic law works on the every field connected with building market economic system and promoting it's improvement, therefore, It exists and expand it's field with exceeding the role of complement the weak points of private law. \nSpecially at the present surrounding which is developing to the completely different direction with the past, The market's new and various demand to the economic law will accelerate it. So China government just as America will pursue the conversion of development direction that world market system fit for the chinese participation to it. and chinese economic law will play a leading role through the legislation suited to it´s purpose. This purpose will be progressed, by three principle namely maximum, generalization, continuance of private benefit pursuit, to the direction beneficial for social total benefit of China.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "최근 우리 사회에서도 동물의 복지나 권리를 옹호하는 서양 철학자들의 논의가 많이 소개되고 있다. 예컨대 피터 싱어의 동물해방론, 톰 리건의 동물권리론, 제임스 레이첼즈의 도덕적 개체주의가 그것이다. 흥미 있는 사실은 이들 모두가 자신들의 입장을 정당화하기 위해 공통의 논증방식을 사용하고 있는데, 다름 아닌 ‘가장자리 경우 논증’이라고 불리는 논증이다. 이 논증은 동물에 대한 인간의 도덕적 지위를 결정함에 있어서 정상으로부터 심각하게 벗어난 인간들을 이용하여 동물들의 지위를 높이는 논증방식을 말한다. 싱어, 리건 그리고 레이첼즈가 전가의 보도처럼 휘두르는 가장자리 경우 논증이 허술한 논증임이 밝혀진다면, 그 논증에 의지하고 있는 동물해방론, 동물권리론 그리고 도덕적 개체주의도 붕괴될 것이다. 필자는 이 글에서 첫째로, 싱어, 리건, 레이첼즈가 가장자리 경우 논증을 사용하여 자신들의 주장을 펼치는 구체적인 논의 맥락들을 검토할 것이다. 둘째로, 가장자리 경우 논증을 비판적으로 분석할 것이다. 그리하여 가장자리 경우 논증을 이용하여 ‘종’들 간의 차이를 부정하려는 시도는 실패했음을 보일 것이다. 셋째로 ‘종’ 개념의 복권을 통해 가장자리 인간들의 도덕적 지위를 새롭게 복원하는 방법을 타진해볼 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 초등학교 4학년의 일기문 말뭉치에서 나타나는 고유어 명사 파생접미사로 형성된 파생어를 추출한 후, 4학년 아동들의 조어 능력을 생산성 측면에서 파악한 후 그 사용 양상을 밝힌다. 접미사 추출방법은 U-tagger 프로그램과 빈도 사전을 연결시키는 메타 계량적인 분석 방법을 이용한다. 생산성은 기존의 방법을 보완한 “사용 생산성(GP) =n1(T)/N”라는 공식을 적용하여 측정하였다. 이를 토대로 24개의 접미사의 생산성을 검증한다. 그 결과 “-투성이, -장이>-꾼>-보>-기>-둥이>-쟁이>-질>-이>-(으)ㅁ>-꾸러기>-개>-깔, -씨, -새, -이1, -살이, -뱅이>-지기, -짝, -뜨기, -아치”라는 생산성 정도가 도출되었다. 아울러 표본 내 말뭉치에서 단발어가 없어 생산성이 0인 접미사에 ‘-깔, -씨, -새, -이1, -살이, -뱅이’가 있으며 개체 수가 없는 접미사에는, ‘-지기, -짝, -뜨기, -아치’가 있다. 이 결과를 토대로 초등학생들의 개별 접미사 활용 사용 양상을 밝혔다. 특히 생산성을 높여주는 단발어들의 특성, 기존어의 개체수와 생산성의 상관 관계, 파생어의 생산성과 어기의 구조 관계, 유형수가 많은 접미사들의 생산성 비교, 4학년 시기의 심리 인지적인 측면과 연관된 파생어의 특성 등 다양한 측면들을 밝힌다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "특정 제품이나 서비스에 대한 네티즌의 의견들은 고객들의 구매 행위에서의 참고대상일 뿐만 아니라 기업 입장에서도 마케팅이나 경영전략을 수립하기 위한 중요한 자료가 될 수 있기 때문에 온라인 고객리뷰를 분석하는 것은 매우 중요하다.\n본 논문에서는 비정형(unformatted) 데이터형인 자연어(natural language) 형태로 웹상에 게시된 고객 의견들을 분석할 수 있는 새로운 오피년마이닝 기법을 제안한다. 기존 데이터마이닝 기법 중의 하나인 연관규칙탐사 기법을 수정하여 오피년마이닝 과정에 보다 효율적이고 효과적으로 적용하기 위한 방안을 고찰하고 이를 기반으로 실제 시스템을 설계하고 구현하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "Written shortly before D. H. Lawrence left Europe to set out on a long journey to America, “The Captain’s Doll” indicates a new direction in his fictional writing. There is not only a noticeable change of attitude in the treatment of marital relationship, but also a significant formal change. Coupled with the new adoption of a short novel form, the conspicuous symbolic deployment distinguishes this novella from his earlier works. The main symbol referred to in the title, which is present from beginning to end, plays a predominant role throughout the novella. The doll acts as a catalyst for the plot development. Also it is a subtle medium through which the feelings and inner state of the characters are conveyed. Most importantly, the ‘doll’ symbol is charged with rich suggestiveness and philosophical implications regarding the theme of Western ideal of ‘love,’ idealism and egoism; the doll implies, among others, the mechanical attributes of the conscious ego, the monadic entity cut off from the cosmic life flow; moreover, to make a doll of someone means to make a ‘picture’ or a fixed idea of him, depriving him of his individuality or otherness. This paper aims to scrutinize the doll’s various roles and symbolic meanings, together with the symbol of glacier, and to clarify how they serve to illuminate the essential nature of the relationship between the two main characters, Hannele and Captain Hepburn. As a result, the outstanding symbolic device of this novella turns out to be an integral part of its artistic achievement, bearing witness to the author’s unflagging creative inventiveness.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "“자기 존재 유지의 노력”(코나투스)은 스피노자의 사상을 “긍정의 철학”으로 규정하게 해 온 핵심 개념이다. 그러나 코나투스는 인간을 예속적이고심지어 자기 파괴적인 삶으로 몰아가기도 한다. 이것이 모순되어 보인다면 이는 코나투스를 흔히 단순체의 관점에서 보기 때문이다. 나는 스피노자에게서모든 개체가 복합체인 만큼 코나투스 역시 복합적임을, 그리고 이 복합성은 부분의 다수성이나 전체 구조의 복잡성보다 더 역동적인 갈등적 성격을 가짐을보여준다. 더 구체적으로는 첫째, 코나투스가 내적 부정을 겪을 수 있으며, 이는 둘째, 전체로서의 개체만이 아니라, 개체의 변용들에도 별도의 코나투스가있고, 후자의 자기 긍정성이 개체 전체의 본성에 상반될 수 있기 때문이다. 곧변용의 상대적 독립성이 개체의 자기 파괴적 행위의 원인이다. 하지만 이 독립성은 변용의 자체적 힘보다는 개체들 간의 복합적 연관에 바탕을 두는 한에서, 자유의지에 기대지 않고 개체의 역량을 강화할 수 있는 조건이기도 하다. 결국코나투스의 복합성을 제시함으로써 나는 우리 안에서 일어나는 긍정과 도약의느낌을 우리 자신의 능동성으로 착각해서는 안 되며, 이 느낌 역시 원인을 통해인식되어야 함을 환기시킨다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "특허 정보검색에서는 검색 정확도를 높이거나 유사 특허들을 검색하기 위한 목적으로 청구항 등 특허 기술 문서의 내용을 대표하는 개체명인식이 필요하다. 본 연구에서는 특허 개체명을 자동으로 인식하기 위하여 기계 학습 기법에서 태깅 문제 해결에 매우 우수한 성능을 보이는조건부 랜덤 필드 기법을 이용하는 특허 개체명 인식 방법을 제안하였다. 개체명 태깅이 되어 있는 특허 문서 말뭉치에서 66만 어절을 학습용데이터로 사용하여 특허 개체명 시스템을 구축하고, 7만 어절을 평가용 데이터로 사용하여 성능 평가를 하였다. 실험 결과에 의하면 개체명 인식 정확도는 93.6%이고, 개체명 인식 성능을 수작업 태깅 결과와 비교하여 일치도를 평가했을 때 카파 계수는 0.67로 나타났다. 이 카파 계수값은 두 사람의 수작업 태깅 결과에 대한 카파 계수 0.6 보다 높은 것으로 특허 개체명 인식 시스템이 수작업 태깅을 대신하여 실용적으로 활용될 수 있음을 확인하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "헌법재판소 2010. 5. 27. 2005헌마346 전원재판부 결정(이하 헌재 2005헌마346 결정)은 배아의 기본권 주체성을 부정하였다. 이 결정에서 배아의 기본권 주체성을 부정하기 위해 제시된 논거에는 여러 가지 의문점이 제기된다. 그 가운데 본 논문은 헌재 2005헌마346 결정에서 배아의 지위와 관련된 자연과학적 인식 수준에 함의된 여러 논의와 관점을 분석한다. 과학적 관점에서 생명의 시작과 개체의 시작은 분리되지 않는다. 그러나 헌재 2005헌마346 결정의 ‘개체적 연속성’의 논거는 인간 생명체로서 존재하는 배아에 대한 자연과학적 관점이라기보다는, 배아의 존재를 어떤 특정 목적을 달성을 위해 사용될 수 있는 상대적 가치를 가진 대상적 관점에 더 큰 무게를 둔다. 따라서 헌재 2005헌마346 결정은 인간 배아의 지위에 대한 왜곡된 결론에 도달한 것으로 보인다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "채팅 시스템은 사람의 말을 기계가 이해하고 적절한 응답을 하는 시스템이다. 채팅 시스템은사용자의 간단한 정보 검색 질문에 대답해야 하는 경우가 있다. 그러나 기존의 생성 채팅 시스템들은 질의응답에 필요한 정보인 지식 개체(트리플 형태 지식에서의 주어와 목적어)의 임베딩을 고려하지 않아 발화에 나타나는 지식 개체가 다르더라도 같은 형태의 답변이 생성되었다. 본 논문에서는 생성 기반 채팅시스템의 질의응답 정확도를 향상시키기 위한 지식 임베딩 방법을 제안한다. 개체와 유의어의 지식 임베딩을 위해 샴 순환 신경망을 사용하며 이를 이용해 주어와 술어를 인코딩 하고 목적어를 디코딩하는 sequence-to-sequence 모델의 성능을 향상 시켰다. 자체 구축한 채팅데이터를 통한 실험에서 제안된 임베딩 방법은 종래의 합성곱 신경망을 통한 임베딩 방법 보다 12.48% 높은 정확도를 보였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 단행본, 학술지, 보고서 등 다양한 종류의 발간물로 구성된 연구보고서의 참고문헌 데이터베이스를 효율적으로 구축하기 위한 것으로 딥러닝 언어 모델을 이용하여 참고문헌의 자동추출 성능을 비교 분석하고자 한다. 연구보고서는 학술지와는 다르게 기관마다 양식이 상이하여 참고문헌 자동추출에 어려움이 있다. 본 연구에서는 참고문헌 자동추출에 널리 사용되는 연구인 메타데이터 추출과 더불어 참고문헌과 참고문헌이 아닌 문구가 섞여 있는 환경에서 참고문헌만을 분리해내는 원문 분리 연구를 통해 이 문제를 해결하였다. 자동 추출 모델을 구축하기 위해 특정 연구기관의 연구보고서 내 참고문헌셋, 학술지 유형의 참고문헌셋, 학술지 참고문헌과 비참고문헌 문구를 병합한 데이터셋을 구성했고, 딥러닝 언어 모델인 RoBERTa+CRF와 ChatGPT를 학습시켜 메타데이터 추출과 자료유형 구분 및 원문 분리 성능을 측정하였다. 그 결과 F1-score 기준 메타데이터 추출 최대 95.41%, 자료유형 구분 및 원문 분리 최대 98.91% 성능을 달성하는 등 유의미한 결과를 얻었다. 이를 통해 비참고문헌 문구가 포함된 연구보고서의 참고문헌 추출에 대한 딥러닝 언어 모델과 데이터셋 유형별 참고문헌 구축 방향을 제안하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 과학영재를 대상으로 생태계 개념에 대한 정확한 이해에 NetLogo 시뮬레이션 활동의 효과를 논의하고자 하였다. 이를 위해 대학부설 과학영재교육원 초등과학영재 20명을 대상으로, NetLogo 시뮬레이션을 활용한 생태계 개체군 상호작용 수업을 실시하고 수업 전후 개체군 상호작용 관계도와 생태계 평형 설문지를 적용하여 생태계를 이루는 개체군 상호작용과 생태계 평형에 대한 이해도 변화를 분석하였다. 분석결과 학생들은 다음과 같은 개념을 학습하였다. 첫째, 개체군을 이루는 개체 수는 일정 폭으로 진동하면서 유지된다. 둘째, 생태계를 이루는 종의 개수가 더 많은 생태계의 생태계 평형이 더 오래 지속된다. 셋째, 하위 먹이사슬의 개체군에 변화가 일어날 때, 하위 먹이사슬의 개체군과 간접적으로 연결된 개체군에도 그에 따른 변화가 일어난다. 넷째, 작은 변화에도 시간이 지남에 따라 생태계의 전체적인 모습이 변할 수 있다. 본 연구는 초등학생을 대상으로 NetLogo를 이용하여 생태계의 기본적인 원리인 피식-포식 상호작용과 생태계 평형에 대한 이해도를 높일 수 있다는 것을 보였다는 점에서 의의가 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This article deals with an ecological-economic analysis of the 'Pasture Project of Kum River', which is the farming plan of mitten crabs using Jichun, a stream of the River Kum where the natural propagation of mitten crabs are blocked because of the estuary dam constructed in 1990. Toward analyzing the ecological and economic effects of the crab releasing and harvesting activities in Jichun, a two-stage cohort model of population dynamics with cannibalistic behaviors and density restrictions in biomathematics is adopted, despite of the current infertility in Kum, considering the opportunity of establishing dam fishways in the near future. This study moreover presents a method of parameter estimation especially with assuming a steady state of the ecosystem, and performs various analyses such as the risk measurement of climate change and the economic value of such fishways.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "1950년대 김용호의 시는 한국 현대시에 나타난 전쟁 체험의 형상화 방식을 특징적으로 보여준다. 두 권의 서정시집에서 시적 화자는 체험적 화자로서의 특징을 보인다. 푸른 별(1952)에서 개체적 자아로서의 체험적 화자는 전쟁이라는 극한적 상황 속에 놓인 인간의 고통을 개인적이고 즉자적인 측면에서 반추한다. 이들 시편에서는 전쟁기 황폐한 자아의 내면과 전쟁 체험의 사적인 측면이 두드러지게 형상화된다. 날개(1956)에서는 사물-화자라는 미적 장치를 통해 시인 자신의 감정을 객관화하려는 태도가 나타난다. 이 시집에서 화자는 개인적 체험의 특수성을 전쟁 체험의 보편성에 대한 인식으로 확산시키며 통합적 자아에 대한 가치 지향성을 보여준다. 서사시집 남해찬가(1957)에서는 전쟁이 매개하는 집단의 경험과 집합적 기억의 재현에 집중한다. ‘남해’라는 시인 개인의 고향공동체, 그리고 ‘임진왜란’이라는 민족공동체, 마지막으로 ‘한국 전쟁’이라는 민족․국가 공동체의 기억과 역사가 서로 결합되는 과정에서, 개인, 민족, 국가 차원에서 전쟁 체험의 확인과 재구성 작업이 진행된다. 이때 개체적 자아의 내면 체험은 공동체 단위의 체험 속으로 함몰되는 양상을 띤다. 결론적으로 김용호의 시는 전쟁 체험의 기록물이자 시적 형상화를 향한 고투의 흔적으로서 1950년대 문학의 의미있는 자료로 평가될 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 연속시간에서의 타카키—수게노 퍼지모델 기반 다개체 시스템의 상태일치를 위한 제어기 설계 기법을 제안한다. 그래프이론을 통해 각 개체간의 정보를 교환하는 네트워크를 표현한다. 제어기 설계 조건은 선형 행렬 부등식의 형태로 유도되며, 수치적예제를 통해 제안된 방법의 효율성을 증명한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "중요 시설해충인 아메리카잎굴파리(Liriomyza trifolii (Burgess))의 개체군 밀도변동모형을 방울토마토 온실내 대기온도와 잎 표면온도를이용하여 모형 정확성을 비교하였다. 모형 개발에 이용된 생물적 변수들은 기존 발표된 자료들을 사용하였고 모형 작성은 DYMEX ®프로그램을이용하였다. 온도에 따라 상이한 발육기간과 산란수는 생리적 연령으로 표준화시킨 발육완료 분포모형, 연령 특이적 산란수 및 생존율을 비선형회귀 모형에 적합시켜 밀도변동 모형을 개발하였다. 줄내림방식의 방울토마토에서 식물체를 3개의 위치(상단: 지상 1.6 m 이상, 중단: 지상 0.9 - 1.2 m 사이, 하단: 지상 0.3 - 0.5 m 사이)로 나누고 각 위치별로 온실 내 대기 온도와 잎 표면 온도를 기록하였다. 온실 내 잎 표면 최대온도는 대기중최대온도보다 항상 낮게 유지되고 있었으며, 하단, 상단, 중단의 순으로 온도가 낮아지는 경향을 보였다. 개발된 모형검정을 위한 초기이입 시기와밀도는 6월초 성충 5마리가 총 50개의 알을 잎에 산란한 것으로 설정하였다. 온실 내 대기 온도와 잎 표면 온도를 이용하여 아메리카잎굴파리 유충발육모형과 성충의 산란모형을 DYMEX로 프로그래밍하고 모의실험을 하였다. 모의실험결과를 평가하기 위해 기상자료를 수집한 동일한 온실에서 아메리카잎굴파리 유충 밀도를 육안조사 하였으나, 알, 번데기, 성충의 경우 육안조사가 어려워 대상에서 제외하였다. 육안조사결과 밀도변동패턴이 방울토마토 잎 표면 온도를 이용한 모의실험결과 밀도변동패턴과 유사하였다. 육안조사결과와 육안조사시기의 DYMEX모의실험 결과값을 상관분석 한 결과, 육안조사결과와 잎 표면 온도를 이용한 모의실험 결과가 유의한 양의 상관관계를 보였다(r =0.97, p < 0.01). 대기 온도를 이용한 모의실험 결과와는 유의하지 않은 상관관계를 보였다(r =0.40, p = 0.18). 본 연구결과 방울토마토 온실에서 아메리카잎굴파리 개체군밀도변동의 적절한 예측을 위해서는 잎 표면 온도를 고려해야 하는 것으로 나타났다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 지속적인 그래프 임베딩에서 개체 중요도 평가의 정확성을 개선하기 위해 관계의매개 중심성을 가중치 기반 페이지랭크 알고리즘의 가중치로 적용하는 새로운 방법론을 제안한다. 간선 매개 중심성을 정규화해 모델에 통합함으로써, 제안 기법은 간선을 통한 정보 흐름의 중요성을 반영하면서개체 중요도를 효과적으로 전파해 네트워크 전반의 학습 성능을 향상시킨다. 실험 결과, 다양한 데이터셋에서 MRR 및 Hit@N 지표에서 기존 기법 대비 유의미한 성능 향상을 보였다. 특히, 새로운 개체와 관계가 지속적으로 추가되는 환경에서 제안 방법은 첫 번째 스냅샷 이후 높은 성능 개선을 나타냈다. 이러한결과는 관계의 중심성을 활용한 개체 중요도 전파가 지속적인 지식 그래프 임베딩의 학습 효율성을 크게증대시킬 수 있음을 시사한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "19세기의 사회진화론자들이 파악한 진화론은 현대 진화론과는 다소 차이가 있었다. 그들 중 일부는 진화를 목적론적으로 파악하였으며, 진화 과정을 선(善)과 동일시하기도 하였다. 그들은 이처럼 자신들이 나름대로 파악한 진화의 특징을 도덕적 지침으로 삼으려 하기도 했는데, 이는 철학적으로 보았을 때 미숙한 것이었다. 뿐만 아니라 사회진화론은 동물에 대한 인간의 차별은 말할 것도 없고, 인종이나 성 차별 등까지도 옹호하는 듯한 태도를 보였는데, 이로 인한 폐해는 적지 않은 것이었다. \n현대의 진화론자들은 더 이상 과거의 사회진화론자들이 범한 실수를 되풀이하지 않는다. 뿐만 아니라 언뜻 보기에 오늘날의 진화론은 인간 아닌 동물과 인간의 격차를 줄임으로써 동물의 도덕적 지위를 향상시키는 데에도 기여하는 바가 있는 듯하다. 하지만 동물들과 관련한 새로운 진화론적 사실들 자체가 동물의 도덕적 지위를 보장해 줄 수는 없다. 물론 그러한 사실들이 동물과 인간의 격차를 줄이는 데 기여할 수 있는 것은 분명하다. 그럼에도 그러한 사실들은 가치와는 구분되며, 우리가 특정한 도덕 이론을 받아들여야만 비로소 도덕 판단을 내리는 데에서 중요한 정보로서의 역할을 할 수 있게 된다. \n하지만 진화론 자체가 동물의 도덕적 지위에 시사하는 바가 없다고 생각하는 것은 섣부른 판단이다. 만약 진화론적 사실이 도덕의 배경을 이룰 수 있다고 생각할 수 있다면, 그리고 진화론과 도덕의 관계가 논리적인 연역관계가 아니라 단지 전자가 후자를 지지하거나 전자가 후자의 근거를 무너뜨리는 역할을 한다고 생각할 수 있다면, 우리는 진화론이 도덕에 시사하는 바가 있으며, 이러한 도덕을 통해 동물의 도덕적 지위를 확보할 수 있다고 생각할 수 있을 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "협력적 행동은 자연선택과 적응이라는 개념에 반하는 것으로 보이기도 하지만, 유전자 수준에서 유기체에 이르기까지 자연에서 광범위하게 관찰된다. 협력적 행동의 유래와 지속성은 오랜 동안 진화와 생태를 연구하는 과학자들에게 수수께끼로 여겨져 왔다. 시간이 흘러도 협력이 유지되는 이유를 찾고자 하는 것이 진화 생태학과 행동 생태학 분야의 중요한 연구 주제 중에 하나이다. 여기에서는 상호작용하는 생물 집단 사이의 개체 수 동역학을 연구하는 수리생물학의 관점에서 협력 관계를 나타내는 수학적 모델에 대하여 역사적 개관을 살펴보고, 이러한 협력 관계 모델의 수학적 특성과 의미를 분석한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본고는 김지하의 시에 나타난 생태학적 상상력을 신유물론적 관점에서 분석하고자 한다. 김지하는 그의 시에서 세계를 유기적이고 전일론적 세계로 파악한다. 그러나 이러한 유기론적, 혹은 전일론적 세계는 에코파시즘의 위험성을 노출하기도 하는데, 이는 개체의 특성과 독립성이 전체를 위한 희생으로 치환될 가능성을 열어두기 때문이다. 이러한 위험성에도 불구하고 김지하는 세계를 유기적으로 파악하면서도 동시에 개체를 전체에 희생시키지 않는 상상력으로 나아가고자 한다. 김지하 시는 인간, 비인간 행위자 간의 세밀하고 복잡한 관계를 그려낸다. 그의 시 속에서 인간과 비인간 존재들은 단순히 공존하는 것을 넘어 ‘몸’을 매개로 물리적으로 긴밀히 연결되며, 서로에게 영향을 미치는 관계에 놓인다. 이러한 관계가 설정됨으로써 비인간, 인간 행위자는 세계를 구성하는 동등한 구성원이 된다. 이는 인간이 자연과 비인간 존재들을 단순히 지배하거나 도구적으로 이용하는 것이 아니라, 그들과의 상호작용 속에서 세계를 함께 구축해 나가는 존재임을 보여준다. 즉, 그동안 세계로부터 스스로를 유리시켜 왔던 인간은 비인간으로부터의 ‘초대’를 통해 세계에 속하게 되며, 더 나아가 인간 없는 비인간의 세계, 비인간 없는 인간의 세계는 온전한 세계가 아니라는 상상력이 나타난다. 더불어 김지하 시의 ‘고향’은 소유되는 것이 아니라 속하는 곳으로, 고정된 지리적 공간이 아닌 ‘나’와 ‘너’라는 존재들의 ‘지금—여기’에 따라 정의된다. ‘고향’에 속한다는 것은 자신이 딛고 있는 ‘대지’에 속하는 것들과 ‘뒤죽박죽’으로 얽히며 살아가는 세계를 조정한다는 의미로 연결된다. 인간은 비인간의 존재가 주는 불편함을 감수하고 이들과 함께 살아가는 세계를 직접 구축하고자 한다. 이러한 상상력을 통해 김지하의 시는 인간과 비인간의 상호작용과 연결을 통해 각각의 존재들의 중요성을 강조함으로써 전체주의적 위험을 극복할 수 있는 가능성을 보여준다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 조선족의 일상과 장소를 대표하는 공간으로 고향을 재구성하는 방식을 분석하고 나아가 고향의식의 재구성(혹은 재구성의 실패)이 다중 스케일적 공간인식과의 상호영향관계 아래서 어떻게 전개되는지를 살피고자 한다.\n장소성의 상실, 이에 따른 개체의 부유와 정체성의 분열, 공간인식 층위의 무화 등을 공통적으로 보여주는 소설들은, 고향의 소멸을 전제로 하며 아비의 부재를 공통분모로 갖고 있다. 이 소설들은 장소가 부재할 때 맥락적이고 다층적인 공간은 삭제되고 무맥락적인 공간을 배경으로 사적 공간, 개체의 내면공간만을 질문할 수 있을 뿐이다. 반면, 주로 고향으로 호명되는 조선족 농촌지역은 다중 스케일의 공간들과 그 관계망 그리고 장소에 대한 중층적인 영향력을 인식하고 경험하는 고정점이 되고 있다. 그리고 고향은 아비라는 존재와 긴밀하게 결합되어 있다. 위 두 경향의 소설이 공존하고 있는 최근 중국 조선족소설은 고향ㆍ아비로 형상화되는 공간적ㆍ민족적 구심력과 장소의 상실로 구체화되는 원심력이 충돌ㆍ갈등하는 과도기적 상황을 보여준다. 역설적인 것은, 원심력과 구심력의 이원적 분리와 충돌은 선명하지 않으며 구심력은 공간층위의 측면에서 다양한 인식과 해석들이 충돌하는 과정과 연동되어 구현되고 있다는 점이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 연구에서는 대학 한국어 교재의 국가 차별적 요소를 計量的 방식으로 점검하였다. 두 가지 사항에 대해 점검하였다. 우선, 교재에 출현한 國家名의 頻度와 分布를 살펴보았다. 그리고, 국가명이 문장 내에서 어떤 단어들과 같이 사용되는지 확인하였다.\n점검 결과를 바탕으로 다음 세 가지 사항을 논의하였다. 첫째, 각각의 점검 요소와 관련하여, 교재별로 유사한 흐름이 있지만, 상이한 모습도 존재한다. 따라서, 교재의 국가 차별적 요소에 대한 논의에서 개별 교재의 차원에서 접근할 필요가 있다. 둘째, 소수의 특정 국가명이 집중적으로 사용되는 경향이 짙다. 특히, 大陸別 분포에서도 국가명 사용에 편중이 있다. 상황상 교재에서 여러 국가의 이름을 언급해야 한다면 학습자의 國籍 분포를 고려할 필요가 있다. 셋째, 低頻度로 언급되는 일부 국가명에 대해서는 否定的 이미지가 형성될 요소가 잠재되어 있다. 나라들의 특성을 보여주되 固定觀念이 강화되지 않도록 유의해야 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "4차 산업혁명 시대를 맞이하여 인공지능을 활용하여 혁신을 이루고자 하는 노력이 사회 전반에 걸쳐 이루어지고 있다. 국방분야에서도 이런 인공지능 기법을 이용하여 전투력 발휘를 극대화하기 위한 노력을 선진국을 중심으로 실시하고 있다.\n우리군에서 인공지능 관련 연구는 드론, 로봇 등 전장 관련된 부분에 집중되어 있으며, 상대적으로 훈련 분야에 인공지능 기법 적용 연구는 부족한 실정이다. 이런 의미에서 본 연구는 인공지능의 개념에 대해 살펴보고, 국방 M&S 분야 중 하나인 훈련 M&S 분야의 인공지능 기법을 활용하고 있는 사례를 분석하였다. 또한, 현재의 기술력을 이용하여 의사결정 지원체계, 지능형 교관, 가상개체 자동 모의에 대한 발전 방안을 제시하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구에서는 2012년부터 2016년까지 행정안전부가 주관하여 경영평가를 실시한 지방공기업을 대상으로 지방자치단체의 재정수준이 지방공기업의 경영평가결과에 미치는 영향을 실증적으로 분석하였다. 분석결과에 따르면, 자치단체의 부채비율과 재정자립도가 경영평가점수에 유의미한 영향을 미치는 것으로 나타났다. 반면, 자치단체의 1인당 지방세는 경영평가점수에 유의미한 영향을 미치지 않는 것으로 나타났다. 이는 지방자치단체의 재정여건이 지방공기업의 성과에 영향을 미치는 외부 환경요인으로 작용하며 자치단체의 소득수준보다는 산하 지방공기업에 대한 실질적인 재정적 지원을 담보할 수 있는 관할 자치단체의 재정건전성과 여유재원이 중요하다는 것을 시사한다. 이러한 연구결과를 바탕으로 현행 경영평가지표 및 평가등급 부여 과정에서 재정적 환경요인을 반영하는 방안을 제시하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문에서는 이동 구간 입자 군집 최적화 (Receding horizon particle swarm optimization; RHPSO) 알고리즘 기반 다개체 로봇 편대 제어 알고리즘의 통계적 성능 분석 결과를 제시한다. 다개체 로봇의 편대 제어 문제는 로봇 간 충돌 회피를 고려할 경우, 구속 조건이 있는 비선형 최적화 문제로 정의될 수 있다. 일반적으로 구속 조건이 있는 비선형 최적화 문제는 최적해를 찾는데 많은 시간이 걸리는 문제점이 있다. 이동 구간 입자 군집 최적화 알고리즘은 로봇 편대 제어의 최적화 문제에 대한 준최적해를 빠르게 찾기 위해 제안된 알고리즘이다. 이동 구간 입자 군집 최적화 알고리즘은 알고리즘에 사용되는 후보해의 개수와 세대 수가 증가함에 따라 계산 복잡도가 증가한다. 따라서 최소의 후보해와 세대 수만으로 실시간 제어에 사용될 수 있는 준최적해를 찾는 것이 중요하다. 본 논문에서는 이동 구간 입자 군집 최적화 알고리즘의 후보해의 수와 세대 수에 따른 제어 오차를 비교하였다. 다양한 조건의 시뮬레이션 실험을 통해서 통계적으로 결과를 분석하고, 허용 가능한 편대 오차 범위 내에서 이동 구간 입자 군집 최적화 알고리즘의 최소 후보해의 수와 세대 수를 도출한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "인공지능 같은 디지털 존재가 일상에 스며드는 상황에서 기술공포와 기술숭배가 공존하고 있다. 이 논문은 인공지능운영체계와의 사랑을 다룬 영화 <그녀>의 사례를 들어, 디지털 존재를 대상화하거나 경쟁상대로 보는 인간중심주의의 실체적 관점을 벗어나, 관계적 관점에서 인간과 디지털 존재의 존재양식에 대해 살펴보고, 관계의 물질성과 비소유성, 개체초월성의 차원에서 인간과 디지털 존재의 관계에 대해 논의한다. 인간-기계의 결합이 촉발시킨 포스트휴머니즘 논의와 기술적 대상의 생성·변환에 대해 사유하는 시몽동의 철학을 따라가면서 인간과 디지털 존재는 포스트휴먼으로서 유목적 주체성을 가지며, 인간ᐨ기계 앙상블로서 개체화된 관계적 실재임을 논의한다. 이러한 존재양식은 인간과 디지털 존재의 관계를 규정하는바, 인간과 디지털 존재의 관계는 지각된 타자로서 커뮤니케이션하는 육화된 관계이고, 인간관계에 내재된 소유로서의 관계가 아닌 비배타적이고 비소유적인 관계이며, 양립불가능하고 불일치하는 긴장을 해결하는 과정에서 생성과 변환을 겪는 개체초월적 관계임을 구명한다. 이러한 관계에 개입할 수 있는 사회문화적 편견을 짚어보고 인간과 디지털 존재가 공진화할 수 있는 가능성과 그 함의에 대해 논의한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "예술 작품과 해석에 관한 마골리스의 이론은 반토대론/프래그머티즘에 기반한 상대주의이다. 고정된 실재보다 유동성을 강조하는 그의 입장은 분석 미학의 전통 내에서 역사적/맥락적 요소들을 강조한다. 그의 상대주의는 해석적 진술상의 이치 논리와 배중률을 거부하고 비수렴적인 해석들을 인정하며, 예술 작품은 문화적으로 창발된 개체로서 물리적인 속성과 함께 지향적인 속성을 가진다. 이것은 해석적 변화를 수용하며 행위의 측면을 강조한다.\n마골리스의 입장은 해석적 단원론을 지지하는 전통적인 작품 중심 미학과 해석의 무한한 자유를 옹호하는 급진적 이론의 중간 지점에 있으면서, 해석적 변화에 대처하면서 안정된 기준과 비평적 다양성을 수용하려는 것이다. 그의 이론의 구성주의/부과주의적 경향은 지향적 속성의 비결정성과 맞물리면서 해석상의 안정된 기준에 대한 요구가 상대적으로 부각된다. 이에 대해 이 글은 역사주의적 측면 및 의도의 역할을 검토한다. 이 두 가지는 마골리스 이론 내에 무리 없이 수용되면서 해석적 안정성과 제한들, 해석적 다양성의 보장 문제에 대한 우려를 불식시켜 그의 구성주의적 해석 이론을 보다 만족스럽게 보완하며, 또한 공동체와 해석의 행위적 측면을 부각시켜 예술 작품과 해석에 대한 그의 이론을 전체적인 프래그머티즘의 맥락에서 보다 선명하게 조망할 수 있게 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "현대 형이상학의 대표적인 논쟁들 중 하나는 구체적 개체들의 지속에 관한 ‘이동지속이론’과 ‘확장지속이론’ 사이에 벌어진 논쟁이다. 이동지속이론은 개체들은 그것들이 존재하는 각각의 시간들에서 완전하게 존재함으로써(by being wholly present) 지속한다고 주장하며, 확장지속이론은 개체들이 존재하는 각각의 시간들에서 그것들의 시간적 부분들을 가짐으로써(by having temporal parts) 지속한다고 주장한다. 본 논문은 구체적 개체의 지속 문제를 다루면서 이 두 가지 주요한 이론들의 주장을 비교 검토하고, 이 두 이론들이 시간을 가로지르는 개체들이 겪는 ‘속성에서의 변화’와 ‘부분에서의 변화’에 어떻게 대응하는지에 초점을 맞춘다. 이를 통해 이동지속이론은 우리의 상식적 직관에 더 부합해 보이지만 철학적 관점에서 개체들의 변화를 설명하는데 어려움이 있는 반면, 확장지속이론은 시간적 부분이라는 개념을 통해 변화하는 개체들의 동일성을 더 일관성 있게 설명할 수 있음을 보일 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문은 사회학 이론가 제임스 콜만(James S. Coleman)의 합리적 선택이론과 ‘비대칭 사회론’에 대해 체계적으로 소개하는 글이다. 이른바 ‘콜만 리포트’로 사회학계보다는 오히려 교육학계에서 더 널리 알려져 있는 콜만은 1990년 그의 합리적 이론관을 집대성한 Foundations of Social Theory를 출간하면서 사회학 이론 영역에 뚜렷하고도 강렬한 족적을 남겼다. 이 연구에서는 콜만의 합리적 선택이론을 집중적으로 소개하면서, 그의 분석적 이론체계가 갖는 보다 넓은 사상적 함의들을 추적하고자 한다. 동시에 치열한 ‘사회학도’로서의 콜만의 여러 면모에 대해서도 겸하여 소개하려고 한다. 먼저 1장에서는 콜만이 제기하는 사회이론의 기준을 실타래 삼아 합리적 선택이론에서의 방법론적 개체주의, 미시-거시 연계의 문제, 행위 합리성의 가정 등에 대해 주로 메타이론적 차원에서 논의한다. 본론격인 2장에서는 콜만이 제시하는 합리적 선택론을 요약적으로 소개한다. 콜만 버전의 합리적 선택이론이 갖는 균형론적 특성을 살펴보고, 그것에 따르는 분석적 강점과 함께 여러 내재적 한계들에 대해 논의할 것이다. 이 논의는 콜만의 비대칭 사회론과 사회적 자본의 주제에 대한 논의로 이어지며, 여기서는 콜만 이론의 밑바탕에 깔린 계약론적 사상의 특성을 소개하면서 그러한 계약론적 세계관과 그의 균형론적 분석틀 간의 간극에 대해 언급한다. 마지막 3장에서는 콜만의 교육 연구를 간략하게 소개하면서, 현실 문제에 민감한 ‘사회학자’ 콜만의 면모에 대해 간략하게 스케치할 것이다. 마지막으로 콜만의 비대칭 사회론이 한국 사회에 갖는 함의에 대해 고찰한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This study proposes Korean Multi-Word dictionary DecoMWE that will be crucial for a reliable feature-based sentiment analysis system. In this study, cosmetic review texts have been analyzed and 4 types of MWEs are classified: two types of Polarity MWEs&#40Pol-MWE&#41, i.e. General MWEs &#40GMWE&#41 & Domain-dependent MWEs &#40DMWE&#41; and two types of Topic MWEs &#40Top- MWE&#41, i.e. Named-Entity MWEs &#40EMWE&#41 & Feature MWEs &#40FMWE&#41. They are meticulously examined and formalized through Local Grammar Graphs &#40LGGs&#41, technically equivalent to a finite-state transducer. The current DECO- MWE allows to recognize 4 types of MWEs in cosmetic domain and then to annotate them with accurate semantic tags via UNITEX corpus- processing platform. The evaluation of this result reveals about 80% of accuracy, which is promising for a practical use in proceeding feature-based sentiment analysis.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This article aims to trace and examine the views on education of D. H. Lawrence and T. S. Eliot, based on Lawrence’s “Education of the People” and Eliot’s The Aims of Education. Focusing on the definition of education, the purpose of education, and the ideal of equality of educational opportunity, this article is to explore the similarity and difference between Eliot’s view and Lawrence’s one on education. In the process, the ideas of personality, individualism, equality, and standardization will be closely explored through Lawrence’s insightful view, whereas the conflict of Eliot’s view on individuality and standardization will be reconsidered. Especially, the big difference between Eliot’s “universal standardization in education” and Lawrence’s “the pure individual spontaneity” in education will be shown. In the result of this study, this article will uncover how profound and sensible Lawrence is, unlike Eliot’s harsh criticism of Lawrence in his preface of D. H. Lawrence and Human Existence. In addition, Lawrence’s extraordinary insight as well as his supreme intelligence will be re-examined.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "민중신학(Minjung Theology, Minjungtheologie)은 한국의 고유한환경에서 구현된 자생적인 신학의 성과이자 유산이었다. 민중신학은 소위 서구신학의 다양한 방법론적 흐름을 해체하고 새로운 방식으로 한국이라는 생생한 현실 속에서 구체화 한 고유한 한국적 신학이었다. 이러한 점에서 민중신학은 한국신학이자 철저한 상황신학이다. 그리고 서구신학에 대한 비판을 그의 핵심 동력으로 지탱하는 토착신학이다. 그렇다면 서구신학에 대한 새로운 방식의 민중신학적 해체와 창조적인감수성은 구체적으로 무엇을 뜻하는가? 만약 민중신학이 서구신학을비판했다면 그것은 구체적으로 서구신학의 어떠한 방법론에 대한 비판인가? 그리고 이러한 서구신학의 한계를 극복하려 하였던 민중신학적 대안의 방법론은 얼마나 정당한 전략이었는가?이러한 문제제기를 가지고 여기에서는 민중신학이 서구신학의 방법론적 문제점을 어떻게 직시, 포착, 비판하였는지를 주목하고자 한다. 특히 서구신학의 방법론에 대한 민중신학의 독특한 안티테제는 구체적으로 무엇이었는지를 다루고자 한다. 이를 위하여 본 연구는 서구신학에대한 저항신학의 관점에서 구축된 4가지 테제를 종합적으로 재구성하여 다루고자 한다. 물론 제3세계 신학의 흐름과 해방신학적 해석학은어느 정도 서구신학에 대한 방법론적 비판을 공유한다. 이를 전제로 특히 이 연구는 한국의 민중신학자 심원 안병무(心園安炳茂, 1922. 6.\n23-1996. 10. 19) 의 사상에서 서구신학에 대한 비판이 어떻게 진행되었는지를 성찰하고자 한다.\n우선 이 연구는 민중신학과 서구신학의 객관적 정의와 내용을 검토하는 작업이 아니라 민중신학의 서구신학에 관한“민중신학적 자화상”을 검토하는 작업임을 분명히 밝힐 필요가 있다. 실로 서구신학의 범위와 영역은 매우 방대하며 이러한 신학적 흐름을 민중신학과의 관련성속에서 객관적으로 분석하고 단선적으로 정리할 수 없기 때문이다. 사실 민중신학은 서구신학의 구체적인 요소들과 직접적으로 대면하였기보다는 메타적으로 비평하고 비판한 태도를 취하고 있다. 즉 민중신학의 정당성은 서구신학의 요소 안에서 민중신학과의 연관관계를 섬세하게 구축한 점에 있지 않다. 오히려 서구신학의 다양한 흐름과 방법론에대한 민중신학의 메타적 비평(meta-criticism)에 그 정당성과 의미가함축되어 있다. 이러한 점에서 서구신학에 대한 외부적 비평은 서구신학에 대한 객관적 분석이라고 하기보다는 민중신학이라는 내면적 자의식의 반영과 투사로 이해될 수 있다.\n이러한 서구신학에 대한 민중신학적 자의식이라는 전제와 문제제기를 바탕으로 이 연구는 다음의 순서를 밟는다. 첫째, 70년대 민중신학의 자리를 검토할 것이다(I I). 둘째, 민중신학에서 바라보는 서구신학의네 가지 테제의 구체적인 내용을 검토할 것이다. 그 구체적인 내용은 (1) 주객도식의 사고, (2) 위에서부터 아래로의 사고, (3) 개체주의적 사고, (4) 사변으로서의 학문이다(I I I). 마지막으로, 서구신학적 방법론에대한 민중신학의 비판적 테제에 대한 의미를 조명할 것이다(I V). 특히이 연구는 성서학적 성과를 바탕으로 민중신학적 작업을 수행한 성서신학자 안병무의 사유를 방법론적인 관점에서 검토함으로 민중신학이서구신학의 방법론에 대한 어떠한 자의식을 가지고 있으며 비판하는지를 밝혀내는 것을 목적으로 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This paper examines the aspects and meanings of ecological personifications and love for human in Baek Seok’s poetry. Baek Seok’s poetry does not demonstrate human-centered and romantic personifications but ecological ones directed toward restoring human-nature relations. His personifications reveal his perception of nature as being equal to humans, while his poetic subjects sharply grasp the differences of the two hidden behind the equality. Animals deserve respect in that they have equal lives as humans, but in terms of differences, humans may inevitably take advantage of animals. This idea of nature-human equality with the assumptions of differences reminds us of mythological and ecological ethics. Baek’s delicate observations of creatures indicate that his ecological perceptions are rooted deep down in the biophilia, love for all life.\nEcologism without regard to human dignity has a risk of running toward anti-humanism. Even though humans are merely one of the members in the ecosystem, their unique existence as perceivers and ethical agents cannot be denied. The ecological idea of humans as part of nature entails the following: if humans are equal to nature, then all humans are equal, and respect for nature dictates respect for humans as well. Therefore, ecologism without love for human has an intrinsic paradox. In this regard, Baek’s poetry successfully avoids such a paradox and displays ecological imagination with love for humans. His poetic subjects show love and respect for both nature and humans and pursue an ecological community where all beings co-exist in harmony and equality. Meanwhile, the poetic subjects notice the differences and pain in individual entities, escaping from ecofascism.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "인터넷의 발달과 함께 정보의 가용성이 급격히 증가하면서 기존의 정보 검색 서비스는 사용자 작업 성능 측면에서 비효율성이 나타나고 있다. 또한, 서비스 결과에 대한 신뢰성을 확보하기 위한 고려도 필요한데, 본 연구는 이러한 이슈들을 정보 검색에서 정보 분석으로 이동하는 패러다임의 변화 관점에서 살펴보고 테크놀로지 인텔리전스 서비스에의 적용을 통해 설명하고자 한다. 구체적으로 정보 분석 기능을 강화하고 신뢰성을 높이기 위하여 개체 간 관계 추적 기술과 추론 검증 기술을 적용함으로써 이 기술들이 테크놀로지 인텔리전스 서비스인 InSciTe에서 어떠한 역할과 중요성을 가지는지 살펴본다. 향후 효용성 평가를 통하여 정보 가치 향상 관점에서의 검증을 수행할 예정이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 국내 철강기업(S사)의 쾌삭 스테인리스강 중형 압연 선재 제조공정 빅데이터를 활용하여 생산품질 예측 모형을 개발하고, 이를 기반으로 불량률을 최소화시키기 위한 최적 공정조건을 탐색하는 절차를 제안한다. S사의 쾌삭 스테인리스강 압연 선재 제조공정은 크게 제강, 열간압연과 열처리/산세 공정으로 이루어지며, 연구 데이터는 생산관리시스템(MES)으로부터 37종의 공정변수 데이터를 수집하고 문헌조사와 현장 전문가들의 인터뷰를 통해 총 12종의 파생변수를생성하여 반영하였다. 본 연구는 총 49종의 변수에 대한 데이터 전처리 및 탐색적 분석, 차원 축소, 기계학습 모델링, 공정조건 최적화 단계로 수행되었다. 탐색적 데이터 분석을 통해 데이터의 속성과 패턴을 파악하고, 전처리 단계에서는 이상치․결측치 제거를 수행하였다. 차원 축소 단계에서는 생산품질 예측 모형의 다중공선성 등의 문제를 방지하고 효율성을향상시키기 위해 상관분석과 변수 중요도를 이용하여 품질 영향도가 높은 변수를 식별하였다. 기계학습 모델링 단계에서는 다양한 지도학습 모형들에 대한 예비적 실험에서 유의미한 수준의 성능을 보인 로지스틱 회귀(Logistic regression) 모형, 서포트벡터머신(SVM: Support Vector Machine), 랜덤포레스트(Random Forest) 모형, XGBoost(Extreme Gradient Boosting) 모형을 대상으로 겹 교차 검증을 통해 각 후보 모형의 하이퍼파라미터들(Hyperparmeters)을최적화(Tuning)하였다. 또한, 오분류표 기반 성능 지표들과 대수손실(Logarithmic loss)을 종합적으로 고려하여 후보모형들을 비교/평가하고, 가장 우수한 성능을 보인 XGBoost 모형을 생산품질 예측 모형으로 선정하였다. 마지막으로, 최적 공정조건 탐색 단계에서는 개체군집최적화(PSO) 알고리즘이 이용되었으며, 이때, 개발된 생산품질 예측 모형(XGBoost) 이 적합도 함수로 적용되었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "융합 과학 연구가 활성화되며 인문학에서도 디지털 인문학(Digital Humanities) 연구가 장려되고 있다. 이에 본 연구는 역사 데이터에 텍스트마이닝과 개체계량학 연구 방법을 적용한 시론(試論) 연구를 제안하고자 하였다. 선조실록(宣祖實錄)․선조수정실록(宣祖修正實錄), 난중잡록(亂中雜錄), 징비록(懲毖錄)을 활용하였으며, 사료(史料)에서 주제 변화와 공통 개체를 탐색하기 위해서 네트워크 분석과 DMR 토픽모델을 사용하였다. 분석 결과를 통해서 텍스트 데이터에 대한 계량 분석의 활용 가능성 확인, 특정 주제의 시기적 변화, 인물 개체 간 미발견 관계를 제시함으로써 연구의 확장 가능성을 제안할 수 있었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 연구의 목적은 새로운 유형의 온천장 건축을 선보이는 스위스 사메단 온천장의 공간적 특성을 분석하는 것이다. 사메단 온천장은 고대 로마 욕장을 기원으로 하였으며 여러 독립된 개체공간의 수직적 배열 그리고 이를 토대로 한 순차적 구성을 제시한다. 특히 3 차원의 나선형 계단과 개체들이 함께 한 구성방식은 아돌프 루스의 라움 플랜과 앙가딘 지역건축에서 나타나는 공간구성의 영향을 추론 할 수 있다. 한편 시대의 변화 및 복잡한 도심 환경 속에서 육체적 위생 및 건강 그리고 심지어 정신적 웰빙까지 추구 가능한 새로운 공간적 실험과 유형의 발전을 시도할 필요가 있다. 이 연구를 통해 고대 목욕 시설의 근원적 특성을 상기시키고 새로운 온천장 유형의 의미와 적용 방향을 모색하고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 S시 Y 정수장에 25 m3/day 규모의 Pilot plant를 설치하여 O3/BAC 공정에서 후단여과막 적용성에 대한 연구를 수행하였다. 24 hr, 48 hr 염소요구량은 각각 0.1 mg/L, 0.15 mg/L의 차이만큼 BAC 여과수가 높은 값을 나타내었고,k*C0 값은 후단여과막 적용 시 염소소비속도가 BAC 유출수보다 25% 감소하는 것으로 나타났다. 일반세균 및 HPC를 관찰한 결과 BAC 여과수에서는 637 CFU/mL, 1.26 × 104 CFU/mL가 관측되었지만, 후단여과막을 설치, 적용하면서 일반세균은 관측되지 않았고, HPC는 3.8 × 10 CFU/mL가 관측되었다. BAC 역세척 직후 곧바로 배출, 시동방수시간을 달리해서 배출 그리고 후단여과막을 이용하여서 곧바로 배출하는 3가지 형태로 입자수를 비교하는 실험한 결과, 후단여과막적용 시 역세척 전과 후의 입자계수 차이가 거의 발생하지 않는 것을 확인할 수 있었다. 본 연구를 통해 O3/BAC/Membrane 공정의 적용 가능성을 확인하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 연구는 아랍어의 복수형을 다룬다. 지금까지 아랍어의 규칙 복수형은 표기 기준으로 설명해 왔다. 그러나 본 연구에서는 규칙 복수형 형성 메커니즘을 음성학적으로 설명하고자 한다. 그것은 단수 어간의 마지막 모음이 장모음화 되어 복수형이 된다는 것이다.\n사람을 의미하는 명사는 아랍어의 일반적인 남성 복수형으로 사용되지 않는다. 중요한 것은 명사가 규칙 복수형으로 사용되면 그것은 더 이상 규칙 복수형이 아니라, 규칙 복수형 유사형이다.\n또한 마쓰다르(일반적으로 동명사라고 함)가 복수형 규칙을 따른다면 그 어휘의 종류는 더 이상 마쓰다르가 아니라 마쓰다르에서 명사화된 어휘의 복수형이다. 그 이유는 마쓰다르에는 복수형이 없기 때문이다.\n마지막으로 연구자는 한국에서 정확하지 못하게 가르치거나 잘못 가르치는 복수형에 관하여 다룰 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The purpose of this research is to compare and analyze how the core Korean-Japanese traditional landscape artists pursued \"realism\" mainly in the modern era at the junction of foreign and Korea-Japan culture. In Japan, western style painting of the Edo period in the middle of the eighteenth century progressed to the Moro style before and after the nineteenth century, while the Korean Chosun Art Exhibition of 1922 ignited a distinct style-transformation of the great masters, Yi Sang-bom and Byon Gwan-sik.\n\n\nIn those days Japanese western studies and natural history from the Edo period to the early Meiji era boosted the creation of unique, realistic styles like the Edo trend and the Takahashi-Uyichi style, called \"the Focused Realism,\"which was the expression of depicting objects morespecifically and realistically. Meanwhile, before and after the nineteenth century, Japanese artists who studied abroad introduced a new expression of a western trend, called \"the Plein-Air Painting,\"to Japanese traditional landscape painting. This style made them try to depict objects in the natural light and the open air.\n\n\nThen, Japanese artists came to develop their new expression of coloring actual space based on the anti-drawing method. Hence, Japanese notable features in the new expression would include not only the negative view of the core traditional methods, including drawing objects and leaving white marginal space, but also arguments in favor of advocating superiority of the new through critical comparison between the two. However, when both \"Japanese painting\" and \"Western painting\"simultaneously came into Korea under the rule of Japanese imperialism, the introduction of \"Western painting\" and transformation of \"Korean painting\"developed independently at the same period of time. Since the Chosun Art Exhibition Era, which was the predominant period of the realistic trend, Yi Sang-bom and Byon Gwan-sik pushed their way aggressively towards the early stage of realism in the 1920s when they developed \"the Individual Realism,\" which was the expression of depicting objects countable. It was transformed in the 1930s to \"the Extensive Realism,\" which was the expression of portraying scenery extensively with the traditional approach of concentration on space. Thus, Yi Sang-bom and Byon Gwan-sik’s notable features in the new expression would include not only the persistence of the traditional techniques and methods like drawing outlines with black ink, but also the pursuit of realistic expression like view and objects. As such, the difference between the Korean-Japanese approach towards developing new expressions was that Japanese artists would take an aggressive approach towards acceptance of foreign culture and create completely new styles with the exact disconnection of the traditional method, while Yi Sang-bom and Byon Gwan-sik would seek to continue the value of the traditionalism and move forward to the modern era with redefining it.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "디지털 기술이 영화를 포함한 이미지 생산에 가져 온 변화를 미학적으로 검토할 때에 논의의 층위를 구별해야 할 필요가 있다. 그것은 디지털 이미지의 기술적 측면에서 그것의 존재론적 층위를 구별해야 한다는 것을 뜻한다. 실제로 디지털 영화는 고전적인 미장센을 벗어난 자유로운 미학의 구사를 가능하게 하는 면이 있는 반면에 현실적인 지시체 또는 리얼리티와 상당히 멀리 떨어져 있는 이미지라는 성격도 동시에 갖는다. 이러한 상충하는 측면에 대한 보다 상세한 이론적 접근을 위해서는 디지털의 존재론적 층위를 세부적으로 구별해서 그것에 따른 이론적 접근을 수행하는 것이 필요하다. 시몽동은 기술적 대상을 존재론적으로 탐구하면서 기술적 요소와 기술적 개체 그리고 기술적 총체라는 층위구별을 수행했다. 기술적 대상을 철학적으로 고찰한다는 참신한 시각과 함께 그런 대상을 여러 다양한 층위에서 고찰하는 것을 가능하게 해준다는 점에서 시몽동의 시도는 디지털 미학을 정립하는 과정에서 중요한 참조로 이용될 수 있을 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "김광식의 『식민지』(1963)는 작가의 자전적인 학병거부 만주도피와 해방 후 귀환과정을 다룬다. 귀환서사 중 이채롭게 피해자로서의 조선인이라는 민족주의적 정결성에서 거리를 두고, 건국의 동일성에 함몰되지 않는 탈주적 자세를 보여준다. 개체적인 삶을 위협하는 제국의 통치술을 포착하고 미학과 교양주의를 통해 이와 거리를 둔다. 본고는 서술상의 균열을 통해 표면적인 민족사 담론 이면의 타자들의 역사에 대한 공동 기억을 읽고, 특히 만주의 다항적 위계, 조선인의 이중적 위치에 대한 솔직한 고백을 통한 반성과 죄책감에 주목한다. 이를 지렛대 삼은 해방 후 피난 일본인에 대한 연민의 장면에서 귀환서사의 한 특이점을 제기한다. 남북 분단을 예감하면서도 어떤 국가장치에서도 벗어난 개체적 윤리를 견지하는 귀환 장면에 주목하였다. 또한 1960년대 4.19와 한일협정을 전후한 창작 당시 냉전과 탈식민의 문제를 탐색하는 김광식의 역사의식이 『식민지』라는 기원을 묻는 기획으로 형상화되었다는 점도 유의할만하다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 민주시민교육의 원리로서 인지적 판단 능력을 통해 비판적으로 사고하고 책임질 수 있는 주체를 상정하는 관점의 한계를 고찰하고, 그 원리를 확장할 수 있는 이론적 토대를 스피노자의 개체 개념을 통해 제시하고자 한다. 특히 이 한계를 고찰할 수 있는 사례가 발달장애인의 선거권 보장의 문제에서 뚜렷하게 드러날수 있다고 제안하고자 한다. 왜냐하면 비발달장애인들은 직관적으로 인지적 능력이 낮은 발달장애인이 행사하는 선거권이 실제로 어떠한 의미나 가치를 가지는지 의문을 가질 수 있기 때문이다. 이 글은 이러한 의문에 담긴 뿌리 깊은 인식이 우리가 근대적 인권으로서 이성적인 인간의 능력을 전제하며, 이 능력을 경제적 기여도와불가분의 관계로 생각하는 데서 비롯될 수 있다고 진단한다. 이로부터 인지적 능력의 차이를 곧 위계로 간주하여 인간을 평가하는 편협한 인간중심주의가 형성되었다고 이해한다. 그리하여 이 글은 인간을 ‘개체’의 관점에서이해하며 인간 삶의 양태를 연쇄적이며 상호연립적인 양상으로 간주하는 스피노자의 이론이, 인식론적 관점을 넘어선 실존적 관점에서 보다 포용적인 민주시민교육의 원리를 제시할 수 있는 하나의 대안이 될 수 있다고 제안하고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "우리나라의 굴 양식업은 60여 년의 역사를 거치며 비약적인 발전을 거듭해오고 있다. 2020년에는 굴수하식수산업협동조합(이하 굴수협) 위판액이 1,050억여 원 돌파하는 등 역대 최고의 기록을 달성했는데, 이러한 성과는 결코 우연히 만들어진 결과물이 아닐 것이다. 이에 본 연구는 국내 최대 수산물 양식업인 굴 양식업이 오늘날 이러한 경사를 맞이하기까지 과거 어떠한 과정을 통해 현재에 이르렀는지, 최근 20여 년간의 발전과정을 고찰하여 그 과정에서 나타난 중요한 특징들을 발견하고, 그것들의 인과관계를 면밀히 분석해 보고자 하였다. 그 결과 발견된 5개의 중요 특징은 ‘굴수협의 공식명칭 개정’, ‘철저한 위생 관념 및 기술 개발 도입’, ‘고부가가치 신품종 개체굴 개발’, ‘굴 미식문화 발달과 확산’, ‘굴 패각 재활용 가능 법률 제정’이다. 기존의 굴수하식양식수협이라는 명칭에서 ‘양식’자를 삭제하여 ‘양식’이라는 단어가 주는 부정적 인식을 해소하는 계기를 마련하였다. 그동안 양적 성장에만 집중하여 놓쳤던 위생 문제가 결국 미국 FDA 측의 국내산 굴 대미수출 금지 조치를 불러일으켜 당시에는 큰 피해를 입었지만, 이를 기점으로 범국가적인 철저한 위생 관리에 돌입해 결과적으로 전국민이 안전하고 깨끗한 굴을 섭취할 수 있게 되었다. 수하식 양식방법은 굴의 대량 생산을 가능하게 하였지만, 그 이면에는 과밀 양식에서 오는 품질 저하 및 집단 폐사 발생 등의 문제를 야기해 이러한 양식방법의 미래를 걱정하는 목소리가 높아졌다. 이에 국내 굴 종묘 생산 및 양성 업계와 해양수산부는 고부가가치를 창출할 수 있고 부표를 덜 써 친환경적으로 양식할 수 있는 개체굴 양식에 많은 관심을 갖게 되었다. 이러한 개체굴 양성과 양식은 굴 관련 미식문화의 발달 및 확산과도 연관이 깊다. 물론 아직까지는 김장용 굴과 같은 알굴 형태의 수요가 절대 다수이지만, 고급 ‘오이스터 바’에서 개체굴을 섭취하는 해외 굴 미식문화의 국내 전파는 고품질 개체굴에 대한 수요를 끌어올렸고, 새벽배송 등 유통 플랫폼 혁신은 산지에서 수도권 가정에까지 주문 당일 받아볼 수 있게 하여 대표적 신선식품인 굴의 소비를 빠르게 촉진시켰다. 또 그동안 굴 생산지의 오랜 난제로 존재해온 굴 패각 처리 문제는 2022년 7월 시행될 「수산부산물 재활용 촉진에 관한 법률」 제정으로 친환경적 처리와 재활용 모색이 가능할 조짐이다. 이상으로 살펴본 최근 20여 년 간 굴 양식업의 발전과정에서 발견한 5가지 특징은 결과적으로 모두 굴 양식산업의 비약적 발전에 긍정적 영향을 끼친 중요 요인으로 작용했다고 정의내릴 수 있겠다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 남북한체제가 자기완결적이지 못하고 불구적임을 보인다. 그리고 그 불구성의 역사적 기원을 일제의 식민통치에서 찾는다. 특히 식민지 지주제와 공업화가 분단에 어떻게 작용하였고, 분단이후 남북한체제의 불구성과 어떤 연관성이 있는지를 살펴본다. 코리아 전통사회는서구 지식인에게는 ‘모순적 결합’으로 보였던 개체주의와 공동체주의가 ‘역동적으로 결합’되어 진화해왔다. 그런데 일제가 조선에 배타적 소유권 체계를 도입한 결과 이른바 ‘조선 지주제’로알려진 병작제 하에서의 경작농민의 소유권이 부정되고, 배타적 소유권 체계인 지주제가 체제적으로 확립되었다. 식민지 지주제는 특히 조선 말 병작제가 상대적으로 발전하였던 남부조선에 공동체주의의 약화와 개체주의의 강화를 초래시킴으로써 남부조선에서 자본주의 성립에 중요한 토양이 되었다. 또한, 일제에 의한 식민지 공업화는 북부조선에서 영세농을 공업부문으로이동시킴에 따라 영세농의 실질소득을 증가시키는 한편 자작농 중심의 농촌공동체로 전환시켰다. 그 결과 북부조선에서는 평균주의가 강화되는 등 사회주의 경향화를 강화시켰다. 이처럼식민지 지주제와 공업화는 역동적으로 결합되어 상호작용하였던 개체주의와 공동체주의를 남과 북에 지역적으로 분리시킴으로써 2차 대전 이후의 냉전체제의 도래와 더불어 코리아의 분단 요인으로 작용하였다. 분단 이후 남과 북의 사회질서가 불구성을 띌 수밖에 없었던 배경이다. 남과 북의 체제는 개혁 없이 지속불가능하고, 그 방향은 개체주의와 공동체주의의 역동적결합을 요구한다. 이는 민주주의에 대한 방법론의 차이와 대립도 해소시킬 수 있다는 점에서통일에 대한 국제협조도 끌어낼 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "한국어에서 ‘길다(길이)’, ‘짧다’; ‘넓다(너비/폭)’, ‘좁다’; ‘높다(높이)’, ‘낮다’; ‘깊다(깊이)’, ‘얕다’; ‘두껍다(두께)’, ‘얇다’ 혹은 ‘가로’, ‘세로’ 등의 어휘가 일반적으로 공간적 차원을 지칭하는 데에 사용된다. 본 논문에서 우리는 이들 어휘가 어떠한 인지적 토대에 근거하여 공간 개체의 차원 축을 지칭하게 되는가를 밝히고, 그 차원 낱말들 사이에 성립하는 추론 원리와 제약을 밝히고자 한다. 우선 Lang(1987)과 Lang et al.(1991)의 연구를 바탕으로 차원 개체를 8가지 유형으로 하위범주화하고, 각 범주 유형의 특징을 살펴본다. 차원 개체의 형태적 속성을 정의하는 본유적 구성 도식(inherent proportion schema)과 관찰자의 감각기관과 축의 관계를 일차적 인식 공간(primary perceptual space)으로 정의하고, 이 두 부분의 연계 관계를 개체 도식(object schema)을 이용하여 표상한다. 차원 추론이 가능한 경우는 항상 일차적 인식공간을 구성하는 차원 할당 값에서 본유적 구성도식을 구성하는 차원 할당 값으로 일정한 방향으로 일어난다는 점을 밝히고, 이를 바탕으로 모든 차원 추론에 적용되는 규칙을 두 개로 축약하여 제시하고자 한다. 또한 한국어에 특수하게 존재하는 ‘가로’와 ‘세로’가 차원 축을 지칭할 때 적용되는 제약을 형식화한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "진화론적 이타주의(altruism)는 자신의 적응도 희생을 통해 다른 개체(들)의 적응도를 상승시키는 행동 성향으로 정의된다. 이 정의에는 다음과 같은 역설이 숨어 있다: 이타주의는 비적응적이면서 적응적인 행동 성향이다. 이 역설의 해결을 위해 제시된 대표적인 이론들이 혈연선택론, 호혜 이타주의 이론, 그리고 집단선택론이다. 이 논문에서 필자는 먼저 각 역설의 해법에 나오는 이타주의 개념들을 분석하여, ⅰ) 그 의미를 명료히 하고, ii) 의미론적 순환이라는 하나의 공통적인 난점을 드러내고, iii) 그러한 분석의 결과가 갖는 윤리학적 함축을 살펴본다. 그 과정에서 이타주의의 일상적 의미와 생물학적 의미를 비교 분석하고, 일상적 또는 윤리적 이타주의의 생물학적 근거를 모색해 보는 작업도 병행한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "최근에 널리 받아들여지는 색 물리주의에 따르면 색은 반사율 유형이며 지각자나 주변 색 환경과 독립적으로 정의될 수 있다. 이에 대한 대표적 반론은 동일한 색 표면에 대하여 여러 지각자들이 상이한 색 경험을 가진다는 것이다. 물리주의자들은 온도에 대한 물리주의적 설명이 온도와 관련된 지각적 다양성을 보존하는 것처럼, 색 물리주의도 색의 경험적 차이를 설명할 수 있다고 주장하고 이에 따라 색 변이의 문제는 색 물리주의에 존재론적 문제가 되지 않고 단지 인식론적 문제일 뿐이라고 한다. 이는 직관에도 부응하기 때문에 광범위한 지지를 얻는다. 필자는 반례를 통해서 물리주의의 색 변이에 대한 설명이 허수아비 논증이라고 주장한다. 결론적으로 색 변이의 문제는 단순히 인식론적 문제가 아니라 존재론적 문제일 수 있다고 할 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구에서는 우리나라의 갯벌에서 조사대상으로 삼는 멸종위기야생생물이자 해양보호생물, 흰발농게(Austruca lactea)의전체 개체수 추정 방법을 검토하였다. 일반적으로 무한모집단에 대한 전수조사는 불가능하며 이는 갯벌 내 제한된 서식처에서 개체수를 추정하더라도 마찬가지이다. 표본으로부터 추정되는 서식 밀도 역시 다양한 생물학적, 생태학적 요인들로 인해높은 변동성을 보인다. 서식처 경계와 면적은 측정 오차뿐만 아니라 생물의 주기성이나 리듬 활동(주야, 간만 주기 등)에따라서도 달라진다. 따라서 밀도와 서식처 면적으로 산출되는 전체 개체수는 일시적인 것으로 간주되어야 한다. 이 같은 추정은 인천 송도 갯벌에서 3년 간 관찰된 흰발농게(A. lactea)의 평균 밀도와 표준오차 범위 그리고 공간분포의 시공간적 변동성에 근거하면 타당한 것으로 볼 수 있었다. 본 연구에서는 로지스틱 회귀모형의 출현 확률인 50%를 기준으로, 서식처 보존 가치의 중요성을 반영하는 잠재적 서식처 면적을 전체 개체수 추정의 대안으로 제시하였다. 보편성을 갖춘 모형으로부터 예측되는 잠재적 서식처는 대상종의 주요 환경조건이 급격하게 변하지 않는다면 시간에 따라 일정한 모습을 유지할 것이다. 특정종을 대상으로 개발되는 모형은 추후 서식처 복원/조성 사업에서도 원하는 생물의 정착을 유도하는데도 활용이 가능할 것으로 기대된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 라이프니츠(G. W. Leibniz)의 ‘완전 개체 개념’ 이론을 둘러싼 라이프니츠와 아르노(A. Arnauld)의 논쟁을 명제 양상과 사물 양상의 구분을 통해 재조명하고, 벤슨 메이츠(Benson Mates)의 분석적 한계를 규명하는 데 목적이 있다.\n라이프니츠는 모든 우연적 사건이 개체 안에 선험적으로 포함되어 있다고 주장하며, 자신의 체계가 ‘가설적 필연’에 근거하므로 결정론이 아니라고 강변한다. 반면 아르노는 이러한 논리가 결국 개체의 모든 행위를 필연적인 것으로 만드는 결정론에 귀착됨을 지적한다. 현대의 주요 연구자인 벤슨 메이츠는 라이프니츠의 논리적 오류를 짚어내면서도, 분석의 초점을 조건문 전체의 양상성에만 국한함으로써 아르노가 제기한 후건의 양상성 문제를 완전히 해소하지 못했다.\n본고는 라이프니츠의 가설적 필연이 실제로는 개체가 모든 속성을 필연적으로 소유하게 되는 ‘초본질주의(superessentialism)’로 귀결됨을 입증한다. 라이프니츠가 유다의 죄를 유다의 정체성과 결부시키는 순간, 유다가 죄를 짓는 것은 사물 필연적이 되어 라이프니츠는 결정론에 빠지게 된다. 본 연구는 아르노가 이 논쟁에서 승리했음을 밝히고, 메이츠가 남겨둔 분석적 공백을 ‘사물 필연’의 개념으로 보완함으로써 라이프니츠 형이상학의 필연성 문제를 고찰한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "T. S. 엘리엇은 20세기 현대 문학 이론과 비평의 큰 분기점이 된 「전통과 개인의 재능」에서, 몰개성화 과정을 통한 유기적으로 통합된 문학적 전통 질서의 중요성을 강조한다. 이러한 시론을 바탕으로 그는 D. H. 로렌스와 인간 존재라는 책의 서문에서, 로렌스가 작가로서의 자질뿐만 아니라 그의 작품에 대해 변덕스럽고 논리적이지 못하다고 혹평한다. 즉 로렌스는 제대로 교육을 받지 못하고 그로 인한 “무지와 편견”으로 인해서 작가로서의 임무나 역할을 이해하지 못하는 무지의 위험에 빠져 있다는 것이다. 이와 같은 엘리엇의 로렌스 비판과는 대조적으로, F. R. 리비스와 레이몬드 윌리엄스는 로렌스가 당시 학계의 주류를 이루던 교육의 편협함에서 벗어나 오히려 탁월한 내면적 통찰력과 “우월한 지성”으로써, 당시 영국의 사회와 앞으로의 미래 그리고 그 이면의 본질을 포착하여 작품 속에 훌륭히 형상화하고 있다고 극찬한다. 본 논문은 이들의 의견에 공감하면서, 엘리엇의 「전통과 개인의 재능」의 문학적 전통과 몰개성화 이론을 바탕으로 엘리엇과 로렌스의 사상과 문학 이론의 유사점과 차이점을 조금 더 심도 있게 고찰하고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 '원형적 초래구문’의 ‘초래상황’에 나타나는 개념화 양상에 대해 살펴보았다. 첫째, 개념적 통합망의 구성 원리를 통해 '원형적 초래구문’의 개념적 혼성 인지 과정과 개념적 혼성이 작용하는 토대가 되는 정신공간과 고정화 원소에 대해 설명했다. 둘째, '원형적 초래구문’의 개념적 통합 과정에서 나타난 ‘명제성 초래자’의 개념화 양상에 대해 살펴보고 다양한 문법형태의 고정화 원소를 통해 ‘상세성’ 층위에 따라 나타난 ‘초래상황’에 대해 설명했다. 셋째, '원형적 초래구문’의 개념적 통합 과정에서 나타난 ‘개체성 초래자’의 개념화 인지 과정에 대해 살펴보고, 언어주체자의 ‘전경-배경’, ‘요약 주사’의 해석의 차원에 따른 ‘초래상황’의 개념화 양상에 대해 설명했다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 한국사상의 조화성에 관한 내용이다. 본 논문은 한국사상사 전반에 걸쳐 흐르는 기본적 정신을 조화성에 두고 분석하고 있다. 한국사상의 조화성문제를 다루기 위해서는 무엇보다도 한국사상 연구에 있어서 가져야 할 기본적 인식에 대해 지적하는 것이 중요하다. 한국사상 연구의 기본적 인식으로서는 우선 우리의 것에 대한 자부심이 필요하고 다음으로는 우리의 국가와 역사에 대한 분명한 정체성을 확립해야 한다. 이러한 점을 기초로 하여 한국사상의 조화성의 내용을 설명하면 다음과 같다. 첫째, 한국사상의 조화성은 사상과 행동 간의 조화를 기초하고 있다. 사상은 행동없이는 관념속의 유희에 불과하다. 사상은 반드시 행동을 통해 그 의미를 가질 수 있다고 하겠다. 둘째, 한국사상은 개체와 전채 간의 조화로 규정지을 수 있다. 개체는 전체를 지향하고 전체를 개체를 전제한다. 개체와 전체는 분리할 수 없는 상합적 관계에 있다. 셋째, 한국사상의 조화성은 이상과 현실 간의 조화로 정의할 수 있다. 이상이 아무리 훌륭하다고 하더라도 현실이 없다고 한다면 이상은 사상누각에 불과하고 이상이 없는 현실 역시 내일이 없는 공허함으로 가득할 뿐이다. 마지막으로 나와 자연과 합일이 한국사상의 조화성의 핵심적 내용이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 현대 중국어 ‘RVC사동구문’의 ‘사동주’ 의미요소를 개념적 혼성이론과 정신공간 이론을 통해 분석했다.\n결과, 인과관계로 결합된 ‘RVC사동구문’의 ‘사동주’ 의미요소는 정신공간에서 주관화의 인지과정과 현실 상태에 대한 정보를 제공하는 고정체의 작용에 의해 발현되는 개념구조임을 알 수 있었다. 살펴보면, 첫째, 명제성 사동주의 개념화는 개념적 통합망의 구성 원리를 통해 발현된 후, 의미 도상성의 원칙과 경제성의 원칙, 주관화의 작용으로 인해 나타난 현상이었다.\n둘째, ‘개체성 사동주’의 개념화는 개념적 통합망의 구성 원리를 통해 발현된 후, 개념적 환유는 인지적 참조점을 통해 심적 통로를 제공 받는 인지 과정이었고, ‘요약주사’는 사건 상황 속에서 고정체가 참여자를 고정시킴으로써 하나의 통합된 사건으로 구현되는 개념현상이었다. ‘전경-배경’은 지시성 고정체를 통해 대상물을 제한한 후 개념 핵의 참여자는 ‘전경’이 되고, 관계 부분은 ‘배경’이 되는 개념현상이었다.\n본 연구는 ‘RVC사동구문’의 ‘사동주’의 개념화 현상에 대해 구체적으로 설명함으로써 ‘사동주’의 개념화가 좀 더 명확하고 정형화 되기를 바란다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "개교회사라 명명되는 개체교회 역사 사료 정리 작업에 대해 기록물로서 읽어보고자 한다. 1999년 제정된 정부의 공공기관 기록물 관리에 관한 법률을 통해 기록 관리에 대한 논의와 변화가 시작되었다. 그럼에도 적극적인 관심과 지원이 이루어지지 않은 기록물 관리는 교회나 정부나 대동소이하다. 즉 기록물 관리에 대한 분명한 기초와 기둥이 아직 세워지지 않았다는 것이다. 이에 본 논문은 기록물의 객관적인 정의를 통해 감리교단 내 기록, 보존, 활용방안이라는 키워드로 현 실태와 대안을 살펴보고자 함이 목적이다. 몸 글에서 기록물에 대한 정의와 기록과 보존 그리고 활용방안에 대해 살펴보며 타 교단의 자료까지는 읽어내지 못한 한계가 있다. 그럼에도 감리교단 내 7명의 대표적인 개체교회사 집필자를 선정하여 그들의 특징과 장단점을 정리하며 교회라는 플랫폼을 통해 지역의 역사와 연결된 역사자료로 읽어야 되는 이유를 살펴보고자 했다. 민간 기록물로서 개체교회 기록들은 지역을 품고 살아온 교회의 경험들 속에 지역성과 지역색이 드러나야 한다. 대부분 개체교회의 기록연대를 정리하며 나타나는 예배당 건축과 이전 그리고 담임자의 이동이 보편적 분류 기준이 되었던 분류 방식에 대해 점검하며 다시금 논의할 필요가 있다. 수집과 보존방식에서 소극적이고 주관적인 역사 수집과 방만한 보존방식을 인정하여야 한다. 활용방안에서도 기록과 보존을 통해 생성된 역사자료들이 지역민과 소통의 도구가 되거나 혹은 지역연구가들의 학술적 자료로 사용되는 경우는 거의 부재함을 인정하고 대부분의 기록물들은 행사용 선물 정도로 그 가치를 하락시켰음을 반성해야 한다. 이러한 면에서 새로운 기록관리의 패러다임이 되어줄 라키비움(Larchiveum)과 같은 지역복합문화공간을 제안한다. 이를 통해 지역과 소통하는 교회가 되게 하고 학술적 가치를 지닌 역사자료가 되도록 이끌게 될 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "희귀식물과 특산식물의 보전연구는 국가적 수준에서 식물다양성 유지를 위해 우선되어야 한다. 식물다양성 보전의 필요성에 따라 이들 분류군이 대상이 되는 다양한 연구가 보고되었다. 이러한 시점에서 지금까지의 연구결과를 비교하 고 평가할 필요성이 증가하였다. 그리고 수집된 자료를 분석한 결과로부터 국내 희귀식물과 특산식물의 효과적인 보전을 위해 필요한 연구항목과 연구의 방향을 재검토할 필요가 있다. 우리는 희귀식물 및 특산식물이 연구의 대상이 되는 전 세계적인 연구동향을 수집하였다. 그리고 특별히 한국에서의 연구동향을 수집하였다. 희귀 및 특산식물에 대한 연구 분야를 6개의 분야로 구분하였고 그 중 보전생태학의 분야는 ‘종 특성연구’, ‘개체군 연구’ 및 ‘생물학적 상호작용’의 세부항목으로 구분하였다. 수집된 연구를 종합해 볼 때 보전생태학적 연구는 권역별 그리고 국가별로 큰 차이가 있었다. 보전생태학 연구는 권역별로는 유럽과 북아메리카에서 활발하게 진행되었고 국가별로는 일본과 미국에서 비율이 높았다. 반면에 한국은 기초생태학 연구의 비율이 가장 높았고 보전유전학, 복원생태학 순이었다. 한국에서 보전생태학 연구비율은 세계적인 수준에 비해 낮은 것으로 나타났다. 뿐만 아니라 희귀식물과 특산식물 중에서 환경부 지정 멸종위기식물과 같은 특정 분류군에 대한 연구가 주를 이루었다. 특히, 우리나라에서는 보전유전학 및 복원생태학 연구의 비율이 높았다. 세계적인 연구동향, 특히 보전생태학적 연구를 선도하는 유럽 및 북아메리카와 비교해 볼 때 우리나라에서 희귀 및 특산식물의 효과적인 보전을 위해서는 종 특성에 대한 정보 확보, 개체군 구조와 동태 그리고 식물과 식물, 동물과 식물과의 상호작용을 포함하는 보전생태학적인 연구의 비율을 높이는 접근이 필요함 을 제안하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 헤겔의『정신현상학』C.(AA) 이성장의 C.“ 즉자 대자적으로 실재하는\n개체성”에 나타나는‘정신적 동물의 왕국과 기만 혹은 사태자체’를 해석하고자한\n것이다. 이 장은 기본적으로 관찰하는 이성과 행위하는 이성의 종합으로 등장하는\n절대적 개체성의 문제를 다루고 있다. 헤겔은 이 장에서 개체성으로서의 의식이 순\n수한 사태를 위해 행동한다고 하는 것이 오히려 자기 이익에만 관심 갖는 기만에 불\n과하고 이러한 깨달음을 통해 사태 자체라는 상호주관적이고 보편성적인 의식의\n차원으로 고양되는 과정을 그리고 있다.\n첫째, 개체성으로서의 의식은 세계와 자아의 대립을 극복함으로써 추상적인 목\n표를 세계 속에 실현하기 보다는 자신의 원초적 능력을 표현하는 일에 더 관심을 갖\n는다. 의식의 이러한 노력은 그의 작품으로 드러난다. 작품은 개체성의 원초적 능력\n의 발현이며 분신이지만, 다른 한편으로 일정한 규정성을 지님으로써 개체성 자신\n과 차이가 있을 수 있다. 작품 속에서 개체성으로서의 의식은 자신과 작품 혹은 자\n신의 작품과 다른 자기의식의 관계에서 대립을 경험한다.\n둘째, 현실 속에서 부침하는 대립의 소멸 운동 속에서 우연적 작품들은 각인의 작품이자 만인의 작품이라는 보편적 본질로 통합된다. 이것이 곧 자기의식과 존재의\n새로운 통일, 즉 사태(die Sache)이다. 하지만 이 단계에서는 사태는‘정신적 존재’\n일 뿐 아직은‘인륜적 실체’가 아니다. 이러한 사태 자체는 추상적 보편자, 술어에\n지나지 않는다.\n셋째, 사태 자체(die Sache selbst)를 지향한다는 이 단계의 성실한 의식은 이러한\n사태 자체를 통해 자신의 행위를 견강부회함으로써 기만에 빠지게 된다. 결국 만인\n의 만인에 대한 상호 기만의 운동을 통해 각자는 역으로 스스로를 보편자로 발견한\n다. 이러한 고차적인 종합 속에서 사태 자체는 각인의 사태이자 만인의 사태이고,\n각인의 행위이자 만인의 행위로 고양된다. 그것은‘이성’장의 서두에서“자아와 존\n재의 통일”로서 규정된 범주로서“자아인 존재, 존재인 자아”이다. 여기서 현실 정\n신인 인륜적 실체로의 이행이 마련된다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This article deals with an economic evalutation of the ‘Pasture Project of Kum River', which is the farming plan of mitten crabs in a stream of it. An augmented model of social capital is based on the past ecological-economic system dynamics model and elaborated further with suggestions of social capital literature. During the modeling process a chain diagram of causal relations and its relevant mathematical equations are presented for simulating the project performance, and the simulation results are provided to contrast the dynamic behaviors of the former ecological-economic model with ones of the new model incorporating social capital.\nThe results indicate that an increase in the economic benefit of the project could happen in case of considering the process of social capital accumulation around the case area, which can be regarded as a remarkable trial to approve the common confidence in the role of social capital to enhance an economic achievement.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "근대 과학이 출현한 이후 프랑스 실증철학은 생명 존재(être vivant)에 대한 과학적 연구에서 출발하여 인간과 사회에 대한 철학적 성찰로 전개하는 전통을 유지하고 있다. 이 전통을 계승한 캉귈렘(Georges Canguilhem, 1904∼1995)은 불변성과 보편성의 관점에서 보면 생명 존재의 독특한 생리적 현상이 자연의 법칙에 완전히 일치하지 않는 사례로만 이해될 뿐이고, 생명 존재에서 자주 발견되는 변이나 편차와 같이 예외적인 현상들은 불순물, 실패, 타락으로 간주될 수밖에 없다고 지적했다. 따라서 생명 존재라는 특수한 ‘존재의 층위(échelle des êtres)’를 전문적으로 연구하는 학문으로서 생명과학이 필요하고, 생명과학은 가변성과 개체성의 관점에서 생명 존재를 파악해야 한다는 것이다. 요컨대 캉귈렘은 생명 존재가 존재론적으로 독립적인 개념을 필요로 할 만큼 다른 존재와 질적으로 구별되는 존재이기 때문에, 생명 존재를 인정한다고 해도 세계에 대한 통일적 조망을 저해하는 불필요한 존재를 추가적으로 상정하는 것이 아니라는 점을 강조했다. 이런 이론적 배경을 바탕으로 본 논문의 일차적인 목표는 일반적으로 푸코(Michel Foucault, 1926∼1984)의 스승으로만 알려져 있는 캉귈렘이 철학사와 생명과학사에 근거하여 생명 존재의 존재론적 독립성을 논증하고, ‘개체성의 철학(philosophie de l’individualité)’을 수립해 가는 과정을 분석하는 것이다. 이를 위해 먼저 캉귈렘이 어떻게 아리스토텔레스(Aristote, 384∼322 av. J.-C.)와 데카르트(René Descartes, 1596∼1650)의 기계론을 구분하고 비판했는지를 확인하고, 클로드 베르나르(Claude Bernard, 1813∼1878)의 물리화학적 환원론이 생명과학적 생기론(生氣論, vitalisme)을 완전히 배척할 수 없었던 이유도 살펴볼 것이다. 이어서 캉귈렘도 피하지 못한 생기론에 대한 일반적인 오해를 해명하고, 생기론으로부터 발전한 유기체론(organicisme)의 다양한 개념들도 검토할 것이다. 이런 논의를 통해 캉귈렘이 보편자, 종, 류, 법칙을 추구하는 존재론이 아니라 개별자, 개체, 예외, 이상(anomalie), 소수자(minorité)를 존중하는 존재론, 즉 ‘개체주의적 존재론(ontologie individualiste)’을 수립했고, 생명 존재와 생명과학에 특권적 의미와 위상을 부여하는 ‘지역주의적 인식론(épistémologie régionaliste)’을 고수했음이 밝혀질 것이다. 결론적으로 본 논문은 캉귈렘이 궁극적으로 추구했던 목표가 개체(individu)의 참된 위상과 정당한 권리를 복원하는 것이었고, 이런 의미에서 캉귈렘의 생명과학철학과 의철학(philosophie des sciences de la vie et de la santé)이 생명과학사와 의학사에 근거한 일종의 ‘실존주의’라고 규정될 수도 있음을 주장할 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This paper analyses Persian plural marker -hā and Korean -tul by using contrastive approaches in order to give Korean learners of Persian right guidelines to learn the Persian plural marker. Both markers are considered as dependent inflectional suffixes which come after nouns or pronouns. Moreover, the plurality of nominals does not require the plurality of any modifiers and verbs. Only when a subject is an animated noun in Persian, the noun should have number agreement with its verb. Unmarked plural forms, or bare noun forms can deliver plural meaning in both languages. However, while -tul has sum and distributive reading, -hā has sum and specific reading.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "양자장이론의 존재론적 토대를 검토하기 위해, 힘과 물질의 이원적 존재론을 쟁점으로 제기했다. 이를 논의할 기초적인 개념 틀로서 메타동역학을 제시했다. 입자물리학의 표준모형의 양식인 게이지 양자장이론에서는 힘과 물질이 입자 개념으로 환원될 수 있는 것으로 서술되고 있지만, 입자물리학에서도 힘과 물질의 이원적 존재론은 유지되고 있음을 밝혔다. 양자장이론의 존재론적 토대를 이해할 수 있는 틀로서 전일론적 대상 개념을 고찰했다. 고전마당(파동)과 양자마당의 관계를 비교하면서, 이를 통해 입자물리학에서 양자마당과 입자의 관계를 고찰했다. 이러한 고찰을 통해 개체론적 존재론을 넘어선 전일론적 존재론을 세울 수 있을지 가능성을 논의했다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구에서는 한국어 모델들의 개인 식별 번호(PINs) 정보 처리 능력의 한계를 해결하기 위해 한국어 개인식별 정보(PIIs) 주석 체계를 정비하고, 모델 학습용 PIIs 주석 데이터셋 구축 및 성능 평가 테스트를 진행했다. 한국어 PII 탐지 성능 검증은 숫자 위주로 구성되어 있어 구분이 어려운 PINs 중 특히 주민등록번호(RRNs)와 외국인등록번호(ARNs)에 초점을 맞춰 탐지 및 추론 실험을 2단계에 걸쳐 진행하였다. 구축한 데이터셋으로 대표적인 한국어 LMs와 LLMs의 성능을 평가한 결과, 트랜스포머 기반 한국어 LMs는 RRNs와 ARNs 간 식별 오류가 존재한 반면, 서로 다른 LLMs의 탐지 및 추론 능력을 살펴본 결과, 다국어 LLMs이 한국어 LLMs보다 RRNs 정보, 국적과 연령 정보를 더 잘 추론하였다. 한편 한국어 데이터로 파인 튜닝한 한국어 LLMs는 개인정보 식별 및 추론에 낮은 성능을 보임으로써 향후 한국어 학습용 PINs 데이터셋의 지속적인 갱신 및 PINs 특화 언어 모델 개발에 집중적인 연구 지원이 필요함을 확인하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "인간 주체는 절대적인 것이 아니며, 특수한 역사적 상황에서 구축된 담론적 힘들의 관계 속에서 생산된 것에 지나지 않는다. 이 연구는 이런 관점에서 유튜브 일상 브이로그에서 등장하는 사물들을 단순한 물건이 아니라, 세계를 구성하는 정식 행위자로 이해한다. \n‘사물의 귀환과 존재론적 전환’에서는 DIY 문화의 부상은 사물이 세계의 구성에 주도적인 역할자로 등장하는 시대 변화를 보여준다. 메이킹 과정에서 비인간 사물을 객체에서 주체로 번역하는 존재론적 전환을 발견한다. 여기서 미시/거시와 같은 위계, 인간/비인간 사물과 같은 층위적 분리가 없는 평평한 존재론으로 패러다임의 전환을 보여준다. \n‘반려사물과 ‘-것까지’의 민주주의’에서 현대는 인간과 비인간 사물이 공동구성의 관계를 이루는 하이브리드한 세계에서 반려사물의 등장은 필연적임을 밝힌다. 사물도 인간처럼 자기 안에 내밀한 깊이를 품고 있다. 따라서 인격에 대한 보다 심화되고 폭넓은 철학적 또는 인문학적 분석과 재정의를 요청한다. \n‘페티시즘적 황홀경과 윤리적 거주’에서는 브이로그에서 특정 사물에 대한 한계치를 넘어서는 페티시즘의 황홀경의 상황을 포착한다. 여기서 인간과 사물의 개체초월적인 윤리적 공존의 개념을 발견한다. 윤리적 거주는 의식이 있건 없건, 인간이 인간 아닌 것과 접촉하는 현대사회의 중요한 대안이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "최근 데이터가 급격히 늘어나고 이를 처리할 기술과 수단이 발달함에 따라, 다양한 분야에서 빅데이터와 인공지능을 활용하는 것에 대한 관심이 증가하고 있다. 이러한 맥락에서 범죄의 예방과 수사의 측면에서 적절한 대응을 하기 위해 대용량 비정형 텍스트 데이터 내에서 정보추출(Information Extraction)하는 기술을 활용하는 것도 경찰의 주된 관심사 중 하나이다. 본 연구는 보이스피싱 수법으로 분류된 범죄사실 비정형 텍스트에, 딥러닝 기술의 발달로 최근 정확도가 크게 향상된 자연어 처리의 응용 분야인 개체명 인식(Named Entity Recognition, NER) 모델을 적용하여 사칭기관, 사칭이름, 사칭직급, 범행이용계좌 은행명 등의 정보를 자동으로 추출하는 실험을 수행하였다. 이와 같은 인공지능 기술을 활용한 비정형 텍스트 분석을 통해, 본 연구는 현재 보이스피싱 수사의 피의자 여죄 추적에 즉각적인 도움을 주고자 하였다. 실험을 위해 개체명 인식에 정확도가 높다고 알려진 Bidirectional LSTM-CRF 신경망 모델을 적용한 결과, micro-avg f1 스코어가 88.6%로 도출되고 micro-avg precision 스코어와 micro-avg recall 스코어는 각각 90%, 88%로 나타나, 적은 수의 데이터에 대해서도 높은 정확도로 개체명이 인식되고 있음을 확인하였다. 본 연구는 범죄 수사 분야에서 개체명 인식 모델의 생성을 최초로 제안하였으며, 연구의 결과는 향후 수사 데이터에 대한 정보검색 시스템의 성능 향상과, 챗봇, 질의응답 등 범죄 예방 및 수사 실무에 도움을 줄 것으로 예상되는 여러 자연어 처리 기반 시스템 개발에 필요한 선행연구로 활용될 수 있을 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 개발 압력이 높은 수도권의 경관파편화 정도를 측정하여 환경계획 및 교통계획 수립에 활용하고자 하였다. 이를 위하여 서식지 간 만날 수 있는 확률을 평가하는 유효 연결망 크기(Effective Mesh Size, EMS)를 적용하였다. 평가 결과, 수도권 북동부 지역의 경관파편화 정도가 낮으며, 서울을 비롯한 인천 지역이 상대적으로 경관파편화가 높게 평가되었다. 서울의 경우, 북부와 남부지역은 북한산과 관악산, 우면산 등의 영향으로 인해 경관파편화가 낮은 지역으로 평가된 반면, 중심부는 오랫동안 도시화가 진행되면서 대규모 녹지들이 분포하지 않기 때문에 경관파편화가 높았다. 서초구는 경관파편화와 도시생태현황도 간 차이가 나타났으나, 이는 식생중심 보전등급과 동식물 이동성 평가 차이에 기인한다. 도시화 지역은 큰 면적의 녹지를 확보하는 것이 어렵기 때문에 기존 녹지를 연결하고, 교통계획 수립 시 최적으로 통과하는 방법을 선택하여 넓은 서식지를 확보하는 노력이 필요하다. 전국토로 분석을 확장한다면 광역이나 전국단위의 보호지역이나 환경 계획수립에 효과적으로 활용할 수 있을 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "생물학 개체명 인식이란 생물학 문헌으로부터 질병, 유전자, 단백질과 같은 생물학 개체명을 추출하고 그 종류를 분류하는 작업으로, 생물학 데이터로부터 유의미한 정보를 추출하는데 중요한 역할을 한다. 본 연구에서는 입력 단어의 자질을 자동으로 추출할 수 있는 딥러닝 기반의 Bi-LSTM-CRF 모델을 활용한 개체명 인식 연구를 진행하였다. Multi-head 주의 기제 기법을 적용하여 입력 단어들 간의 관계를 포착하고 관련성이 높은 단어에 주목하여 예측의 성능을 높였다. 또한, 단어 단위 임베딩 벡터 외 문자 단위 임베딩 벡터를 결합하여 입력 임베딩의 표상을 확장하고, 각 표상의 정보 흐름을 학습하기 위해 Highway 네트워크에 적용하였다. 제안하는 모델의 성능을 평가하기 위해 두 개의 영어 생물학 데이터셋으로 비교 실험을 진행하였으며, 그 결과 기존 연구의 모델들보다 향상된 성능을 보였다. 이를 통해 제안하는 방법론이 생물학 개체명 인식 연구에서 효과적인 방법론임을 입증하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구의 목적은 19세기 초 미국의 초월주의 전통을 정립한 랠프월도 에머슨(Ralph Waldo Emerson)의 산문, 「시인론」(“The Poet,” 1843)을 통해 그의 시적 이론과 사상을 알아보고 그의 시학이 시편들에 어떻게 구현되었는지를 면밀히 살펴보고자 한다. 에머슨은 「시인론」에서 시의 대상, 주제와 범주를 제시하고 동시에 시인을 정의내리고, 시인이 사용하고 있는 방법과 소재를 비롯하여 시 예술의 전반적인양상을 고찰하고 있다. 시각을 통해 전달된 자연의 아름다움은 시인의상상력과 통찰력, 그리고 유기적인 시적 창조과정을 거치게 되면 더욱고귀하고 유기적인 형태로 시인의 마음속에 선율로 변하고 표현된 시구에는 신성한 기운마저 담기게 된다. 시인은 말하는 자, 이름을 지어주는 자, 자연의 아름다움을 묘사하는 자이며 다른 이가 예언하지 못한것을 알려주는 신의 해설자이자, 유동적으로 변해가는 현상과 다양성속에 감추어져 있는 상징적 의미와 진실을 밝혀내는 유일한 학자이다. 시인에게 있어 시를 짓는 것은 운율을 만들어 내는 내용이므로 사상이형식보다 앞선다. 이러한 그의 시학은 에머슨의 다양한 시편들 - 「호박벌」, 「로도라 꽃」, 「우화」, 「안녕」, 「브라마」, 「개체와 전체」, 「세계영혼」, 「숲의 노래」 등 - 에 시적 승화되어 표현되고 있다. 산문과 시가 함께상보적 역할을 하며 에머슨 시학의 최종적 목표인 “완전한 전체(the perfect whole)”를 이루고 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "Based on the contrastive research on Korean and Chinese comparatives, this paper examines the degree abstraction parameter (Beck et als. 2004), which has widely been accepted as an account for cross-linguistic variations of comparatives. This paper argues that both Korean and Chinese allow clausal comparatives as well as phrasal comparatives, thereby involving a comparison predicate either with ‘individual comparison’ or with ‘degree comparison’, which cannot be expected from the degree abstraction parameter. Despite sharing these essential characteristics, Chinese, in contrast to Korean, does not permit attributive comparatives nor it allows those with object comparison standards. These major contrasts rather should be explained by resorting to an individual morpho-syntactic feature of a certain element which participates in forming comparatives.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "민주주의의 후퇴와 빈부의 극심한 격차, 실업, 환경과 같은 가치들의 전면적 위기에 직면하여 이론가들 뿐만 아니라 대중들 역시 이를 <신자유주의>로 성격규정되는 <자본주의>의 결과물로 보고 있다. 시장근본주의라고 보통 알려진 이 신자유주의가 이러한 폐해를 낳는 줄 알면서도 우리는 왜 그 체제에 매혹되어 있는가? 왜 이 체제는 잘 작동하고 있는가? 그리고 이 체제로부터 확보할 수 있는 해방의 여지가 있는가? 이 문제에 대해 정치 사회의 철학, 사회과학이론 등은 많은 경우 마르크스를 경유하거나, 이를 변형시킨 포스트 마르크스주의를 발명해내거나, 아니면 주류 경제학 이론 속에서 그 길을 찾는 등의 방식 외에 제 3의 이론적 방식을 확보하지 못한 상태였다고 보아도 무방하다. 이러한 상황 속에서 푸코의 통치성 이론과 들뢰즈의 자본주의 분석은 마르크스주의와 주류경제학이 밟았던 길과는 다른 길로 신자유주의적 자본주의에 접근한다. 이들의 분석은 어떤 통찰에서 만나며 어떤 길에서 갈라지는가? 푸코의 신자유주의 통치성과 들뢰즈의 자본 기계에 대한 분석은 공히 인간을 기계로 이해하는 인간-기계론에 당도하고, 이 시대에 개인은 각기 자기를 운영하는 기업가, 누더기를 걸친 부르주아지로 보기에 이른다. 이런 체제로부터의 해방이 푸코에게는 쾌락과 자기에의 배려로 들뢰즈는 욕망의 도주로 이어지는데, 이 분기점을 짚어보고 그 의미를 살펴본다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 디지털 시대에 등장한 온라인 팬덤의 역동성을 논구하기 위하여, 니콜라 부리오(Nicolas Bourriaud)가 주창한 ‘포스트프로덕션(post-production)’ 을 확장한다. 이를 위하여 먼저 전통적 이미지와 텍스트가 해체된 (비)물질적기술 이미지를 새로운 커뮤니케이션 코드로 바라본다. 이러한 논의를 토대로온라인 팬덤 커뮤니케이션의 특성을 고찰한 후, 온라인 팬덤 개체가 생산하는 코드로서의 기술 이미지가 포스트프로덕션되는 과정을 논구한다. 구체적으로집단적이고 공식적인 온라인 팬덤 커뮤니티가 아닌, 디지털 독립체(digital entities)로서 팬덤 개체가 생산하는 유튜브와 인스타그램의 기술 이미지와 생산과정을 살펴볼 것이다. 주지하듯 SNS(Social Network Services)의 등장은 팬덤의 집단성을 개별성으로 확장시키고 있다. 이에 본 고는 공식 팬덤 커뮤니티와 별개로 활동하는 온라인 팬덤 개체가 이른바 ‘포스트크리에이터(post-creator)’의 면모를 보이는 데 주목하는 것이다. 이를 통해 기존에 수행된팬덤의 집단성 연구를 넘어, 온라인 팬덤 개체의 독립적 생산과정을 포스트프로덕션의 범주에 포함될 수 있음을 밝힐 것이다. 포스트크리에이터로서 온라인 팬덤 개체는 현실세계와 가상세계를 넘나들며 지적 능력을 발휘하는 창조적 존재이며, 그들의 역동적 수행성은 더욱 풍부한 세계를 생산 및 발견하고있다. 이와 같이 본 연구는 디지털 시대 대중문화의 새로운 주체로 부상한 온라인 팬덤 개체의 창작 행위와 존재론적 지위를 포스트프로덕션과 포스트크리에이터라는 개념으로 정위(正位)하고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문의 목적은 둘이다. 첫 번째 목적은 감응이라는 사유형식의 함축을 도출함으로써 동양의 類別의 특성과 氣론 등, 감응론과 관련된 논의를 풍부히 하는 것이다. 두 번째 목적은, 이 글의 논의를 통해 내용이 풍부해진 감응론을 바탕으로 한의학의 六淫辨證을 분석함으로써 한의학의 이론적 토대로서감응론의 적절성을 지지하는데 있다. 이 논의는 운슐트(Paul U. Unschuld)와 포커트(Manfred Porkert) 등이 상관적 사유에 내준 한의학의 기초이론의 자리를감응과 유비에 돌려주는 일의 예비 작업으로서의 의미를 지닌다.\n연구자는 개체 중심적 사유와 관계 중심적 사유를 감응론의 함의를 도출하는구도로 사용하여, 감응론의 類別의 기준이 관계 중심적이라는 점과 감응을 매개하는 기가 본체이자 현상이라는 점, 그리고 감응적 세계관에는 비어있는 공간이없다는 점, 감응적 세계관은 과정적 세계관과 어울린다는 점, 감응의 사유 하에서 변화의 법칙은 만물이 공유하는 리듬으로 나타난다는 점 등을 논증했다. 그리고 이런 논의에 기초해서 한의학의 육음변증이 감응적 세계관에서 도출되는변화의 법칙을 전제한다는 점, 육음변증의 증이 본체와 현상의 격절을 허용하지않는 감응의 세계관과 어울린다는 점, 육음변증에서 보이는 유별의 특성이 감응론의 특성과 부합한다는 점을 논증했다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "\"본 연구는 질베르 시몽동의 기술철학을 바탕으로 천선란의   천 개의 파랑  을 분석함으로써, 포스트휴먼 시대의 기술 발달이 야기하는 기술 불평등 현상과 소외의 본질을 규명하고자 했다. 그리고 이를 극복하기 위한 방안으로 개체초월적 관계 맺음을 통한 연대 가능성을 살펴보고자 했다.\n천선란의   천 개의 파랑  에서는 포스트휴먼 시대의 기술 발달로 인해 인간의 노동력이 기계로 대체되는 상황이 잘 나타나 있다. 이와 함께, 경제적 효율성에 따라 존재적 가치가 평가되는 사회에서 겪는 소외 현상도 잘 드러나 있다. 질베르 시몽동은 이러한 기술 발달 시대에 나타나는 소외 현상은 기술적 대상의 존재론적 가치를 부정하고 이를 도구적 수단으로서만 인식할 때 발생하는 것으로 인식한다. 그리고 이러한 인식은 기술에 대한 몰이해에서 비롯된다고 보았다.\n기술 접근의 불평등과 몰이해가 불러일으킨 소외에 대한 대안으로서 질베르 시몽동은 개체초월적 관계 맺음이 중요하다고 인식한다.   천 개의 파랑  에서는 콜리와 투데이, 연재 등이 정서적 감동을 통해 각 존재 내부에 잠재된 ‘전개체적 퍼텐셜’을 일깨우며, 개체초월적 연대를 형성해 가는 과정을 잘 보여준다. 이러한 콜리와 투데이, 연재가 구축한 기술적 앙상블은 포스트휴먼 시대의 기술 발달이 불러올 수 있는 소외를 극복하는 데 중요한 기제로 작용한다.\n이와 같이   천 개의 파랑  은 포스트휴먼 시대에 우리가 지향해야 할 인간-비인간 간의 관계 맺음의 양상을 제시해 준다. 기술적 활동을 통한 개체초월적 연대는 닫힌 시스템이 불러일으킨 소외를 극복할 수 있는 하나의 대안이 될 수 있다. 이러한 점에서   천 개의 파랑  은 포스트휴먼 시대의 개체초월적 관계 맺기를 위한 인문학적 성찰을 불러일으킨다.\"",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "문학에서 나타난 생태주의적인 사상에 대한 실마리를 고전 문학에서 찾고자 한다. 그 내용으로는 미래 변혁의 가능성과 세련된 지식인 전유물의 사상만이 아니라 타인들에 대한 관심과 책임들로, 우리 삶의 공적인 면으로 구성할 수 있는지, 개인적 자기 창조가 공동체의 의식으로 확장되며 개방될 수 있는지 살펴본 것이다. 그 대상으로는, 고려 중반기 다양한 작품을 남겨놓은 이규보의 문학 작품으로 인간과 자연이 놓인 환경을 고찰하였다. 첫째, 이규보는 자연에 대한 관찰자적인 태도를 만물의 변화와 작가의 태도와 가치가 연결시켜 생활 속에서 여러 체험으로 나타났다. 둘째, 만물의 개체에 대한 동등한 교감은 대상물에 대한 수많은 의사 소통으로 생명의 유한성들이 어떻게 극복되는지 알려주었다. 셋째, 자연 앞에서 서 있는 인간으로서의 성찰과 더불어 인간과 인간의 관계에 어떻게 나타나는지 새로운 방식으로 도출하였다. 이리하여 이규보가 겪는 수많은 갈등과 현실의 분열의식은 구체적인 생활에서 접한 자연이나 만물 등을 통해서 ‘극복 가능성’이라는 인식으로 전환되었다. 자연의 개체로서 모든 만물은 독립적인 상황에 놓여 있지만, 인간 개인이 선택한 다양한 의사소통과 성찰 방법으로 인간과의 성장과 변화 속에서 재인식되어야 함을 알 수 있었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "19세기 찰스 다윈의 인과성 개념은 그 중심적 원리에서 임의적 변이, 변동의 확률과 정과 예측불가능성, 진화의 불균형에 대한 설명에 기여하면서도 다소 엄격한 자기-조 직화 파라미터가 구축되는 질서의 장을 제공한다. 『종의 기원』은 범주 내부의 동질성 이 아닌 개체의 비가역적 변이와 환원 불가능한 차이에 주목하며, 그것이 근본적으로 반휴머니즘적이고 무심한(mindless) 실재 세계의 동학이자 근본적 자원이라고 주장한 다. 다윈이 구축하는 진화의 메커니즘이란 생물의 변이라는 완전한 임의성과 자연선택 이라는 확률과정이 만들어내는 비선형적이면서도 국지적인 질서들의 분포이며, 비가 역적 시간에 따른 변동을 포괄하는 개방형 체계다. 다윈은 사회과학 역시 포괄하는 근 대과학이 구축해 온 인과성의 체계를 과학 자체에 대한 합리성의 일탈 없이 도약하면서 현대에 이르기까지 그 유산을 제공한다. 다윈의 생물학적 체계는 기존 근대과학이 구축 한 선형적 인과성의 원리를 지극히 유물론적이며 경험적인 방식에서 전복하며, 비결정 론과 결정론의 단순한 이분법적 모순을 넘어서는 새로운 형이상학의 분기이자 모멘텀 으로 해석된다. 이는 자연의 균형과 예측가능성을 토대로 하는 근대과학의 강력한 결정 론적 사고는 물론 그러한 자연의 상이 외삽으로 작동하는 근대적 사회과학의 휴머니즘 적 방법론에도 균열을 가져온다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 디지털 아트의 상호작용적 ‘관계’의 생성과 의미를 질베르 시몽동의 개체화와 기술에 대한 사유에 입각해서 로이 애스콧의 네트워킹 공동체인 ‘텔레노이아(telenoia)’를 예로 들어 고찰한 것이다. 시몽동은 개체발생의 조건과 과정에 주목하고 정보를 미리 주어진 안정적인 형태가 아니라 준안정적인 퍼텐셜 시스템의 긴장으로 간주하였다. 변환작용을 통해 정보는 다양한 변형이 가능한 장(場)이고, 네트워킹 참여자들은 이러한 실행적인 장(場)에서 탈중심적인 과정적 개체가 되는 동시에 타자들과 관계 맺는 감성적이고 지성적인 집단이 될 수 있다. 시몽동의 발생론적 철학을 특징짓는 방법론으로서 교환역학은 상보적인 한 쌍으로 된 위상의 유비적인 관계 구조를 지닌다. 즉 교환역학은 퍼텐셜 에너지를 교환하는 관계적 작용을 통해 구조와 형태보다는 구조와 작용 사이의 교환가능성을 의미하고 구조들의 서로 다름 사이의 대립을 초월하고 생성을 존재의 차원으로 이해하게 해준다. 개체는 비결정적인 자연을 전개체적인 것으로 수반하기 때문에 자기 자신과의 내재적, 사회와의 외재적인 관계맺음에 의해 사회적인 것에 통합된 ‘관(寬)개체적인 것’을 구축한다. 이와 같은 새로운 사회적⋅집단적 개체로서의 관(寬)개체적인 것은 온라인상에서 사용자들의 네트워킹을 연결해주는 ‘텔레노이아’를 확장된 의식 집단으로 이해하게 해준다. 가상의 의식 공동체로서 ‘텔레노이아’는 개인의 폐쇄된 글쓰기 넘어 담론적인 정보주체로서 새로운 집단 정체성인 사회성의 모델이 될 수 있다는 점에서 주목할 만하다. 또한 시몽동은 인간과 기계에 대한 철학의 균형 잡힌 반성적 사유야말로 문화가 기술결정주의와 환원주의에서 벗어나 기술공학을 융합하는 적합한 길을 열어줄 수 있다고 강조한다. 요컨대 비록 시몽동이 기술에 대해 긍정적으로 생각했을지라도, 정보기술문화에 대한 철학이 지닌 가치판단의 역할을 간과하지 않았다는 사실을 확인할 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "中国新发布的《个体工商户条例》已于2011年11月1 日正式施行，本文作者立足于中国经济体制改革深入推进、市场经济蓬勃发展的宏观背景，围绕中国政府在新的经济环境、新的经营条件下如何保护个体经济，如何促进个体工商户持续发展这一主题，对《个体工商户条例》进行了仔细的解读。本文首先回顾了中国个体工商户的发展历程，从其艰难曲折的壮大进程中，揭示了中国个体工商户具有顽强的生命力和发展前景的生存价值；其次从法理分析视角，对中国个体工商户的法律地位进行了厘定，明确了中国个体工商户所具有的特殊自然人的法律性质；再次，以实证考察为基础，总结了制约中国个体工商户发展的若干制度困境，表达了中国个体工商户持续发展离不开政府特殊扶持和制度保障的诉求；最后，通过对《个体工商户条例》内容的细致解读，归纳了新条例在保障中国个体工商户持续发展方面的特别制度安排，总结了新条例的三大特色。同时，作者也放眼中国经济发展的强劲势头，指出面对不断变化的经营条件、不断发展的外部环境，个体工商户经营发展难度更大，困难更多，更需要政府从税收优惠、贷款扶持、金融服务、行政收费减免、发展方向引导等等方面提供全方位的政策支持和强有力的制度保证。而新条例缺失相应制度安排，因而前瞻性不足。我们深信，贯穿了“鼓励、支持、引导和规范个体工商户健康发展”理念的新条例，必将促使中国个体经济焕发出新的生机与活力，使作为中国个体经济主力军的个体工商户获得持续发展。",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "뉴스 기사가 빅데이터화함에 따라 뉴스 분석에서 컴퓨터 보조 질적 자료분석소프트웨어의 사용이나 컴퓨터 이용 내용분석, 의미연결망분석 등의 활용이늘어나면서 그 과정에서 자연어처리를 이용하는 경우도 증가하고 있다. 하지만 일반적으로 언론학에서 자연어처리는 하나의 블랙박스로 간주되어 방법론적 절차에 대한 엄밀한 검토가 부족하다. 또한 다양한 주제에 대한 높은 수준의 논증을 담은 뉴스 담론분석을 위해서는 단어 중심의 구문분석에 초점을 둔형식 언어학적 접근이 아니라, 개체명과 문장 수준에서 관계를 부여하고 가중치를 계산하는 데 필요한 자연어처리가 필요하다.\n이에 따라 이 연구에서는 뉴스에 대한 컴퓨터 이용 내용분석을 위하여 개체명, 특히 정보원과 문장 수준의 분석에 초점을 둔 뉴스 빅데이터 분석시스템인〈뉴스소스 베타〉를 소개한다.〈뉴스소스 베타〉는 정보원 중심의 개체명인식과 이에 따른 문장 다중분류, 저널리즘 관행에 따른 최소한의 부분 구문분석을 바탕으로 하는 의미중의성 해소와 대용어 해소, 군집화를 통한 중복기사와 중복 문장의 제거, 저널리즘 가치에 따라 정의된 뉴스 정보원 연결망분석 알고리즘을 통한 가중치 부여를 특징으로 한다. 이 연구는〈뉴스소스 베타〉의 자연어처리 알고리즘을 설명하고, 분석사례를 소개한 뒤, 뉴스 자연어처리 성능을 개선하기 위해 필요한 점들에 대해 제언한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논의에서는 ‘총서’ 내용에 의거한 하이퍼링크 DB 정보를 이용해 총서 텍스트가 지니는 특성을 분석하는 방안을 제시하고자 하였다. 이를 위해 계량적 방식의 연구에 적합하도록 구조화된 ‘총서’ 하이퍼링크 DB의 구성을 살펴보고, 이 정보를 이용한 ‘총서’의 메타텍스트 분석 예에 대해 논하였다. 여기에서는 특히 ‘총서’의 메타텍스트적인 특성에 주목하였는데, 이는 ‘총서’ 전체의 텍스트가 ‘수령 형상 문학’이라는 분명한 정체성을 획득하기 위해 유기적으로 조직화되어 있다는 특징을 기반으로 한다. 또한 각 텍스트의 중심에 위치한 ‘수령’의 모습이나 인물 간의 관계, 이야기 구조 등에도 상당한 수준의 유의성이 존재한다는 점에서 ‘총서’는 메타텍스트로 다루기에 매우 적합한 대상이다.\n특정한 텍스트에 내재한 고유의 특성들을 규명하는 텍스트성에 대한 연구는 다양한 방식으로 진행되어 왔는데, 여러 유형의 텍스트성 중 ‘통일성’과 ‘응집성’에 대한 논의가 가장 활발히 이루어지고 있다. 이 논의에서는 ‘통일성’을 ‘텍스트의 일관성을 부여하는 의미 관계’로, ‘응집성’을 ‘통일성의 획득을 가능하게 하는 구조적인 지표 혹은 외현적인 지표로 계량적 정보나 가공 정보를 포함’하는 것으로 그 외연을 넓혀 정의하였다. 이러한 정의는 외현적이거나 구조적인 텍스트의 정보를 의미 내용으로 환원하는 과정에서 유용한 해석의 방식을 제공할 수 있다.\n‘총서’와 같은 대용량의 텍스트나 구조적으로 복잡한 자료체의 연구에서는 유관 정보의 참조가 용이하도록 설계된 하이퍼링크 DB를 활용하는 것이 효율적이다. 이 논의에서 제안하는 하이퍼링크 DB는 그 자체로 텍스트 내의 인물이나 용어, 역사적 사건 등에 대한 유의미한 정보를 제공할 뿐 아니라, 이 정보를 기반으로 빈도 분석, 공기어 분석, 캐릭터－레마 구조 등을 구성하는 것이 가능하다. 이러한 연구 방법론은 단일 텍스트의 텍스트성을 연구하거나 복수의 텍스트 간에 존재하는 메타텍스트성의 실체를 규명하는 데 대한 핵심적인 근거를 효율적인 방식으로 제공할 수 있다는 특징을 지닌다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "방울토마토(Lycopersicon esculentum cv. Koko) 재배 온실에 피해를 주는 온실가루이 개체군(Trialeurodes vaporariorum (Westwood))의 온도 발육 모형과 암컷 성충 산란 모형을 작성하여 시설 내 대기 중 온도와 미기상 온도인 잎 뒷면 온도를 적용한 DYMEX 프로그램(호주 CSIRO에서 개발한 미리 탑재된 모듈들을 사용하는 모의 실험 프로그램)으로 밀도 변동을 모의 실험하였다. 온도에 따라 상이한 발육 기간과 산란수를 각각 표준화시킨 발육 완료 분포 모형과 연령특이적 산란수와 생존율을 비선형 회귀 모형에 적합시켜 밀도 변동 모의 실험을 하였다. 실제 줄내림 방식의 방울 토마토에서 토마토 식물체를 3위치(상단: 지상 1.6m 이상, 중단:지상 0.9-1.2m 사이, 하단: 지상 0.3-0.5m 사이)로 나누어 각위치별로 온실 내 대기 중 온도와 잎 뒷면 온도를 기록하였다. 온실 내 대기 중 온도와 잎 뒷면 온도간의 상관 관계를비선형 회귀로 적합하여, 온실 내 미기상 온도 자료를 만들었다. 온실 내 미기상 온도 자료인 잎 뒷면 최대 온도는 대기중 최대 온도보다 항상 낮게 유지되고 있었으며, 하단, 상단,중단의 순으로 온도가 낮아지는 현상을 보였다. 모의 실험을 위한 시기와 초기 이입 밀도의 설정은 황색 점착 트랩을이용하여 실제 온실에서 이입되는 시기(6월초)에 유인된 암컷 성충 10마리를 사용하였다. 온실 내 대기 중 온도 자료와잎 뒷면 온도 자료를 각각 이용하여 온실가루이 유충의 발육 모형과 성충의 산란 모형을 DYMEX 프로그램으로 모의실험하였다. 모의 실험 결과 검증을 위해 대기 중 온도와 잎뒷면 온도를 조사한 온실에서 토마토 식물체 3위치별, 각태별 온실가루이 밀도의 육안 조사도 실시하였다. 알의 경우 크기로 인해 육안 조사 대상에서 제외되었다. 육안 조사결과와 육안 조사 시기의 DYMEX 모의 실험 결과값을 상관 분석하였다. 육안 조사 온실가루이 밀도와 잎 뒷면 온도를 이용한 모의 실험 결과 밀도가 모든 발육태에서 항상 양의 상관 관계를 보였다. 육안 조사 결과 밀도 변동 패턴도 방울토마토 잎 뒷면 온도를 이용한 모의 실험 결과 밀도 변동 패턴과 유사하였다. 본 연구 결과 방울토마토 온실에서온실가루이 개체군 밀도 변동의 적절한 예측을 위해서는 잎뒷면 온도를 고려해야 하는 것으로 나타났다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 전통조각의 형상 개념이 기술과 융합될 때, 조각의 조형적 가치와 미학적 범주가 어떻게 확장되는지를 고찰한다. 전통조각은 오랫동안 돌·청동·점토와 같은 물질을 통해 인간과 세계의 형상을 구현하는 조형예술의 근간으로 자리해왔다. 그러나 20세기 후반 이후 산업기술과 전자매체의 발전은 조각의 개념을 변화시켰고, 기계적 장치와 조형적 형상이 결합된 새로운 조각 형태가 출현하였다. 이는 조각이 전통적 수공예의 한계를 벗어나, 움직임·시간성·관계성을 포함한 확장된 전통조각으로 진화했음을 보여준다.\n이러한 변화는 조각이 본래 지닌 형상 중심의 본질을 훼손한 것이 아니라, 오히려 전통조각의 조형 원리와 미학적 정신이 기술적 조각 속에서 새로운 방식으로 계승된 결과이다. 즉, 전통조각의 형상적 탐구가 기술적 조형언어로 확장된 것이다.\n본 연구는 기계적인 구조를 지닌 조각이 전통조각의 확장된 형태로 구분될 수 있음을 논증한다. 이를 위해 한국 현대조각에서 나타난 전통조각의 사례로 권진규(Kwon Jin Kyu, 1922~1973)와 문신(Moon Shin, 1922~1995)의 작품을 살펴보고, 최우람(Choe U Ram, 1970~), 다비데 콰욜라(Davide Quayola, 1982~)의 작업을 통해, 형상 조각의 정신이 기술적인 조형 속에서 어떻게 계승·변용되는지를 분석한다. 또한 연구자의 작품 <비너스의 재구성>, <조각난 얼굴>을 통해, 기계적인 운동과 고전적인 형상이 결합된 현대적 전통조각의 구현 가능성을 제시한다. 결론적으로 본 논문은 전통조각과 기술조각의 관계를 단절이 아닌 연속성의 관계로 살펴볼 것이며, 기술의 개입이 조각의 본질을 변화시키는 것이 아니라 형상의 조형적 가치를 확장시킴을 밝힌다. 따라서 기술과 결합된 기계조각 또한 전통적인 조각의 미학을 계승한 동시대의 조형적인 실천으로 이해될 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "논문은 『황성신문』 창간호부터 1904년 12월 30일까지 일본 관련 잡보란 기사를 대상으로 원시 코퍼스의 구조화, 토픽모델링, 개체명 인식 그중 지명 태깅, QGIS를 활용한 공간 시각화 과정까지의 워크플로우를 제시하고 이를 통해 일본의 대한정책이 공간 점유와 긴밀히 연동하는 과정을 검토하고자 하였다.\n분석은 다음과 같은 단계를 거쳐 이루어졌다. 우선 한글파일로 입력된 원시 코퍼스를 분석 가능한 형태로 변환하기 위해 정규화 과정을 거친 후, 날짜, 제목, 본문을 순차적으로 추출하는 방식으로 파싱을 진행하였다. 본격적인 분석은 토픽모델링을 통한 주제적 분포 확인, 개체명 인식(NER)을 활용한 태깅, 지역명(LC) 정보를 보완, 관련 데이터셋을 재구축하여 지리정보처리 도구 QGIS를 활용해 시기별 공간 분포에 대한 변화를 추적하였다. 이미 원시코퍼스 단계에서부터 주요 토픽이 설정되었기 때문에 토픽모델링은 분석 대상이 되는 전체 1,679개 기사의 주제 지형도를 확인하는 차원에서 보조적으로 사용하였다. 연도별과 월별로 기사 빈도표를 작성하고 농업, 임업, 어업 관련한 기사 등장 연월 구분표를 작성하여 계절별로 수탈 물자와 장소가 변화하는 양상을 지도 자료로 시각화하였다. 또한 1898년부터 1904년까지 기사 중 시간이 구체적으로 언급된 기사를 대상으로 타임라인을 작성하여 1904년 러일전쟁을 전후로 하여 시간적 리듬에 변화가 발생함을 관찰하였다.\n1898년부터 1904년까지 일본의 대한정책 관련 잡보 기사에서 언급된 지명을 지도상에 표시한 결과, 점의 분포가 해안가를 따라 집중적으로 생성된 후 내륙으로 점차 들어오며 한반도 전역을 뒤덮는 양상을 띠고 있음을 확인할 수 있다. 이러한 결과는 1904년 무렵 이미 일본의 식민화 과정이 상당부분 이뤄졌다고 판단할 수 있는 근거가 될 수 있다.\n특히 러일전쟁 시기 기사를 공간적으로 분석한 결과 평양-함흥-단천-길주를 잇는 최북단 연결선을 중심으로 일본과 러시아가 형성한 전선, 일본의 한반도 장악 범위를 확인할 수 있다. 평안북도 의주, 함경북도 경성 등지는 러시아군의 근거지로 활용되는 곳이었고 북진하는 일본군과 남하한 러시아군이 정주, 영변, 박천, 성진 등지에서 국지적 교전을 벌이며 세력을 다퉜다.\n1904년 7월을 전후로 서울 종로에서는 보안회를 중심으로 조직화된 형태의 저항이 등장하였으며 압록강 일대에서는 저항군이 통신선, 철도 노선을 차단하는 등 게릴라 활동을 전개하였다. 1904년까지의 시기는 일본의 군사적, 행정적 공간 점유가 집중적으로 전개된 시기로 그 일방성과 폭력성, 가속성 속에서 조선 사회 전반이 구조적인 충격을 경험하였다. 하지만 1904년 7월 이후로 가면 이에 대응하는 조선인의 다양한 형태의 저항이 맞물리며 공간적 동역학이 본격화하는 양상을 확인할 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문에서는 전칭양화사 구문의 구조적 유형 및 양화 유형에 따른 의미 해석상의 상이점을 밝혀 보고자 하였다. 전칭양화사 구문의 구조는 전칭양화사가 개체와 어떻게 지시 관계를 가지느냐에 따라 한정어 구성, 보충어-핵 구성, 부가어 구성, 격 표지 중출 구성의 네 유형으로 분석하였다.\n전칭양화사의 양화 의미는 개체 양화와 행위 양화로 구분하였다. 개체 양화는 가장 일반적인 유형으로서 양화 대상 개체의 전집합이나 개체의 전부를 지시하는 의미로 해석되는 경우이다. 이에 반해서 행위 양화는 [연속성]의 의미 자질을 가진 동사들의 ‘연속된 행위’를 ‘일회성 행위의 집합’으로 재구조화하여 인식하고, 화자의 인식 속에서 상정된 각 행위 단계의 전집합을 지시하는 유형이다. 이러한 양화 유형을 갖는 전칭양화사는 ‘다’이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "개방형 어휘 3차원 포인트 클라우드 개체 분할은 3차원 장면 포인트 클라우드를 훈련단계에서 등장하였던 기본 클래스의 개체들뿐만 아니라새로운 신규 클래스의 개체들로도 분할해야 하는 어려운 시각적 작업이다. 본 논문에서는 중요한 모델 설계 이슈별 기존 모델들의 한계점들을극복하기 위해, 새로운 개방형 어휘 3차원 개체 분할 모델인 Open3DME를 제안한다. 첫째, 제안 모델은 클래스-독립적인 3차원 마스크의 품질을향상시키기 위해, 새로운 트랜스포머 기반 3차원 포인트 클라우드 개체 분할 모델인 T3DIS[6]를 마스크 제안 모듈로 채용한다. 둘째, 제안 모델은각 포인트 세그먼트별로 텍스트와 의미적으로 정렬된 시각적 특징을 얻기 위해, 사전 학습된 OpenScene 인코더와 CLIP 인코더를 적용하여 포인트클라우드와 멀티-뷰 RGB 영상들로부터 각각 3차원 및 2차원 특징들을 추출한다. 마지막으로, 제안 모델은 개방형 어휘 레이블 할당 과정동안각 포인트 클라우드 세그먼트별로 추출한 2차원 시각적 특징과 3차원 시각적 특징을 상호 보완적으로 함께 이용하기 위해, 특징 앙상블 기법을적용한다. 본 논문에서는 ScanNet-V2 벤치마크 데이터 집합을 이용한 다양한 정량적, 정성적 실험들을 통해, 제안 모델의 성능 우수성을 입증한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This paper deals with pronoun doubling construction commonly attested in Colloquial Russian. The doubling phenomena in general are observed among various languages and in various levels of language. The Russian pronoun doubling construction is composed of a lexical noun, whether argument or adjunct, that is attracted to a sentence initial position with a pronoun copy immediately following it. The pronominal copy bears the identical case. From the semantic side, the fronted noun-pronoun phrase forms a topic, and often elicits the reading of predicate with permanent property. After Sirotinina(1974)’s observation, such aspectual restriction has been widely accepted in the scholarship, and was reinterpreted by McKoy (1998, 2003) as the distinction Individual-level vs. Stage-level predicates in terms of Milsark (1974) and Carlson (1977).\nI argue that such an aspectual interpretation or restriction is not derived from at the construction level, but is epiphenomenal to the small clause, which lies at the bottom of derivation. And I propose that the small-clause based structure is derived by the Generic Topic Operator, which is base generated at Spec, TP. With these two theoretical apparatuses, idiosyncratic properties both in syntax and semantics of the construction can be effectively accounted for.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 복수주체에 의한 공동특허침해 문제의 규율방안을 모색한다는 측면에서국내⋅외의 주요 판례 및 학설 등을 검토하고 거기서 나타난 법리들을 분석하였다.\n또한 복수주체에 의한 공동특허침해 문제의 해결에 있어서 이론적 걸림돌이 되고 있는 구성요소완비의 원칙 내지는 단일개체이론의 타당성을 검토하였다. 결론적으로먼저 실시행위를 분담한 복수주체에게 특허권에 대한 공동직접침해를 인정하기 위해서는 클레임 해석을 통하여 당해 방법발명이 복수주체가 실시한 침해대상발명의 기술적 범위에 속하는지를 우선적으로 판단하여야 한다. 그리고 이때 당해 방법발명의본질이나 균등론의 적용 가부도 함께 판단하여야 할 것으로 생각된다.\n이를 전제로 하여, 복수주체 중 누구에게 책임을 귀속시켜야 할 것인지를 판단하는것이 바람직하고 판단된다. 이에 대한 방법으로는 우선 단독자에게 책임을 귀속시킬 수있는 경우에는 도구이론 내지 지배⋅관리론의 적용 여부를 검토하여야 하고, 지배⋅관리에는 인적 측면과 물적 측면의 기준을 종합적으로 고려하여 판단하여야 할 것으로생각된다. 다음으로 복수주체가 대등한 관계에 있어 복수주체 모두가 공동직접침해자가 될 수 있는 경우에는, 형법상 공동정범론에 입각하여야 한다. 즉, 객관적 요건으로서 공동실행의 사실, 주관적 요건으로는 계속적 거래관계나 공동사업관계, 전체의실시에 대한 복수주체들 각각의 기여율 그리고 실시에 의한 경제적 이익의 귀속 등을종합적으로 고려하여 판단하면 충분하다고 생각된다. 이와 같이 단독자에게 책임을귀속할 수 있는 경우 및 복수주체의 공동직접침해가 인정되는 경우에는 금지청구도아울러 인정되어야 할 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문은 라이프니츠에 있어서의 개체적 실체의 구조를 밝히고자 한다. 러셀과 클래터보우의 해석과는 달리 라이프니츠에 있어 개체적 실체는 기체를 포함하지 않는다. 다시 말해 라이프니츠에 있어 개체적 실체는 속성들의 다발이다. 이를 증명하기 위해 이 논문은 식별 불가능자 동일성의 원리, 개체의 지속에 대한 원리, 개체의 가능 세계적 동일성의 문제, 라이프니츠의 진리론 등을 다룬다. 이 모든 것에 대한 검토를 통해 우리는 라이프니츠에 있어 개체적 실체는 다발 이론적으로 해석된다는 결론을 내릴 수 있다",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 우연의 개념에 대한 존재론적 분석으로부터 타자-되기의 윤리학을 이끌어내고자 한다. 역으로 말해, 타자-되기의 존재론을 우연의 존재론으로 밑받침함으로써 그것을 정초하고자 한다. 이를 위해서 구키 슈조의 우연론과 아페이론에 대한 박홍규의 분석을 살펴보되, 논의가 방만해지는 것을 막기 위해 양자가 공히 천착한 분야인 그리스 철학에 초점을 맞춘다.\n우선 서론에서 우연의 개념이 어떤 존재론적 의의를 띠고 있는가를 약술한다. 본론의 전반부에서는 ‘정언적 우연’에 대한 구키 슈조의 분석을 검토한다. 그리고 개체의 실재성이 함축하는 윤리적 뉘앙스를 음미한다. 본론의 후반부에서는 아페이론 개념에 대한 박홍규의 분석을 검토한다. 이를 통해서 타자의 존재가 함축하는 윤리적 뉘앙스를 음미한다. 마지막 결론 부분에서는 구키 슈조의 정언적 우연의 사유와 박홍규의 아페이론의 사유를 비교하면서, 이들의 사유가 우리를 타자-되기의 윤리학으로 이끎을 논증한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "The aim of this study is to find the distribution and semantic function of cataphora based on quantitative research in social media news. When looking at the frequency from 2015 to 2020, it was being used more frequently than before. By section, it was frequently used in “culture” and “entertainment” then “social” and “political”. The cataphora often appears in combination with specific adverbs or exclamations, or in combination with extreme or exaggerated expressions, indicating that the cataphora have a more systematic function for discourse functions. In terms of combination, the cataphora, combined with nouns or investigations, clearly indicate specific people or situations, but use rhetorical techniques that cause interest because they do not explicitly reveal the person or event they are subject to using correspondence. The range of cataphora, the target of coordination, which is directed by the cataphora in the title, was often implicit in sentences, images, or discourse, not only in the trailing vocabulary, therefore it was used in various ways. if the main information is covered by a cataphora, it could create a misunderstanding amongst the readers.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "최근 환경문제에 대한 심각성이 높아짐에 따라 대학 교양교육에서 환경관련 영역은 그 중요성과 함께 새롭게 대두되고 있다. 그 이유의 하나는 환경교육이 미래 인간생존과 연결되어 있을 뿐 아니라 환경문제를 해결하기 위한 장기적이고 근원적인 대책으로 ‘교육’이 모든 부문에서 중심적인 역할을 수행할 수 있을 거라는 기대 때문일 것이다. 그런데 실제로 학교와 대학등 공교육 부문의 현실에서 환경교육은 주변화되고 환경교육의 철학적 목적과 실제적인 교육프로그램 간에는 명백한 불일치와 격차를 드러내고 있다.\n근대 교육제도는 바로 근대 과학시대부터 발전한 고전물리학의 패러다임을 토대로 성장해왔다. 그렇다면 산업문명사회의 대학에서 교양 기초교육으로서 환경교육은 어떠한 방향으로 전개 되어야 하는가? 여기에 대한 문제의식으로 본 논문에선 다음과 같은 방법과 대안을 주장하였다. 첫째, 서구에서 주류를 이룬 지배적 세계관인 분리주의 패러다임으로 방법론적 개체론은 오늘날 환경위기의 근원적 책임이 있다고 지적 비판함으로써 여기에 연계주의적 성격을 갖는 현대물리학의 패러다임으로 방법론적 전체론의 교육방법을 제안하였다. 둘째, 방법론적 전체론과 연결되어있는 홀리스틱 교육의 제안자인 존 밀러( J.Miller)를 중심으로 이교육의 철학적, 심리학적, 사회적 내용을 분석하여 환경교육의 방향과 필요성의 근거를 마련하였다. 또한 국내 한면희가 분별한 유기체 전일론과 유기적전체론 중 홀리스틱 환경교육은 유기적 전체론으로 이행되어야 한다고 밝혔다. 셋째, 홀리스틱 환경교육의 내용은 생태정의(eco justice)를이념으로 한 학문 연계적 방법과 칸트의 감성이론을 적용한 생태적 감성(ecosensibility)의 적용을 시도하였다. 네째, 환경교육의 목표는 북미환경협회(NAAEE,1996)정의에 따라 1972년 환경교육을 체계적으로 범주화한 Lucas의 모델에 따라 생태학적인 새로운 삶의 방식의 실천교육을 제시하였다.\n지구 공동체 구성원 모두가 환경문제에 대한 자각을 통한 의식전환은 교육을 통해 성숙되어질 때 가능하다. 따라서 환경교육의 방향은 생태의식을 배양해 줄 수 있는 합리성(이성)교육과 감성과 영성의 요소까지 담고있는 생태지혜를 길러주는 자연친화적 패러다임의 가치관과 세계관을 핵심내용으로 삼고 있는 홀리즘에 기반을 둔 교육이 되어야 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "Cet article vise à envisager l’influence de la théorie mimétique de René Girard et ses conséquences sur la psychologie française. Une nouvelle compréhension de l’intérieur de l’humain grâce à la théorie mimétique de René Girard montrant que notre désir est formé à travers imitation du désir d’autui a naturellement influencé la psychologie. Nous avons examiné des changements de la psychologie française par notamment les travaux de Jean-Michel Oughourlian.\nL’influence de la théorie mimétique sur la psychologie est radicale. Le freudisme traditionnel insiste sur le caractère fondamentalement biologique et l’objet-orienté du désir, ainsi que sur les thèmes ‘instinct sexcuel’ ou ‘libido’. Mais René Girard a observé une contradiction de la logique du complexe d'Œdipe de Freud “Il y a déjà un conflit latent, dans la pensée de Freud, entre cette mimésis de l’identification paternelle et objectal du désir, l’autonomie du penchant libidinal pour la mère.” (VS, 251) Freud insistait sur l’autonomie de l’individu de chaque désir, cependant Girard insistait sur l’influence d’autui sur notre désir. Le changement de vue à travers la théorie mimétique entraine une révolution copernicienne sur le domaine psychologique.\nRené Girard a donc proposé une nouvelle psychanalyse : “Il faut renoncer, certainement, à l’expression <complexe d’Oedipe>, source inépuisable d’erreurs et de malentendus. Il faut regrouper autour de la mimesis conflictuelle, les phénomènes réels que la psychanalyse rapporte à ce complexe; ils y gagnent en cohérence; il devient possible, d’autre part, d’insérer ces mêmes phénomènes dans un schéma diachronique, de les situer historiquement, non seulement eux-mêmes mais les théories qui surgissent pour les expliquer et au premier chef, bien entendu, la psycholalayse.” Oughourlian, coauteur de Des choses cachées depuis la fondation du monde et pshychiatre propose une nouvelle psychologie nommée <la psychologie interdividuelle>. Il pense que notre moi n’est pas un sujet monadique mais un fonction de la relation interdividuelle. Oughourlian affirme que la logique de la perspective mimétique doit rejeter les ‘psychologie du sujet’ et ‘subjectivisme’ comme le freudisme traditionnel. Il dit que de poser l’origine du mouvement psychologique à l’intérieur d’un sujet monadique est une illusion mythique.\nPromoteur de la nouvelle psychologie, Oughourlian propose de fonder la psychologie uniquement sur des faits psychologiques. La processus arrivant à la psychologie interdividuelle est le suivant: Oughourlian a toujours pensé que ce que l’on est convenu d’appeler le moi en psychologie était une structure changeante, instable. Il a pensé aussi que le désir est mouvement, seul il lui semble capable d’animer ce moi, de le produire. Il a postulé le désir qui engendre le moi et qui par son mouvement l’amène à l’existence.\nSa deuxième hypothèse est que le désir est mimétique. Ce postulat, avancé par René Girard dès 1961, lui parait capable de fonder une psychologie nouvelle, une psychologie pure, c’est-à-dire débarrassée de tout biologisme et que les coauteurs de Des choses cachées depuis la fondation du monde ont appelé ‘psychologie interdividuelle’.\nDonc le fait psychologique doit être repéré entre les individus. Et alors le moi est une entité <moi-entre> en anglais <self-between>. Et alors une question curieuse surgit : par hasard le moi n’existe pas?",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "바이오 분야에는 개체 간의 관계에 대한 정보를 얻을 수 있는 방대한 양의 연구 문헌들이 데이터베이스 형태로 저장되어 있다. 그러나, 컴퓨터에 의한 연구 문헌들에 대한 접근에 많은 문제를 겪고 있기 때문에 이처럼 방대한 자료에서 원하는 정보를 효율적으로 찾는 것은 어려운 일이다. 본 논문은 바이오 텍스트로부터 생의학 상호 작용 정보를 자동으로 추출하는 방법을 제안하고 이를 구현한 결과를 제시한다. 제안된 방법은 최대 엔트로피 모형을 사용하여 단백질, 유전자와 같은 바이오 개체명을 인식하고, 그 다음 단계에서 확인된 개체명들 중 INTERACTION 또는 NO-INTERACTION 클래스를 적용하여 상호 작용이 존재하는 개체쌍을 추출한다. 이때 품사 부착, 기본구 인식, 구문 분석, 술어-논항 인식과 같은 자연언어 분석 결과로부터 유용한 정보를 추출하여 사용한다. 특히, 심층 자연언어 분석을 통해 개체명을 논항으로 갖는 동사가 ‘촉진하다(activate)’, ‘억제하다(inhibit)’, ‘감소시키다(diminish)’처럼 상호 작용을 표현하는 동사인지 확인하는 것은 유용하다. 실제 바이오 관련 문헌에 대한 실험을 통해, 자연언어 분석이 바이오 텍스트 마이닝에 기여하는 정도를 보인다. 제안하는 방법은 철자적 특성, 개체명을 구성하는 단어들, 개체명 주변의 문맥 등의 어휘 정보를 사용하는 베이스라인 시스템보다 F1 척도 기준 약 1.4%의 성능 향상을 보이는데, 이는 자연언어 분석을 통해 개체명 주변의 외부 문맥을 효과적으로 사용한 것에 기인한다. 또한, 제안하는 학습 기반 방법이 관계 추출에서 공기 기반 방법과 규칙 기반 방법보다 우수한 성능을 낼 수 있음을 보인다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This article attempts to newly illuminate D. H. Lawrence as a pioneering human rights advocate through the comparison with Deleuze. Here, the issue of human rights is addressed from the perspective of humanities, not from that of law and politics. By comparing Lawrence with Deleuze, the meaning of human rights is discussed in a more fundamental dimension as well. Both Lawrence and Deleuze advocate the innate right of the freedom of individuals, not persons—a flight from the fixed personal identity and customary framework. This flight can be possible in the process of becoming one with nature in the impersonal dimension. Aside from their seeming similarities, however, there are stark differences between them. Individuation for Deleuze is related with unique chances and singularity. He does not give serious consideration to an individual as a living reality. In contrast to Deleuze, an individual with its free-proud singleness and individuality is a lifetime concern for Lawrence. This difference leads Lawrence and Deleuze to have different attitudes towards human rights. As distinct from Deleuze, Lawrence advocates the human rights of an individual, which include not only its freedom but also a duty to respect others’ rights. It is eloquently demonstrated in Lawrence’s original vision of a true human relationship.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문은 라이프니츠의 형이상학을 실체 개념 대신 기계 개념을 중심으로 읽음으로써 그의 형이상학을 기계 형이상학으로 해석하는 것이 목적이다. 실체는 근대 형이상학의 중심 개념이었지만 17세기 이후에는 철학의 주된 관심사가 되지 못했다. 따라서 실체는 근대 형이상학의 단절을 보여주는 개념이 되었다. 하지만 ‘기계’는 근대 형이상학적 사고를 이후에도 계속 이어주는 연결 개념이 될 수 있다. 기계 혹은 기계론적 사고는 현대에도 유효하기 때문이다. 내가 라이프니츠의 형이상학을 기계 형이상학으로 보려는 이유가 바로 이것이다. 이를 위해서 먼저 라이프니츠가 실체 이론에서 설명한 ‘참된 일체성’과 ‘능동적 힘’이라는 실체의 조건들이 「새로운 체계」에서 소개되는 자연 기계에도 그대로 적용된다는 것을 보일 것이다. 또한 물체적 실체 개념을 통해서 설명하는 세계의 구조가 자연 기계 개념을 통해서 설명한 세계의 구조와 동일하다는 것도 그것의 논거로 제시된다. 라이프니츠의 새로운 기계론 체계는 실체적 형상 개념을 재도입하고 자연 기계와 인공 기계의 구별을 통해서 구축되었다. 그리고 그는 ‘살아 있는 물체’ 혹은 ‘유기체’를 자연 기계라고 부름으로써 자신의 형이상학 체계에서 실체란 궁극적으로 생명을 가지고 있는 것, 살아 있는 존재라는 것을 드러낸다. 이로써 살아 있는 것은 자연을 구성하는 존재이며 생명의 원리는 이러한 존재의 필수 요소가 된다는 것이 밝혀진다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "타고난 것과 학습한 것 사이의 철학적 대립 논쟁에 주시하여 이해하고자 할 때, 경험적 습득성을 주제화하는 후설의 현상학적 철학함은 약한 선험주의와 약한 경험주의의 종합 모형 안에서 움직인다. 후설이 명시적 문맥이나 함축적 문맥 안에서 기술하는 경험적 습득성은, 그 안에 도덕 철학적 의미와 도덕 교육적 함의 그리고 덕 윤리학의 윤곽을 품고 있다. 현재 논문은 후설이 내세우는 현상학적 습득성 이론에서 인격적 자아의 현상학과 자아 이론의 국면을 그리고 자아의 시간성과 역사성과 사회성의 국면을 드러내고자 하며, 그의 현상학적 습득성 이론이 자아에 관계하는 기체 모형과 다발 모형 사이의 철학적 대조 논쟁 속에서 이 논쟁을 해소할 수 있는 담지자 모형을 따르고 있음을 부각한다. 글쓴이는 (후설이 안중에 두고 기술하는) 경험적 습득성이 의미하는 풍부한 내용을 후설의 전문 언어에 의탁하기에 앞서서 대한민국의 일상적 삶의 세계에서 체험한 살아있는 구체적 예들을 통하여 해명하고 설명한다. 현재 논구는 특히 아리스토텔레스와 칸트 그리고 코메니우스를 도입하여 후설의 현상학적 습득성 이론이 철학사 안에서 가지는 긍정적 위치와 함의뿐만 아니라 그것의 불충분성과 한계를 그리고 활성화 가능성을 찾고자 시도 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문은, 알튀세르 맑시즘에 대한 스피노자주의적 혹은 들뢰즈주의적 독해와는 반대로 알튀세르 맑시즘은 본질적으로 프로이트, 라깡 정신분석과 헤겔철학과 연관되어 있음을 증명하는 것을 목표로 삼는다. 라깡 정신분석과 헤겔 철학에 대한 알튀세르의 입장은 일의적으로 확정되지 않는다. 알튀세르는 초기에 정신분석을 자신의 이론 작업의 초석으로 삼았으나 중기에 들어와 정신분석을 이데올로기적 담론 중 하나로 간주하고 이에 대해 비판적 입장을 취했다. 그리고 그는 또한 헤겔 철학 역시 표현적 총체성에 근거한 목적론적 담론으로 간주했다. 하지만 알튀세르는 『자기비판의 요소들』에서부터 맑스주",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 AI 기반 음성 키오스크 시스템의 음성 인식 정확도 향상을 위한 기술적 방안을 제안한다. 최근 무인 주문 환경에서 음성 인식 키오스크의활용이 증가하고 있으나, 주변 소음, 억양, 발음 오류 등으로 인해 낮은 인식률이 문제가 되고 있다. 본 연구에서는 기본적인 자연어 처리(NLP)기술만을 적용했을 때 약 60% 수준에 그친 인식 정확도를, 추가적인 발화 필터링 기법과 문맥 기반 의도 분석 기술을 적용함으로써 94% 이상의정확도로 향상시켰다. 이를 위해 음성 데이터를 전처리하고, 오답 패턴을 분류해 보정하는 알고리즘을 설계하였다. 실험 결과, 제안된 방법은 다양한사용자 환경에서도 안정적인 성능을 보여주었으며, 실제 키오스크 시스템에 적용 가능한 수준의 인식 정확도를 확보하였다. 본 연구는 음성 기반무인 서비스의 품질 향상과 사용자 경험 개선에 기여할 수 있는 실질적인 해결책을 제시한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 연구에서는 우리가 일상적으로 사용하는 개념구조의 모습이 언어표현과 함께 실현되는 손짓에 반영된다는 가설에서 출발하여 토론 프로그램에 출연한 참여자의 손짓을 분석하였다. 분석을 통해 언어표현과 손짓의 상관관계가 분명하게 존재하며, 토론 참여자들에게서 공통적으로 가상의 물체를 잡는 손짓이 가장 빈번하게 나타난다는 사실을 발견하였다. Lakoff & Johnson(1980)을 비롯한 인지언어학자들이 수많은 무형의 추상적 개념들을 다루기 위해 인지적으로 그것들을 윤곽 짓고 실체화하는 것과 같은 존재론적 은유라는 개념화 방식을 사용한다고 하였는데, 가상의 물체를 손으로 잡거나 꼭 쥐는 것과 같은 손짓을 사용하는 것은 바로 대표적인 존재론적 은유인 개체 은유에 근거한다고 볼 수 있다.\n이 개체 은유를 사용함으로써 우리는 많은 종류의 추상적 개념들을 다룰 수 있게 된다. 토론 참여자들은 말을 하면서 그들의 의도에 맞게 손에 들고 있는 가상의 물체를 만지고 잡고 그것을 잡은 상태에서 흔들기도 하고 또 그것의 크기를 키우거나 줄이고 해체하는 손짓을 함으로써 사건이나 행위의 다양한 국면들을 이해하고 처리한다는 것을 알 수 있다. 또한 그 가상의 물체의 모양을 떠올리는 손짓을 하기도 하며 그것을 손가락 끝으로 모아 쥐거나 쥐는 힘을 조절하여 그 사건이나 행위를 대하는 화자의 태도나 입장을 전달한다는 점을 볼 수 있었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "Die Einbildungskraft war in der vormodernen Kunst wegen des Postulats der Mimesis und Imitatio kaum ernstgenommen. Die Kunst und die Literatur verpflichtetn sich unter dem Verdikt des aptums zur Repräsentation der hierarchischen Gesellschaftsordnung, was vor allem in der “Regelpoetik” ihren Ausdruck fand. Erst nachdem der Künstler seine Identität nicht mehr als “Handwerker”, die Kunstwerke nach dem Rezept produzierten, sondern als “Genie” gewonnen hatte, das aufgrund seiner Individualität im Stande sein soll, etwas Neues, Originelles und Authentisches hervorzubringen, trat die Einbildungskraft in den Vordergrund der Kunstszene ein. Kant bezeichnete sie “schöpferisch”, weil sie eben der Organ neuer ‘ästhetischer Ideen“ ist. Bei Schiller war die Einbildungskraft dasjenige Vermögen, das nur dem Menschen zukommt, weil sie die Welt des Scheins ermöglicht, während Gott und das Tier an der Realität hängen bleiben. Hier stellt es sich heraus, dass der Begriff der Einbildungskraft eng mit dem Begriff des Künstlers verknüpft ist, dessen Individualität und Originalität eigentlich dem Gedanken der “individuellen Monade” viel zu danken haben. Die Einbildungskraft ist andererseits von Moralisten immer für gefährlich gehalten, weil sie mit der Willkür, Zwangsfreiheit von den Regeln identifiziert worden sind. Heutzutage aber, wo die Einbilldungskraft in allen Bereichen der Kultur und Industrie ihren Siegeszug fortsetzt, kann es von der Gefährdung durch die Einbildungskraft keine Rede geben.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "지방자치단체는 범죄 예방 환경 설계(CPTED)를 관할 행정구역에 적용하고 있다. CPTED의 가장 효과적인 방안은 야간 조도 상향과 CCTV 카메라 신설 그리고 CCTV 카메라 운영을 안내하는 야간 표지이다. CCTV 카메라는 빛을 전하로 바꾸는 소자에 의해 디지털화되므로, 제공되는 광량에 따라 야간 영상 품질의 차이가 크다. 빛이 충분해야 우수한 품질의 영상이 수집되어 AI 영상 분석 정확도가 향상된다. 2024년에 서울특별시 은평구는 CPTED 개선과 영상 품질 향상을 위해 LED 가로등 일체형 CCTV 카메라 설치 실증을 추진하였다. 이를 근거하여 실증 결과를 분석한다. 또한, 교차로마다 CCTV 카메라가 신설되는 일체형 CCTV 설치 결과에 기반해, 특정 차량 또는 특정 인물을 공간정보 상 상관관계 기반 개체 영상 추적 방법을 연구한다. 이 연구 결과를 지자체에 적용하면, 예산 절감, CCTV 카메라 야간 영상 품질 향상, 사건·사고 발생 시 공간정보 기반 실시간 개체 추적이 가능하다. 무엇보다 범죄 예정자의 범죄 유발 욕구를 낮출 수 있어 국민이 안전한 도심 환경이 구현될 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "This paper analyzes the catastrophe of the ‘unsustainable human’ imagined by Margaret Atwood in Oryx and Crake, and proposes a thrivable new life form suitable for the posthuman era beyond neoliberal humanism, nihilism, and techno-utopia. In this regard, Bruno Latour’s ‘Actor-Network Theory’(ANT) and Gilbert Simondon’s ‘Transindividual Human-Machine Ensemble’ provide a useful framework for analysis. Analysis reveals that the total crisis of the near future portrayed in this work is due to 1)the relationship between human and nonhuman that are not appropriately controlled for technological development, 2)the mechanism of human control and detachment of nonhuman, 3)the succession of previous relations, and 4)the absence of new relations that have not yet been established.\nTherefore it is necessary to reflect the previous human-nonhuman network and to study and invent a new human-nonhuman network adapted to technological development. Inspite of the terrible apocalyptic factor, this work warns against a harmful ‘human-nonhuman network’ and suggests the transindividual ‘human-nonhuman ensemble.’ This novel also shows that the ontological phase of human can transit from the ‘unsustainable human’ that dominated nature to the ‘thrivable posthuman.’",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 영구기록물기술규칙 기반의 기술현황이 갖는 한계점을 살펴보고, 이에 대한 해결방안으로 RiC-CM(Record in Context – Conceptual model)을 적용한 영구기록물 기술방안을 제안하는데 그 목적을 두었다. 이를 위해 문헌연구와 사례연구를 진행하였다. 국가기록원 영구기록원 기술현황의 한계에 대한 RiC-CM 기반의 해결방안과 그에 대한 효과는 다음과 같다. 첫째, RiC-CM는 특정 영구기록물이 복수 출처맥락을 반영하는 것이 가능하다. 이는 기록물과 각각의 출처를 개체로 정의하고 이들의 연관성을 관계로 표현하는 방식으로 해결할 수 있다. 기록물 개체들의 관계를 맺어주는 것만으로도 특정 영구기록물과 관련된 출처정보를 보다 정확히 표현 가능하고, 전체적인 생산맥락을 파악하기 용이하다. 둘째, RiC-CM는 연관이 있는 기록물 철⋅건 정보를 연계하는 것이 가능하다. 특정 기록물 군(퐁)에 속하는 하위 기록물 철⋅건들은 각각 개체로 지정하고, 생산맥락에 따른 관계를 부여하는 방식으로 해결할 수 있다. 이를 통해 실제 서비스를 제공할 때 연관된 영구기록물들의 정보를 한데모아 서비스하는 것이 가능하다. 그리고 이용자 입장에서는 영구기록물 검색의 폭을 넓힐 수 있다. 셋째, RiC-CM은 특정 생산기관과 연관된 모든 생산기관 정보를 연계하는 것이 가능하다. 만약 복수의 생산기관들이 서로 연관되어 있다면, 생산기관들을 각각의 개체로 정의하고 이들 간의 관계를 ‘연관이 있다(associated with)’로 표현할 수 있다. 이를 통해 생산기관의 맥락정보, 즉 기록의 출처맥락을 종합적으로 살펴보는데 도움이 된다. 본 연구를 통해 전자기록 관리환경의 패러다임 변화에 대응하여, 차세대 영구기록물 기술규칙인 RiC-CM에 대한 연구에 활용될 수 있기를 기대한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이글은 전후시대 대표적 시조시인 장순하(1928~)의 초기 시조에 나타난 시의식을 탐구하였다. 장순하가 감각적인 방법으로 창작하고 있는 시세계를 시간적 상황, 공간적 상황, 개체적 상황으로 보았다. 이것은 고전과 전통 사이에서 시대의 요구와 함께 장순하의 독창적인 창작방법으로 유입되고 있으며, 그의 초기 시조에서 집중적으로 관찰되고 있다. 명시적으로 이를 근거로 장순하가 주창한 ‘현대 시조의 상황 의식’을 담보로 그의 초기시집인『백색부(白色賦)』와『묵계(默契)』에 드러난 시의식을 연구하고자 한다. 분석방법으로서 마르틴 하이데거의 『존재와 시간』을 통해 논의를 개진하였다.\n본고가 주목한 그의 초기시는 인간, 자연, 우주, 민족, 조국, 생명, 세계, 실제, 근원 등 본질성과 실존성에 관한 관심과 사색이 상황 인식이라는 세 가지 창작 방법으로서 시간적, 공간적, 개체적 의식으로 형상화되고 있다. 이 관점에서 하이데거의 존재론에서 선보인 시간성, 공간성, 일상성의 학문적 자장이 장순하의 시세계를 관통하고 있는 바, 이것을 도구화하여 초기 시조를 통해 밝혔다.\n첫째 ‘시간적 의식과 근원적 존재성’에서는 자신이 속해 있는 현재라는 시간 속에서 역사를 호출한다. 그러면서 아픈 시간들을 인식하면서 민족을 통해 화자의 근원성을 성찰하게 하고, 현재는 과거를 통해 성장하고 그 안에서 자라온 실재라는, 근원적 의미를 살피는 등 시간 의식과 함께 근원적 존재성을 발견하게 한다.\n둘째 ‘공간적 의식과 자연적 생명성’에서는 공간을 둘러싼 세계의 의미를 탐색하게 만든다. 이 때 공간은 한국적인 것으로 시적 풍경을 채우면서 세계 내부의 어떤 공간과 그 공간의 의미를 발견하게 해 준다. 또한 시에서 공간이라는 소재를 정할 때, 자신이 있었던 곳, 혹은 마땅히 있어야 하는 ‘장소’로 회귀하고 있다.\n셋째 ‘개체적 의식과 일상적 공동체’에서는 민족을 이루고 있는 여러 ‘주체들의 연대’로 현시된다. 민족이라는 공동체 안에 놓인 개별적인 개체들의 삶을 통해 이 땅에 살고 있는 개체들의 실존을 보여준다. 이것은 한민족 안에서 개체가 겪어온 절망과 좌절의 역사도 이웃하고 있는, 민족 공동체 의식의 발로라는 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문의 목적은 대학생 글에 보이는 복수접미사 ‘-들’과 관련된 문제를 비판적으로 살펴보는 것에 있다. 학생들 글을 읽다 보면, “할머니 과수원에는 귤들이 노랗게 익어 있었습니다.”에서 ‘귤들’처럼 복수접미사 ‘-들’을 붙인 경우를 본다. ‘귤들’ 같은 표현은 대학생 글뿐만 아니라 초중고 교과서 지문, 문학작품, 언론매체 글에서도 많이 보인다. 복수접미사 ‘-들’은 보통 글쓴이가 어떤 개체를 둘 이상으로 볼 때 붙인다. 이것은 우리 말글살이에 서양 문법의 ‘수 범주’가 들어왔다는 것을 뜻한다. 우리말을 연구하는 학자들은 ‘-들’이 무분별하게 쓰이게 된 까닭을 영어를 비롯한 서양말의 영향에서 찾는다. 그런데 이런 진단은 문제를 너무 단순하게 보는 것이다. 이 논문은 우리 말글살이에 군더더기 ‘-들’이 아무런 원칙 없이 쓰이게 된 내력을 국어 문법의 불철저함에서 찾고 있다. 먼저 국어 문법이 ‘명사의 복수형’을 어떻게 다루어 왔는지 살펴보았다. 특히 우리 국어 문법이 복수접미사 ‘-들’의 쓰임을 정리할 때 그 밑바탕에 서양 문법의 ‘수 범주’가 깔려 있다는 것을 확인할 수 있었다. 그런데 서양 문법의 ‘수 범주’는 단지 ‘수(數･하나인가, 둘 이상인가)’의 문제이기에 앞서 서양 사람들이 세상과 사물(object)을 보는 눈, 즉 사물의 ‘개체성(individuality)’에서 찾아야 한다. 이는 서양과 동양의 수 개념과 그 차이를 밝히는 문제이기도 하다. 복수접미사 ‘-들’ 연구 또한 서양 문법의 ‘수 범주’와 우리말의 수(數) 개념을 정확히 하는 것에서 시작되어야 할 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "In this study, the discussion participants’ hand gestures have been analyzed with special focus on the ones using hand blades, based on the hypothesis that the conceptual structures are manifested in subconscious body language concurrently accompanied by the speech. Hand blades appeared to be recognized as if they were knives. The vertical appearance of the palm standing straight resembles that of a knife. The participants made gestures as if they were cutting up some objects by moving their hands up and down when they used verbal expressions meaning ‘division, restriction, or negation’. The uprightly positioned palm accompanied by the verbal messages containing ‘fundamentals, principles, regulations’ are estimated that they imitated the straight baton. These unconscious hand gestures could have been derived from the metaphoric conceptualization of the hands as knives or bars. We may better understand the abstract concepts such as ‘division, limitation, negation’ through physical action of cutting up and ‘fundamentals, principles, regulations’ through uprightly positioned bar, the cognitive processes of which are reflected on our body language as well as the verbal expressions.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "피터 싱어의『동물해방』(1975)이 출판된 이후 본격적으로 거론되기 시작한 동물권리/복지논쟁은 이론적인 입장 차이를 논의하던 시기를 지나 이제는 구체적인 실천방법을 모색하는 방향으로 관심이 모아지고 있는 것으로 보인다. 이 논문은 그러한 시각에서 동물의 권리를 주장하고 있는 것으로 평가받는 제임스 레이첼즈의 ‘도덕적 개체주의’와 리차드 라이더의 ‘페이니즘’을 살펴 본 다음, 이를 다시 테라바다불교전통의 ‘차별적 상대 평등성’ 및 선불교의 ‘무차별적 절대 평등성’의 동물관과 비교, 검토해 봄으로써 오늘날 우리가 무비판적으로 받아들이고 있는 동물에 대한 비윤리적 자세와 태도를 다시 한 번 더 되돌아 볼 계기를 마련하고자 한 것이다. 여기에서 우리는 지금 당장 서둘러야 할 일은 이론적인 갑론을박이 아니라 현실적으로 고통 받고 있는 동물들의 처지를 조금이라도 개선할 수 있는 방법, 예컨대 가능하면 고기를 먹지 않고; 동물의 가죽으로 만든 옷이나 신발을 멀리하며; 동물을 대상으로 하는 스포츠나 사냥을 즐기지 않고; 동물의 성분이 포함된 샴푸나 화장품을 사용하지 않는 행동 등을 직접 몸으로 실천해야 한다는 결론에 이를 수 있었다. 왜냐하면 실제로 동물들이 겪고 있는 현실적인 고통은 이론적인 문제의 차원을 떠나 글자 그대로 매우 심각하다고 판단되기 때문이다. 윤리(학)는 그런 점에서 전통적으로 실천학문이라는 평가를 받을 자격이 충분함을 스스로 입증할 수 있어야 한다고 본다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구의 목적은 1) 소설 속 지명 데이터베이스(DB)를 구축하고, 2) 확장 가능한 지명 DB를 위해 자동으로 지명을 추출하여 데이터베이스를 갱신하며, 3) 데이터베이스 내의 소설지명과 용례를 검색하고 시각화하는 파일럿시스템을 구현하는 데 있다. 특히, 학습자료(training)에 해당하는 말뭉치(corpus)를 확보하기 어려운, 소설지명과 같이 현재 잘 쓰이지 않는 개체명을 자동으로 추출하는 것은 매우 어려운 문제이다. 효과적인 지명 정보 추출용 학습자료 말뭉치 확보 문제를 해결하기 위해 본 논문에서는 이미 수작업으로 구축된 웹 지식(어휘사전)을 활용하여 학습에 필요한 충분한 양의 학습말뭉치를 확보하는 방안을 적용하였다. 이렇게 확보된 학습용 코퍼스와 학습된 자동추출 모듈을 가지고, 새로운 지명 용례를 찾아 추가하는 지명 데이터베이스 확장 도구를 만들었으며, 소설지명을 지도 위에 시각화하는 시스템을 설계하였다. 또한, 시범시스템을 구현함으로써 실험적으로 그 타당성을 입증하였다. 끝으로, 현재 시스템의 보완점을 제시하였다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문은 명대 소설 『봉신연의』 에 표현된 신선·도교문화를 서사적 상상력의 관점에서 고찰하였다. 논의는 다음의 네 가지 논점을 바탕으로 이루어졌다. \n첫째, 주요 등장인물들이 모두 선인이라는 점에 대해 논의하였다. 선인은 불사를 추구하며 주술적 비상을 실현하는 존재이다. 그리고 천계에서 수립한 이른바 ‘봉신계획’이란 인간계의 은주혁명과 맞물리며 전투에서 희생되어 죽은 자들을 신으로 봉하는 계획으로, 바로 이 선인들의 품계를 정하는 계획이라 할 수 있다. \n둘째, 삼시의 제거가 등장인물들의 주요 과업이라는 점에 대해 논의하였다. 체내에 존재하는 삼시는 인간의 잘못을 사명에게 고해바쳐 인간의 수명을 단축시키므로 삼시의 제거는 곧 장생불사를 이루기 위한 주요 과업이 된다. 그러나 소설에 등장하는 선인들은 대개 삼시를 제거하지 못한 상태이며, 그로 인해 살겁을 수행하는 봉신 전투에 참여하는 운명을 맞이하게 된다. 그 중에서도 더 많이 희생되는 쪽은 은의 편에 선 절교 선인들로, 그들의 충동과 분노의 정서는 바로 삼시의 작용과 맞닿아 있다고 볼 수 있다. \n셋째, 기 수련을 통하여 개체변환을 이룬 선인들에 대하여 논의하였다. 개체의 변환은 기화우주론의 사고방식을 바탕으로 이루어진다. 절교 선인들 중에는 본래 동물·사물이었다가 기의 수련을 통해 인간으로 변화한 후 득선한 자들이 많은데, 이를 통해 신선가학론의 입장이 수용되어 있음을 볼 수 있다. 그러나 그들은 끝내 출신 때문에 천교 선인들을 능가하지 못한다는 점에서 신선기품론이 기저에 깔려 있음도 확인된다.\n넷째, 각종 법술의 운용에 대해 논의하였다. 우선 거울 조요보감과 채찍 타신편, 자웅편의 경우를 통해 신선설화에 등장하는 축귀구마의 주구가 소설에서 주요 법보로 활용되고 있음을 살펴보았다. 또한, 본래 위해로부터의 방어 및 질병 치료가 주요 기능인 부적·주문 활용 법술이 소설에서는 상대를 공격하고 위험에 빠뜨리는 법술로 묘사되고 있음을 고찰하였다. \n본고의 논의는 신선·도교문화가 『봉신연의』의 중요한 서사적 상상력으로 작용하고 있음을 밝히고자 하였다. 나아가 신선·도교문화는 비단 전통적 상상력으로서만 유효한 것이 아니라 오늘날 대중들이 향유하는 ‘선협(仙俠)’이라는 장르의 문화콘텐츠에서도 중요한 상상력으로 작용하고 있기에 이에 대한 다각적 논의가 필요하며, 이는 후일을 기약한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 『철학사 강의』에서 헤겔이 제시한 소크라테스의 죽음에 대한해석을 법철학적 관점에서 재조명한다.\n헤겔에게 소크라테스의 죽음은 단순한 개인적 비극이 아니라 고대 인륜성의 모순이 한 철학자의 비극적 운명 형태로 표출된 세계사적 사건이다.\n여기서는 내적으로 보편적 개체성에 도달하려는 주관적 자유의 자기 의식적 원리와 얽매임 없이 신의 외적인 명령에 의존해 살아가려는 인륜성의순박한 원리가 충돌하고 있다. 다시 말해 자연법적인 비판적 사유와 실정법적인 일상의 인륜이 소크라테스의 철학과 삶 전반에서 충돌하고 있으며, 바로 이 충돌이 그에 대한 소송과 사형집행 과정에서 첨예화되었된 것이다.\n이러한 충돌과 갈등은 이미 아테네 민족의 삶 자체 내에도 무의식적으로자리잡고 있었다. 따라서 소크라테스의 사형을 통해 아테네 민족은 인륜적보편성을 요구하는 바로 자기 자신의 새로운 원리를 제거한 셈이다.\n그리고 바로 그 때문에 아테네 민족은 헤겔이 보기에 세계사적 지위를 상실하고 몰락의 길에 접어들 수 밖에 없었다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 「구운몽」을 현재적인 텍스트로 다시 읽으면서, 4.19의 경험을 토대로 한 최인훈 소설의 현실인식과 혁명에 대한 사유를 오늘날의 관점으로 재조명하고자 한다. 이를 위해 이 글에서는 우선 「구운몽」에 나타난 주체의 분열증적이고 비인칭적인 특성 등이 새로운 주체 생성의 잠재력으로 이어진다는 데 주목한다. 「구운몽」이 보여주는 혼란과 분열상은 주체 정립에 실패한 분열된 주체의 난경이기보다는, 개체성과 동일성의 울타리를 넘어서는 ‘다른 주체’의 가능성에 대한 실험이라 할 수 있다. 「구운몽」에서 최인훈은 단일한 개체에게 종속되지 않는 부분들과 특이성들의 발생적 잠재력을 확장하는 한편, 그것들을 변용하고 재배치하여 새로운 주체성을 생산하는 길을 찾고자 했다.\n이 같은 사유의 모험은 ‘혁명’에 대한 실천적인 모색으로 이어진다. 4.19를 특정한 역사적 사건이기 전에 보편적이고 순수한 ‘혁명적인 것’의 무수한 변이형들 가운데 하나로 생각했던 최인훈에게 「구운몽」의 작업은 4.19를 고정된 시공간의 좌표에서 분리함으로써, 불활성 상태로 역사의 지층 속에 파묻힌 혁명적 에너지를 오늘날에 되살려내려는 시도와 맞물린다. 최인훈의 「구운몽」은, 혁명의 잠재적 에너지를 ‘사건’으로 구현하기 위해 스스로를 어떻게 변형하여 어떤 ‘주체성’을 생성할 것인지에 대한 질문과 탐색의 장(場)이라 할 수 있다. 주체성에 관한 거대한 실험장의 성격을 띠는 최인훈의 소설들 가운데서, 「구운몽」은 매우 첨예한 사고 실험의 예이자 그 실험의 실천적 함의를 확인시켜주는 중요한 텍스트라고 하겠다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "니체는 전통적으로 당연시되어왔던 이상적 가치들이 그 자체로 절대적인 것이 아니라 삶에 필요한 것으로 우리 스스로 만들어 낸 것이라는 가치전환의 사유를 시작하였다. 그리고 인간 삶의 궁극적 목표로서 최고의 가치로 여겨져 왔던 행복의 개념 역시 비판적으로 문제시하고 다시 새롭게 평가하고자 했다. 니체는 ‘인간은 행복을 추구하지 않는다’라는 도발적 표현을 통해 행복의 일반적 관념을 허구로 보았으며, 자신의 반목적론적, 반인과론적, 반형이상학적 사유로부터 삶의 궁극적 추구 대상으로서 행복을 정의하는 모든 전통적인 윤리학적 명제들을 공허한 관념이자 착각으로 비판했다. 이때 니체는 한편으로는 인간의 행복이란 보편적인 내용을 통해서는 규정될 수 없는 것임에도 불구하고, 행복한 삶이란 진리와 마찬가지로 보편적 절대적인 가치로서 이성적으로 추구하고 도달해야 할 하나의 이상적 목표로 간주되어 왔음을 지적한다. 하지만 또 다른 한편으로 ‘행복’한 상태의 본질적인 동기로서 의욕이나 의지 자체에도 역시 의문을 제기하며, 만족감의 상태로서의 ‘행복’을, 즉 ‘고통의 제거’로서의 행복을 추구한다는 헤도니즘적 행복주의 일반에 대해서도 거부한다. 특히 힘에의 의지 개념을 통해 더 이상 행/불행, 쾌/불쾌의 이분법이 아니라, 불행과 행복의 이중적 모순성을 통찰함으로써 삶에서 고통이 지니는 결정적인 역할을, 더 나아가 행복의 조건으로서의 고통과 불행을 강조하고 있다. 이로부터 더 이상 작은 행복이 아니라, 위험하지만 자유로운 주권적 개인의 자기 긍정과 자기 형성이 개체의 큰행복의 내용으로 설명된다. 물론 ‘행복’의 개념이 그의 철학 전체에서 본격적이고 독립적인 주제로 나타나지는 않지만, 가치전환의 사유로서 나타나는 니체의 전통적 행복 비판의 내용은 힘에의 의지, 디오니소스적 행복, 위버멘쉬, 주권적 개인, 자유, 창조 등 그의 철학적 개념들 전반과 하나의 맥락관계를 형성하고 있으며, 이를 통해 분명 ‘개체의 좋은 삶’으로서의 “새로운 행복”의 철학을 말하고 있다고 할 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문은 정세랑의 「리틀 베이비블루 필」과 김초엽의 「로라」를 중심으로 포스트 휴머니즘 사회로의 이행에서 벌어질 수 있는 트랜스 휴머니즘의 도전과 포스트 휴머니즘의 혼종성을 살펴보고자 한다. 포스트 휴머니즘 이론은 들뢰즈에 영향을 받은 신유물론의 한 갈래로서 로지 브라이도티를 비롯한 카렌 바라드 등의 개념이 주요하다. 이 개념을 토대로 한국 SF 소설 안에서 포스트 휴머니즘이 어떻게 구현되고 있는지 두 작가가 그려내고 있는 ‘사고 실험’을 통해 살펴보고자 한다.\n논문의 2장에서는 정세랑의 「리틀 베이비블루 필」을 분석하여 트랜스 휴머니즘적 발전이 인간 사이의 관계뿐만 아니라 상식을 붕괴시키고 사회 구조 자체에 직접적인 영향을 끼치는 모습을 그린다. 3장에서는 김초엽의 「로라」를 살펴보며 근대의 인간관에서 비정상으로 규정되어온 ‘타자들’이 유동적이며 혼종적인 양태를 보이며 포스트 휴머니즘적 주체성을 획득하는 장면을 보여준다.\n이 논문은 과학기술의 발전에 따라 전지구적 문제로 지목되고 있는 인간의 위기를 고민해보고 한국 SF 소설을 통해 가상의 미래를 탐색해 봄으로써 성찰적인 대안을 제시하는데 목표가 있다. 포스트 휴머니즘으로 가는 길이 그다지 낭만적이기만 한 것은 아니지만, 위기와 좌절을 극복하면서 근대의 대문자 인간을 해체하고 다가올 미래에 새로운 인간상을 고찰해보고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "2016년 남중국해 문제에 대한 필리핀-중국간의 중재재판 판정에 따라 남중국해 해양개체의 법적 지위에 관한 권위 있는 국제법원의 판정이 나오게 되었다. 이에 따라 남중국해를 군사적 및 상업적 목적 등 주요 항로로 이용하고 있는 미국과 중국이 이 수역에서의 선박 특히 미국의 군함이 중국이 주장하는 남중국해 해양개체(특히 인공도서)의 주변수역을 통항하는 문제에 예민한 반응을 보이게 되었으며, 심지어는 군사적 충돌로도 이어질 수 있는 상황으로 까지 전개되었다. 이러한 배경에 따라, 본고는 유엔해양법협약상의 통항제도를 검토하고, 미국이 주장하는 소위 “항행의 자유작전“과 중국의 “일대일로” 정책(해상실크로드정책)에 통항제도가 미치는 영향 및 문제점을 관련 국제법규 및 국가관행 등 근거로 분석하여 남중국해 및 기타 해양에서의 양국간 통항문제 갈등 해결을 위한 법적 근거 또는 바람직한 대안을 제시하고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 논문의 목적은 흔히 ‘생물학주의’로 일컬어지기도 하는 니체 철학의 내용을 진화라는 관점에서 접근하며, 니체가 영향을 받았고 또 비판을 하기도 했던다윈과의 내적인 관계를 사유태도의 측면에서 비교하는 것이다. 이를 통해 19세기말 서양의 사유전통에 대전환점을 마련한 이 두 사상가 다윈과 니체는 세계가시작도 끝도 없이 지속하는 가운데 계속적으로 생성하고 변화하고 있다는 진화적 사유를 통해 형이상학적 본질주의와 목적인을 거부하는 현대적이고 비판적인 세계 해석을 제시하고 있음은 물론, 이러한 세계 해석을 통해 특히 자연 속에서의 인간의 태도에 대한 자기 성찰과 자기 비판을 시도하고 있음을 부각시키고자 한다. 곧 인간 자신에 대한 인식의 확장을 통해 인간중심주의의 위험과 허구를 말한다는 점에서 다윈과 니체의 유사한 태도는 각각 자연과학과 철학이라는좁은 의미의 학문영역을 넘어서 있다고 할 수 있다.\n특히 존재와 발생 사이의 구조적 변화의 메커니즘을 설명하는 ‘힘에의 의지’및 니체의 생성의 사유 전체가 모든 생물의 종은 진화한다는 다윈 진화론과 맺고 있는 내적 연관관계를 자세히 논의한다. ‘새로운 것의 발생’에 관한 다윈 진화론의 출발점이자 근본조건이 되는 변이와 개체군 개념, 진화적 변화 현상을 일으키는 메커니즘으로 설명되는 자연선택 개념, 기회나 우연의 성격, 주체와 환경의 문제 등은 니체의 힘에의 의지 사유에서도 내적 다수성과 복합성, 내적 투쟁과 역동적 관계, 선택 및 해석 개념, 주체와 환경의 상호작용, 역사적 안정성으로서의 영원회귀의 내용 등과 동일한 철학적 함의를 가진 문제로 연결될 수 있다.\n이때 다윈에서나 니체에서나 근본적인 전제가 되는 반(反)본질주의적 사유는‘차이’(변이)의 의미에서 찾을 수 있다. 즉 개체군에서의 개체들의 ‘내적 차이’에생물학적 진화가 근거하듯이, 힘에의 의지 사유에서도 내적 복합성, 다수성이 하나의 의미 주체 및 통일체를 구성한다. 이들의 내적 차이들의 역동적 관계로부터 새로운 사건 및 새로운 존재(종)의 생성(진화)이라는 ‘외적 차이’들의 발생 과정이 가능하다. 니체의 힘에의 의지 개념은 이에 따라 ‘내적 구조의 변화가 시간속에서 지속적으로 무한히 일어나는 과정’으로 세계를 이해하는 것으로 특징지을 수 있고, 이는 곧 진화의 개념과 영원회귀 개념을 동시에 설명한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "IFLA의 FRBR 모형이 발표된 후 개체관계 중심의 데이터 구조로의 전환이 본격화되고 있다. 국내에서도 이러한 국제적인 동향을 반영하여 2024년 5월에 한국목록규칙(KCR) 제5판 초안을 발표하였다. 이 연구는 관련 있는 개체를 서로 연결함으로써 이용자들이 개체 간 관계를 이해하고 탐색을 확장해 나가는데 사용되는 ‘관계’에 주목하였다. 이를 위해, (1) 개념모형과 RDA 목록규칙에 정의된 개체 간 관계의 유형을 살펴보고, (2) RDA에 근거하여 MARC21에 관계를 표현한 실제 사례를 LC와 PCC를 중심으로 분석한 후 (3) 이에 근거하여 KORMARC에 적용하기 위한 실무적 방안과 과제에 대해 논의하였다. 연구에 필요한 데이터는 RDA 교육자료와 LC와 PCC의 입력지침 등을 활용하되, LC와 PCC 참여도서관의 서지레코드와 전거레코드를 사례로 참고하였다. 이 연구는 새로운 서지구조에 대한 이해의 폭을 넓히고, 특히 국내에서는 거의 논의되어 있지 않았던 개체 간 관계를 KORMARC에 수용하기 위한 방안을 제안함으로써 향후 BIBFRAME과 같은 차세대 서지구조로의 전환에 대비하고자 하였다는 점에서 의의가 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "본 연구는 기존의 개체론적 e-Learning의 품질관리 방안이 갖고 있는 태생적 문제점과 한계를 지적하고 지식 생태계로서의 e-Learning 품질관리 방안과 기준을 제시하는데 목적을 두고 있다. 지식 생태계로서의 e-Learning의 품질은 e-Learning을 구성하는 독립적 구성요소들의 배타적 품질이 아니라 e-Learning을 구성하는 전체 시스템이 선순환적 학습활동을 촉진시키는 생태학적 관계의 품질을 의미한다. 우선 지식 생태계로서의 e-Learning을 구성하는 원리와 핵심 요소를 효율성, 생태적 효율성, 생태적 효과성 개념에 비추어 비판적으로 논의한다. 기존 e-Learning 품질관리 방안의 한계와 문제점을 개체론적 품질관리 방안, 탈맥락적 품질관리 방안, 소극적 품질관리 방안, 정량적 품질관리 방안, 효울 중심적 품질관리 방안으로 구분하여 논의한다. 이어서 이를 극복할 수 있는 생태학적 품질관리의 방안을 관계론적 품질관리 방안, 맥락 구속적 품질관리 방안, 적극적 품질관리 방안, 정성적 품질관리 방안, 자기 조직적 품질관리 방안으로 제시한다. 이어서 이러한 품질관리 방안에 상응하는 다섯 가지 지식 생태학적 품질관리 기준을 제시한다. 마지막으로 지식생태계로서의 e-Learning을 활성화시키기 위해 web 2.0에 상응하는 e-Learning 2.0을 지식 생태학적 입장에서 논의하고, e-Learning의 새로운 가능성을 모색하면서 결론을 대신한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "사회과학에서 구조와 행위자 관계 문제는 가장 중요하고도 난해한 쟁점이다. 일반적으로 현재 구조결정론이나 행위환원론의 양 극단은 비판받고 있다. 그럼에도 복잡한 사회현상을 설명하는 사회과학 이론들은 구조와 행위자 가운데 어느 하나를 우위에 두는 것이 효과적이다. 이론적 반인간주의나 방법론적 개체주의는 이 문제의 해결을 시도하지만, 여전히 편향성을 극복하지 못했다.\n구조와 행위자 관계 문제는 사회과학 이론들을 넘어 인문과학 일반, 특히 철학적 세계관 및 인식론에 관계되는 문제이다. 즉, 세계관의 차이를 반영하는 문제라는 것이다. 뒤르켕과 스펜스의 사회실재론과 사회명목론 논쟁 이후 많은 사회과학자들이 이 문제의 해결을 위해 노력했으나, 여전히 완벽한 해결에 이르지는 못한 것으로 평가된다. \n본고에서는 정치경제학의 신제도주의 이론들을 매개로 구조와 행위자 관계의 해결을 시도했다. 구조는 실체가 아닌 사회의 속성으로 행위자를 제약한다. 반면 행위자는 구조의 제약 속에서도 적절한 제도의 창출을 통해 구조의 유지와 발전을 가능하게 한다. 그러나 기존의 구조-제도-행위자의 삼분법은 구조의 유지와 발전을 설명할 수는 있지만, 행위자의 구조 변화 능력의 설명에는 한계가 있었다. 이에 본고에서는 제도주의에서 제도의 일부로 간주하는 사상을 구조의 변화 문제 해결을 위해 도입하였다. 특히 사상을 구조의 존폐와 관련되는 세계관적 사상과 구조의 유지와 발전에 관계하는 기능적 사상으로 구분하였다. 후자가 제도의 일부로서 사상이라면, 전자는 구조의 변화를 야기할 수 있는 행위자의 구조에 대한 가치평가를 포함한다. 본고에서는 구조를 실체가 아닌 속성으로 간주하고, 구조의 속성은 행위자들의 사상과 행동 속에서 드러나는 것으로 양자를 통일시키고, 기존 이론들이 봉착했던 악무한의 순환논리에서 벗어나기 위해 구조와 행위자의 매개체로 제도와 사상을 도입하는 구조-제도·사상-행위자의 삼분법을 제안한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 글은 원불교 교학이 타 종교의 개념이나 이론적 틀을 이용하여 원불교의 핵심개념을 이해하고자 할 때, 원불교 교학의 고유한 개체성을 훼손할 여지가 있다는 문제의식에서 출발하였다. 원불교는 그 핵심 개념과 교리를 우선 교학의 체계 내에서 생성하고, 소화하고, 양성하면서 이를 이해할 때만이 그 온전한 개체성이 인정될 수 있기 때문이다. 필자는 이러한 문제의식에 근거하여 먼저 원불교가 온전한 개체로서 창시되어 기성의 다른 종교적 교지들의 모범이 되고자 하는 소태산 박중빈 대종사(1891-1943)의 의지를 교법의 총설( 『정전』제1 「총서편」제2장)을 통해 확인하고 일원상 법어『( 정전』제2「 교의편」제1장 제5절)의 이해를 통해 원불교의 유불선 삼교의 주체적 수용의 주체를 확인하고자 하였다.\n소태산은 교법의 총설에서 세계의 모든 종교가 그 근본되는 원리가 하나인 것을 간과하여 각종각파로 분립하고 교문을 별립하여 제도와 방편을 달리함으로써 교파들 사이에 융통을 보지 못하고 있다고 지적하였다. 그는 모든 종교의 근본원리를‘심인(心印)’으로 깨달아 이를 ‘일원(一圓)’이라 형상화하면서 일원에 기반하여 기존의 종교들을 원융회통하는 원불교의 교학을 수립하였다. 그는 모든 종교의 근본원리를 심인으로 파악했으며 심인은 곧‘제불제성’의 근원이다. 근원적 진리인 일원은 역사의 흐름 속에서 깨달음의 선각자와 그들의 가르침 즉, 제불제성을 매개체로 구체화 된다. 심인의 자기분열의 기능은‘공적영지(空寂靈知)’를 통해 이해될 수 있다. 심인은 내적으로 상호연관 되어 있는 유·불·선 삼교간의 역사를 형성하면서 동시에 종교 역사 서술 주체의 역할을 한다. 따라서 심인을 근거로 삼교가 상호작용하여 종교의 역사를 형성한다는 소태산의 통찰은 매우 중요한 통찰이라 할 있다. 그는 이러한 통찰에 근거하여 삼교를 일원으로 통합하고자 한다. 따라서 원불교의 일원은 삼교의 교지를 포괄하면서 동시에 과거종교와 구분해주는 원불교 개체성을 의미한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "철학적 사유는 이론사유이다. 이론사유는 동양과 서양 철학자들에 의해서 서로 비슷한 체계로 발전되어왔다. 사용 언어가 다르므로 그 표현 방식에는 차이가 있다. 철학사에 있어서 발달된 개념을 분석하면 유사성(類似性)이 높다. 고대 그리스의 논리학 발달과 고대 중국 명가(名家) 이론의 전개가 그것의 하나요, 중세 서양에 있어서 ‘보편논쟁’과 중세 중국에 있어서 ‘리기론’(理氣論)의 발달이 그것이다. 본고에서는 명(名) ⁃ 실(實), 보편(일반) ･ 개체(특수) 그리고 리기론(理氣論)을 중심으로 철학적 이론사유를 비교 분석함으로써 동서철학의 상호 이해를 도모한다. 서구사회는 언어를 중시하였지만, 중국은 이를 경시한 점이 있다. 플라톤과 아리스토텔레스에 의해서 제기된 보편(普遍: 일반)과 개체(個體: 특수)의 문제는 중세철학의 ‘보편논쟁’(普遍論爭)에 의해서 꽃을 피운다. 안셀무스에 의하면, ‘낱말’로서 神의 존재는 곧 보편 존재로서의 신[보편자]이 개개 사물에 앞서서 존재한다는 것을 의미한다. 그러나 요한네스 로스켈리누스에 의하면, 현실이란 단순한 개체(個體)에 의해서 구성되어 있을 뿐이며, 개념(보편자)이란 인간이 안출(案出)해 낸 칭호에 지나지 않는다. 전자가 실재론자(實在論者)라면, 후자는 유명론자(唯名論者)이다. 토마스 아퀴나스는 이에 대해서 종합주의적 견해를 피력한다. 중국철학의 ‘리기론’(理氣論)도 같은 맥락에서 검토할 수 있다. 주희(朱熹)는 “‘리’가 사물보다 앞서서 존재한다.”(理在事先)라거나 혹은 “‘리’는 사물에 존재한다.”(理在事上)라고 말한다. 이는 추상적 존재로서의 “‘리’는 보편자로서 개개 사물에 앞선다.”라는 주장과 동일하다. 스콜라철학의 용어로 말하면, 주희는 실재론자(realists)이다. 조선의 퇴계 李滉과 율곡 李珥의 학설도 같은 카테고리에 속한다. 퇴계는 리기설에 있어서 ‘리’(理)에 비중을 두고 있는데, 그는 보편자를 중시하는 實在論의 입장에 가깝다. 퇴계는 ‘리’를 貴한 존재로, ‘기’를 賤한 존재로 본다. 이는 주리론에 따른 귀결인데, 보편자 ‘리’를 귀하다고 보는 점에서 역시 실재론에 가깝다. 리기론에 대한 율곡의 기본 입장은 ‘理氣之妙’이다. 율곡에 의하면, 리기의 관계는 ‘기발리승’(氣發理乘)으로 이해된다. ‘리’(보편)는 어디까지나 ‘기’(개체)안에만 있다. 이는 아벨라르두스의 논리와 비슷하다. 율곡은 ‘리통기국설’(理通氣局說)을 주장하였다. 본말(本末)이 없고 선후(先後)가 없는 추상 존재, 즉 이름[名]만의 보편(universal) 존재로서의 ‘리’는 어디에도 없는 데가 없다. 즉 리통(理通)이다. 시작과 끝이 있고, 선후가 있으며, 오르고 내리고 날아가고 쉬지 않고 활동하는 존재인 ‘기’는 현상계의 개체(individual) 속에 한정된다. 즉 기국(氣局)이다. 보편자는 ‘낱말’(voces)로서 존재하는 것이지 실재가 있는 것이 아니다. 율곡에 의하면, 들어나는 현상의 세계는 그 낱말이 무엇이던지 개체 속에서 의미를 들어낸다. 세계는 이름[名]이 존재하는 공상(共相)으로서의 ‘리통’과, 실재하는[實] 개체로서 수상(殊相)으로서의 ‘기국’의 조합이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "Choi In-hoon’s theory of art and literature is archetypal in that it integratesvarious theories about aesthetics, the way of creative writing and cultural criticismon a higher plane to generate an individual, that is, ‘human mind.’ Now in theage of information and culture in which information is technologized, his theoryhas a close affinity with the present cultural climate since it adjusts ‘DNA,’ acarrier of bio-information, into ‘DNA´’ and ‘DNA∞’ in a systematic way.\nThe essay explores his theory about art and literature which has not beensufficiently dealt with hitherto, and focuses on its application to his novels.\nChoi In-hoon says that human is an animal of self-identity and has three layersof consciousness; ‘biological self-identity’, ‘civilized self-identity’ and ‘fantasticself-identity.’ Of the three, civilized self-identity is unique to human. Althoughhe is developing civilization, human can not escape from his anxiety aboutfinitude. As a result, he gets a kind of consciousness about the need to overcomehis finitude, and it leads to fantastic consciousness, that is, self-identity on thedimension of religion and art. Religion asserts this self-identity as real, whereasart embraces it only under the promised condition of fantasy.\nChoi In-hoon takes as his main point the statement that ‘ontogenyrecapitulates phylogeny.’ He develops the concept of ‘DNA’, a carrier ofbiological genetic information, into ‘DNA'’(a carrier of civilized information), ‘DNA∞’(a carrier of fantastic information), transferring his theory of art into that of literature. The essay analyzes his novels including The Square, One Day in the Life of Novelist Kubo, Journey to the West, Typhoon, Hwadu on the basis of his theory about art and the way of creative writing.\nThe Square corresponds well with ‘three forms of human metabolism,’ Choi In-hoon’s key theory of art. ‘Technical object’ in ‘three forms of human metabolism,’ which may refer to national division, brings about the circumstance in which Lee Myeong-jun, biological subject and technical expressive subject, is suffering from ‘DNA’ which he took from his father in North Korea. He goes up to the plane of ‘DNA'’, ‘technical expressive subject’ by way of books, ‘technical object’, but realizing its futility, he gropes for ‘something fruitful and fit to burst with which he can live.’ It is love. Through love, Lee Myeong-jun wants to obtain a compensation for his disillusionment as civilized subject. Love, fantastic expressive subject, is ‘DNA∞’ for him, and he aspires after it.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "남사군도는 석유, 천연가스 등 지하자원의 보고일 뿐만 아니라 해상교통로서의 전략적 요충지이기도 하다. 만일 중국이 이 지역에 대한 해양력을 확보하여 해상통제권을 행사할 경우 아시아의 해양질서의 변화는 물론 국제해역으로서의 남사항로 통항문제와 관련하여 관련 국가 특히, 미국, 일본, 한국 등의 해양권익에도 커다란 영향력을 미치게 될것이다. 수출입 물동량의 대부분을 해상 수송로에 의존하는 한국은 남중국해가 중국 또는 기타에 의해 봉쇄되거나 통항방해를 받는 이른바 분쟁수역이 될 경우 경우 예상되는피해는 예측하기 어려울 정도로 심각할 것이다.\n본고에서는 이러한 배경을 기초로 문제가 되고 있는 남중국해 해양개체의 법적 지위와 그 기능을 유엔해양법협약 및 관련 판례 등을 근거로 검토한 다음, 이들 개체가 해양수역 관할권 결정에 미치는 영향과 그 역할 등을 관련 국제판례를 중심으로 언급하고자한다.\n또한, 유엔해양법협약을 기초로 미국의 항행의 자유작전 및 중국의 통항제도 등 양국통항정책을 고찰이 필요한바, 이는 한국의 주요 수출입 통로인 남중국해에서 해양갈등이나 분쟁발생시(특히, 통항 문제) 한국에게 치명적으로 불리한 결과를 초래하여 해양안보는 물론 한국경제에 미치는 부정적 영향 또한 심대할 것으로 예측가능하기 때문이다. 따라서, 본고는 이러한 배경으로 남중국해에서의 미국과 중국의 상반된 통항정책 및 미국의 항행의 자유작전 이행 등으로 인한 갈등이 한국의 해양안보에 미치는 영향을 관련 국제법 및 국가관행 등을 근거로 검토 및 분석함과 동시에 향후의 대응방안 등을 제시하고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "맹자의 철학적 과제는 요순으로부터 공자로 이어져온 유학의 정통(正統)을 수립하는 것이었다. 정통의 순결성은 이단(異端)의 유입을 막고 배척함으로써 지켜낼 수 있다. 그래서 맹자는 제가 학설과의 논쟁과 대결을 치열하게 벌일 수밖에 없었다. 그는 고자(告子)와의 철학적 논쟁을 벌이면서 성선설을 입론하였다. 고자는 성무선무악설을 주장하며 도덕성은 외부로부터 내면화되는 것이라 보았다. 그러나 맹자는 이러한 고자의 관점이 인간의 존재론적 위상을 나락으로 이끈다고 여겼다. 맹자는 양자․묵자의 학설과 사상적 대결을 벌였다. 그는 양자의 개체주의와 묵자의 공동체주의 간의 긴장된 조화와 균형을 주장하면서, 인의(仁義)의 윤리학과 친친(親親)의 원리를 주장하였다. 또한 맹자는 공동체의 구성원은 누구나 농업의 경작과 생산에 참여해야 한다는 허행의 신농(神農)사상과 논쟁하면서 사회적 분업과 역할윤리를 정립하고자 하였다. 그리고 관중의 패도정치에 맞서 인정(仁政)에 토대한 왕도정치의 이상을 실현하고자 하였다. 패도정치가 백성을 위할지라도 그것은 힘에 의한 정치이고 가짜로 인(仁)을 빌린 것에 불과하다. 왕도정치는 ‘차마하지 못하는 마음’을 미루어 ‘차마하지 못하는 정치’를 하는 것이다. 맹자는 이상(以上)이 요순으로부터 공자로 이어져온 유학의 정통사상이라고 여겼다. 이렇게 정립된 유학의 정통은 한당유학의 혼란기를 거쳐 송명시대의 정주학으로 이어지면서 정통유학사상으로 계승되었다고 할 수 있다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "2013년 필리핀은 중국을 상대로 남중국해 남사군도에 있는 일부 해양개체의 법적 권원에 관한 분쟁의 관할권과 이들에 대한 유엔해양법협약의 역할에 대하여 결정하여 줄 것을 국제해양법재판소에 요청하였다. 동 재판소는 이에 대하여 동 협약에 근거하여 남중국해 해양개체의 법적 지위에 관하여 엄격하게 해석을 하였고 그 결과 유엔해양법협약상의 도서만이 배타적 경제수역과 대륙붕을 향유한다고 하였다. 또한 재판소는 간조노출지는 동 협약 제13조에 따라 도서가 아님을 분명히 하였다. 그러나 중국은 이러한 간조노출지 주변해역에서 필리핀의 주장과 중복되는 배타적 경제수역이나 대륙붕에 대한 권원을 갖는다고 주장하였다.\n이러한 점을 고려하여 본고에서는 남사군도에 있는 문제의 해양개체들, 즉 Scarborough Shoal(Reef), Mischief Reef, Second Thomas Shoal, Subi Reef, Gaven Reef, Hughes Reef, Johnson Reef, and Cuarteron Reef 등에 대한 법적 지위를 유엔해양법협약에 기초하여 고찰 한 다음 이 지역에 있는 이러한 해양개체들이 해양경계에 미치는 영향을 검토하고 동시에 관련 국가의 관할권 결정에 해양개체가 미치는 영향을 동 협약 및 관련 사례 등을 기초로 검토 및 분석한다.\n결론적으로 어떠한 국가도 동 협약에서 도서로서 인정되지 아니한 해양개체에 관한 일방적 관할 주장은 허용되지 아니한다. 따라서 본고를 통하여 해양개체 특히 남중국해 남사군도 해양개체의 법적 지위를 분명히 하여 향후 이들을 둘러싼 해양관할권 결정에 있어서의 효과적 해결책이 되기를 희망한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "최근 기업 및 공공기관에서 생성형 AI 기술을 적극적으로 도입하여 업무 자동화와 생산성이향상되는 반면, 민감한 기술 정보 유출 위험도 증가하고 있다. 기존 연구는 개인정보 재식별 위험 측정이나 악성 프롬프트 및 데이터 오염 대응에 주목하고 있어 업무 시 발생하는 중요기술 유출 문제를 실시간으로 대응하기에 한계가 존재한다. 본 연구는 업무용 생성형 AI 모델의 안전한활용을 위해 프롬프트 입력문서 내 중요 기술 정보를 식별하고 비식별처리하는 기술보존 비식별화 기법을 제안한다. 구체적으로, 개체명 인식 기법으로 중요기술용어를 BIO 태깅하고, 퓨샷 기반 거대언어모델을 활용하여 핵심 기술어를 추출한다. 이후 k-익명성 기반 기술보존 비식별화를적용하여, 마스킹·대체어·토큰화와 비교분석한다. 특허 대표청구항을 대상으로 실험한 결과, BIO 태깅을 통한 기술용어 인식 정확도와 비식별화 전후 문서 간 의미론적 유사도가 높게 나타나 원문 기술 정보 보존 효과를 확인하였다. 본 연구는 생성형 AI의 안전한 활용을 위한 실질적방안을 제시함으로써, 기술정보 유출 방지와 업무 품질 유지를 동시에 달성할 수 있는 새로운 패러다임을 제안하여 산업적·학문적 기여를 도모한다. 향후 연구에서는 다양한 산업 도메인에 적용한 프레임워크로 확장하여 범용성을 확보하고자 한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "인터넷이 예술 작업의 도구와 공간으로서 지니는 잠재력이 주목받으면서 디지털 서사에 대한 관심도 높아지고 있다. 이 논문은 하이퍼텍스트 서사인 99인의 최종전차을 분석하여 디지털 서사에 나타나는 서사 구성 원리를 밝히려는 시도이다. 99인은 지하철 긴자센 마지막 열차를 탑승한 103명에 관한 이야기들이다. 완결성이 다르고 장르가 상호 이질적인 이야기들이 아주 낯선 방식으로 한데 어울려 있다. 서사 구성 원리에서 볼 때, 그것은 전통시대 야담집의 개체적 구성 원리나 근대소설의 선형적 구성 원리와 다른 특징을 보인다.99인에서는 지속적인 재초점화가 이루어진다. 모든 인물들은 스스로 초점화자가 되어 다른 인물을 초점화 대상으로 만든다. 초점화자와 초점화대상은 끊임없이 교체된다. 이에 따라 인물들의 관계는 어떤 것도 고정적이지 않고, 인물 간의 결속의 양상은 가변적이다. 인물 간의 결속은 크게 직접적 결속과 간접적 결속으로 나누어진다. 간접적 결속이 바라보기나 관찰하기 등의 약한 결속인데 반해, 직접적 결속은 상호 대화나 감정 교류가 가능한 사이에서 발생하는 강한 결속이다. 강한 결속은 클러스터를 구성하는 토대가 된다. 이야기 클러스터는 직접적 결속이 상호 복잡하게 얽혀진 관계망이다. 99인에서 이야기 클러스터는 서사적 인물의 정체성을 구성하는 역할을 맡는다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "신뢰도란 임의 시스템이 주어진 운용환경 하에서 의도한 기간 동안 의도된 기능을 정상적으로 수행할 확률로 정의된다. 신뢰도-중복 최적화 문제(RROP)는 비용, 무게 등의 제약 내에서 시스템의 신뢰도를 최대화할 수 있는 최적의 부품을 선택하고, 부품수와 중복전략(활성/대기중복)을 결정하는 문제이다. 본 연구에서는 아리랑위성 2호의 다채널광학카메라(MSC) 시스템의 설계 구조를 바탕으로 RROP의 수리모형을 제시하고, NP-hard인 RROP의 해법으로써 병렬 개체군집최적화(PPSO) 알고리즘을 제안하였다. RROP 예제의 수치실험 결과는 계획된 수명기간에서 신뢰도를 최대화하는 시스템의 설계 구조를 제시한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "존재와 무, 생산과 결여로 요약될 만큼 스피노자와 라캉은 욕망에 대한 정반대 관점의 대표자로 알려져 있다. 반면, 스피노자가 라캉에게 최초의 중요한 철학적 준거였다는 사실, 특히 라캉이 “자아 심리학”은 물론 정신의학의 생리학적 환원론에 맞서는 데 으뜸가는 원군이었다는 사실은 거의 알려져 있지 않다. 물론 스피노자 철학은 차츰 준거로서의 역할을 상실하고 결국 『세미나 11』에서 ‘우리’가 감당할 수 없는 이질적 입장으로 자리매김 된다. 둘의 관계가 스피노자 연구자나 라캉 연구자 양쪽 모두에 잘 알려지지 않은 것도 라캉의 후기 입장 때문일 것이다. 본고의 일차적 목표는 스피노자와 라캉의 학설상의 관계를 스피노자의 ‘심신 평행론’에 대한 라캉의 전유(박사학위논문)에서부터 신의 지적 사랑에 대한 그의 거리두기(『세미나 11』)에 이르기까지 추적해보는 것이다. 이 고찰을 통해 우리는 특히 라캉 주체 개념을 발생적 관점에서 조명하는 한편, 스피노자의 ‘형이상학적 심리학’이 지닌 난점에 라캉이 던져주는 유의미한 통찰들을 소개한다. 마지막으로, 본고는 욕망의 향유와 관련한 두 사상을 대조해보면서, 향후 두 사상의 차이를 윤리적 지평에서 보다 본격적으로 고찰하기 위한 초석을 마련한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "오늘날 문명의 발달로 전례 없는 환경이나 생명 관련 문제들이 발생하고 있어 많은 사람들이 그것들에 대해 고민을 하고 있다. 그런데 사실 이 두 문제는 별개의 문제가 아니고 아주 밀접하게 연관되어 있기에 같이 논의되어야 한다. 환경은 생명을 가진 존재들을 둘러싼 것을 지칭하는 말이고 그 환경에 둘러싸인 것이 바로 생명이기 때문이다.\n그런데 생명의 정체를 밝히는 작업은 간단치가 않다. 그럼에도 이런저런 이유들로 사람들은 보통 생명이라는 현상은 그 자체 소중히 여겨야 할 가치를 가지는 것으로 이야기한다. 그러한 가치를 사람들은 흔히 본래적 가치라고 한다. 환경 윤리와 철학에서 논의되는 주요 문제들의 큰 줄기는 바로 여기에서 출발한다. 생명이 가치를 가지고 그래서 소중히 여겨져야 한다면 그것을 유지시키기 위한 조건들로서 그 주위를 둘러싸고 있는 환경의 어떤 것들도 어떻게든 소중한 것으로 여겨져야 하기 때문이다. 그래서 환경 윤리 및 철학적 논의에서 소중히 여겨야 하는 대상의 범위는 인간 생명에서 시작해서 그 생명을 가능케 하는 존재인 다른 생물적 환경이나 무생물적 환경에까지 점점 확장된다. 그리고 이러한 존재들의 위상 및 가치에 대해서 면밀히 검토하는 것이 환경 철학과 윤리의 핵심적인 주제가 된다. 물론 이러한 과정에서 생명의 정의, 생명의 범위 그리고 생명의 가치와 관련한 여러 철학적 문제들이 등장하게 되지만, 무엇보다도 주목해보아야 할 문제 중의 하나는 그러한 것들에 가치를 부여하고 소중히 여기는 데서 발생하는 각 개체생명들 간의 갈등 또는 각각의 개체생명과 전체생명들이라고 할 수 있는 ‘온생명’이나 ‘생태계들’과 같은 전체들 간의 갈등의 문제이다. 여기에서는 이러한 문제들을 몇몇 철학적 논의들을 통해 검토해 볼 것이다. \n그리고 끝으로는 인간의 생존과 지구생존의 위기를 맞고 있는 오늘날 이러한 논의들이 가지는 윤리적 함축 및 그것의 실천가능성에 대해 간략하게 탐색하면서 이러한 문제의 효과적인 해결을 위한 앞으로의 작업방향을 제시한다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "경남 김해의 장미재배지에서 채집한 점박이응애를 실험실에서 5년 동안 acequinocyl로 200회 이상 도태하여 성충에 대해 감수성계통과 비교하여 87.8배의 저항성계통을 얻었다. 점박이응애의 성충과 알에 대해 aceqyinocyl 저항성 계통의 유전과 8종 살비제에 대한 교차저항성 유무를 조사하였다. 감수성계통 수컷과 저항성계통 암컷을 상호교배(S♀×R♂)하여 얻은 F1 알과 성충의 우성도는 각각 0.75 0.57로 불완전열성이었고, R♀×S♂의 교배에서 얻어진 F1 알과 성충의 우성도는 각각 0.81, 0.45로 불완전우성이었다. 이 저항성 점박이응애의 성충은 amitraz, bifenazate에 대해 각각 1.1, 0.9배로 비교차저항성을 나타내었으며, emamectin benzoate에 대해서는 0.08배로 역상관 교차저항성을 나타내었다. 알은 amitraz, milbemectin, spirodiclofen에 각각 37.7, 14.0, 26.2배로 교차저항성을 나타내었고, 특히 pyridaben은 6538.3배로 아주 높은 교차저항성을 나타내었다. 역상관 교차저항성을 나타내는 약제들은 abamectin, bifenazate, emamectin benzoate로서 알에 대해 각각 0.4, 0.3, 0.2배를 나타내었다.색인어 : 점박이응애, 유전, 교차저항성, 살비제",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "이 논문은 『화두』에 제시된 다양한 텍스트들이 독자의 입장에서 다시쓰기 되고있다는 점에 주목하면서 『화두』의 인용 양상을 살펴본 것이다. 이에 앞서 『화두』 에서 ‘화두’로서 강조되는 생물학적 발생 개념을 의식 및 언어에 적용한 ‘의식의발생학’으로서 소설 쓰기로 등치하는 과정에 주목하고, 『화두』에 인용되는 주요 텍스트들을 발생학적 차원, 즉 계통발생 및 개체발생의 반복의 측면에서 분석하였다.\n먼저, 『화두』에서 가장 반복적으로 인용되는 조명희의 「낙동강」의 인용양상을분석하고, 『화두』의 서사 자체가 「낙동강」의 계통발생을 되풀이함으로써 『화두』라는 개체 발생의 과정을 보여주고 있음을 살펴보았다. 그 결과, 이질적인 텍스트가 산만하게 배치된 것으로 보이는 『화두』가 「낙동강」을 통해 ‘이질적인 것들의 종합’을 시도하였고, 이 과정에서 자신만의 방식으로 「낙동강」을 읽고 다시쓰기 하는 독자의 세계를 보여주고 있음을 재구할 수 있었다.\n한편, 『화두』에는 최인훈이 이전에 발표한 텍스트들이 호출⋅인용되고 그에 대한 메타이야기가 서술된다. 이러한 시각에서 『화두』에 가장 중심적으로 인용되는 두 텍스트(「옛날옛적에 훠어이 훠어이」, 「소설가 구보씨의 일일」)를 분석했고, 이 두 텍스트를 인용하고 다시쓰기 하는 과정이 변이된 개체발생(메타모르포시스)의 반복과 다르지 않다는 것을 확인할 수 있었다. 이를 통해 『화두』는 이질적인 텍스트들과 담론들이 화자의 균열된 과거, 현재, 미래의 시간들이 특정한서사적 구조를 통해 통합될 수 있음을 보여주고 있다.\n이 논문은 『화두』의 메타모르포시스의 개념이 30년 전에 발표된 「회색인」에서출발하고 있음에 주목하고, 「회색인」과 『화두』의 간극을 통해 두 소설에서 사용되는 ‘메타모르포시스’의 개념 또한 메타모르포시스(변이)되고 있음을 강조하였다. 서구의 것이 아니라 조상과 ‘한국적인 것’에서 자신의 정체성을 찾게 되는 일련의 과정을 거치면서, 「회색인」에서 실패로 머물렀던 ‘메타모르포시스’의 가능성이 비로소 『화두』에서는 ‘가능한 것’으로 제시되고 있다. 이러한 점에서 두 소설 사이의 시간들에 내재된 변이의 과정들은 보다 면밀하게 논구되어야 할 것이다.",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "가중치의 경우 재화생산(FF1),대기질향상(FF2), 산사태 방지(FF3), 토양침식 방지(FF4), 방풍효과(FF5), 수자원 보호(FF9) 및 휴양과 휴식제공(FF10)은 1.193, 생태계 보전(FF6), 생물종다양성 유지(FF7) 및 서식처 제공(FF8)은0.550으로 나타났다.지표의 순위 비교 결과, 단순 중요도의 경우 생태계 보전(FF6), 생물종다양성 유지(FF7) 및 서식처제공(FF8)이 각 1순위, 2순위, 3순위로 나타났으며, 변환값 A와 B에서는 수자원 보호(FF9), 휴양과휴식제공(FF10) 및 토양침식방지(FF4)가 각 1순위, 2순위, 3순위로 확인되었다. 단순 중요도에서생태계 보전 등을 가중치 적용 순위와 비교해보면,생태계 보전, 생물종다양성 유지 및 서식처 제공은변환값 A에서 8순위, 9순위, 10순위였고 변환값 B에서는 6순위, 7순위, 8순위로 다시 상승하였다.변환값 A와 변환값 B에서 순위 변화를 살펴보면,방풍효과(FF5)와 재화생산(FF1)의 경우 변환값 A에서는 6순위와 7순위였으나 변환값 B에서는 9순위와 10순위로 변하였다. 또한 생태계 보전, 생물종다양성 유지, 서식처 제공은 변환값 A에서는 8~10순위였으나 변환값 B에서는 6~8순위로 2단계 상승한것으로 조사되었다. 이를 세밀하게 살펴보면, 가중치에 있어서 재화생산과 방풍효과의 가중치는1.193, 생태계 보전 등의 가중치는 0.550으로, 재화생산 등이 약 2.17배 높으며, 변환값 A와 B에서 동일하게 작용하기 때문에 가중치 변화는 아닌 단순중요도와 무게중심값의 차이에 의해서 발생된다고할 수 있다. 단순 중요도의 경우 재화생산과 방풍효과는 평균값이 2.500, 2.579이고 생태계 보전, 생물종다양성 유지 및 서식처 제공은 4.684, 4.632 및4.526이다. 그러므로 재화생산은 위의 지표들과 비교할 때 약 1.87배, 1.85배 및 1.81배, 방풍효과는 약1.81배, 1.79배, 1.75배의 차이를 보였다.또한 무게중심값에서는 재화생산이 0.360, 방풍효과가 0.373으로 나타났고 생태계 보전 등은 각각0.912, 0.892 및 0.874로 조사되었다. 즉, 재화생산은 생태계 보전 등의 지표들과 약 2.53배, 2.47배,2.42배, 방풍효과는 약 2.44배, 2.39배, 2.34배의차이를 보이는 것으로 관찰되었다. 단순 중요도에서가중치를 적용할 때 위에서 언급한 바와 같이 재화[(0.87 - 0.51)(0.87 - 0.71)]2402 환경영향평가 제15권 제 6호",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
+    "title": "",
+    "author": "",
+    "journal": "",
+    "year": null,
+    "keywords": [],
+    "theme": "기타",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
+  },
+  {
     "title": "Exploring Simondon’s Philosophy of Invention",
     "author": "이춘식(경인교육대학교)",
     "journal": "실과교육연구",
     "year": 2022,
-    "keywords": [],
-    "theme": "학제간·사회과학",
-    "citations": 0
+    "keywords": [
+      "simondon’s philosophy of invention",
+      "philosophy of technology",
+      "philosophy of invention"
+    ],
+    "theme": "교육학",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "기술적 상상력이란 무엇인가?: 시몽동과 라투르를 중심으로",
+    "title": "기술적 상상력이란 무엇인가? : 시몽동과 라투르를 중심으로",
     "author": "김재희(을지대학교)",
     "journal": "철학연구",
     "year": 2024,
@@ -22,24 +8641,10 @@ window.KCI_DATA = [
       "번역",
       "행위자연결망"
     ],
-    "theme": "철학 계열",
-    "citations": 0
-  },
-  {
-    "title": "기술과 종교의 종합, 가치와 규범의 소통: 시몽동의 메타윤리학",
-    "author": "장태순(한림대학교)",
-    "journal": "근대 철학",
-    "year": 2025,
-    "keywords": [
-      "시몽동",
-      "메타윤리학",
-      "개체화",
-      "변환",
-      "규범",
-      "가치"
-    ],
-    "theme": "철학 계열",
-    "citations": 0
+    "theme": "철학",
+    "citations": 0,
+    "abstract": "",
+    "url": "https://doi.org/10.23908/JSPS.2024.9.146.119"
   },
   {
     "title": "관계맺음 대상으로서 인공지능의 가능성 탐구 -시몽동과 해러웨이의 논의를 중심으로-",
@@ -53,52 +8658,10 @@ window.KCI_DATA = [
       "해러웨이",
       "관계맺음"
     ],
-    "theme": "학제간·사회과학",
-    "citations": 3
-  },
-  {
-    "title": "시몽동 이론의 여성주의적 읽기   : 삶의 초과와 넘쳐흐르는 성",
-    "author": "오정진(부산대학교)",
-    "journal": "여성학논집",
-    "year": 2025,
-    "keywords": [
-      "개체화",
-      "전개체적",
-      "개체초월적",
-      "잠재성",
-      "가능성"
-    ],
-    "theme": "학제간·사회과학",
-    "citations": 0
-  },
-  {
-    "title": "사전돌봄계획에 대한 생명윤리적 논쟁과 시몽동의 개체화 이론",
-    "author": "장태순(한림대학교)",
-    "journal": "생명연구",
-    "year": 2026,
-    "keywords": [
-      "사전돌봄계획",
-      "선행자율성",
-      "개체화",
-      "변환"
-    ],
-    "theme": "철학 계열",
-    "citations": 0
-  },
-  {
-    "title": "시몽동의 개체화론 관점에서 본 메타버스 공간 구축에 관한 연구",
-    "author": "박정아(신안산대학교)",
-    "journal": "한국공간디자인학회 논문집",
-    "year": 2022,
-    "keywords": [
-      "질베르 시몽동",
-      "개체화론",
-      "메타버스 공간",
-      "디지털 스페이스",
-      "기술적 대상"
-    ],
-    "theme": "예술·미디어",
-    "citations": 2
+    "theme": "교육학",
+    "citations": 3,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "종교와 예술의 관계, 비디오 매체의 사례―시몽동, 낭시, 아감벤의 논의를 중심으로",
@@ -114,38 +8677,10 @@ window.KCI_DATA = [
       "비디오아트",
       "빌 비올라"
     ],
-    "theme": "인문학 계열",
-    "citations": 0
-  },
-  {
-    "title": "e스포츠에서의 죽음과 부활: 시몽동의 개체화 이론을 통한 디지털 존재론과 윤리적 함의",
-    "author": "박성은(경성대학교)",
-    "journal": "한국스포츠학회",
-    "year": 2025,
-    "keywords": [
-      "죽음",
-      "시몽동",
-      "개체화",
-      "윤리"
-    ],
-    "theme": "예술·미디어",
-    "citations": 0
-  },
-  {
-    "title": "‘질베르 시몽동(Gilbert Simondon)’ 철학에서 나타난 ‘기술개념’과 ‘필립 파레노(Philippe Parreno)’의 작품을 통한 확장된 조각의 현대화",
-    "author": "김성윤(홍익대학교)",
-    "journal": "한국휴먼이미지디자인",
-    "year": 2025,
-    "keywords": [
-      "기술적 개체",
-      "인공생명",
-      "질베르 시몽동",
-      "가변적 형상",
-      "휴먼이미지",
-      "필립 파레노"
-    ],
-    "theme": "예술·미디어",
-    "citations": 0
+    "theme": "기타인문학",
+    "citations": 0,
+    "abstract": "",
+    "url": "http://dx.doi.org/10.35559/TJOH.60.4"
   },
   {
     "title": "시몽동의 기술철학에서 나타난 인간-기계 짝짓기의 가능성에 관해",
@@ -158,11 +8693,13 @@ window.KCI_DATA = [
       "인간-기계",
       "자기-조절"
     ],
-    "theme": "인문학 계열",
-    "citations": 1
+    "theme": "기타인문학",
+    "citations": 1,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "기술적 삶의 두 가지 형식 - 칼 맑스(K. Marx)와 질베르 시몽동(G. Simondon)의 기술 담론을 중심으로 -",
+    "title": "기술적 삶의 두 가지 형식 : 칼 맑스(K. Marx)와 질베르 시몽동(G. Simondon)의 기술 담론을 중심으로 -",
     "author": "김현(전남대학교 철학연구교육센터)",
     "journal": "철학논총",
     "year": 2024,
@@ -173,11 +8710,13 @@ window.KCI_DATA = [
       "인간-기계 아상블라주",
       "새롭게 생성된 인간"
     ],
-    "theme": "철학 계열",
-    "citations": 0
+    "theme": "철학",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "시몽동의 구체화 이론을 통해 본 인공지능 생성예술: 구체화의 적용 가능성과 한계 탐색",
+    "title": "시몽동의 구체화 이론을 통해 본 인공지능 생성예술 : 구체화의 적용 가능성과 한계 탐색",
     "author": "신종천(상지대학교 문화콘텐츠학과 교수)",
     "journal": "한국과학예술융합학회",
     "year": 2026,
@@ -188,54 +8727,10 @@ window.KCI_DATA = [
       "인공지능 생성예술",
       "인간-인공지능 협업 시스템"
     ],
-    "theme": "학제간·사회과학",
-    "citations": 0
-  },
-  {
-    "title": "인공지능 알고리즘과 가치법칙: 알튀세르, 시몽동을 통해 본 자본의 계산적 생산성",
-    "author": "오윤구(고려대학교)",
-    "journal": "경제와 사회",
-    "year": 2026,
-    "keywords": [
-      "노동가치이론",
-      "인지자본주의",
-      "검색·추천 알고리즘",
-      "구조인과성",
-      "개체화"
-    ],
-    "theme": "학제간·사회과학",
-    "citations": 0
-  },
-  {
-    "title": "시몽동의 개체화 이론에 비추어 본 들뢰즈의 영화철학",
-    "author": "박제철(서울대학교)",
-    "journal": "문학과 영상",
-    "year": 2025,
-    "keywords": [
-      "질 들뢰즈",
-      "질베르 시몽동",
-      "시간-이미지",
-      "개체화",
-      "결정체-이미지",
-      "현대적 정신기호"
-    ],
-    "theme": "예술·미디어",
-    "citations": 0
-  },
-  {
-    "title": "질베르 시몽동의 기술적 개체화의 관점에서 본 미래주의와 신즉물주의 사진 비교 연구",
-    "author": "오홍균(상명대학교 사진영상미디어학과)",
-    "journal": "현대사진영상학회 논문집",
-    "year": 2026,
-    "keywords": [
-      "질베르 시몽동",
-      "개체화",
-      "미래주의 사진",
-      "신즉물주의 사진",
-      "기술 미학"
-    ],
-    "theme": "예술·미디어",
-    "citations": 0
+    "theme": "학제간연구",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "지능 자동화 시대, 탈-노동의 의미와 교양교육의 가치",
@@ -249,11 +8744,13 @@ window.KCI_DATA = [
       "시몽동",
       "스티글러"
     ],
-    "theme": "학제간·사회과학",
-    "citations": 1
+    "theme": "학제간연구",
+    "citations": 1,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "첨단 기술시대의 신학적 과제 - 인간과 기술의 상호협력적 관계에 대한 신학적 상상력과 기술신학 정립",
+    "title": "첨단 기술시대의 신학적 과제 : 인간과 기술의 상호협력적 관계에 대한 신학적 상상력과 기술신학 정립",
     "author": "김은혜(장로회신학대학교)",
     "journal": "기독교사회윤리",
     "year": 2023,
@@ -263,8 +8760,10 @@ window.KCI_DATA = [
       "질베르 시몽동",
       "만물신학"
     ],
-    "theme": "신학·기타",
-    "citations": 2
+    "theme": "기독교신학",
+    "citations": 2,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "2022 개정교육과정에 나타난 디지털 교육 개념에 대한 성찰 : 허욱(Yuk Hui)의 디지털 대상 논의를 중심으로",
@@ -280,45 +8779,13 @@ window.KCI_DATA = [
       "시몽동",
       "하이데거"
     ],
-    "theme": "학제간·사회과학",
-    "citations": 10
+    "theme": "교육학",
+    "citations": 10,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "포스트휴먼 시대의 기술적 소외와 개체초월적 연대 - 천선란의 『천 개의 파랑』을 중심으로 -",
-    "author": "김현정(전남대학교)",
-    "journal": "인문학연구",
-    "year": 2026,
-    "keywords": [
-      "󰡔천 개의 파랑󰡕",
-      "질베르 시몽동",
-      "기술 불평등",
-      "기술적 소외",
-      "개체초월성",
-      "포스트휴먼 시대"
-    ],
-    "theme": "인문학 계열",
-    "citations": 0
-  },
-  {
-    "title": "‘증발 시대’의 예술: 데미안 허스트의 <통화> 프로젝트",
-    "author": "최종철(이화여자대학교)",
-    "journal": "현대미술학 논문집",
-    "year": 2024,
-    "keywords": [
-      "증발",
-      "데미안 허스트",
-      "통화",
-      "데이비드 조슬릿",
-      "포맷",
-      "질베르 시몽동",
-      "허욱",
-      "개체화"
-    ],
-    "theme": "신학·기타",
-    "citations": 0
-  },
-  {
-    "title": "인간-기술 네트워크에 의한 지각 및 기억의 외재화 연구: 피에르 위그의 <제 3의 기억>을 중심으로",
+    "title": "인간-기술 네트워크에 의한 지각 및 기억의 외재화 연구 : 피에르 위그의 : 제 3의 기억을 중심으로",
     "author": "유원준(영남대학교)",
     "journal": "영상문화",
     "year": 2022,
@@ -332,11 +8799,13 @@ window.KCI_DATA = [
       "피에르 위그",
       "제 3의 기억"
     ],
-    "theme": "학제간·사회과학",
-    "citations": 1
+    "theme": "학제간연구",
+    "citations": 1,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "세이머스 히니의 ‘앞선 미래’(future anterior)의 변환의 시학: 결정화와 변환적 재현을 통한 시적 통치와 교정",
+    "title": "세이머스 히니의 ‘앞선 미래’(future anterior)의 변환의 시학 : 결정화와 변환적 재현을 통한 시적 통치와 교정",
     "author": "김영민(동국대학교)",
     "journal": "한국 예이츠 저널",
     "year": 2022,
@@ -348,8 +8817,10 @@ window.KCI_DATA = [
       "결정화",
       "시몽동"
     ],
-    "theme": "인문학 계열",
-    "citations": 2
+    "theme": "영어와문학",
+    "citations": 2,
+    "abstract": "",
+    "url": "http://yeatsjournal.or.kr/index.php?mid=Issue&category=88"
   },
   {
     "title": "기술매체시대 문화콘텐츠의 양상과 연구 방법",
@@ -363,24 +8834,13 @@ window.KCI_DATA = [
       "시몽동",
       "엔지니어"
     ],
-    "theme": "학제간·사회과학",
-    "citations": 0
+    "theme": "학제간연구",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "가상현실 콘텐츠의 기술적 개체화 연구 - VR 실감형 전시콘텐츠 <70mK>를 중심으로",
-    "author": "오세현(숭의여자대학교)",
-    "journal": "트랜스-",
-    "year": 2025,
-    "keywords": [
-      "실감형 전시콘텐츠",
-      "시몽동",
-      "개체화"
-    ],
-    "theme": "예술·미디어",
-    "citations": 0
-  },
-  {
-    "title": "정보라의 단편소설에 나타난 포스트휴먼 인공지능의 관계 맺기: 「안녕, 내 사랑」(2015), 「One More Kiss, Dear」(2016), 「너의 유토피아」(2021)를 중심으로",
+    "title": "정보라의 단편소설에 나타난 포스트휴먼 인공지능의 관계 맺기 : 「안녕, 내 사랑」(2015), 「One More Kiss, Dear」(2016), 「너의 유토피아」(2021)를 중심으로",
     "author": "김윤희(중앙대학교)",
     "journal": "다문화콘텐츠연구",
     "year": 2024,
@@ -394,29 +8854,13 @@ window.KCI_DATA = [
       "기술적 진화",
       "응답-능력"
     ],
-    "theme": "학제간·사회과학",
-    "citations": 2
+    "theme": "기타사회과학일반",
+    "citations": 2,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "질베르 시몽동의 ‘변환(la transduction)’개념으로 본 테오 얀센의 <해변동물(Strandbeest)>에서 진화와 증식 문제 연구",
-    "author": "허창범(중앙대학교)",
-    "journal": "예술과 미디어",
-    "year": 2023,
-    "keywords": [
-      "기술미학",
-      "개체발생론",
-      "변환",
-      "생명체",
-      "진화",
-      "질베르 시몽동",
-      "테오 얀센",
-      "해변동물"
-    ],
-    "theme": "인문학 계열",
-    "citations": 0
-  },
-  {
-    "title": "확장현실(XR)로서 메타버스에 대한 현상학적 이해: 메를로퐁티의 ‘살(chair)의 감각학(esthesiologie)’에 근거해",
+    "title": "확장현실(XR)로서 메타버스에 대한 현상학적 이해 : 메를로퐁티의 ‘살(chair)의 감각학(esthesiologie)’에 근거해",
     "author": "김화자(성균관대학교)",
     "journal": "현상학과 현대철학",
     "year": 2025,
@@ -429,8 +8873,10 @@ window.KCI_DATA = [
       "시몽동",
       "확장현실"
     ],
-    "theme": "철학 계열",
-    "citations": 0
+    "theme": "철학",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "기술철학적 관점에서 본 SF 성장소설과 인간-비인간의 앙상블 -천선란의 『천 개의 파랑』을 중심으로",
@@ -440,32 +8886,19 @@ window.KCI_DATA = [
     "keywords": [
       "천선란",
       "천 개의 파랑",
+      "sf 성장소설",
       "기술철학",
       "시몽동",
       "인간-비인간",
       "앙상블"
     ],
-    "theme": "인문학 계열",
-    "citations": 10
+    "theme": "한국어와문학",
+    "citations": 10,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "질베르 시몽동에서 기술과 정치",
-    "author": "김재희(이화여자대학교)",
-    "journal": "철학연구",
-    "year": 2015,
-    "keywords": [
-      "시몽동",
-      "탈인간중심적 휴머니즘",
-      "기술문화",
-      "발명",
-      "기술자 주체",
-      "개체초월성"
-    ],
-    "theme": "철학 계열",
-    "citations": 5
-  },
-  {
-    "title": "결정과 비결정의 틈새에서 예술 창작하기: 생명게임과 생성적 작법을 이용한 오디오-비주얼 작품 창작에 관한 예비 연구",
+    "title": "결정과 비결정의 틈새에서 예술 창작하기 : 생명게임과 생성적 작법을 이용한 오디오-비주얼 작품 창작에 관한 예비 연구",
     "author": "윤지현(연세대학교)",
     "journal": "미술이론과 현장",
     "year": 2025,
@@ -478,8 +8911,10 @@ window.KCI_DATA = [
       "인간-비인간 공동 창작",
       "질베르 시몽동"
     ],
-    "theme": "예술·미디어",
-    "citations": 0
+    "theme": "미술",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "시몽동의 기술미학",
@@ -493,11 +8928,13 @@ window.KCI_DATA = [
       "사용",
       "모양/바탕"
     ],
-    "theme": "철학 계열",
-    "citations": 1
+    "theme": "철학",
+    "citations": 1,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "시몽동의 정보철학: 사이버네틱스를 넘어서",
+    "title": "시몽동의 정보철학 : 사이버네틱스를 넘어서",
     "author": "김재희(을지대학교)",
     "journal": "철학연구",
     "year": 2020,
@@ -509,131 +8946,13 @@ window.KCI_DATA = [
       "변환역학",
       "시몽동"
     ],
-    "theme": "철학 계열",
-    "citations": 3
+    "theme": "철학",
+    "citations": 3,
+    "abstract": "",
+    "url": "http://dx.doi.org/10.23908/JSPS.2020.9.130.189"
   },
   {
-    "title": "질베르 시몽동에서 기술과 존재",
-    "author": "김재희(성균관대학교)",
-    "journal": "현상학과 현대철학",
-    "year": 2013,
-    "keywords": [
-      "시몽동",
-      "기술적 대상",
-      "발생적 생성",
-      "발명",
-      "개체초월성"
-    ],
-    "theme": "철학 계열",
-    "citations": 20
-  },
-  {
-    "title": "기술과 개체초월성: 시몽동과 스티글레르",
-    "author": "김재희(을지대학교)",
-    "journal": "범한철학",
-    "year": 2018,
-    "keywords": [
-      "시몽동",
-      "스티글레르",
-      "기술",
-      "개체초월성",
-      "관개체화"
-    ],
-    "theme": "철학 계열",
-    "citations": 10
-  },
-  {
-    "title": "한국 SF영화에 나타난 인공지능 기술 재현양상 고찰",
-    "author": "강백선(전남대학교 문화전문대학원 미디어콘텐츠·컬처테크전공)",
-    "journal": "2024 International Design Exhibition & Conference Invited to Srinakharinwirot University, Thailand",
-    "year": 2024,
-    "keywords": [
-      "인간-기계",
-      "개체화",
-      "질베르시몽동"
-    ],
-    "theme": "예술·미디어",
-    "citations": 0
-  },
-  {
-    "title": "시몽동의 기술철학, 인간과학의정초를 위한 시도",
-    "author": "황수영(홍익대학교)",
-    "journal": "철학연구",
-    "year": 2019,
-    "keywords": [
-      "인간과학",
-      "개체초월성",
-      "인간적 에너지학",
-      "발생학",
-      "기술공학"
-    ],
-    "theme": "철학 계열",
-    "citations": 2
-  },
-  {
-    "title": "개체화 이론을 통한 놋다리밟기의 전승 과정 연구",
-    "author": "김용남(안동대학교)",
-    "journal": "지역과문화",
-    "year": 2024,
-    "keywords": [
-      "개체화",
-      "놋다리밟기",
-      "무형유산",
-      "전승",
-      "질베르 시몽동"
-    ],
-    "theme": "학제간·사회과학",
-    "citations": 0
-  },
-  {
-    "title": "시몽동의 개체화 이론 -프랑스 생성철학의 맥락에서-",
-    "author": "황수영(서울대학교)",
-    "journal": "동서철학연구",
-    "year": 2009,
-    "keywords": [
-      "개체",
-      "개체화",
-      "준안정성",
-      "전개체적 상태",
-      "잠재에너지",
-      "생명",
-      "정보/형태부여"
-    ],
-    "theme": "철학 계열",
-    "citations": 16
-  },
-  {
-    "title": "기술적 대상과 디지털 밀리유의 정치경제학: 질베르 시몽동과 기술문화연구의 접합",
-    "author": "박성우(우송대학교)",
-    "journal": "문화와 정치",
-    "year": 2016,
-    "keywords": [
-      "시몽동",
-      "디지털 밀리유",
-      "개체화",
-      "적응",
-      "기술문화연구"
-    ],
-    "theme": "학제간·사회과학",
-    "citations": 7
-  },
-  {
-    "title": "시몽동의 철학에서 개체초월성의 두 의미",
-    "author": "황수영(홍익대학교)",
-    "journal": "철학",
-    "year": 2018,
-    "keywords": [
-      "이질적 다양체",
-      "개체성",
-      "정념감동성",
-      "개체초월성",
-      "집단적인 것"
-    ],
-    "theme": "철학 계열",
-    "citations": 5
-  },
-  {
-    "title": "발명 개념에 대한 철학적 탐구: 베르그손과 시몽동의 기술철학을 중심으로",
+    "title": "발명 개념에 대한 철학적 탐구 : 베르그손과 시몽동의 기술철학을 중심으로",
     "author": "김재희(이화여자대학교)",
     "journal": "철학연구",
     "year": 2016,
@@ -643,49 +8962,10 @@ window.KCI_DATA = [
       "발명",
       "기술"
     ],
-    "theme": "철학 계열",
-    "citations": 8
-  },
-  {
-    "title": "들뢰즈와 시몽동‒변조, 지층, 환경‒",
-    "author": "이찬웅(이화여자대학교)",
-    "journal": "철학",
-    "year": 2017,
-    "keywords": [
-      "개체화",
-      "결정화",
-      "변환",
-      "표현",
-      "옐름슬레우"
-    ],
-    "theme": "철학 계열",
-    "citations": 6
-  },
-  {
-    "title": "환상과 부재, 소외의 도시 ― 쉬저천(徐則臣)의 <아, 베이징(啊, 北京)>을 중심으로 ―",
-    "author": "신민준(고려대학교 중일어문학과;고려대학교 4단계 BK21 중일교육연구단)",
-    "journal": "중국어문학",
-    "year": 2024,
-    "keywords": [
-      "<아"
-    ],
-    "theme": "인문학 계열",
-    "citations": 1
-  },
-  {
-    "title": "AI 이미지 생성 콘텐츠를 통해 본 인간-기술의 개체화 의미 고찰: 실감형 전시콘텐츠 <A.I. 김홍도 : 붓선 ver.1.0> 중심으로",
-    "author": "오세현(성균관대학교 트랜스미디어연구소)",
-    "journal": "트랜스-",
-    "year": 2026,
-    "keywords": [
-      "질베르 시몽동",
-      "개체화",
-      "공동 개체화",
-      "변환",
-      "실감형 전시 콘텐츠"
-    ],
-    "theme": "예술·미디어",
-    "citations": 0
+    "theme": "철학",
+    "citations": 8,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "시몽동의 생성의 존재론에서 물질과 생명의 연속성과 불연속성",
@@ -699,41 +8979,31 @@ window.KCI_DATA = [
       "특이성",
       "창발성"
     ],
-    "theme": "철학 계열",
-    "citations": 8
+    "theme": "철학",
+    "citations": 8,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "21세기 전환기 한국 재난영화의 디지털 VFX와 기술미학: <용가리>(1999), <싸이렌>(2000), <리베라 메>(2000), <튜브>(2003)를 중심으로",
+    "title": "21세기 전환기 한국 재난영화의 디지털 VFX와 기술미학 : : 용가리(1999), : 싸이렌(2000), : 리베라 메(2000), : 튜브(2003)를 중심으로",
     "author": "남기웅(국립부경대학교 융합미디어빅데이터연구소)",
     "journal": "아시아영화연구",
     "year": 2025,
     "keywords": [
       "한국 재난영화",
+      "디지털 vfx",
       "기술미학",
       "질베르 시몽동",
       "디지털 스펙터클",
       "메타적 자의식"
     ],
-    "theme": "예술·미디어",
-    "citations": 0
+    "theme": "영화",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "질베르 시몽동(G.Simondon)의 기술철학에 근거한 디자인 사고(思考)의 방향성에 대한 연구",
-    "author": "최성운(대진대학교)",
-    "journal": "상품문화디자인학연구",
-    "year": 2019,
-    "keywords": [
-      "기술철학",
-      "개체화",
-      "이완법칙",
-      "새로운 휴머니즘",
-      "기술문화"
-    ],
-    "theme": "예술·미디어",
-    "citations": 2
-  },
-  {
-    "title": "결정(結晶)의 시간, 크로노스(Cronos)의 시간: 들뢰즈 후기 시간론 연구",
+    "title": "결정(結晶)의 시간, 크로노스(Cronos)의 시간 : 들뢰즈 후기 시간론 연구",
     "author": "변예은(서울시립대학교)",
     "journal": "현상학과 현대철학",
     "year": 2025,
@@ -744,30 +9014,13 @@ window.KCI_DATA = [
       "자기-촉발",
       "내감의 역설"
     ],
-    "theme": "철학 계열",
-    "citations": 0
+    "theme": "철학",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "디지털 아트의 상호작용적 ‘관계’에 대한 탐색 －시몽동의 개체화와 기술에 대한 사유를 중심으로－",
-    "author": "김화자(명지대학교)",
-    "journal": "현상학과 현대철학",
-    "year": 2013,
-    "keywords": [
-      "시몽동",
-      "디지털 아트",
-      "정보",
-      "상호작용적 관계",
-      "교환역학",
-      "관(貫)개체적인 것",
-      "애스콧",
-      "텔레노이아",
-      "집단"
-    ],
-    "theme": "철학 계열",
-    "citations": 6
-  },
-  {
-    "title": "시몽동의 기술철학에서 규범성의 문제: 생명적 규범성과 사회적 규범성 사이에서",
+    "title": "시몽동의 기술철학에서 규범성의 문제 : 생명적 규범성과 사회적 규범성 사이에서",
     "author": "황수영(홍익대학교)",
     "journal": "근대 철학",
     "year": 2021,
@@ -778,23 +9031,10 @@ window.KCI_DATA = [
       "개별화",
       "발명적 사유"
     ],
-    "theme": "철학 계열",
-    "citations": 1
-  },
-  {
-    "title": "질베르 시몽동(Gilbert Simondon)의 개체화 이론에 근거한 디자인 개발의 본질과 원리에 대한 연구",
-    "author": "최성운(대진대학교)",
-    "journal": "상품문화디자인학연구",
-    "year": 2019,
-    "keywords": [
-      "개체",
-      "개체화",
-      "구체화",
-      "발명(발생)",
-      "결정화"
-    ],
-    "theme": "예술·미디어",
-    "citations": 2
+    "theme": "철학",
+    "citations": 1,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "포스트휴먼 담론의 사유와 미학적-윤리적 역량 연구 : 시몽동과 들뢰즈, 과타리의 인간-기계 사유를 중심으로",
@@ -808,8 +9048,10 @@ window.KCI_DATA = [
       "과타리(가타리)",
       "기계"
     ],
-    "theme": "학제간·사회과학",
-    "citations": 14
+    "theme": "신문방송학",
+    "citations": 14,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "알고리즘 영상문화의 파르마콘적 양가성에 관한 신경정신분석적 고찰",
@@ -823,36 +9065,27 @@ window.KCI_DATA = [
       "인공지능",
       "기술철학"
     ],
-    "theme": "인문학 계열",
-    "citations": 0
+    "theme": "기타인문학",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "미디어 존재론 - 시몽동의 ‘개체화’를 통해 본 매클루언의 미디어론",
-    "author": "김상호(경북대학교)",
-    "journal": "언론과 사회",
-    "year": 2016,
-    "keywords": [
-      "시몽동",
-      "매클루언",
-      "개체",
-      "미디어",
-      "존재론"
-    ],
-    "theme": "학제간·사회과학",
-    "citations": 8
-  },
-  {
-    "title": "AI 심신론의 기술교육적 시사점: 니시카와와 시몽동의 논의를 중심으로",
+    "title": "AI 심신론의 기술교육적 시사점 : 니시카와와 시몽동의 논의를 중심으로",
     "author": "최승현(고려대학교)",
     "journal": "교육철학연구",
     "year": 2014,
     "keywords": [
+      "ai",
+      "baii",
       "심신문제",
       "기술교육",
       "교육적 의사소통"
     ],
-    "theme": "학제간·사회과학",
-    "citations": 1
+    "theme": "교육학",
+    "citations": 1,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "질베르 시몽동의 기술미학",
@@ -866,34 +9099,21 @@ window.KCI_DATA = [
       "아름다움",
       "기술적 대상"
     ],
-    "theme": "예술·미디어",
-    "citations": 8
+    "theme": "기타예술체육",
+    "citations": 8,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "시몽동의 관계의 존재론에서 정신적, 집단적 개체화: 미술교육에의 새로운 접근을 위한 시도",
-    "author": "황수영(홍익대학교)",
-    "journal": "미술과 교육",
-    "year": 2017,
-    "keywords": [
-      "개체화",
-      "생성",
-      "존재",
-      "관계",
-      "정념성",
-      "개체초월성",
-      "미술교육"
-    ],
-    "theme": "예술·미디어",
-    "citations": 8
-  },
-  {
-    "title": "【서 평】『베르그손, 생성으로 생명을 사유하기 - 깡길렘, 시몽동, 들뢰즈와의 대화』",
+    "title": "【서 평】『베르그손, 생성으로 생명을 사유하기 : 깡길렘, 시몽동, 들뢰즈와의 대화』",
     "author": "여인석(연세대학교)",
     "journal": "의철학연구",
     "year": 2014,
     "keywords": [],
-    "theme": "철학 계열",
-    "citations": 0
+    "theme": "기타철학일반",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "수행적 걷기 활동으로서 보행환경에 대한 기술미학적 고찰",
@@ -907,22 +9127,10 @@ window.KCI_DATA = [
       "상호감응",
       "기술미학"
     ],
-    "theme": "예술·미디어",
-    "citations": 0
-  },
-  {
-    "title": "불멸과 디지털 불멸: 인간과 미디어의 관계를 중심으로",
-    "author": "김연숙(숭실대학교)",
-    "journal": "콘텐츠와산업",
-    "year": 2025,
-    "keywords": [
-      "상징적 불멸",
-      "인스턴트 불멸",
-      "미디어 효과",
-      "개체화"
-    ],
-    "theme": "학제간·사회과학",
-    "citations": 0
+    "theme": "실내환경디자인",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "질베르 시몽동의 기술철학에 나타난 ‘기술성(technicité)’의 의미 －현대 정보기술문화 이해를 위한 소고－",
@@ -939,13 +9147,15 @@ window.KCI_DATA = [
       "모양-바탕",
       "형상-질료",
       "자기-조절",
-      "앙상블."
+      "앙상블"
     ],
-    "theme": "철학 계열",
-    "citations": 9
+    "theme": "철학",
+    "citations": 9,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "버지니아 울프 소설에 구현된 기술미학과 환경미학: 『파도』와 『올랜도",
+    "title": "버지니아 울프 소설에 구현된 기술미학과 환경미학 : 『파도』와 『올랜도",
     "author": "박신현(건국대학교)",
     "journal": "외국문학연구",
     "year": 2020,
@@ -957,42 +9167,13 @@ window.KCI_DATA = [
       "『파도』",
       "『올랜도』"
     ],
-    "theme": "인문학 계열",
-    "citations": 1
+    "theme": "문학",
+    "citations": 1,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "디지털 이미지의 존재론적 성격",
-    "author": "박성수(한국해양대학교)",
-    "journal": "영상예술연구",
-    "year": 2005,
-    "keywords": [
-      "디지털 이미지",
-      "디지털의 존재론적 층위",
-      "시몽동",
-      "기술적 요소",
-      "기술적 개체",
-      "기술적 총체"
-    ],
-    "theme": "예술·미디어",
-    "citations": 2
-  },
-  {
-    "title": "포스트휴먼 사회를 사유하기 위한 하나의 청사진: 질베르 시몽동의 기술－정치학",
-    "author": "김재희(이화여자대학교)",
-    "journal": "범한철학",
-    "year": 2014,
-    "keywords": [
-      "시몽동",
-      "포스트휴먼",
-      "기술",
-      "노동",
-      "개체초월성"
-    ],
-    "theme": "철학 계열",
-    "citations": 19
-  },
-  {
-    "title": "현대시에 수용된 포스트휴먼기술 담론과 비주체의 윤리- 2010년대 이후 시를 중심으로",
+    "title": "현대시에 수용된 포스트휴먼기술 담론과 비주체의 윤리 : 2010년대 이후 시를 중심으로",
     "author": "김순아(국립부경대학교)",
     "journal": "한국문학이론과 비평",
     "year": 2024,
@@ -1006,8 +9187,10 @@ window.KCI_DATA = [
       "비주체",
       "윤리"
     ],
-    "theme": "인문학 계열",
-    "citations": 1
+    "theme": "한국어와문학",
+    "citations": 1,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "4차 산업혁명의 O2O 플랫폼으로서 AR －인터액션의 현장으로서 AR의 존재론적 특성－",
@@ -1020,13 +9203,16 @@ window.KCI_DATA = [
       "시몽동",
       "엑토피아",
       "증강현실",
-      "4차 산업혁명"
+      "4차 산업혁명",
+      "o2o"
     ],
-    "theme": "인문학 계열",
-    "citations": 0
+    "theme": "기타인문학",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "기술매체에 의한 이시적 시간성에 대한 비평적 연구: 아피찻퐁 위라세타쿤을 중심으로",
+    "title": "기술매체에 의한 이시적 시간성에 대한 비평적 연구 : 아피찻퐁 위라세타쿤을 중심으로",
     "author": "김수정(홍익대학교)",
     "journal": "현대미술사연구",
     "year": 2020,
@@ -1037,11 +9223,13 @@ window.KCI_DATA = [
       "베르나르 스티글러",
       "질베르 시몽동"
     ],
-    "theme": "예술·미디어",
-    "citations": 0
+    "theme": "미술사",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "‘상호적응형 자동화’모델로서 인간행위-공유플랫폼의 융화 - 컬쳐팩토리로서 팹랩",
+    "title": "‘상호적응형 자동화’모델로서 인간행위-공유플랫폼의 융화 : 컬쳐팩토리로서 팹랩",
     "author": "김화자(성균관대학교 하이브리드미래문화연구소)",
     "journal": "현상학과 현대철학",
     "year": 2018,
@@ -1055,32 +9243,13 @@ window.KCI_DATA = [
       "컬쳐팩토리",
       "팹랩"
     ],
-    "theme": "철학 계열",
-    "citations": 1
+    "theme": "철학",
+    "citations": 1,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "기술적 대상(l'objet technique)의 존재 : 디지털 이미지의 존재론을 위한 예비적 고찰",
-    "author": "김화자(명지대학교)",
-    "journal": "미학예술학연구",
-    "year": 2010,
-    "keywords": [
-      "기술적 대상",
-      "개체화",
-      "대자연",
-      "뒤프렌",
-      "메를로-퐁티",
-      "변환",
-      "살",
-      "상호작용",
-      "시몽동",
-      "전개체적인 것",
-      "초개체적인 것"
-    ],
-    "theme": "예술·미디어",
-    "citations": 8
-  },
-  {
-    "title": "[특집: 테크놀로지와 주거의 인문학] 현대건축과 소통의 인터페이스 -디지털스킨과 감각적⋅미적 ‘살’ 공동체-",
+    "title": "[특집 : 테크놀로지와 주거의 인문학] 현대건축과 소통의 인터페이스 -디지털스킨과 감각적⋅미적 ‘살’ 공동체-",
     "author": "김화자(명지대학교)",
     "journal": "인문과학",
     "year": 2015,
@@ -1094,24 +9263,10 @@ window.KCI_DATA = [
       "시몽동",
       "앙지외"
     ],
-    "theme": "인문학 계열",
-    "citations": 2
-  },
-  {
-    "title": "대규모 인터뷰 작업이 생성하는 집단적 관계성의 의미 -미디어전시예술 <70mK>를 중심으로",
-    "author": "오세현(성균관대학교)",
-    "journal": "트랜스-",
-    "year": 2019,
-    "keywords": [
-      "인터뷰",
-      "개체화",
-      "전개체적인 실재",
-      "퍼텐셜",
-      "관개체성",
-      "시몽동"
-    ],
-    "theme": "예술·미디어",
-    "citations": 0
+    "theme": "기타인문학",
+    "citations": 2,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "사물인터넷과 메를로퐁티의 ‘상호세계’",
@@ -1127,8 +9282,10 @@ window.KCI_DATA = [
       "상호세계",
       "행위자네트워크이론"
     ],
-    "theme": "철학 계열",
-    "citations": 13
+    "theme": "철학",
+    "citations": 13,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "우리는 어떻게 포스트휴먼 주체가될 수 있는가?",
@@ -1143,8 +9300,10 @@ window.KCI_DATA = [
       "헤일스",
       "시몽동"
     ],
-    "theme": "철학 계열",
-    "citations": 55
+    "theme": "철학",
+    "citations": 55,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "상호작용 공간 모달리티의 건축기호적 특징",
@@ -1158,8 +9317,10 @@ window.KCI_DATA = [
       "건축기호",
       "시몽동"
     ],
-    "theme": "예술·미디어",
-    "citations": 4
+    "theme": "디자인",
+    "citations": 4,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "공진화를 위한 기술화된 몸이론의 가능성",
@@ -1176,29 +9337,13 @@ window.KCI_DATA = [
       "시몽동",
       "기술화된 몸"
     ],
-    "theme": "인문학 계열",
-    "citations": 4
+    "theme": "기타인문학",
+    "citations": 4,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "물질과 생성: 질베르 시몽동의 개체화론을 중심으로",
-    "author": "김재희(성균관대학교)",
-    "journal": "철학연구",
-    "year": 2011,
-    "keywords": [
-      "생성",
-      "개체화",
-      "준안정성",
-      "퍼텐셜 에너지",
-      "불일치",
-      "관계",
-      "정보",
-      "변환"
-    ],
-    "theme": "철학 계열",
-    "citations": 19
-  },
-  {
-    "title": "하이데거의 기술철학에 대한 비판적 고찰 - STS와 ANT의 관점에서",
+    "title": "하이데거의 기술철학에 대한 비판적 고찰 : STS와 ANT의 관점에서",
     "author": "안미현(목포대학교)",
     "journal": "독일언어문학",
     "year": 2020,
@@ -1209,8 +9354,10 @@ window.KCI_DATA = [
       "라투르",
       "위너"
     ],
-    "theme": "인문학 계열",
-    "citations": 2
+    "theme": "독일어와문학",
+    "citations": 2,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "인간과 비인간 존재는 어떻게 만나는가?",
@@ -1224,8 +9371,10 @@ window.KCI_DATA = [
       "기술",
       "인공지능"
     ],
-    "theme": "철학 계열",
-    "citations": 8
+    "theme": "철학",
+    "citations": 8,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "포스트휴먼 테크놀로지",
@@ -1247,8 +9396,10 @@ window.KCI_DATA = [
       "효돌",
       "리얼돌"
     ],
-    "theme": "인문학 계열",
-    "citations": 17
+    "theme": "기타인문학",
+    "citations": 17,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "기술교육에 관한 기술철학적 고찰",
@@ -1262,11 +9413,13 @@ window.KCI_DATA = [
       "하이데거",
       "시몽동"
     ],
-    "theme": "학제간·사회과학",
-    "citations": 1
+    "theme": "교육학",
+    "citations": 1,
+    "abstract": "",
+    "url": "http://dx.doi.org/10.24062/kpae.2021.34.4.121"
   },
   {
-    "title": "인간과 자연, 그리고 기술의 상호창조를 위한 시론 - 관계론적 관점에서 본 유기농테마파크 비전과 전략 -",
+    "title": "인간과 자연, 그리고 기술의 상호창조를 위한 시론 : 관계론적 관점에서 본 유기농테마파크 비전과 전략 -",
     "author": "심승구(한국체육대학교)",
     "journal": "인문콘텐츠",
     "year": 2013,
@@ -1282,26 +9435,13 @@ window.KCI_DATA = [
       "질베르 시몽동",
       "생태모방기술"
     ],
-    "theme": "인문학 계열",
-    "citations": 1
+    "theme": "기타인문학",
+    "citations": 1,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "질베르 시몽동의 ‘개체화 이론’으로 바라본 현대건축에서의 형태생성 특성 연구",
-    "author": "강두원(홍익대학교 대학원 건축공학과)",
-    "journal": "한국실내디자인학회 논문집",
-    "year": 2021,
-    "keywords": [
-      "질베르 시몽동",
-      "개체화",
-      "정보·형태화",
-      "형태생성",
-      "상호작용"
-    ],
-    "theme": "예술·미디어",
-    "citations": 2
-  },
-  {
-    "title": "<그녀>에 나타난 인간과 기계의 공진화",
+    "title": ": 그녀에 나타난 인간과 기계의 공진화",
     "author": "주기화(건국대학교)",
     "journal": "영미문학교육",
     "year": 2015,
@@ -1309,13 +9449,16 @@ window.KCI_DATA = [
       "<그녀>",
       "인간-기계 공진화",
       "포스트휴먼",
-      "질베르 시몽동"
+      "질베르 시몽동",
+      "행위자-연결망이론(ant)"
     ],
-    "theme": "인문학 계열",
-    "citations": 0
+    "theme": "영어와문학",
+    "citations": 0,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "자연-인간-기술, 혼성적 예술 주체성에 관한 연구 - 기술적 대상의 자기-조직화를 중심으로",
+    "title": "자연-인간-기술, 혼성적 예술 주체성에 관한 연구 : 기술적 대상의 자기-조직화를 중심으로",
     "author": "유원준(홍익대학교)",
     "journal": "문화와융합",
     "year": 2018,
@@ -1326,11 +9469,13 @@ window.KCI_DATA = [
       "포스트휴머니즘",
       "기술의 지능화"
     ],
-    "theme": "학제간·사회과학",
-    "citations": 3
+    "theme": "학제간연구",
+    "citations": 3,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "영화 <파란만장>에 나타난 욕망과 포스트시네마적인 특성에 대하여",
+    "title": "영화 : 파란만장에 나타난 욕망과 포스트시네마적인 특성에 대하여",
     "author": "손성우(부산대학교 영화연구소)",
     "journal": "한국엔터테인먼트산업학회논문지",
     "year": 2019,
@@ -1341,8 +9486,10 @@ window.KCI_DATA = [
       "라캉 정신분석학",
       "매개와 상호작용"
     ],
-    "theme": "학제간·사회과학",
-    "citations": 2
+    "theme": "학제간연구",
+    "citations": 2,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "호모 몬스터쿠스：메리 셸리의 『프랑켄슈타인』의 괴물",
@@ -1354,11 +9501,14 @@ window.KCI_DATA = [
       "호모 몬스터쿠스",
       "괴물-되기",
       "포스트휴먼",
+      "행위자 연결망이론(ant)",
       "브루노 라투르",
       "미셸 칼롱"
     ],
-    "theme": "인문학 계열",
-    "citations": 4
+    "theme": "기타인문학",
+    "citations": 4,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "버추얼 유튜버의 주체화 연구",
@@ -1373,8 +9523,10 @@ window.KCI_DATA = [
       "인간-기계 네트워크",
       "주체화"
     ],
-    "theme": "인문학 계열",
-    "citations": 16
+    "theme": "기타인문학",
+    "citations": 16,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "첨단기술발달시대에 인간과 자연의 관계 변화와 기독교교육의 패러다임 전환",
@@ -1383,12 +9535,15 @@ window.KCI_DATA = [
     "year": 2021,
     "keywords": [
       "첨단기술사회",
+      "공산(sympoiesis)의 실뜨기",
       "어린이다움",
       "탈성장",
       "해러웨이"
     ],
-    "theme": "신학·기타",
-    "citations": 4
+    "theme": "기독교신학",
+    "citations": 4,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "러브크래프트와 철학 : 반우주로서 생명",
@@ -1411,11 +9566,13 @@ window.KCI_DATA = [
       "사변적 실재론",
       "벌거벗은 생명주의"
     ],
-    "theme": "철학 계열",
-    "citations": 3
+    "theme": "철학",
+    "citations": 3,
+    "abstract": "",
+    "url": ""
   },
   {
-    "title": "초 연결 사회에서 기술에 대한 새로운 접근 - 연결에서 관계형성으로",
+    "title": "초 연결 사회에서 기술에 대한 새로운 접근 : 연결에서 관계형성으로",
     "author": "심지원(인제대학교 인간환경미래연구원)",
     "journal": "감성연구",
     "year": 2017,
@@ -1426,8 +9583,10 @@ window.KCI_DATA = [
       "연결",
       "관계"
     ],
-    "theme": "인문학 계열",
-    "citations": 3
+    "theme": "기타인문학",
+    "citations": 3,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "혁명기 예술의 과제 : 1920년대 초반 러시아아방가르드의 사례를 중심으로",
@@ -1439,10 +9598,12 @@ window.KCI_DATA = [
       "구성주의",
       "지각적 밀레니엄주의",
       "사물화와 인격화",
-      "대상성과 주체성."
+      "대상성과 주체성"
     ],
-    "theme": "철학 계열",
-    "citations": 2
+    "theme": "철학",
+    "citations": 2,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "들뢰즈의 표현적 유물론",
@@ -1456,8 +9617,10 @@ window.KCI_DATA = [
       "강도",
       "비유기적 생명"
     ],
-    "theme": "철학 계열",
-    "citations": 10
+    "theme": "철학",
+    "citations": 10,
+    "abstract": "",
+    "url": "http://philinst.snu.ac.kr/thought/45/05. 김재희df"
   },
   {
     "title": "생태공동체 모델 구축을 위한 인간, 자연, 기술 개념 연구",
@@ -1471,71 +9634,10 @@ window.KCI_DATA = [
       "인공지능",
       "생태적 장"
     ],
-    "theme": "철학 계열",
-    "citations": 8
-  },
-  {
-    "title": "들뢰즈의 기관없는 신체와 개체성의 문제 - 헤겔의 유기체와 개별자에 대한 들뢰즈의 비판 -",
-    "author": "연효숙(연세대학교)",
-    "journal": "헤겔연구",
-    "year": 2013,
-    "keywords": [
-      "개별자",
-      "개체화",
-      "유기체",
-      "기관없는 신체",
-      "횡단적 개체성"
-    ],
-    "theme": "철학 계열",
-    "citations": 11
-  },
-  {
-    "title": "이음체의 관점에 기초한 민족과 민족주의의 한국적 재구성",
-    "author": "이용승(대구대학교)",
-    "journal": "국제정치연구",
-    "year": 2021,
-    "keywords": [
-      "민족",
-      "민족주의",
-      "이음체",
-      "개체화",
-      "통합"
-    ],
-    "theme": "학제간·사회과학",
-    "citations": 0
-  },
-  {
-    "title": "인간과 디지털 존재의 관계: 관계의 물질성, 비소유성, 개체초월성",
-    "author": "박선희(조선대학교)",
-    "journal": "한국언론정보학보",
-    "year": 2017,
-    "keywords": [
-      "디지털 존재",
-      "인공지능",
-      "포스트휴머니즘",
-      "관계적 실재",
-      "육화",
-      "비소유성",
-      "개체초월성",
-      "영화 <그녀>"
-    ],
-    "theme": "학제간·사회과학",
-    "citations": 13
-  },
-  {
-    "title": "들뢰즈에게 있어서 개체화의 문제에 관한 연구 - 둔스 스코투스의 <이것임>과 관련한 맥락에서",
-    "author": "신지영(경상대학교)",
-    "journal": "대동철학",
-    "year": 2016,
-    "keywords": [
-      "개체화",
-      "이것임",
-      "형상적 구별",
-      "사건",
-      "강도."
-    ],
-    "theme": "철학 계열",
-    "citations": 8
+    "theme": "철학",
+    "citations": 8,
+    "abstract": "",
+    "url": ""
   },
   {
     "title": "베르그손의 『창조적 진화』 다시 읽기 ― 들뢰즈의 해석을 중심으로 ―",
@@ -1550,38 +9652,9 @@ window.KCI_DATA = [
       "강도",
       "개체화"
     ],
-    "theme": "철학 계열",
-    "citations": 3
-  },
-  {
-    "title": "들뢰즈에서 생명의 잠재성에 대한 형이상학적 의미",
-    "author": "연효숙(중앙대학교)",
-    "journal": "가톨릭철학",
-    "year": 2011,
-    "keywords": [
-      "생명",
-      "잠재성",
-      "다양체",
-      "발생",
-      "분화",
-      "개체성"
-    ],
-    "theme": "철학 계열",
-    "citations": 9
-  },
-  {
-    "title": "개체화론으로 바라본 영화의 패러디 - <레디 플레이어 원> 속 <샤이닝> -",
-    "author": "박광택(건국대학교)",
-    "journal": "글로벌문화콘텐츠",
-    "year": 2019,
-    "keywords": [
-      "패러디",
-      "초맥락화",
-      "개체화론",
-      "<레디 플레이어 원>",
-      "<샤이닝>"
-    ],
-    "theme": "인문학 계열",
-    "citations": 1
+    "theme": "철학",
+    "citations": 3,
+    "abstract": "",
+    "url": ""
   }
 ];

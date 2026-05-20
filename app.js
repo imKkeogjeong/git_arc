@@ -25,10 +25,27 @@ document.addEventListener('DOMContentLoaded', () => {
         
         const palette = [color1, color2, color3, color4, color5];
 
+        // Global D3 Tooltip Helpers attached to window
+        window.showTooltip = (event, htmlContent) => {
+            const tooltip = d3.select("#global-tooltip");
+            tooltip.html(htmlContent)
+                .style("left", (event.pageX + 15) + "px")
+                .style("top", (event.pageY - 28) + "px")
+                .style("opacity", 1)
+                .style("transform", "translateY(0)");
+        };
+        window.hideTooltip = () => {
+            d3.select("#global-tooltip").style("opacity", 0).style("transform", "translateY(5px)");
+        };
+        window.moveTooltip = (event) => {
+            d3.select("#global-tooltip")
+                .style("left", (event.pageX + 15) + "px")
+                .style("top", (event.pageY - 28) + "px");
+        };
+
         renderTimeline(data, color3);
-        renderLandscape(data, palette);
-        renderKeywords(data, color1, color4);
-        renderImpactTable(data);
+        renderKeywords(data, palette);
+        renderImpactMilestones(data, palette);
         
         // Advanced Modules
         renderCoOccurrenceNetwork(data, palette);
@@ -93,136 +110,128 @@ function renderTimeline(data, mainColor) {
     });
 }
 
-// 2. Disciplinary Landscape (Doughnut Chart)
-function renderLandscape(data, palette) {
-    const countsByTheme = {};
+// 2. Keyword Network (Theme-Keyword D3 Force Graph)
+function renderKeywords(data, palette) {
+    const container = d3.select("#keywordContainer");
+    const width = container.node().getBoundingClientRect().width || 600;
+    const height = 400;
+
+    const nodesMap = new Map();
+    const linksMap = new Map();
+
+    // Collect Themes and Keywords
     data.forEach(d => {
         const theme = d.theme || '기타';
-        countsByTheme[theme] = (countsByTheme[theme] || 0) + 1;
-    });
-
-    const themes = Object.keys(countsByTheme).sort((a,b) => countsByTheme[b] - countsByTheme[a]);
-    const counts = themes.map(t => countsByTheme[t]);
-
-    const ctx = document.getElementById('landscapeChart').getContext('2d');
-    new Chart(ctx, {
-        type: 'doughnut',
-        data: {
-            labels: themes,
-            datasets: [{
-                data: counts,
-                backgroundColor: palette.slice(0, themes.length),
-                borderColor: '#0f0f14',
-                borderWidth: 4,
-                hoverOffset: 8
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            cutout: '75%',
-            plugins: {
-                legend: {
-                    position: 'right',
-                    labels: {
-                        color: '#fafafa',
-                        font: { family: "'Outfit', sans-serif", size: 13 },
-                        usePointStyle: true,
-                        pointStyle: 'circle',
-                        padding: 20
-                    }
-                }
-            }
+        if (!nodesMap.has(theme)) {
+            nodesMap.set(theme, { id: theme, type: 'theme', value: 0 });
         }
-    });
-}
+        nodesMap.get(theme).value += 1;
 
-// 3. Keyword Network (Bubble Chart)
-function renderKeywords(data, colorLight, colorDark) {
-    const kwCounts = {};
-    data.forEach(d => {
         if (d.keywords && Array.isArray(d.keywords)) {
             d.keywords.forEach(k => {
                 const keyword = k.trim();
-                // Skip weird keywords like "<아" which originated from KCI formatting
-                if(keyword && !keyword.startsWith("<")) {
-                    kwCounts[keyword] = (kwCounts[keyword] || 0) + 1;
+                if (keyword && !keyword.startsWith("<")) {
+                    if (!nodesMap.has(keyword)) {
+                        nodesMap.set(keyword, { id: keyword, type: 'keyword', value: 0 });
+                    }
+                    nodesMap.get(keyword).value += 1;
+
+                    const linkKey = `${theme}::${keyword}`;
+                    if (!linksMap.has(linkKey)) {
+                        linksMap.set(linkKey, { source: theme, target: keyword, value: 0 });
+                    }
+                    linksMap.get(linkKey).value += 1;
                 }
             });
         }
     });
 
-    const sortedKws = Object.entries(kwCounts)
-        .filter(entry => entry[1] > 1)
-        .sort((a, b) => b[1] - a[1])
-        .slice(0, 25);
+    // Filter top links to show meaningful hierarchy
+    const links = Array.from(linksMap.values()).filter(l => l.value > 1).sort((a,b) => b.value - a.value).slice(0, 120);
+    const validNodes = new Set();
+    links.forEach(l => { validNodes.add(l.source); validNodes.add(l.target); });
+    const nodes = Array.from(nodesMap.values()).filter(n => validNodes.has(n.id));
 
-    const bubbleData = sortedKws.map((entry, index) => {
-        const freq = entry[1];
-        return {
-            x: index + 1, // 순위
-            y: freq,      // 출현 빈도
-            r: Math.max(8, freq * 3), // 크기 조정
-            keyword: entry[0]
-        };
+    container.html("");
+    const svg = container.append("svg").attr("viewBox", [0, 0, width, height]);
+    const g = svg.append("g");
+    svg.call(d3.zoom().scaleExtent([0.5, 4]).on("zoom", (e) => g.attr("transform", e.transform)));
+
+    const simulation = d3.forceSimulation(nodes)
+        .force("link", d3.forceLink(links).id(d => d.id).distance(80))
+        .force("charge", d3.forceManyBody().strength(d => d.type === 'theme' ? -400 : -100))
+        .force("center", d3.forceCenter(width / 2, height / 2))
+        .force("collide", d3.forceCollide().radius(d => d.type === 'theme' ? 25 : 10));
+
+    const link = g.append("g").selectAll("line").data(links).join("line")
+        .attr("class", "link")
+        .attr("stroke", "rgba(255,255,255,0.1)")
+        .attr("stroke-width", d => Math.max(1, Math.sqrt(d.value)));
+
+    // Build adjacency list for hover effects
+    const adjMap = new Map();
+    nodes.forEach(n => adjMap.set(n.id, new Set()));
+    links.forEach(l => {
+        adjMap.get(l.source.id || l.source).add(l.target.id || l.target);
+        adjMap.get(l.target.id || l.target).add(l.source.id || l.source);
     });
 
-    const ctx = document.getElementById('keywordChart').getContext('2d');
-    new Chart(ctx, {
-        type: 'bubble',
-        data: {
-            datasets: [{
-                label: 'Keywords',
-                data: bubbleData,
-                backgroundColor: 'rgba(56, 189, 248, 0.6)',
-                borderColor: '#38bdf8',
-                borderWidth: 2,
-                hoverBackgroundColor: '#c084fc',
-                hoverBorderColor: '#fff',
-                hoverBorderWidth: 3
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: {
-                legend: { display: false },
-                tooltip: {
-                    callbacks: {
-                        title: (items) => {
-                            return items[0].raw.keyword;
-                        },
-                        label: (item) => {
-                            return `빈도: ${item.raw.y}회 (순위: ${item.raw.x}위)`;
-                        }
-                    }
-                }
-            },
-            scales: {
-                x: {
-                    title: { display: true, text: '키워드 빈도 순위 (Rank)', color: '#52525b' },
-                    grid: { display: false },
-                    ticks: {
-                        stepSize: 1,
-                        callback: function(value) { return value + '위'; }
-                    }
-                },
-                y: {
-                    title: { display: true, text: '출현 빈도 (Frequency)', color: '#52525b' },
-                    beginAtZero: true,
-                    grid: { drawBorder: false },
-                    ticks: {
-                        stepSize: 1,
-                        precision: 0
-                    }
-                }
-            }
-        }
+    const node = g.append("g").selectAll("circle").data(nodes).join("circle")
+        .attr("class", "node")
+        .attr("r", d => d.type === 'theme' ? Math.max(12, Math.sqrt(d.value)*1.5) : Math.max(4, Math.sqrt(d.value)*1.5))
+        .attr("fill", d => d.type === 'theme' ? palette[2] : palette[0])
+        .attr("stroke", "rgba(0,0,0,0.5)")
+        .attr("stroke-width", 2)
+        .call(drag(simulation))
+        .on("mouseover", (event, d) => {
+            // Tooltip
+            const content = `
+                <h4>${d.id}</h4>
+                <div class="tt-meta">유형: <span style="color:#fff">${d.type === 'theme' ? 'Theme (주제)' : 'Keyword (키워드)'}</span></div>
+                <div class="tt-meta">등장 빈도: <span class="tt-highlight">${d.value}</span>회</div>
+                <div class="tt-meta">연결된 노드: <span style="color:#fff">${adjMap.get(d.id).size}</span>개</div>
+            `;
+            window.showTooltip(event, content);
+
+            // Hover Fade
+            node.style("opacity", o => (o.id === d.id || adjMap.get(d.id).has(o.id)) ? 1 : 0.1);
+            link.style("opacity", o => (o.source.id === d.id || o.target.id === d.id) ? 1 : 0.05);
+            label.style("opacity", o => (o.id === d.id || adjMap.get(d.id).has(o.id)) ? 1 : 0.1);
+        })
+        .on("mousemove", window.moveTooltip)
+        .on("mouseout", () => {
+            window.hideTooltip();
+            node.style("opacity", 1);
+            link.style("opacity", 1);
+            label.style("opacity", 1);
+        });
+
+    const label = g.append("g").selectAll("text").data(nodes.filter(n => n.type === 'theme' || n.value > 5)).join("text")
+
+        .attr("class", "label")
+        .attr("dx", d => (d.type === 'theme' ? Math.max(12, Math.sqrt(d.value)*1.5) : Math.max(4, Math.sqrt(d.value)*1.5)) + 4)
+        .attr("dy", 4)
+        .text(d => d.id)
+        .style("fill", d => d.type === 'theme' ? "#fff" : "#a1a1aa")
+        .style("font-size", d => d.type === 'theme' ? "14px" : "11px")
+        .style("font-weight", d => d.type === 'theme' ? "bold" : "normal");
+
+    simulation.on("tick", () => {
+        link.attr("x1", d => d.source.x).attr("y1", d => d.source.y).attr("x2", d => d.target.x).attr("y2", d => d.target.y);
+        node.attr("cx", d => d.x).attr("cy", d => d.y);
+        label.attr("x", d => d.x).attr("y", d => d.y);
     });
+
+    function drag(simulation) {
+        return d3.drag()
+            .on("start", e => { if (!e.active) simulation.alphaTarget(0.3).restart(); e.subject.fx = e.subject.x; e.subject.fy = e.subject.y; })
+            .on("drag", e => { e.subject.fx = e.x; e.subject.fy = e.y; })
+            .on("end", e => { if (!e.active) simulation.alphaTarget(0); e.subject.fx = null; e.subject.fy = null; });
+    }
 }
 
-// 4. Impact Milestones (Data Table)
-function renderImpactTable(data) {
+// 3. Impact Milestones (Bipartite Network: Top Papers -> Keywords)
+function renderImpactMilestones(data, palette) {
     const sorted = [...data].sort((a, b) => {
         if (b.citations === a.citations) {
             return (b.year || 0) - (a.year || 0);
@@ -230,38 +239,154 @@ function renderImpactTable(data) {
         return b.citations - a.citations;
     });
 
-    const top10 = sorted.slice(0, 10);
-    const tbody = document.querySelector('#impactTable tbody');
-
-    const htmlString = top10.map(d => `
-        <tr>
-            <td class="td-year">${d.year ? d.year : '-'}</td>
-            <td class="td-title" title="${d.title ? d.title.replace(/"/g, '&quot;') : ''}">${d.title}</td>
-            <td class="td-author">${d.author || '-'}</td>
-            <td>${d.journal || '-'}</td>
-            <td class="td-citations">${d.citations}</td>
-        </tr>
-    `).join('');
+    const topPapers = sorted.slice(0, 15);
     
-    tbody.innerHTML = htmlString;
+    const container = d3.select("#impactContainer");
+    const width = container.node().getBoundingClientRect().width || 800;
+    const height = 500;
+
+    const nodesMap = new Map();
+    const links = [];
+
+    topPapers.forEach(p => {
+        const pId = "p_" + p.title;
+        nodesMap.set(pId, { id: pId, label: p.title.substring(0, 20) + (p.title.length>20?"...":""), type: 'paper', citations: p.citations, full: p });
+        
+        if (p.keywords && Array.isArray(p.keywords)) {
+            p.keywords.forEach(k => {
+                const keyword = k.trim();
+                if (keyword && !keyword.startsWith("<")) {
+                    const kId = "k_" + keyword;
+                    if (!nodesMap.has(kId)) {
+                        nodesMap.set(kId, { id: kId, label: keyword, type: 'keyword', value: 1 });
+                    } else {
+                        nodesMap.get(kId).value += 1;
+                    }
+                    links.push({ source: pId, target: kId, value: p.citations });
+                }
+            });
+        }
+    });
+
+    const nodes = Array.from(nodesMap.values());
+
+    container.html("");
+    
+    // Abstract panel
+    const panelHtml = `
+        <div class="abstract-panel" id="impactAbstractPanel">
+            <div class="close-btn" onclick="document.getElementById('impactAbstractPanel').classList.remove('active')">✕</div>
+            <h3 id="panelTitle"></h3>
+            <div class="meta" id="panelMeta"></div>
+            <p id="panelContent"></p>
+            <div style="margin-top:10px;" id="panelLink"></div>
+        </div>
+    `;
+    container.node().insertAdjacentHTML('beforeend', panelHtml);
+
+    const svg = container.append("svg").attr("viewBox", [0, 0, width, height]);
+    const g = svg.append("g");
+    svg.call(d3.zoom().scaleExtent([0.5, 3]).on("zoom", (e) => g.attr("transform", e.transform)));
+
+    const simulation = d3.forceSimulation(nodes)
+        .force("link", d3.forceLink(links).id(d => d.id).distance(100))
+        .force("charge", d3.forceManyBody().strength(d => d.type === 'paper' ? -600 : -150))
+        .force("center", d3.forceCenter(width / 2, height / 2))
+        .force("x", d3.forceX(width / 2).strength(0.05))
+        .force("y", d3.forceY(height / 2).strength(0.05));
+
+    const link = g.append("g").selectAll("line").data(links).join("line")
+        .attr("class", "link")
+        .attr("stroke", palette[3])
+        .attr("stroke-opacity", 0.3)
+        .attr("stroke-width", d => Math.max(1, Math.sqrt(d.value) * 0.5));
+
+    const adjMap = new Map();
+    nodes.forEach(n => adjMap.set(n.id, new Set()));
+    links.forEach(l => {
+        adjMap.get(l.source.id || l.source).add(l.target.id || l.target);
+        adjMap.get(l.target.id || l.target).add(l.source.id || l.source);
+    });
+
+    const node = g.append("g").selectAll("circle").data(nodes).join("circle")
+        .attr("class", "node")
+        .attr("r", d => d.type === 'paper' ? Math.max(12, Math.sqrt(d.citations)*2) : Math.max(5, d.value*2))
+        .attr("fill", d => d.type === 'paper' ? palette[4] : palette[1])
+        .attr("stroke", d => d.type === 'paper' ? "#fff" : "none")
+        .attr("stroke-width", 2)
+        .call(drag(simulation))
+        .on("mouseover", (event, d) => {
+            const content = d.type === 'paper' ? `
+                <h4>${d.label}</h4>
+                <div class="tt-meta">유형: <span style="color:#fff">Paper (논문)</span></div>
+                <div class="tt-meta">피인용: <span class="tt-highlight">${d.citations}</span>회</div>
+                <div class="tt-meta">파생 키워드: <span style="color:#fff">${adjMap.get(d.id).size}</span>개</div>
+                <div class="tt-meta" style="margin-top:5px; color:${palette[1]}">클릭하여 초록 보기</div>
+            ` : `
+                <h4>${d.label}</h4>
+                <div class="tt-meta">유형: <span style="color:#fff">Keyword (키워드)</span></div>
+                <div class="tt-meta">관련 고인용 논문: <span style="color:#fff">${adjMap.get(d.id).size}</span>편</div>
+            `;
+            window.showTooltip(event, content);
+
+            node.style("opacity", o => (o.id === d.id || adjMap.get(d.id).has(o.id)) ? 1 : 0.1);
+            link.style("opacity", o => (o.source.id === d.id || o.target.id === d.id) ? 1 : 0.05);
+            label.style("opacity", o => (o.id === d.id || adjMap.get(d.id).has(o.id)) ? 1 : 0.1);
+        })
+        .on("mousemove", window.moveTooltip)
+        .on("mouseout", () => {
+            window.hideTooltip();
+            node.style("opacity", 1);
+            link.style("opacity", 1);
+            label.style("opacity", 1);
+        })
+        .on("click", (event, d) => {
+            if (d.type === 'paper') {
+                const panel = document.getElementById('impactAbstractPanel');
+                document.getElementById('panelTitle').innerText = d.full.title;
+                document.getElementById('panelMeta').innerText = `${d.full.author} | ${d.full.journal} | ${d.full.year} | 인용수: ${d.full.citations}`;
+                document.getElementById('panelContent').innerText = d.full.abstract ? d.full.abstract : "초록 정보가 없습니다.";
+                document.getElementById('panelLink').innerHTML = d.full.url ? `<a href="${d.full.url}" target="_blank" class="kci-link">KCI 원문 바로가기 ↗</a>` : '';
+                panel.classList.add('active');
+            }
+        });
+
+    const label = g.append("g").selectAll("text").data(nodes).join("text")
+        .attr("class", "label")
+        .attr("dx", d => (d.type === 'paper' ? Math.max(12, Math.sqrt(d.citations)*2) : Math.max(5, d.value*2)) + 5)
+        .attr("dy", 4)
+        .text(d => d.label)
+        .style("fill", d => d.type === 'paper' ? "#fff" : "#a1a1aa")
+        .style("font-weight", d => d.type === 'paper' ? "bold" : "normal");
+
+    simulation.on("tick", () => {
+        link.attr("x1", d => d.source.x).attr("y1", d => d.source.y).attr("x2", d => d.target.x).attr("y2", d => d.target.y);
+        node.attr("cx", d => d.x).attr("cy", d => d.y);
+        label.attr("x", d => d.x).attr("y", d => d.y);
+    });
+
+    function drag(simulation) {
+        return d3.drag()
+            .on("start", e => { if (!e.active) simulation.alphaTarget(0.3).restart(); e.subject.fx = e.subject.x; e.subject.fy = e.subject.y; })
+            .on("drag", e => { e.subject.fx = e.x; e.subject.fy = e.y; })
+            .on("end", e => { if (!e.active) simulation.alphaTarget(0); e.subject.fx = null; e.subject.fy = null; });
+    }
 }
 
 // 5. Co-occurrence Network (D3 Force Directed Graph)
 function renderCoOccurrenceNetwork(data, palette) {
     const container = d3.select("#networkContainer");
-    const width = container.node().getBoundingClientRect().width;
-    const height = 400;
+    const width = container.node().getBoundingClientRect().width || 800;
+    const height = 600;
 
-    const linksMap = new Map();
     const nodes = {};
+    const linksMap = new Map();
 
-    // Generate co-occurrence links (O(N) with Map)
     data.forEach(d => {
         if (d.keywords && d.keywords.length > 1) {
             const kws = d.keywords.filter(k => k.trim() && !k.trim().startsWith("<"));
             for (let i = 0; i < kws.length; i++) {
                 for (let j = i + 1; j < kws.length; j++) {
-                    // Sort to ensure undirected key is consistent
                     const [source, target] = kws[i] < kws[j] ? [kws[i], kws[j]] : [kws[j], kws[i]];
                     const key = `${source}::${target}`;
                     if (linksMap.has(key)) {
@@ -275,20 +400,15 @@ function renderCoOccurrenceNetwork(data, palette) {
     });
 
     const links = Array.from(linksMap.values());
-
-    // Filter top links to avoid clutter
-    const topLinks = links.sort((a,b) => b.value - a.value).slice(0, 80);
+    const topLinks = links.sort((a,b) => b.value - a.value).slice(0, 100);
     
-    // Adjacency list for fast neighbor lookups
     const adjList = {};
-
     topLinks.forEach(l => {
         if (!nodes[l.source]) nodes[l.source] = { id: l.source, degree: 0, group: l.source };
         if (!nodes[l.target]) nodes[l.target] = { id: l.target, degree: 0, group: l.target };
         nodes[l.source].degree += l.value;
         nodes[l.target].degree += l.value;
         
-        // Build adjacency list
         if (!adjList[l.source]) adjList[l.source] = [];
         if (!adjList[l.target]) adjList[l.target] = [];
         adjList[l.source].push(l.target);
@@ -297,13 +417,11 @@ function renderCoOccurrenceNetwork(data, palette) {
 
     const nodeArray = Object.values(nodes);
 
-    // Optimized Basic Community Detection (Label Propagation)
-    for (let i = 0; i < 5; i++) { // 5 iterations for convergence
+    for (let i = 0; i < 5; i++) {
         nodeArray.forEach(n => {
             const neighborIds = adjList[n.id] || [];
             if (neighborIds.length > 0) {
                 const neighborGroups = neighborIds.map(neighborId => nodes[neighborId].group);
-                // Pick most frequent group among neighbors
                 const counts = {};
                 neighborGroups.forEach(g => counts[g] = (counts[g] || 0) + 1);
                 n.group = Object.keys(counts).reduce((a, b) => counts[a] > counts[b] ? a : b);
@@ -311,78 +429,99 @@ function renderCoOccurrenceNetwork(data, palette) {
         });
     }
 
+    container.html("");
     const svg = container.append("svg").attr("viewBox", [0, 0, width, height]);
+    const g = svg.append("g");
+    svg.call(d3.zoom().scaleExtent([0.5, 4]).on("zoom", (e) => g.attr("transform", e.transform)));
 
-    // Color scale for Communities (Modularity)
-    const communityColorScale = d3.scaleOrdinal(d3.schemeTableau10);
+    const uniqueGroups = [...new Set(nodeArray.map(n => n.group))].sort((a,b) => b.length - a.length).slice(0, 7);
+    const symbols = [d3.symbolCircle, d3.symbolSquare, d3.symbolTriangle, d3.symbolDiamond, d3.symbolStar, d3.symbolCross, d3.symbolWye];
+    
+    const colorScale = d3.scaleOrdinal(d3.schemeTableau10).domain(uniqueGroups);
+    const shapeScale = d3.scaleOrdinal().domain(uniqueGroups).range(symbols);
 
-    // Color scale for "Hot/Cold" links
-    const linkColorScale = d3.scaleSequential(d3.interpolateInferno) 
-        .domain([0, d3.max(topLinks, d => d.value)]);
+    // Legend
+    const legend = container.append("div").attr("class", "network-legend");
+    uniqueGroups.forEach(grp => {
+        const item = legend.append("div").attr("class", "legend-item");
+        const svgIcon = item.append("svg").attr("width", 20).attr("height", 20).attr("class", "legend-icon");
+        svgIcon.append("path")
+            .attr("d", d3.symbol().type(shapeScale(grp)).size(60)())
+            .attr("transform", "translate(10,10)")
+            .attr("fill", colorScale(grp));
+        item.append("span").text(grp);
+    });
+
+    const minVal = d3.min(topLinks, d => d.value);
+    const maxVal = d3.max(topLinks, d => d.value);
+    const thicknessScale = d3.scalePow().exponent(2).domain([minVal, maxVal]).range([1, 15]);
 
     const simulation = d3.forceSimulation(nodeArray)
-        .force("link", d3.forceLink(topLinks).id(d => d.id).distance(80))
-        .force("charge", d3.forceManyBody().strength(-200))
+        .force("link", d3.forceLink(topLinks).id(d => d.id).distance(120))
+        .force("charge", d3.forceManyBody().strength(-300))
         .force("center", d3.forceCenter(width / 2, height / 2));
 
-    const link = svg.append("g")
-        .selectAll("line")
-        .data(topLinks)
-        .join("line")
+    const link = g.append("g").selectAll("line").data(topLinks).join("line")
         .attr("class", "link")
-        .attr("stroke", d => linkColorScale(d.value))
-        .attr("stroke-opacity", 0.4) // Reduced opacity for clarity
-        .attr("stroke-width", d => Math.sqrt(d.value) * 1.5 + 0.5);
+        .attr("stroke", "rgba(255,255,255,0.4)")
+        .attr("stroke-width", d => thicknessScale(d.value));
 
-    const node = svg.append("g")
-        .selectAll("circle")
-        .data(nodeArray)
-        .join("circle")
+    const node = g.append("g").selectAll("path").data(nodeArray).join("path")
         .attr("class", "node")
-        .attr("r", d => Math.sqrt(d.degree) * 2 + 4) // Degree-based sizing
-        .attr("fill", d => communityColorScale(d.group))
-        .call(drag(simulation));
+        .attr("d", d => {
+            const size = (Math.sqrt(d.degree) * 2 + 5) ** 2 * 3.14;
+            // Default to circle if group not in top 7
+            const type = uniqueGroups.includes(d.group) ? shapeScale(d.group) : d3.symbolCircle;
+            return d3.symbol().type(type).size(size)();
+        })
+        .attr("fill", d => uniqueGroups.includes(d.group) ? colorScale(d.group) : "#555")
+        .attr("stroke", "rgba(0,0,0,0.5)")
+        .attr("stroke-width", 2)
+        .call(drag(simulation))
+        .on("mouseover", (event, d) => {
+            const groupText = d.group || "기타";
+            const content = `
+                <h4>${d.id}</h4>
+                <div class="tt-meta">소속 군집: <span style="color:${uniqueGroups.includes(d.group) ? colorScale(d.group) : '#aaa'}">${groupText}</span></div>
+                <div class="tt-meta">연결 강도: <span class="tt-highlight">${d.degree}</span></div>
+                <div class="tt-meta">동시 출현 노드: <span style="color:#fff">${adjList[d.id] ? adjList[d.id].length : 0}</span>개</div>
+            `;
+            window.showTooltip(event, content);
 
-    node.append("title").text(d => d.id);
+            const neighbors = new Set(adjList[d.id] || []);
+            node.style("opacity", o => (o.id === d.id || neighbors.has(o.id)) ? 1 : 0.1);
+            link.style("opacity", o => (o.source.id === d.id || o.target.id === d.id) ? 0.8 : 0.05);
+            label.style("opacity", o => (o.id === d.id || neighbors.has(o.id)) ? 1 : 0.1);
+        })
+        .on("mousemove", window.moveTooltip)
+        .on("mouseout", () => {
+            window.hideTooltip();
+            node.style("opacity", 1);
+            link.style("opacity", 0.8); 
+            label.style("opacity", 1);
+        });
 
-    const label = svg.append("g")
-        .selectAll("text")
-        .data(nodeArray.filter(d => d.degree > 2)) // Only show labels for core nodes
-        .join("text")
+    // Remove the old basic title tooltip
+    // node.append("title").text(d => `${d.id} (Group: ${d.group})`);
+
+    const label = g.append("g").selectAll("text").data(nodeArray.filter(d => d.degree > 2)).join("text")
         .attr("class", "label")
-        .attr("dx", 10)
-        .attr("dy", ".35em")
-        .text(d => d.id);
+        .attr("dx", d => Math.sqrt(d.degree) * 2 + 10)
+        .attr("dy", 4)
+        .text(d => d.id)
+        .style("fill", "#fafafa");
 
     simulation.on("tick", () => {
-        link.attr("x1", d => d.source.x)
-            .attr("y1", d => d.source.y)
-            .attr("x2", d => d.target.x)
-            .attr("y2", d => d.target.y);
-
-        node.attr("cx", d => d.x)
-            .attr("cy", d => d.y);
-
-        label.attr("x", d => d.x)
-             .attr("y", d => d.y);
+        link.attr("x1", d => d.source.x).attr("y1", d => d.source.y).attr("x2", d => d.target.x).attr("y2", d => d.target.y);
+        node.attr("transform", d => `translate(${d.x},${d.y})`);
+        label.attr("x", d => d.x).attr("y", d => d.y);
     });
 
     function drag(simulation) {
-        function started(event) {
-            if (!event.active) simulation.alphaTarget(0.3).restart();
-            event.subject.fx = event.subject.x;
-            event.subject.fy = event.subject.y;
-        }
-        function dragged(event) {
-            event.subject.fx = event.x;
-            event.subject.fy = event.y;
-        }
-        function ended(event) {
-            if (!event.active) simulation.alphaTarget(0);
-            event.subject.fx = null;
-            event.subject.fy = null;
-        }
-        return d3.drag().on("start", started).on("drag", dragged).on("end", ended);
+        return d3.drag()
+            .on("start", e => { if (!e.active) simulation.alphaTarget(0.3).restart(); e.subject.fx = e.subject.x; e.subject.fy = e.subject.y; })
+            .on("drag", e => { e.subject.fx = e.x; e.subject.fy = e.y; })
+            .on("end", e => { if (!e.active) simulation.alphaTarget(0); e.subject.fx = null; e.subject.fy = null; });
     }
 }
 

@@ -85,17 +85,21 @@ def get_top_institution(inst):
     return inst.strip()
 
 def process_files(input_dir, output_file):
-    all_files = glob.glob(os.path.join(input_dir, "*.xls*"))
+    all_files = glob.glob(os.path.join(input_dir, "*.*"))
     if not all_files:
-        print(f"No Excel files found in {input_dir}")
+        print(f"No files found in {input_dir}")
         return
         
     dfs = []
     for f in all_files:
+        if not (f.endswith('.xls') or f.endswith('.xlsx') or f.endswith('.csv')):
+            continue
         print(f"Reading {f}...")
         try:
-            # KCI 엑셀 파일은 실제로는 HTML이나 오래된 xlrd 포맷일 수 있음
-            df = pd.read_excel(f, engine='xlrd' if f.endswith('.xls') else 'openpyxl')
+            if f.endswith('.csv'):
+                df = pd.read_csv(f, encoding='utf-8-sig')
+            else:
+                df = pd.read_excel(f, engine='xlrd' if f.endswith('.xls') else 'openpyxl')
         except Exception as e:
             print(f"Failed to read {f}: {e}")
             continue
@@ -110,15 +114,17 @@ def process_files(input_dir, output_file):
     
     print(f"Total rows before dedup: {len(merged_df)}")
     
-    # 논문ID를 기준으로 중복 제거 시도
-    id_cols = [c for c in merged_df.columns if 'ID' in str(c).upper() or '논문번호' in str(c)]
+    # 통합 ID 컬럼 생성
+    id_cols = [c for c in merged_df.columns if 'ID' in str(c).upper() or '논문번호' in str(c) or '고유번호' in str(c)]
     if id_cols:
-        merged_df = merged_df.drop_duplicates(subset=[id_cols[0]], keep='first')
+        merged_df['_unified_id'] = merged_df[id_cols].bfill(axis=1).iloc[:, 0]
+        merged_df = merged_df.drop_duplicates(subset=['_unified_id'], keep='first')
     else:
-        # ID 컬럼이 없으면 제목으로 중복 제거 시도
+        # 통합 제목 컬럼 생성
         title_cols = [c for c in merged_df.columns if '명' in str(c) or '제목' in str(c)]
         if title_cols:
-            merged_df = merged_df.drop_duplicates(subset=[title_cols[0]], keep='first')
+            merged_df['_unified_title'] = merged_df[title_cols].bfill(axis=1).iloc[:, 0]
+            merged_df = merged_df.drop_duplicates(subset=['_unified_title'], keep='first')
             
     print(f"Total rows after dedup: {len(merged_df)}")
     
@@ -130,22 +136,24 @@ def process_files(input_dir, output_file):
                 if c in row.index: return row[c]
             return None
             
-        article_id = get_val(['논문ID', 'ID', 'ID'])
-        title = get_val(['논문명', '제목', ''])
-        title_en = get_val(['논문 외국어명', '외국어 논문명'])
-        authors_raw = get_val(['저자', '']) # '' was seen in debug_xls for some fields, better fallback later
+        article_id = get_val(['논문ID', 'ID', '논문고유번호'])
+        title = get_val(['논문명', '제목', '논문제목', ''])
+        title_en = get_val(['논문 외국어명', '외국어 논문명', '논문제목(영문)'])
+        authors_raw = get_val(['저자', '저자명', ''])
         coauthors_raw = get_val(['공동저자'])
         journal = get_val(['학술지 명', '학술지명'])
         publisher = get_val(['발행기관 명', '발행기관명'])
-        pub_year = get_val(['발행년', '출판년도'])
-        vol_issue = get_val(['권(호)'])
+        pub_year = get_val(['발행년', '출판년도', '발행년도'])
+        vol_issue = get_val(['권(호)', '권호'])
         pages = get_val(['페이지'])
-        kw_ko = get_val(['키워드(한국어)', 'Ű(ѱ)'])
+        kw_ko = get_val(['키워드(한국어)', 'Ű(ѱ)', '키워드'])
         kw_en = get_val(['키워드(외국어)', 'Ű(ܱ)'])
-        subject = get_val(['주제분야', 'м '])
+        subject = get_val(['주제분야', 'м ', '주제어'])
         citations = get_val(['피인용횟수', 'οȽ'])
         url = get_val(['URL'])
         doi = get_val(['DOI'])
+        abstract_ko = get_val(['초록(원문)'])
+        abstract_en = get_val(['초록(영문)'])
         
         # 1. 논문명 정제
         title_clean = clean_title(title)
@@ -190,13 +198,44 @@ def process_files(input_dir, output_file):
             "subject": clean_empty(subject),
             "citations": citations,
             "url": clean_empty(url),
-            "doi": clean_empty(doi)
+            "doi": clean_empty(doi),
+            "abstract_ko": clean_empty(abstract_ko),
+            "abstract_en": clean_empty(abstract_en)
         })
         
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(processed_data, f, ensure_ascii=False, indent=2)
         
     print(f"Processed data saved to {output_file}")
+    
+    # Generate data.js for dashboard
+    dashboard_data = []
+    for d in processed_data:
+        author_name = ""
+        if d['authors'] and len(d['authors']) > 0:
+            first_author = d['authors'][0]
+            author_name = first_author['name']
+            if first_author['institution']:
+                author_name += f"({first_author['institution']})"
+                
+        dashboard_data.append({
+            "title": d['title'] or "",
+            "author": author_name,
+            "journal": d['journal'] or "",
+            "year": d['pub_year'],
+            "keywords": d['keywords_ko'] or [],
+            "theme": d['subject'] or "기타",
+            "citations": d['citations'] or 0,
+            "abstract": d['abstract_ko'] or "",
+            "url": d['url'] or ""
+        })
+        
+    with open('data.js', 'w', encoding='utf-8') as f:
+        f.write("window.KCI_DATA = ")
+        json.dump(dashboard_data, f, ensure_ascii=False, indent=2)
+        f.write(";\n")
+        
+    print("Dashboard data saved to data.js")
 
 if __name__ == "__main__":
     process_files("raw_data", "kci_metadata_processed.json")
