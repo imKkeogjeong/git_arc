@@ -133,7 +133,8 @@ def process_files(input_dir, output_file):
     for idx, row in merged_df.iterrows():
         def get_val(col_names):
             for c in col_names:
-                if c in row.index: return row[c]
+                if c in row.index and not pd.isna(row[c]) and str(row[c]).strip() != "":
+                    return row[c]
             return None
             
         article_id = get_val(['논문ID', 'ID', '논문고유번호'])

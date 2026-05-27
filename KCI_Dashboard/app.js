@@ -5,32 +5,21 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         const data = window.KCI_DATA;
 
-        // Common Chart Defaults for Premium Aesthetic
-        Chart.defaults.color = '#a1a1aa';
-        Chart.defaults.font.family = "'Inter', sans-serif";
-        Chart.defaults.scale.grid.color = 'rgba(39, 39, 42, 0.5)';
-        Chart.defaults.plugins.tooltip.backgroundColor = 'rgba(24, 24, 27, 0.9)';
-        Chart.defaults.plugins.tooltip.titleFont = { family: "'Outfit', sans-serif", size: 14 };
-        Chart.defaults.plugins.tooltip.padding = 12;
-        Chart.defaults.plugins.tooltip.cornerRadius = 8;
-        Chart.defaults.plugins.tooltip.displayColors = false;
-
         const getCSSVar = (name) => getComputedStyle(document.documentElement).getPropertyValue(name).trim();
 
-        const color1 = getCSSVar('--chart-color-1') || '#818cf8';
-        const color2 = getCSSVar('--chart-color-2') || '#6366f1';
-        const color3 = getCSSVar('--chart-color-3') || '#4f46e5';
-        const color4 = getCSSVar('--chart-color-4') || '#4338ca';
-        const color5 = getCSSVar('--chart-color-5') || '#3730a3';
-        
-        const palette = [color1, color2, color3, color4, color5];
+        const palette = [
+            getCSSVar('--chart-color-1') || '#2dd4bf', // Teal 400
+            getCSSVar('--chart-color-2') || '#0d9488', // Teal 600
+            getCSSVar('--chart-color-3') || '#8b5cf6', // Violet 500
+            getCSSVar('--chart-color-4') || '#6d28d9', // Violet 700
+            getCSSVar('--chart-color-5') || '#4c1d95'  // Violet 900
+        ];
 
-        renderTimeline(data, color3);
-        renderLandscape(data, palette);
-        renderKeywords(data, color1, color4);
-        renderImpactTable(data);
-        
-        // Advanced Modules
+        // Ensure Modal functionality
+        setupModal();
+
+        // Render the 4 requested modules
+        renderImpactNetwork(data, palette);
         renderCoOccurrenceNetwork(data, palette);
         renderTopicStreamgraph(data, palette);
         renderCitationMap(data, palette);
@@ -40,258 +29,171 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 });
 
-// 1. Timeline of Discourse (Bar Chart)
-function renderTimeline(data, mainColor) {
-    const countsByYear = {};
-    data.forEach(d => {
-        if (d.pub_year) {
-            countsByYear[d.pub_year] = (countsByYear[d.pub_year] || 0) + 1;
-        }
-    });
+// Modal Setup
+const modal = document.getElementById("abstractModal");
+const spanClose = document.getElementsByClassName("close-modal")[0];
 
-    const years = Object.keys(countsByYear).sort();
-    const counts = years.map(y => countsByYear[y]);
-
-    const ctx = document.getElementById('timelineChart').getContext('2d');
-    new Chart(ctx, {
-        type: 'bar',
-        data: {
-            labels: years,
-            datasets: [{
-                label: '발행 논문 수',
-                data: counts,
-                backgroundColor: mainColor,
-                borderRadius: 4,
-                barThickness: 'flex',
-                maxBarThickness: 40
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: {
-                legend: { display: false }
-            },
-            scales: {
-                y: {
-                    beginAtZero: true,
-                    ticks: { stepSize: 1, precision: 0 },
-                    grid: { drawBorder: false }
-                },
-                x: {
-                    grid: { display: false, drawBorder: false }
-                }
-            }
-        }
-    });
+function setupModal() {
+    spanClose.onclick = function() { modal.style.display = "none"; }
+    window.onclick = function(event) {
+        if (event.target == modal) { modal.style.display = "none"; }
+    }
 }
 
-// 2. Disciplinary Landscape (Doughnut Chart)
-function renderLandscape(data, palette) {
-    const countsByTheme = {};
-    const binTheme = (subject) => {
-        if (!subject) return '신학·기타';
-        if (['철학', '서양철학', '기타철학일반'].includes(subject)) return '철학 계열';
-        if (['기타인문학', '한국어와문학', '영어와문학', '독일어와문학', '중국어와문학', '문학', '기타예술일반'].includes(subject)) return '인문학 계열';
-        if (['학제간연구', '교육학', '사회학', '신문방송학', '여성학', '정치외교학', '기타사회과학일반', '정치사회/문화'].includes(subject)) return '학제간·사회과학';
-        if (['디자인', '디자인일반', '실내환경디자인', '뉴미디어', '영상문학', '영화', '미술', '미술이론', '미술사', '사진', '기타예술체육', '기타체육', '감성문화/사회'].includes(subject)) return '예술·미디어';
-        if (['기독교신학'].includes(subject)) return '신학·기타';
-        return '신학·기타';
-    };
-
-    data.forEach(d => {
-        const theme = binTheme(d.subject);
-        countsByTheme[theme] = (countsByTheme[theme] || 0) + 1;
-    });
-
-    const themes = Object.keys(countsByTheme).sort((a,b) => countsByTheme[b] - countsByTheme[a]);
-    const counts = themes.map(t => countsByTheme[t]);
-
-    const ctx = document.getElementById('landscapeChart').getContext('2d');
-    new Chart(ctx, {
-        type: 'doughnut',
-        data: {
-            labels: themes,
-            datasets: [{
-                data: counts,
-                backgroundColor: palette.slice(0, themes.length),
-                borderWidth: 0,
-                hoverOffset: 4
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            cutout: '75%',
-            plugins: {
-                legend: {
-                    position: 'right',
-                    labels: {
-                        color: '#fafafa',
-                        font: { family: "'Outfit', sans-serif", size: 13 },
-                        usePointStyle: true,
-                        pointStyle: 'circle',
-                        padding: 20
-                    }
-                }
-            }
-        }
-    });
+function openModal(title, authorsStr, year, abstract) {
+    document.getElementById("modalTitle").innerText = title;
+    document.getElementById("modalAuthorYear").innerText = `${authorsStr} (${year})`;
+    document.getElementById("modalAbstract").innerText = abstract || "제공된 초록이 없습니다.";
+    modal.style.display = "block";
 }
 
-// 3. Keyword Network (Bubble Chart)
-function renderKeywords(data, colorLight, colorDark) {
-    const kwCounts = {};
-    data.forEach(d => {
-        if (d.keywords_ko && Array.isArray(d.keywords_ko)) {
-            d.keywords_ko.forEach(k => {
-                const keyword = k.trim();
-                // Skip weird keywords like "<아" which originated from KCI formatting
-                if(keyword && !keyword.startsWith("<")) {
-                    kwCounts[keyword] = (kwCounts[keyword] || 0) + 1;
+// --------------------------------------------------------
+// Module 1: Impact Milestones (Network)
+// "고인용 논문을 중심으로 뻗어나가는 파생 키워드 네트워크 (노드 클릭 시 초록 확인)"
+// --------------------------------------------------------
+function renderImpactNetwork(data, palette) {
+    const container = d3.select("#impactContainer");
+    container.html(""); // clear
+    const width = container.node().getBoundingClientRect().width;
+    const height = 400;
+
+    // 1. Get Top 20 Highly Cited Papers
+    const topPapers = [...data].sort((a, b) => b.citations - a.citations).slice(0, 15);
+    
+    const nodesMap = new Map();
+    const linksMap = new Map();
+
+    topPapers.forEach(p => {
+        const pId = "PAPER_" + p.id;
+        nodesMap.set(pId, { 
+            id: pId, 
+            type: 'paper', 
+            title: p.title, 
+            authors: (p.authors || []).map(a=>a.name).join(', '),
+            year: p.pub_year,
+            abstract: p.abstract,
+            citations: p.citations,
+            degree: 0 
+        });
+
+        if (p.keywords_ko) {
+            p.keywords_ko.forEach(k => {
+                const kw = k.trim();
+                if (!kw || kw.startsWith("<")) return;
+                const kId = "KW_" + kw;
+                if (!nodesMap.has(kId)) {
+                    nodesMap.set(kId, { id: kId, type: 'keyword', label: kw, degree: 0 });
                 }
+                const linkKey = pId + "::" + kId;
+                linksMap.set(linkKey, { source: pId, target: kId, value: 1 });
             });
         }
     });
 
-    const sortedKws = Object.entries(kwCounts)
-        .filter(entry => entry[1] > 1)
-        .sort((a, b) => b[1] - a[1])
-        .slice(0, 25);
-
-    const bubbleData = sortedKws.map((entry, index) => {
-        const freq = entry[1];
-        return {
-            x: index + 1, // 순위
-            y: freq,      // 출현 빈도
-            r: Math.max(8, freq * 3), // 크기 조정
-            keyword: entry[0]
-        };
+    const links = Array.from(linksMap.values());
+    links.forEach(l => {
+        nodesMap.get(l.source).degree += 1;
+        nodesMap.get(l.target).degree += 1;
     });
 
-    const ctx = document.getElementById('keywordChart').getContext('2d');
-    new Chart(ctx, {
-        type: 'bubble',
-        data: {
-            datasets: [{
-                label: 'Keywords',
-                data: bubbleData,
-                backgroundColor: colorLight,
-                borderColor: colorDark,
-                borderWidth: 1.5,
-                hoverBackgroundColor: colorDark,
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: {
-                legend: { display: false },
-                tooltip: {
-                    callbacks: {
-                        title: (items) => {
-                            return items[0].raw.keyword;
-                        },
-                        label: (item) => {
-                            return `빈도: ${item.raw.y}회 (순위: ${item.raw.x}위)`;
-                        }
-                    }
-                }
-            },
-            scales: {
-                x: {
-                    title: { display: true, text: '키워드 빈도 순위 (Rank)', color: '#52525b' },
-                    grid: { display: false },
-                    ticks: {
-                        stepSize: 1,
-                        callback: function(value) { return value + '위'; }
-                    }
-                },
-                y: {
-                    title: { display: true, text: '출현 빈도 (Frequency)', color: '#52525b' },
-                    beginAtZero: true,
-                    grid: { drawBorder: false },
-                    ticks: {
-                        stepSize: 1,
-                        precision: 0
-                    }
-                }
-            }
-        }
-    });
-}
+    // Remove isolated keywords
+    const nodeArray = Array.from(nodesMap.values()).filter(n => n.type === 'paper' || n.degree >= 2);
+    const validIds = new Set(nodeArray.map(n => n.id));
+    const finalLinks = links.filter(l => validIds.has(l.source) && validIds.has(l.target));
 
-// 4. Impact Milestones (Data Table)
-function renderImpactTable(data) {
-    const sorted = [...data].sort((a, b) => {
-        if (b.citations === a.citations) {
-            return (b.pub_year || 0) - (a.pub_year || 0);
-        }
-        return b.citations - a.citations;
-    });
-
-    const top10 = sorted.slice(0, 10);
-    const tbody = document.querySelector('#impactTable tbody');
-
-    const htmlString = top10.map(d => {
-        const authorStr = d.authors && d.authors.length > 0 ? d.authors.map(a => a.name).join(', ') : '-';
-        return `
-        <tr>
-            <td class="td-year">${d.pub_year ? d.pub_year : '-'}</td>
-            <td class="td-title" title="${d.title ? d.title.replace(/"/g, '&quot;') : ''}">${d.title}</td>
-            <td class="td-author">${authorStr}</td>
-            <td>${d.journal || '-'}</td>
-            <td class="td-citations">${d.citations}</td>
-        </tr>
-    `;
-    }).join('');
+    const svg = container.append("svg").attr("viewBox", [0, 0, width, height]);
+    const g = svg.append("g");
     
-    tbody.innerHTML = htmlString;
+    svg.call(d3.zoom().scaleExtent([0.5, 3]).on("zoom", (e) => g.attr("transform", e.transform)));
+
+    const simulation = d3.forceSimulation(nodeArray)
+        .force("link", d3.forceLink(finalLinks).id(d => d.id).distance(60))
+        .force("charge", d3.forceManyBody().strength(-150))
+        .force("center", d3.forceCenter(width / 2, height / 2))
+        .force("collide", d3.forceCollide().radius(d => d.type === 'paper' ? (d.citations/2 + 10) : 6));
+
+    const link = g.append("g")
+        .selectAll("line")
+        .data(finalLinks)
+        .join("line")
+        .attr("stroke", "#52525b")
+        .attr("stroke-opacity", 0.4)
+        .attr("stroke-width", 1);
+
+    const node = g.append("g")
+        .selectAll("circle")
+        .data(nodeArray)
+        .join("circle")
+        .attr("r", d => d.type === 'paper' ? Math.max(8, Math.min(30, Math.sqrt(d.citations)*3 + 5)) : 4)
+        .attr("fill", d => d.type === 'paper' ? palette[2] : palette[0])
+        .attr("stroke", "var(--bg-card)")
+        .attr("stroke-width", 1.5)
+        .style("cursor", d => d.type === 'paper' ? 'pointer' : 'default')
+        .call(drag(simulation))
+        .on("click", (event, d) => {
+            if(d.type === 'paper') {
+                openModal(d.title, d.authors, d.year, d.abstract);
+            }
+        });
+
+    node.append("title")
+        .text(d => d.type === 'paper' ? `${d.title}\n인용수: ${d.citations}` : d.label);
+
+    const label = g.append("g")
+        .selectAll("text")
+        .data(nodeArray)
+        .join("text")
+        .text(d => d.type === 'paper' ? '' : d.label)
+        .attr("font-size", "9px")
+        .attr("fill", "var(--text-secondary)")
+        .attr("dx", 6)
+        .attr("dy", 3)
+        .style("pointer-events", "none");
+
+    simulation.on("tick", () => {
+        link.attr("x1", d => d.source.x).attr("y1", d => d.source.y)
+            .attr("x2", d => d.target.x).attr("y2", d => d.target.y);
+        node.attr("cx", d => d.x).attr("cy", d => d.y);
+        label.attr("x", d => d.x).attr("y", d => d.y);
+    });
 }
 
-// 5. Co-occurrence Network (D3 Force Directed Graph)
+// --------------------------------------------------------
+// Module 2: Co-occurrence Network
+// "개념 간 상관관계 및 군집 시각화 (선 굵기: 연관성 강도, 기호: 군집)"
+// --------------------------------------------------------
 function renderCoOccurrenceNetwork(data, palette) {
     const container = d3.select("#networkContainer");
+    container.html("");
     const width = container.node().getBoundingClientRect().width;
     const height = 400;
 
     const linksMap = new Map();
     const nodes = {};
 
-    // Generate co-occurrence links (O(N) with Map)
     data.forEach(d => {
         if (d.keywords_ko && d.keywords_ko.length > 1) {
             const kws = d.keywords_ko.filter(k => k.trim() && !k.trim().startsWith("<"));
             for (let i = 0; i < kws.length; i++) {
                 for (let j = i + 1; j < kws.length; j++) {
-                    // Sort to ensure undirected key is consistent
                     const [source, target] = kws[i] < kws[j] ? [kws[i], kws[j]] : [kws[j], kws[i]];
                     const key = `${source}::${target}`;
-                    if (linksMap.has(key)) {
-                        linksMap.get(key).value++;
-                    } else {
-                        linksMap.set(key, { source, target, value: 1 });
-                    }
+                    if (linksMap.has(key)) linksMap.get(key).value++;
+                    else linksMap.set(key, { source, target, value: 1 });
                 }
             }
         }
     });
 
     const links = Array.from(linksMap.values());
-
-    // Filter top links to avoid clutter
-    const topLinks = links.sort((a,b) => b.value - a.value).slice(0, 80);
+    const topLinks = links.sort((a,b) => b.value - a.value).slice(0, 100);
     
-    // Adjacency list for fast neighbor lookups
     const adjList = {};
-
     topLinks.forEach(l => {
         if (!nodes[l.source]) nodes[l.source] = { id: l.source, degree: 0, group: l.source };
         if (!nodes[l.target]) nodes[l.target] = { id: l.target, degree: 0, group: l.target };
         nodes[l.source].degree += l.value;
         nodes[l.target].degree += l.value;
-        
-        // Build adjacency list
         if (!adjList[l.source]) adjList[l.source] = [];
         if (!adjList[l.target]) adjList[l.target] = [];
         adjList[l.source].push(l.target);
@@ -300,13 +202,12 @@ function renderCoOccurrenceNetwork(data, palette) {
 
     const nodeArray = Object.values(nodes);
 
-    // Optimized Basic Community Detection (Label Propagation)
-    for (let i = 0; i < 5; i++) { // 5 iterations for convergence
+    // Community Detection (Label Propagation)
+    for (let i = 0; i < 8; i++) {
         nodeArray.forEach(n => {
             const neighborIds = adjList[n.id] || [];
             if (neighborIds.length > 0) {
-                const neighborGroups = neighborIds.map(neighborId => nodes[neighborId].group);
-                // Pick most frequent group among neighbors
+                const neighborGroups = neighborIds.map(nId => nodes[nId].group);
                 const counts = {};
                 neighborGroups.forEach(g => counts[g] = (counts[g] || 0) + 1);
                 n.group = Object.keys(counts).reduce((a, b) => counts[a] > counts[b] ? a : b);
@@ -314,98 +215,76 @@ function renderCoOccurrenceNetwork(data, palette) {
         });
     }
 
+    // Map communities to 0-4 for symbols
+    const uniqueGroups = [...new Set(nodeArray.map(n => n.group))];
+    nodeArray.forEach(n => n.clusterIdx = uniqueGroups.indexOf(n.group) % 5);
+
     const svg = container.append("svg").attr("viewBox", [0, 0, width, height]);
-
-    // Color scale for Communities (Modularity)
-    const communityColorScale = d3.scaleOrdinal(d3.schemeTableau10);
-
-    // Color scale for "Hot/Cold" links
-    const linkColorScale = d3.scaleSequential(d3.interpolateInferno) 
-        .domain([0, d3.max(topLinks, d => d.value)]);
+    const g = svg.append("g");
+    svg.call(d3.zoom().scaleExtent([0.5, 4]).on("zoom", (e) => g.attr("transform", e.transform)));
 
     const simulation = d3.forceSimulation(nodeArray)
         .force("link", d3.forceLink(topLinks).id(d => d.id).distance(80))
         .force("charge", d3.forceManyBody().strength(-200))
         .force("center", d3.forceCenter(width / 2, height / 2));
 
-    const link = svg.append("g")
+    const link = g.append("g")
         .selectAll("line")
         .data(topLinks)
         .join("line")
-        .attr("class", "link")
-        .attr("stroke", d => linkColorScale(d.value))
-        .attr("stroke-opacity", 0.4) // Reduced opacity for clarity
-        .attr("stroke-width", d => Math.sqrt(d.value) * 1.5 + 0.5);
+        .attr("stroke", "var(--text-secondary)")
+        .attr("stroke-opacity", 0.5)
+        .attr("stroke-width", d => Math.max(1, d.value * 0.8)); // Thickness = Correlation Strength
 
-    const node = svg.append("g")
-        .selectAll("circle")
+    // D3 Symbols for Clusters
+    const symbolTypes = [d3.symbolCircle, d3.symbolSquare, d3.symbolTriangle, d3.symbolDiamond, d3.symbolStar];
+    
+    const node = g.append("g")
+        .selectAll("path")
         .data(nodeArray)
-        .join("circle")
-        .attr("class", "node")
-        .attr("r", d => Math.sqrt(d.degree) * 2 + 4) // Degree-based sizing
-        .attr("fill", d => communityColorScale(d.group))
+        .join("path")
+        .attr("d", d => d3.symbol().type(symbolTypes[d.clusterIdx]).size(Math.max(100, d.degree * 25))())
+        .attr("fill", d => palette[d.clusterIdx])
+        .attr("stroke", "var(--bg-card)")
+        .attr("stroke-width", 1.5)
         .call(drag(simulation));
 
-    node.append("title").text(d => d.id);
+    node.append("title").text(d => `키워드: ${d.id}\n군집: ${d.clusterIdx+1}`);
 
-    const label = svg.append("g")
+    const label = g.append("g")
         .selectAll("text")
-        .data(nodeArray.filter(d => d.degree > 2)) // Only show labels for core nodes
+        .data(nodeArray.filter(d => d.degree > 2))
         .join("text")
-        .attr("class", "label")
-        .attr("dx", 10)
-        .attr("dy", ".35em")
-        .text(d => d.id);
+        .attr("dx", 12)
+        .attr("dy", 4)
+        .attr("font-size", "11px")
+        .attr("fill", "var(--text-primary)")
+        .text(d => d.id)
+        .style("pointer-events", "none");
 
     simulation.on("tick", () => {
-        link.attr("x1", d => d.source.x)
-            .attr("y1", d => d.source.y)
-            .attr("x2", d => d.target.x)
-            .attr("y2", d => d.target.y);
-
-        node.attr("cx", d => d.x)
-            .attr("cy", d => d.y);
-
-        label.attr("x", d => d.x)
-             .attr("y", d => d.y);
+        link.attr("x1", d => d.source.x).attr("y1", d => d.source.y)
+            .attr("x2", d => d.target.x).attr("y2", d => d.target.y);
+        node.attr("transform", d => `translate(${d.x},${d.y})`);
+        label.attr("x", d => d.x).attr("y", d => d.y);
     });
-
-    function drag(simulation) {
-        function started(event) {
-            if (!event.active) simulation.alphaTarget(0.3).restart();
-            event.subject.fx = event.subject.x;
-            event.subject.fy = event.subject.y;
-        }
-        function dragged(event) {
-            event.subject.fx = event.x;
-            event.subject.fy = event.y;
-        }
-        function ended(event) {
-            if (!event.active) simulation.alphaTarget(0);
-            event.subject.fx = null;
-            event.subject.fy = null;
-        }
-        return d3.drag().on("start", started).on("drag", dragged).on("end", ended);
-    }
 }
 
-// 6. Topic Streamgraph (Simulated LDA Trends)
+// --------------------------------------------------------
+// Module 3: Topic Streamgraph
+// "시기별 주제 흐름 (주요 담론의 시계열적 변화)"
+// --------------------------------------------------------
 function renderTopicStreamgraph(data, palette) {
     const container = d3.select("#streamContainer");
+    container.html("");
     const width = container.node().getBoundingClientRect().width;
     const height = 350;
 
-    // Define topics based on keyword clusters
     const topics = ["개체화/생성", "기술철학/기계", "예술/미디어", "윤리/사회", "존재론/형이상학"];
-    
-    // Aggregate by year and simulated topic affinity in O(N)
-    const yearsSet = new Set();
     const yearDataMap = {};
 
     data.forEach(d => {
         if (!d.pub_year) return;
-        yearsSet.add(d.pub_year);
-        
         if (!yearDataMap[d.pub_year]) {
             yearDataMap[d.pub_year] = { year: d.pub_year };
             topics.forEach(t => yearDataMap[d.pub_year][t] = 0);
@@ -420,18 +299,27 @@ function renderTopicStreamgraph(data, palette) {
         else entry["존재론/형이상학"]++;
     });
 
-    const years = [...yearsSet].sort();
-    const streamData = years.map(y => yearDataMap[y]);
+    const years = Object.keys(yearDataMap).map(Number).sort();
+    if(years.length === 0) return;
+    
+    // Fill missing years for smooth curve
+    const minYear = years[0];
+    const maxYear = years[years.length-1];
+    for(let y = minYear; y <= maxYear; y++) {
+        if(!yearDataMap[y]) {
+            yearDataMap[y] = { year: y };
+            topics.forEach(t => yearDataMap[y][t] = 0);
+        }
+    }
+    const fullYears = Object.keys(yearDataMap).map(Number).sort();
+    const streamData = fullYears.map(y => yearDataMap[y]);
 
     const stack = d3.stack().keys(topics).offset(d3.stackOffsetWiggle);
     const layers = stack(streamData);
 
     const svg = container.append("svg").attr("viewBox", [0, 0, width, height]);
 
-    const x = d3.scaleLinear()
-        .domain(d3.extent(years))
-        .range([40, width - 40]);
-
+    const x = d3.scaleLinear().domain(d3.extent(fullYears)).range([40, width - 40]);
     const y = d3.scaleLinear()
         .domain([d3.min(layers, l => d3.min(l, d => d[0])), d3.max(layers, l => d3.max(l, d => d[1]))])
         .range([height - 40, 40]);
@@ -452,116 +340,59 @@ function renderTopicStreamgraph(data, palette) {
         .attr("opacity", 0.8)
         .style("transition", "opacity 0.2s ease");
 
-    paths.append("title")
-        .text((d, i) => topics[i]);
+    paths.append("title").text((d, i) => topics[i]);
 
-    // Add Direct Labels on the Streams (at the peak of each layer)
-    svg.append("g")
-        .selectAll("text")
-        .data(layers)
-        .join("text")
-        .attr("class", "stream-label")
-        .attr("x", d => {
-            // Find the index where the layer is thickest
-            let maxVal = -1;
-            let maxIdx = 0;
-            d.forEach((point, i) => {
-                const thickness = point[1] - point[0];
-                if (thickness > maxVal) {
-                    maxVal = thickness;
-                    maxIdx = i;
-                }
-            });
-            return x(d[maxIdx].data.year);
-        })
-        .attr("y", d => {
-            let maxVal = -1;
-            let maxIdx = 0;
-            d.forEach((point, i) => {
-                const thickness = point[1] - point[0];
-                if (thickness > maxVal) {
-                    maxVal = thickness;
-                    maxIdx = i;
-                }
-            });
-            return y((d[maxIdx][0] + d[maxIdx][1]) / 2);
-        })
-        .attr("fill", "#fff")
-        .style("font-size", "11px")
-        .style("font-weight", "600")
-        .style("text-shadow", "0 0 4px rgba(0,0,0,0.8)")
-        .style("pointer-events", "none")
-        .attr("text-anchor", "middle")
-        .text((d, i) => topics[i]);
-
-    // Add Year labels
     svg.append("g")
         .attr("transform", `translate(0,${height - 30})`)
-        .call(d3.axisBottom(x).ticks(years.length).tickFormat(d3.format("d")))
-        .attr("color", "#71717a");
+        .call(d3.axisBottom(x).ticks(Math.min(10, fullYears.length)).tickFormat(d3.format("d")))
+        .attr("color", "var(--text-secondary)");
 
-    // Add Legend (Index)
-    const legend = svg.append("g")
-        .attr("transform", `translate(40, 20)`);
-
+    const legend = svg.append("g").attr("transform", `translate(40, 20)`);
     topics.forEach((topic, i) => {
         const lg = legend.append("g")
-            .attr("class", "legend-item")
             .attr("transform", `translate(${i * (width/topics.length - 10)}, 0)`)
             .style("cursor", "pointer")
             .on("mouseover", () => {
-                d3.selectAll(".stream-path").attr("opacity", 0.2);
+                d3.selectAll(".stream-path").attr("opacity", 0.1);
                 d3.select(`.stream-${i}`).attr("opacity", 1);
             })
             .on("mouseout", () => {
                 d3.selectAll(".stream-path").attr("opacity", 0.8);
             });
-        
-        lg.append("rect")
-            .attr("width", 12)
-            .attr("height", 12)
-            .attr("rx", 2)
-            .attr("fill", palette[i % palette.length]);
-
-        lg.append("text")
-            .attr("x", 18)
-            .attr("y", 10)
-            .attr("fill", "#fafafa")
-            .style("font-size", "11px")
-            .text(topic);
+        lg.append("rect").attr("width", 12).attr("height", 12).attr("fill", palette[i]);
+        lg.append("text").attr("x", 18).attr("y", 10).attr("fill", "var(--text-primary)").style("font-size", "11px").text(topic);
     });
 }
 
-// 7. Citation Mapping (Author-Journal Network)
+// --------------------------------------------------------
+// Module 4: Citation Mapping
+// "연구자 및 학문 공동체 맵핑 (저자-학술지-담론 간의 네트워크 지형)"
+// --------------------------------------------------------
 function renderCitationMap(data, palette) {
     const container = d3.select("#citationContainer");
+    container.html("");
     const width = container.node().getBoundingClientRect().width;
     const height = 400;
 
     const linksMap = new Map();
     const nodes = {};
 
-    // 1. Data Aggregation & Degree Calculation (Optimized O(N))
     data.forEach(d => {
         if (d.authors && d.authors.length > 0 && d.journal) {
-            const author = d.authors[0].name.trim(); // use first author
+            const author = d.authors[0].name.trim(); 
             const journal = d.journal.trim();
-            
+            if(!author || !journal) return;
+
             if (!nodes[author]) nodes[author] = { id: author, type: 'author', degree: 0 };
             if (!nodes[journal]) nodes[journal] = { id: journal, type: 'journal', degree: 0 };
             
-            // Link aggregation for multiple papers by same author in same journal
             const key = `${author}::${journal}`;
-            if (linksMap.has(key)) {
-                linksMap.get(key).value++;
-            } else {
-                linksMap.set(key, { source: author, target: journal, value: 1 });
-            }
+            if (linksMap.has(key)) linksMap.get(key).value++;
+            else linksMap.set(key, { source: author, target: journal, value: 1 });
         }
     });
 
-    const links = Array.from(linksMap.values());
-
+    const links = Array.from(linksMap.values()).filter(l => l.value >= 1); // threshold if needed
     links.forEach(l => {
         nodes[l.source].degree += l.value;
         nodes[l.target].degree += l.value;
@@ -569,96 +400,58 @@ function renderCitationMap(data, palette) {
 
     const nodeArray = Object.values(nodes);
     
-    // Clear previous content if any
-    container.html("");
-    
     const svg = container.append("svg").attr("viewBox", [0, 0, width, height]);
     const g = svg.append("g");
+    svg.call(d3.zoom().scaleExtent([0.2, 4]).on("zoom", (e) => g.attr("transform", e.transform)));
 
-    // 2. Zoom and Pan Functionality
-    const zoom = d3.zoom()
-        .scaleExtent([0.2, 4])
-        .on("zoom", (event) => {
-            g.attr("transform", event.transform);
-        });
-    svg.call(zoom);
-
-    // 3. Force Simulation with optimized parameters
     const simulation = d3.forceSimulation(nodeArray)
         .force("link", d3.forceLink(links).id(d => d.id).distance(80))
-        .force("charge", d3.forceManyBody().strength(-120))
-        .force("center", d3.forceCenter(width / 2, height / 2))
-        .force("collide", d3.forceCollide().radius(d => (d.type === 'journal' ? Math.sqrt(d.degree)*5+5 : Math.sqrt(d.degree)*3+3) + 2));
+        .force("charge", d3.forceManyBody().strength(-150))
+        .force("center", d3.forceCenter(width / 2, height / 2));
 
-    // 4. Render Links (opacity based on value)
     const link = g.append("g")
         .selectAll("line")
         .data(links)
         .join("line")
-        .attr("class", "link")
         .attr("stroke-width", d => Math.max(1, Math.sqrt(d.value)))
         .attr("stroke-opacity", 0.3)
-        .attr("stroke", "#52525b");
+        .attr("stroke", "var(--text-secondary)");
 
-    // 5. Render Nodes (Size based on degree)
     const node = g.append("g")
-        .selectAll("circle")
+        .selectAll("path")
         .data(nodeArray)
-        .join("circle")
-        .attr("class", "node")
-        // Journals are larger than authors for the same degree
-        .attr("r", d => d.type === 'journal' ? Math.max(8, Math.sqrt(d.degree) * 4) : Math.max(4, Math.sqrt(d.degree) * 2.5))
+        .join("path")
+        // author: circle, journal: square
+        .attr("d", d => d3.symbol().type(d.type === 'journal' ? d3.symbolSquare : d3.symbolCircle).size(d.type === 'journal' ? Math.max(100, d.degree * 30) : Math.max(40, d.degree * 20))())
         .attr("fill", d => d.type === 'journal' ? palette[1] : palette[4])
         .attr("stroke", "var(--bg-card)")
         .attr("stroke-width", 1.5)
         .call(drag(simulation));
 
-    node.append("title").text(d => `${d.id} (${d.type === 'journal' ? '학술지' : '저자'}, 연결: ${d.degree})`);
+    node.append("title").text(d => `${d.id} (${d.type === 'journal' ? '학술지' : '저자'}, 출판수: ${d.degree})`);
 
-    // 6. Render Labels (Only for journals or highly connected authors to prevent clutter)
     const label = g.append("g")
         .selectAll("text")
         .data(nodeArray.filter(d => d.type === 'journal' || d.degree > 2))
         .join("text")
-        .attr("class", "label")
-        .attr("dx", d => (d.type === 'journal' ? Math.max(8, Math.sqrt(d.degree) * 4) : Math.max(4, Math.sqrt(d.degree) * 2.5)) + 6)
-        .attr("dy", ".35em")
+        .attr("dx", d => d.type === 'journal' ? 10 : 8)
+        .attr("dy", 4)
         .text(d => d.id)
-        .style("fill", d => d.type === 'journal' ? "#f4f4f5" : "#a1a1aa")
-        .style("font-weight", d => d.type === 'journal' ? "600" : "400")
+        .style("fill", d => d.type === 'journal' ? "var(--text-primary)" : "var(--text-secondary)")
         .style("font-size", d => d.type === 'journal' ? "12px" : "10px")
-        .style("pointer-events", "none")
-        .style("text-shadow", "0 1px 3px rgba(0,0,0,0.8)");
+        .style("pointer-events", "none");
 
     simulation.on("tick", () => {
-        link.attr("x1", d => d.source.x)
-            .attr("y1", d => d.source.y)
-            .attr("x2", d => d.target.x)
-            .attr("y2", d => d.target.y);
-
-        node.attr("cx", d => d.x)
-            .attr("cy", d => d.y);
-            
-        label.attr("x", d => d.x)
-             .attr("y", d => d.y);
+        link.attr("x1", d => d.source.x).attr("y1", d => d.source.y)
+            .attr("x2", d => d.target.x).attr("y2", d => d.target.y);
+        node.attr("transform", d => `translate(${d.x},${d.y})`);
+        label.attr("x", d => d.x).attr("y", d => d.y);
     });
+}
 
-    // Drag behavior helper
-    function drag(simulation) {
-        function started(event) {
-            if (!event.active) simulation.alphaTarget(0.3).restart();
-            event.subject.fx = event.subject.x;
-            event.subject.fy = event.subject.y;
-        }
-        function dragged(event) {
-            event.subject.fx = event.x;
-            event.subject.fy = event.y;
-        }
-        function ended(event) {
-            if (!event.active) simulation.alphaTarget(0);
-            event.subject.fx = null;
-            event.subject.fy = null;
-        }
-        return d3.drag().on("start", started).on("drag", dragged).on("end", ended);
-    }
+function drag(simulation) {
+    function started(e) { if (!e.active) simulation.alphaTarget(0.3).restart(); e.subject.fx = e.subject.x; e.subject.fy = e.subject.y; }
+    function dragged(e) { e.subject.fx = e.x; e.subject.fy = e.y; }
+    function ended(e) { if (!e.active) simulation.alphaTarget(0); e.subject.fx = null; e.subject.fy = null; }
+    return d3.drag().on("start", started).on("drag", dragged).on("end", ended);
 }
