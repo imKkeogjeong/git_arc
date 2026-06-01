@@ -251,3 +251,65 @@ th.citations-col { text-align: right; }
 #modalAbstract::-webkit-scrollbar-track { background: var(--bg-card); }
 #modalAbstract::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
 
+
+/* Streamgraph Premium Styles */
+.sg-tooltip {
+  position: absolute;
+  background: rgba(24, 24, 27, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 12px 16px;
+  border-radius: 12px;
+  pointer-events: none;
+  color: #fff;
+  font-family: inherit;
+  font-size: 0.85rem;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  z-index: 1000;
+  opacity: 0;
+  transition: opacity 0.2s ease, transform 0.1s ease;
+  min-width: 180px;
+}
+
+.sg-tooltip h4 {
+  margin: 0 0 8px 0;
+  font-size: 1.1rem;
+  color: var(--text-primary);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  padding-bottom: 4px;
+}
+
+.sg-tooltip-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 4px;
+  opacity: 0.7;
+  transition: opacity 0.2s;
+}
+
+.sg-tooltip-row.active {
+  opacity: 1;
+  font-weight: 600;
+}
+
+.sg-color-dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 8px;
+}
+
+.sg-count {
+  font-family: monospace;
+  font-size: 0.9rem;
+}
+
+.sg-crosshair {
+  stroke: rgba(255, 255, 255, 0.3);
+  stroke-width: 1px;
+  stroke-dasharray: 4 4;
+  pointer-events: none;
+}
