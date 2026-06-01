@@ -284,7 +284,9 @@ function renderTopicStreamgraph(data, palette) {
     const yearDataMap = {};
 
     data.forEach(d => {
-        if (!d.pub_year) return;
+        // Filter out corrupted years (e.g. 186000)
+        if (!d.pub_year || d.pub_year < 1900 || d.pub_year > 2100) return;
+        
         if (!yearDataMap[d.pub_year]) {
             yearDataMap[d.pub_year] = { year: d.pub_year };
             topics.forEach(t => yearDataMap[d.pub_year][t] = 0);
@@ -294,7 +296,7 @@ function renderTopicStreamgraph(data, palette) {
         const kws = (d.keywords_ko || []).join(" ");
         if (kws.includes("개체") || kws.includes("생성")) entry["개체화/생성"]++;
         else if (kws.includes("기술") || kws.includes("기계")) entry["기술철학/기계"]++;
-        else if (kws.includes("예술") || kws.includes("미술")) entry["예술/미디어"]++;
+        else if (kws.includes("예술") || kws.includes("미디어") || kws.includes("미술")) entry["예술/미디어"]++;
         else if (kws.includes("윤리") || kws.includes("사회")) entry["윤리/사회"]++;
         else entry["존재론/형이상학"]++;
     });
@@ -324,40 +326,96 @@ function renderTopicStreamgraph(data, palette) {
         .domain([d3.min(layers, l => d3.min(l, d => d[0])), d3.max(layers, l => d3.max(l, d => d[1]))])
         .range([height - 40, 40]);
 
+    // Clip path to prevent drawing outside bounds when panning/zooming
+    svg.append("defs").append("clipPath")
+        .attr("id", "stream-clip")
+        .append("rect")
+        .attr("x", 40)
+        .attr("y", 0)
+        .attr("width", width - 80)
+        .attr("height", height - 30);
+
+    // Invisible rect to capture zoom/pan events over the entire SVG area
+    svg.append("rect")
+        .attr("width", width)
+        .attr("height", height)
+        .attr("fill", "transparent")
+        .style("pointer-events", "all");
+
     const area = d3.area()
         .x(d => x(d.data.year))
         .y0(d => y(d[0]))
         .y1(d => y(d[1]))
         .curve(d3.curveBasis);
 
-    const paths = svg.append("g")
-        .selectAll("path")
+    const chartGroup = svg.append("g").attr("clip-path", "url(#stream-clip)");
+
+    const paths = chartGroup.selectAll("path")
         .data(layers)
         .join("path")
         .attr("class", (d, i) => `stream-path stream-${i}`)
         .attr("d", area)
         .attr("fill", (d, i) => palette[i % palette.length])
         .attr("opacity", 0.8)
-        .style("transition", "opacity 0.2s ease");
+        .style("transition", "all 0.2s ease")
+        .on("mouseover", function(event, d) {
+            const i = layers.indexOf(d);
+            // Highlight current path, outline it
+            d3.selectAll(".stream-path").attr("opacity", 0.2).attr("stroke", "none");
+            d3.select(this).attr("opacity", 1).attr("stroke", "var(--text-primary)").attr("stroke-width", 1.5);
+            // Highlight legend
+            d3.selectAll(".legend-item").attr("opacity", 0.4);
+            d3.select(`.legend-item-${i}`).attr("opacity", 1);
+        })
+        .on("mouseout", function() {
+            d3.selectAll(".stream-path").attr("opacity", 0.8).attr("stroke", "none");
+            d3.selectAll(".legend-item").attr("opacity", 1);
+        });
 
     paths.append("title").text((d, i) => topics[i]);
 
-    svg.append("g")
+    const xAxisGroup = svg.append("g")
         .attr("transform", `translate(0,${height - 30})`)
-        .call(d3.axisBottom(x).ticks(Math.min(10, fullYears.length)).tickFormat(d3.format("d")))
         .attr("color", "var(--text-secondary)");
+
+    const xAxis = d3.axisBottom(x).ticks(Math.min(10, fullYears.length)).tickFormat(d3.format("d"));
+    xAxisGroup.call(xAxis);
+
+    // Zoom and Pan behavior
+    const zoom = d3.zoom()
+        .scaleExtent([1, 10])
+        .translateExtent([[0, 0], [Math.max(width, 400), height]])
+        .extent([[40, 0], [Math.max(width, 400) - 40, height]])
+        .on("zoom", (event) => {
+            const newX = event.transform.rescaleX(x);
+            area.x(d => newX(d.data.year));
+            paths.attr("d", area);
+            xAxisGroup.call(xAxis.scale(newX));
+        });
+
+    svg.call(zoom);
+
+    // Add cursor style for grabbing
+    svg.style("cursor", "grab");
+    svg.on("mousedown", () => svg.style("cursor", "grabbing"));
+    svg.on("mouseup", () => svg.style("cursor", "grab"));
 
     const legend = svg.append("g").attr("transform", `translate(40, 20)`);
     topics.forEach((topic, i) => {
         const lg = legend.append("g")
+            .attr("class", `legend-item legend-item-${i}`)
             .attr("transform", `translate(${i * (width/topics.length - 10)}, 0)`)
             .style("cursor", "pointer")
+            .style("transition", "opacity 0.2s ease")
             .on("mouseover", () => {
-                d3.selectAll(".stream-path").attr("opacity", 0.1);
-                d3.select(`.stream-${i}`).attr("opacity", 1);
+                d3.selectAll(".stream-path").attr("opacity", 0.2).attr("stroke", "none");
+                d3.select(`.stream-${i}`).attr("opacity", 1).attr("stroke", "var(--text-primary)").attr("stroke-width", 1.5);
+                d3.selectAll(".legend-item").attr("opacity", 0.4);
+                d3.select(`.legend-item-${i}`).attr("opacity", 1);
             })
             .on("mouseout", () => {
-                d3.selectAll(".stream-path").attr("opacity", 0.8);
+                d3.selectAll(".stream-path").attr("opacity", 0.8).attr("stroke", "none");
+                d3.selectAll(".legend-item").attr("opacity", 1);
             });
         lg.append("rect").attr("width", 12).attr("height", 12).attr("fill", palette[i]);
         lg.append("text").attr("x", 18).attr("y", 10).attr("fill", "var(--text-primary)").style("font-size", "11px").text(topic);
